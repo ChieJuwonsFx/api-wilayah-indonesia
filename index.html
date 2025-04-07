@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Form Alamat</title>
+  <style>
+    body { font-family: sans-serif; padding: 2rem; }
+    select { margin-bottom: 1rem; padding: 0.5rem; width: 100%; }
+  </style>
+</head>
+<body>
+
+  <h2>Pilih Alamat Lengkap</h2>
+
+  <label for="provinsi">Provinsi:</label>
+  <select id="provinsi"><option value="">Pilih Provinsi</option></select>
+
+  <label for="kabupaten">Kabupaten/Kota:</label>
+  <select id="kabupaten" disabled><option value="">Pilih Kabupaten</option></select>
+
+  <label for="kecamatan">Kecamatan:</label>
+  <select id="kecamatan" disabled><option value="">Pilih Kecamatan</option></select>
+
+  <label for="desa">Desa:</label>
+  <select id="desa" disabled><option value="">Pilih Desa</option></select>
+
+  <script>
+    const BASE_URL = 'https://github.com/ChieJuwonsFx/api-wilayah-indonesia'; // ganti dengan URL API kamu
+
+    const provinsiSelect = document.getElementById('provinsi');
+    const kabupatenSelect = document.getElementById('kabupaten');
+    const kecamatanSelect = document.getElementById('kecamatan');
+    const desaSelect = document.getElementById('desa');
+
+    // Helper: Set options
+    const populateSelect = (selectElem, items, placeholder) => {
+      selectElem.innerHTML = `<option value="">${placeholder}</option>`;
+      items.forEach(item => {
+        const opt = document.createElement('option');
+        opt.value = item.id;
+        opt.textContent = item.nama;
+        selectElem.appendChild(opt);
+      });
+      selectElem.disabled = false;
+    };
+
+    // Load provinsi on page load
+    fetch(`${BASE_URL}/provinces`)
+      .then(res => res.json())
+      .then(data => populateSelect(provinsiSelect, data, 'Pilih Provinsi'));
+
+    // Event Provinsi → Kabupaten
+    provinsiSelect.addEventListener('change', function () {
+      const provId = this.value;
+      kabupatenSelect.disabled = true;
+      kecamatanSelect.disabled = true;
+      desaSelect.disabled = true;
+
+      if (!provId) return;
+      fetch(`${BASE_URL}/cities?prov_id=${provId}`)
+        .then(res => res.json())
+        .then(data => populateSelect(kabupatenSelect, data, 'Pilih Kabupaten/Kota'));
+    });
+
+    // Event Kabupaten → Kecamatan
+    kabupatenSelect.addEventListener('change', function () {
+      const kabId = this.value;
+      kecamatanSelect.disabled = true;
+      desaSelect.disabled = true;
+
+      if (!kabId) return;
+      fetch(`${BASE_URL}/districts?kab_id=${kabId}`)
+        .then(res => res.json())
+        .then(data => populateSelect(kecamatanSelect, data, 'Pilih Kecamatan'));
+    });
+
+    // Event Kecamatan → Desa
+    kecamatanSelect.addEventListener('change', function () {
+      const kecId = this.value;
+      desaSelect.disabled = true;
+
+      if (!kecId) return;
+      fetch(`${BASE_URL}/villages?kec_id=${kecId}`)
+        .then(res => res.json())
+        .then(data => populateSelect(desaSelect, data, 'Pilih Desa'));
+    });
+  </script>
+
+</body>
+</html>
