@@ -1,2096 +1,2617 @@
 {
   "province": {
     "id": "34",
-    "name": "DI Yogyakarta"
+    "nama": "DI Yogyakarta"
   },
   "cities": [
     {
       "id": "34.01",
-      "name": "Kulon Progo"
+      "nama": "Kulon Progo",
+      "id_prov": "34"
     },
     {
       "id": "34.02",
-      "name": "Bantul"
+      "nama": "Bantul",
+      "id_prov": "34"
     },
     {
       "id": "34.03",
-      "name": "Gunungkidul"
+      "nama": "Gunungkidul",
+      "id_prov": "34"
     },
     {
       "id": "34.04",
-      "name": "Sleman"
+      "nama": "Sleman",
+      "id_prov": "34"
     },
     {
       "id": "34.71",
-      "name": "Kota Yogyakarta"
+      "nama": "Kota Yogyakarta",
+      "id_prov": "34"
     }
   ],
   "districts": [
     {
       "id": "34.01.01",
-      "name": "Temon"
+      "nama": "Temon",
+      "id_kab": "34.01"
     },
     {
       "id": "34.01.02",
-      "name": "Wates"
+      "nama": "Wates",
+      "id_kab": "34.01"
     },
     {
       "id": "34.01.03",
-      "name": "Panjatan"
+      "nama": "Panjatan",
+      "id_kab": "34.01"
     },
     {
       "id": "34.01.04",
-      "name": "Galur"
+      "nama": "Galur",
+      "id_kab": "34.01"
     },
     {
       "id": "34.01.05",
-      "name": "Lendah"
+      "nama": "Lendah",
+      "id_kab": "34.01"
     },
     {
       "id": "34.01.06",
-      "name": "Sentolo"
+      "nama": "Sentolo",
+      "id_kab": "34.01"
     },
     {
       "id": "34.01.07",
-      "name": "Pengasih"
+      "nama": "Pengasih",
+      "id_kab": "34.01"
     },
     {
       "id": "34.01.08",
-      "name": "Kokap"
+      "nama": "Kokap",
+      "id_kab": "34.01"
     },
     {
       "id": "34.01.09",
-      "name": "Girimulyo"
+      "nama": "Girimulyo",
+      "id_kab": "34.01"
     },
     {
       "id": "34.01.10",
-      "name": "Nanggulan"
+      "nama": "Nanggulan",
+      "id_kab": "34.01"
     },
     {
       "id": "34.01.11",
-      "name": "Samigaluh"
+      "nama": "Samigaluh",
+      "id_kab": "34.01"
     },
     {
       "id": "34.01.12",
-      "name": "Kalibawang"
+      "nama": "Kalibawang",
+      "id_kab": "34.01"
     },
     {
       "id": "34.02.01",
-      "name": "Srandakan"
+      "nama": "Srandakan",
+      "id_kab": "34.02"
     },
     {
       "id": "34.02.02",
-      "name": "Sanden"
+      "nama": "Sanden",
+      "id_kab": "34.02"
     },
     {
       "id": "34.02.03",
-      "name": "Kretek"
+      "nama": "Kretek",
+      "id_kab": "34.02"
     },
     {
       "id": "34.02.04",
-      "name": "Pundong"
+      "nama": "Pundong",
+      "id_kab": "34.02"
     },
     {
       "id": "34.02.05",
-      "name": "Bambanglipuro (Bambang Lipuro)"
+      "nama": "Bambanglipuro (Bambang Lipuro)",
+      "id_kab": "34.02"
     },
     {
       "id": "34.02.06",
-      "name": "Pandak"
+      "nama": "Pandak",
+      "id_kab": "34.02"
     },
     {
       "id": "34.02.07",
-      "name": "Pajangan"
+      "nama": "Pajangan",
+      "id_kab": "34.02"
     },
     {
       "id": "34.02.08",
-      "name": "Bantul"
+      "nama": "Bantul",
+      "id_kab": "34.02"
     },
     {
       "id": "34.02.09",
-      "name": "Jetis"
+      "nama": "Jetis",
+      "id_kab": "34.02"
     },
     {
       "id": "34.02.10",
-      "name": "Imogiri"
+      "nama": "Imogiri",
+      "id_kab": "34.02"
     },
     {
       "id": "34.02.11",
-      "name": "Dlingo"
+      "nama": "Dlingo",
+      "id_kab": "34.02"
     },
     {
       "id": "34.02.12",
-      "name": "Banguntapan"
+      "nama": "Banguntapan",
+      "id_kab": "34.02"
     },
     {
       "id": "34.02.13",
-      "name": "Pleret"
+      "nama": "Pleret",
+      "id_kab": "34.02"
     },
     {
       "id": "34.02.14",
-      "name": "Piyungan"
+      "nama": "Piyungan",
+      "id_kab": "34.02"
     },
     {
       "id": "34.02.15",
-      "name": "Sewon"
+      "nama": "Sewon",
+      "id_kab": "34.02"
     },
     {
       "id": "34.02.16",
-      "name": "Kasihan"
+      "nama": "Kasihan",
+      "id_kab": "34.02"
     },
     {
       "id": "34.02.17",
-      "name": "Sedayu"
+      "nama": "Sedayu",
+      "id_kab": "34.02"
     },
     {
       "id": "34.03.01",
-      "name": "Wonosari"
+      "nama": "Wonosari",
+      "id_kab": "34.03"
     },
     {
       "id": "34.03.02",
-      "name": "Nglipar"
+      "nama": "Nglipar",
+      "id_kab": "34.03"
     },
     {
       "id": "34.03.03",
-      "name": "Playen"
+      "nama": "Playen",
+      "id_kab": "34.03"
     },
     {
       "id": "34.03.04",
-      "name": "Patuk"
+      "nama": "Patuk",
+      "id_kab": "34.03"
     },
     {
       "id": "34.03.05",
-      "name": "Paliyan"
+      "nama": "Paliyan",
+      "id_kab": "34.03"
     },
     {
       "id": "34.03.06",
-      "name": "Panggang"
+      "nama": "Panggang",
+      "id_kab": "34.03"
     },
     {
       "id": "34.03.07",
-      "name": "Tepus"
+      "nama": "Tepus",
+      "id_kab": "34.03"
     },
     {
       "id": "34.03.08",
-      "name": "Semanu"
+      "nama": "Semanu",
+      "id_kab": "34.03"
     },
     {
       "id": "34.03.09",
-      "name": "Karangmojo"
+      "nama": "Karangmojo",
+      "id_kab": "34.03"
     },
     {
       "id": "34.03.10",
-      "name": "Ponjong"
+      "nama": "Ponjong",
+      "id_kab": "34.03"
     },
     {
       "id": "34.03.11",
-      "name": "Rongkop"
+      "nama": "Rongkop",
+      "id_kab": "34.03"
     },
     {
       "id": "34.03.12",
-      "name": "Semin"
+      "nama": "Semin",
+      "id_kab": "34.03"
     },
     {
       "id": "34.03.13",
-      "name": "Ngawen"
+      "nama": "Ngawen",
+      "id_kab": "34.03"
     },
     {
       "id": "34.03.14",
-      "name": "Gedangsari (Gedang Sari)"
+      "nama": "Gedangsari (Gedang Sari)",
+      "id_kab": "34.03"
     },
     {
       "id": "34.03.15",
-      "name": "Saptosari (Sapto Sari)"
+      "nama": "Saptosari (Sapto Sari)",
+      "id_kab": "34.03"
     },
     {
       "id": "34.03.16",
-      "name": "Girisubo"
+      "nama": "Girisubo",
+      "id_kab": "34.03"
     },
     {
       "id": "34.03.17",
-      "name": "Tanjungsari"
+      "nama": "Tanjungsari",
+      "id_kab": "34.03"
     },
     {
       "id": "34.03.18",
-      "name": "Purwosari"
+      "nama": "Purwosari",
+      "id_kab": "34.03"
     },
     {
       "id": "34.04.01",
-      "name": "Gamping"
+      "nama": "Gamping",
+      "id_kab": "34.04"
     },
     {
       "id": "34.04.02",
-      "name": "Godean"
+      "nama": "Godean",
+      "id_kab": "34.04"
     },
     {
       "id": "34.04.03",
-      "name": "Moyudan"
+      "nama": "Moyudan",
+      "id_kab": "34.04"
     },
     {
       "id": "34.04.04",
-      "name": "Minggir"
+      "nama": "Minggir",
+      "id_kab": "34.04"
     },
     {
       "id": "34.04.05",
-      "name": "Seyegan"
+      "nama": "Seyegan",
+      "id_kab": "34.04"
     },
     {
       "id": "34.04.06",
-      "name": "Mlati"
+      "nama": "Mlati",
+      "id_kab": "34.04"
     },
     {
       "id": "34.04.07",
-      "name": "Depok"
+      "nama": "Depok",
+      "id_kab": "34.04"
     },
     {
       "id": "34.04.08",
-      "name": "Berbah"
+      "nama": "Berbah",
+      "id_kab": "34.04"
     },
     {
       "id": "34.04.09",
-      "name": "Prambanan"
+      "nama": "Prambanan",
+      "id_kab": "34.04"
     },
     {
       "id": "34.04.10",
-      "name": "Kalasan"
+      "nama": "Kalasan",
+      "id_kab": "34.04"
     },
     {
       "id": "34.04.11",
-      "name": "Ngemplak"
+      "nama": "Ngemplak",
+      "id_kab": "34.04"
     },
     {
       "id": "34.04.12",
-      "name": "Ngaglik"
+      "nama": "Ngaglik",
+      "id_kab": "34.04"
     },
     {
       "id": "34.04.13",
-      "name": "Sleman"
+      "nama": "Sleman",
+      "id_kab": "34.04"
     },
     {
       "id": "34.04.14",
-      "name": "Tempel"
+      "nama": "Tempel",
+      "id_kab": "34.04"
     },
     {
       "id": "34.04.15",
-      "name": "Turi"
+      "nama": "Turi",
+      "id_kab": "34.04"
     },
     {
       "id": "34.04.16",
-      "name": "Pakem"
+      "nama": "Pakem",
+      "id_kab": "34.04"
     },
     {
       "id": "34.04.17",
-      "name": "Cangkringan"
+      "nama": "Cangkringan",
+      "id_kab": "34.04"
     },
     {
       "id": "34.71.01",
-      "name": "Tegalrejo"
+      "nama": "Tegalrejo",
+      "id_kab": "34.71"
     },
     {
       "id": "34.71.02",
-      "name": "Jetis"
+      "nama": "Jetis",
+      "id_kab": "34.71"
     },
     {
       "id": "34.71.03",
-      "name": "Gondokusuman"
+      "nama": "Gondokusuman",
+      "id_kab": "34.71"
     },
     {
       "id": "34.71.04",
-      "name": "Danurejan"
+      "nama": "Danurejan",
+      "id_kab": "34.71"
     },
     {
       "id": "34.71.05",
-      "name": "Gedongtengen (Gedong Tengen)"
+      "nama": "Gedongtengen (Gedong Tengen)",
+      "id_kab": "34.71"
     },
     {
       "id": "34.71.06",
-      "name": "Ngampilan"
+      "nama": "Ngampilan",
+      "id_kab": "34.71"
     },
     {
       "id": "34.71.07",
-      "name": "Wirobrajan"
+      "nama": "Wirobrajan",
+      "id_kab": "34.71"
     },
     {
       "id": "34.71.08",
-      "name": "Mantrijeron"
+      "nama": "Mantrijeron",
+      "id_kab": "34.71"
     },
     {
       "id": "34.71.09",
-      "name": "Kraton"
+      "nama": "Kraton",
+      "id_kab": "34.71"
     },
     {
       "id": "34.71.10",
-      "name": "Gondomanan"
+      "nama": "Gondomanan",
+      "id_kab": "34.71"
     },
     {
       "id": "34.71.11",
-      "name": "Pakualaman"
+      "nama": "Pakualaman",
+      "id_kab": "34.71"
     },
     {
       "id": "34.71.12",
-      "name": "Mergangsan"
+      "nama": "Mergangsan",
+      "id_kab": "34.71"
     },
     {
       "id": "34.71.13",
-      "name": "Umbulharjo"
+      "nama": "Umbulharjo",
+      "id_kab": "34.71"
     },
     {
       "id": "34.71.14",
-      "name": "Kotagede"
+      "nama": "Kotagede",
+      "id_kab": "34.71"
     }
   ],
   "villages": [
     {
       "id": "34.01.01.2001",
-      "name": "Jangkaran"
+      "nama": "Jangkaran",
+      "id_kec": "34.01.01"
     },
     {
       "id": "34.01.01.2002",
-      "name": "Sindutan"
+      "nama": "Sindutan",
+      "id_kec": "34.01.01"
     },
     {
       "id": "34.01.01.2003",
-      "name": "Palihan"
+      "nama": "Palihan",
+      "id_kec": "34.01.01"
     },
     {
       "id": "34.01.01.2004",
-      "name": "Glagah"
+      "nama": "Glagah",
+      "id_kec": "34.01.01"
     },
     {
       "id": "34.01.01.2005",
-      "name": "Kalidengen (Kali Dengen)"
+      "nama": "Kalidengen (Kali Dengen)",
+      "id_kec": "34.01.01"
     },
     {
       "id": "34.01.01.2006",
-      "name": "Plumbon"
+      "nama": "Plumbon",
+      "id_kec": "34.01.01"
     },
     {
       "id": "34.01.01.2007",
-      "name": "Kedundang"
+      "nama": "Kedundang",
+      "id_kec": "34.01.01"
     },
     {
       "id": "34.01.01.2008",
-      "name": "Demen"
+      "nama": "Demen",
+      "id_kec": "34.01.01"
     },
     {
       "id": "34.01.01.2009",
-      "name": "Kulur"
+      "nama": "Kulur",
+      "id_kec": "34.01.01"
     },
     {
       "id": "34.01.01.2010",
-      "name": "Kaligintung"
+      "nama": "Kaligintung",
+      "id_kec": "34.01.01"
     },
     {
       "id": "34.01.01.2011",
-      "name": "Temon Wetan"
+      "nama": "Temon Wetan",
+      "id_kec": "34.01.01"
     },
     {
       "id": "34.01.01.2012",
-      "name": "Temon Kulon"
+      "nama": "Temon Kulon",
+      "id_kec": "34.01.01"
     },
     {
       "id": "34.01.01.2013",
-      "name": "Kebonrejo"
+      "nama": "Kebonrejo",
+      "id_kec": "34.01.01"
     },
     {
       "id": "34.01.01.2014",
-      "name": "Janten"
+      "nama": "Janten",
+      "id_kec": "34.01.01"
     },
     {
       "id": "34.01.01.2015",
-      "name": "Karangwuluh (Karang Wuluh)"
+      "nama": "Karangwuluh (Karang Wuluh)",
+      "id_kec": "34.01.01"
     },
     {
       "id": "34.01.02.1008",
-      "name": "Wates"
+      "nama": "Wates",
+      "id_kec": "34.01.02"
     },
     {
       "id": "34.01.02.2001",
-      "name": "Karangwuni (Karang Wuni)"
+      "nama": "Karangwuni (Karang Wuni)",
+      "id_kec": "34.01.02"
     },
     {
       "id": "34.01.02.2002",
-      "name": "Sogan"
+      "nama": "Sogan",
+      "id_kec": "34.01.02"
     },
     {
       "id": "34.01.02.2003",
-      "name": "Kulwaru"
+      "nama": "Kulwaru",
+      "id_kec": "34.01.02"
     },
     {
       "id": "34.01.02.2004",
-      "name": "Ngestiharjo"
+      "nama": "Ngestiharjo",
+      "id_kec": "34.01.02"
     },
     {
       "id": "34.01.02.2005",
-      "name": "Bendungan"
+      "nama": "Bendungan",
+      "id_kec": "34.01.02"
     },
     {
       "id": "34.01.02.2006",
-      "name": "Triharjo"
+      "nama": "Triharjo",
+      "id_kec": "34.01.02"
     },
     {
       "id": "34.01.02.2007",
-      "name": "Giripeni (Giri Peni)"
+      "nama": "Giripeni (Giri Peni)",
+      "id_kec": "34.01.02"
     },
     {
       "id": "34.01.03.2001",
-      "name": "Garongan"
+      "nama": "Garongan",
+      "id_kec": "34.01.03"
     },
     {
       "id": "34.01.03.2002",
-      "name": "Pleret"
+      "nama": "Pleret",
+      "id_kec": "34.01.03"
     },
     {
       "id": "34.01.03.2003",
-      "name": "Bugel"
+      "nama": "Bugel",
+      "id_kec": "34.01.03"
     },
     {
       "id": "34.01.03.2004",
-      "name": "Kanoman"
+      "nama": "Kanoman",
+      "id_kec": "34.01.03"
     },
     {
       "id": "34.01.03.2005",
-      "name": "Depok"
+      "nama": "Depok",
+      "id_kec": "34.01.03"
     },
     {
       "id": "34.01.03.2006",
-      "name": "Bojong"
+      "nama": "Bojong",
+      "id_kec": "34.01.03"
     },
     {
       "id": "34.01.03.2007",
-      "name": "Tayuban"
+      "nama": "Tayuban",
+      "id_kec": "34.01.03"
     },
     {
       "id": "34.01.03.2008",
-      "name": "Gotakan"
+      "nama": "Gotakan",
+      "id_kec": "34.01.03"
     },
     {
       "id": "34.01.03.2009",
-      "name": "Panjatan"
+      "nama": "Panjatan",
+      "id_kec": "34.01.03"
     },
     {
       "id": "34.01.03.2010",
-      "name": "Cerme"
+      "nama": "Cerme",
+      "id_kec": "34.01.03"
     },
     {
       "id": "34.01.03.2011",
-      "name": "Krembangan"
+      "nama": "Krembangan",
+      "id_kec": "34.01.03"
     },
     {
       "id": "34.01.04.2001",
-      "name": "Banaran"
+      "nama": "Banaran",
+      "id_kec": "34.01.04"
     },
     {
       "id": "34.01.04.2002",
-      "name": "Kranggan"
+      "nama": "Kranggan",
+      "id_kec": "34.01.04"
     },
     {
       "id": "34.01.04.2003",
-      "name": "Nomporejo"
+      "nama": "Nomporejo",
+      "id_kec": "34.01.04"
     },
     {
       "id": "34.01.04.2004",
-      "name": "Karangsewu (Karang Sewu)"
+      "nama": "Karangsewu (Karang Sewu)",
+      "id_kec": "34.01.04"
     },
     {
       "id": "34.01.04.2005",
-      "name": "Tirtorahayu (Tirta Rahayu)"
+      "nama": "Tirtorahayu (Tirta Rahayu)",
+      "id_kec": "34.01.04"
     },
     {
       "id": "34.01.04.2006",
-      "name": "Pandowan"
+      "nama": "Pandowan",
+      "id_kec": "34.01.04"
     },
     {
       "id": "34.01.04.2007",
-      "name": "Brosot"
+      "nama": "Brosot",
+      "id_kec": "34.01.04"
     },
     {
       "id": "34.01.05.2001",
-      "name": "Wahyuharjo"
+      "nama": "Wahyuharjo",
+      "id_kec": "34.01.05"
     },
     {
       "id": "34.01.05.2002",
-      "name": "Bumirejo"
+      "nama": "Bumirejo",
+      "id_kec": "34.01.05"
     },
     {
       "id": "34.01.05.2003",
-      "name": "Jatirejo"
+      "nama": "Jatirejo",
+      "id_kec": "34.01.05"
     },
     {
       "id": "34.01.05.2004",
-      "name": "Sidorejo"
+      "nama": "Sidorejo",
+      "id_kec": "34.01.05"
     },
     {
       "id": "34.01.05.2005",
-      "name": "Gulurejo"
+      "nama": "Gulurejo",
+      "id_kec": "34.01.05"
     },
     {
       "id": "34.01.05.2006",
-      "name": "Ngentakrejo"
+      "nama": "Ngentakrejo",
+      "id_kec": "34.01.05"
     },
     {
       "id": "34.01.06.2001",
-      "name": "Demangrejo"
+      "nama": "Demangrejo",
+      "id_kec": "34.01.06"
     },
     {
       "id": "34.01.06.2002",
-      "name": "Srikayangan"
+      "nama": "Srikayangan",
+      "id_kec": "34.01.06"
     },
     {
       "id": "34.01.06.2003",
-      "name": "Tuksono"
+      "nama": "Tuksono",
+      "id_kec": "34.01.06"
     },
     {
       "id": "34.01.06.2004",
-      "name": "Salamrejo"
+      "nama": "Salamrejo",
+      "id_kec": "34.01.06"
     },
     {
       "id": "34.01.06.2005",
-      "name": "Sukoreno"
+      "nama": "Sukoreno",
+      "id_kec": "34.01.06"
     },
     {
       "id": "34.01.06.2006",
-      "name": "Kaliagung"
+      "nama": "Kaliagung",
+      "id_kec": "34.01.06"
     },
     {
       "id": "34.01.06.2007",
-      "name": "Sentolo"
+      "nama": "Sentolo",
+      "id_kec": "34.01.06"
     },
     {
       "id": "34.01.06.2008",
-      "name": "Banguncipto"
+      "nama": "Banguncipto",
+      "id_kec": "34.01.06"
     },
     {
       "id": "34.01.07.2001",
-      "name": "Tawangsari"
+      "nama": "Tawangsari",
+      "id_kec": "34.01.07"
     },
     {
       "id": "34.01.07.2002",
-      "name": "Karangsari"
+      "nama": "Karangsari",
+      "id_kec": "34.01.07"
     },
     {
       "id": "34.01.07.2003",
-      "name": "Kedungsari"
+      "nama": "Kedungsari",
+      "id_kec": "34.01.07"
     },
     {
       "id": "34.01.07.2004",
-      "name": "Margosari"
+      "nama": "Margosari",
+      "id_kec": "34.01.07"
     },
     {
       "id": "34.01.07.2005",
-      "name": "Pengasih"
+      "nama": "Pengasih",
+      "id_kec": "34.01.07"
     },
     {
       "id": "34.01.07.2006",
-      "name": "Sendangsari"
+      "nama": "Sendangsari",
+      "id_kec": "34.01.07"
     },
     {
       "id": "34.01.07.2007",
-      "name": "Sidomulyo"
+      "nama": "Sidomulyo",
+      "id_kec": "34.01.07"
     },
     {
       "id": "34.01.08.2001",
-      "name": "Hargomulyo"
+      "nama": "Hargomulyo",
+      "id_kec": "34.01.08"
     },
     {
       "id": "34.01.08.2002",
-      "name": "Hargorejo"
+      "nama": "Hargorejo",
+      "id_kec": "34.01.08"
     },
     {
       "id": "34.01.08.2003",
-      "name": "Hargowilis"
+      "nama": "Hargowilis",
+      "id_kec": "34.01.08"
     },
     {
       "id": "34.01.08.2004",
-      "name": "Kalirejo"
+      "nama": "Kalirejo",
+      "id_kec": "34.01.08"
     },
     {
       "id": "34.01.08.2005",
-      "name": "Hargotirto"
+      "nama": "Hargotirto",
+      "id_kec": "34.01.08"
     },
     {
       "id": "34.01.09.2001",
-      "name": "Jatimulyo"
+      "nama": "Jatimulyo",
+      "id_kec": "34.01.09"
     },
     {
       "id": "34.01.09.2002",
-      "name": "Giripurwo"
+      "nama": "Giripurwo",
+      "id_kec": "34.01.09"
     },
     {
       "id": "34.01.09.2003",
-      "name": "Pendoworejo"
+      "nama": "Pendoworejo",
+      "id_kec": "34.01.09"
     },
     {
       "id": "34.01.09.2004",
-      "name": "Purwosari"
+      "nama": "Purwosari",
+      "id_kec": "34.01.09"
     },
     {
       "id": "34.01.10.2001",
-      "name": "Banyuroto"
+      "nama": "Banyuroto",
+      "id_kec": "34.01.10"
     },
     {
       "id": "34.01.10.2002",
-      "name": "Donomulyo"
+      "nama": "Donomulyo",
+      "id_kec": "34.01.10"
     },
     {
       "id": "34.01.10.2003",
-      "name": "Wijimulyo"
+      "nama": "Wijimulyo",
+      "id_kec": "34.01.10"
     },
     {
       "id": "34.01.10.2004",
-      "name": "Tanjungharjo"
+      "nama": "Tanjungharjo",
+      "id_kec": "34.01.10"
     },
     {
       "id": "34.01.10.2005",
-      "name": "Jatisarono (Jati Sarono)"
+      "nama": "Jatisarono (Jati Sarono)",
+      "id_kec": "34.01.10"
     },
     {
       "id": "34.01.10.2006",
-      "name": "Kembang"
+      "nama": "Kembang",
+      "id_kec": "34.01.10"
     },
     {
       "id": "34.01.11.2001",
-      "name": "Kebonharjo (Kebon Harjo)"
+      "nama": "Kebonharjo (Kebon Harjo)",
+      "id_kec": "34.01.11"
     },
     {
       "id": "34.01.11.2002",
-      "name": "Banjarsari"
+      "nama": "Banjarsari",
+      "id_kec": "34.01.11"
     },
     {
       "id": "34.01.11.2003",
-      "name": "Purwoharjo"
+      "nama": "Purwoharjo",
+      "id_kec": "34.01.11"
     },
     {
       "id": "34.01.11.2004",
-      "name": "Sidoharjo"
+      "nama": "Sidoharjo",
+      "id_kec": "34.01.11"
     },
     {
       "id": "34.01.11.2005",
-      "name": "Gerbosari"
+      "nama": "Gerbosari",
+      "id_kec": "34.01.11"
     },
     {
       "id": "34.01.11.2006",
-      "name": "Ngargosari"
+      "nama": "Ngargosari",
+      "id_kec": "34.01.11"
     },
     {
       "id": "34.01.11.2007",
-      "name": "Pagerharjo"
+      "nama": "Pagerharjo",
+      "id_kec": "34.01.11"
     },
     {
       "id": "34.01.12.2001",
-      "name": "Banjararum"
+      "nama": "Banjararum",
+      "id_kec": "34.01.12"
     },
     {
       "id": "34.01.12.2002",
-      "name": "Banjarasri"
+      "nama": "Banjarasri",
+      "id_kec": "34.01.12"
     },
     {
       "id": "34.01.12.2003",
-      "name": "Banjarharjo"
+      "nama": "Banjarharjo",
+      "id_kec": "34.01.12"
     },
     {
       "id": "34.01.12.2004",
-      "name": "Banjaroyo"
+      "nama": "Banjaroyo",
+      "id_kec": "34.01.12"
     },
     {
       "id": "34.02.01.2001",
-      "name": "Poncosari"
+      "nama": "Poncosari",
+      "id_kec": "34.02.01"
     },
     {
       "id": "34.02.01.2002",
-      "name": "Trimurti"
+      "nama": "Trimurti",
+      "id_kec": "34.02.01"
     },
     {
       "id": "34.02.02.2001",
-      "name": "Gadingsari"
+      "nama": "Gadingsari",
+      "id_kec": "34.02.02"
     },
     {
       "id": "34.02.02.2002",
-      "name": "Gadingharjo"
+      "nama": "Gadingharjo",
+      "id_kec": "34.02.02"
     },
     {
       "id": "34.02.02.2003",
-      "name": "Srigading"
+      "nama": "Srigading",
+      "id_kec": "34.02.02"
     },
     {
       "id": "34.02.02.2004",
-      "name": "Murtigading"
+      "nama": "Murtigading",
+      "id_kec": "34.02.02"
     },
     {
       "id": "34.02.03.2001",
-      "name": "Tirtomulyo"
+      "nama": "Tirtomulyo",
+      "id_kec": "34.02.03"
     },
     {
       "id": "34.02.03.2002",
-      "name": "Parangtritis"
+      "nama": "Parangtritis",
+      "id_kec": "34.02.03"
     },
     {
       "id": "34.02.03.2003",
-      "name": "Donotirto"
+      "nama": "Donotirto",
+      "id_kec": "34.02.03"
     },
     {
       "id": "34.02.03.2004",
-      "name": "Tirtosari"
+      "nama": "Tirtosari",
+      "id_kec": "34.02.03"
     },
     {
       "id": "34.02.03.2005",
-      "name": "Tirtohargo"
+      "nama": "Tirtohargo",
+      "id_kec": "34.02.03"
     },
     {
       "id": "34.02.04.2001",
-      "name": "Seloharjo"
+      "nama": "Seloharjo",
+      "id_kec": "34.02.04"
     },
     {
       "id": "34.02.04.2002",
-      "name": "Panjangrejo"
+      "nama": "Panjangrejo",
+      "id_kec": "34.02.04"
     },
     {
       "id": "34.02.04.2003",
-      "name": "Srihardono"
+      "nama": "Srihardono",
+      "id_kec": "34.02.04"
     },
     {
       "id": "34.02.05.2001",
-      "name": "Sidomulyo"
+      "nama": "Sidomulyo",
+      "id_kec": "34.02.05"
     },
     {
       "id": "34.02.05.2002",
-      "name": "Mulyodadi"
+      "nama": "Mulyodadi",
+      "id_kec": "34.02.05"
     },
     {
       "id": "34.02.05.2003",
-      "name": "Sumbermulyo"
+      "nama": "Sumbermulyo",
+      "id_kec": "34.02.05"
     },
     {
       "id": "34.02.06.2001",
-      "name": "Catuharjo (Caturharjo)"
+      "nama": "Catuharjo (Caturharjo)",
+      "id_kec": "34.02.06"
     },
     {
       "id": "34.02.06.2002",
-      "name": "Triharjo"
+      "nama": "Triharjo",
+      "id_kec": "34.02.06"
     },
     {
       "id": "34.02.06.2003",
-      "name": "Gilangharjo"
+      "nama": "Gilangharjo",
+      "id_kec": "34.02.06"
     },
     {
       "id": "34.02.06.2004",
-      "name": "Wijirejo"
+      "nama": "Wijirejo",
+      "id_kec": "34.02.06"
     },
     {
       "id": "34.02.07.2001",
-      "name": "Triwidadi"
+      "nama": "Triwidadi",
+      "id_kec": "34.02.07"
     },
     {
       "id": "34.02.07.2002",
-      "name": "Sendangsari"
+      "nama": "Sendangsari",
+      "id_kec": "34.02.07"
     },
     {
       "id": "34.02.07.2003",
-      "name": "Guwosari"
+      "nama": "Guwosari",
+      "id_kec": "34.02.07"
     },
     {
       "id": "34.02.08.2001",
-      "name": "Palbapang"
+      "nama": "Palbapang",
+      "id_kec": "34.02.08"
     },
     {
       "id": "34.02.08.2002",
-      "name": "Ringinharjo (Ringin Harjo)"
+      "nama": "Ringinharjo (Ringin Harjo)",
+      "id_kec": "34.02.08"
     },
     {
       "id": "34.02.08.2003",
-      "name": "Bantul"
+      "nama": "Bantul",
+      "id_kec": "34.02.08"
     },
     {
       "id": "34.02.08.2004",
-      "name": "Trirenggo"
+      "nama": "Trirenggo",
+      "id_kec": "34.02.08"
     },
     {
       "id": "34.02.08.2005",
-      "name": "Sabdodadi"
+      "nama": "Sabdodadi",
+      "id_kec": "34.02.08"
     },
     {
       "id": "34.02.09.2001",
-      "name": "Patalan"
+      "nama": "Patalan",
+      "id_kec": "34.02.09"
     },
     {
       "id": "34.02.09.2002",
-      "name": "Canden"
+      "nama": "Canden",
+      "id_kec": "34.02.09"
     },
     {
       "id": "34.02.09.2003",
-      "name": "Sumberagung (Sumber Agung)"
+      "nama": "Sumberagung (Sumber Agung)",
+      "id_kec": "34.02.09"
     },
     {
       "id": "34.02.09.2004",
-      "name": "Trimulyo"
+      "nama": "Trimulyo",
+      "id_kec": "34.02.09"
     },
     {
       "id": "34.02.10.2001",
-      "name": "Selopamioro"
+      "nama": "Selopamioro",
+      "id_kec": "34.02.10"
     },
     {
       "id": "34.02.10.2002",
-      "name": "Sriharjo"
+      "nama": "Sriharjo",
+      "id_kec": "34.02.10"
     },
     {
       "id": "34.02.10.2003",
-      "name": "Wukirsari"
+      "nama": "Wukirsari",
+      "id_kec": "34.02.10"
     },
     {
       "id": "34.02.10.2004",
-      "name": "Kebonagung (Kebon Agung)"
+      "nama": "Kebonagung (Kebon Agung)",
+      "id_kec": "34.02.10"
     },
     {
       "id": "34.02.10.2005",
-      "name": "Karangtengah (Karang Tengah)"
+      "nama": "Karangtengah (Karang Tengah)",
+      "id_kec": "34.02.10"
     },
     {
       "id": "34.02.10.2006",
-      "name": "Girirejo"
+      "nama": "Girirejo",
+      "id_kec": "34.02.10"
     },
     {
       "id": "34.02.10.2007",
-      "name": "Karangtalun"
+      "nama": "Karangtalun",
+      "id_kec": "34.02.10"
     },
     {
       "id": "34.02.10.2008",
-      "name": "Imogiri"
+      "nama": "Imogiri",
+      "id_kec": "34.02.10"
     },
     {
       "id": "34.02.11.2001",
-      "name": "Mangunan"
+      "nama": "Mangunan",
+      "id_kec": "34.02.11"
     },
     {
       "id": "34.02.11.2002",
-      "name": "Muntuk"
+      "nama": "Muntuk",
+      "id_kec": "34.02.11"
     },
     {
       "id": "34.02.11.2003",
-      "name": "Dlingo"
+      "nama": "Dlingo",
+      "id_kec": "34.02.11"
     },
     {
       "id": "34.02.11.2004",
-      "name": "Temuwuh"
+      "nama": "Temuwuh",
+      "id_kec": "34.02.11"
     },
     {
       "id": "34.02.11.2005",
-      "name": "Terong"
+      "nama": "Terong",
+      "id_kec": "34.02.11"
     },
     {
       "id": "34.02.11.2006",
-      "name": "Jatimulyo"
+      "nama": "Jatimulyo",
+      "id_kec": "34.02.11"
     },
     {
       "id": "34.02.12.2001",
-      "name": "Baturetno"
+      "nama": "Baturetno",
+      "id_kec": "34.02.12"
     },
     {
       "id": "34.02.12.2002",
-      "name": "Banguntapan"
+      "nama": "Banguntapan",
+      "id_kec": "34.02.12"
     },
     {
       "id": "34.02.12.2003",
-      "name": "Jagalan"
+      "nama": "Jagalan",
+      "id_kec": "34.02.12"
     },
     {
       "id": "34.02.12.2004",
-      "name": "Singosaren"
+      "nama": "Singosaren",
+      "id_kec": "34.02.12"
     },
     {
       "id": "34.02.12.2005",
-      "name": "Jambidan"
+      "nama": "Jambidan",
+      "id_kec": "34.02.12"
     },
     {
       "id": "34.02.12.2006",
-      "name": "Potorono"
+      "nama": "Potorono",
+      "id_kec": "34.02.12"
     },
     {
       "id": "34.02.12.2007",
-      "name": "Tamanan"
+      "nama": "Tamanan",
+      "id_kec": "34.02.12"
     },
     {
       "id": "34.02.12.2008",
-      "name": "Wirokerten"
+      "nama": "Wirokerten",
+      "id_kec": "34.02.12"
     },
     {
       "id": "34.02.13.2001",
-      "name": "Wonokromo"
+      "nama": "Wonokromo",
+      "id_kec": "34.02.13"
     },
     {
       "id": "34.02.13.2002",
-      "name": "Pleret"
+      "nama": "Pleret",
+      "id_kec": "34.02.13"
     },
     {
       "id": "34.02.13.2003",
-      "name": "Segoroyoso"
+      "nama": "Segoroyoso",
+      "id_kec": "34.02.13"
     },
     {
       "id": "34.02.13.2004",
-      "name": "Bawuran"
+      "nama": "Bawuran",
+      "id_kec": "34.02.13"
     },
     {
       "id": "34.02.13.2005",
-      "name": "Wonolelo"
+      "nama": "Wonolelo",
+      "id_kec": "34.02.13"
     },
     {
       "id": "34.02.14.2001",
-      "name": "Sitimulyo"
+      "nama": "Sitimulyo",
+      "id_kec": "34.02.14"
     },
     {
       "id": "34.02.14.2002",
-      "name": "Srimulyo"
+      "nama": "Srimulyo",
+      "id_kec": "34.02.14"
     },
     {
       "id": "34.02.14.2003",
-      "name": "Srimartani"
+      "nama": "Srimartani",
+      "id_kec": "34.02.14"
     },
     {
       "id": "34.02.15.2001",
-      "name": "Pendowoharjo"
+      "nama": "Pendowoharjo",
+      "id_kec": "34.02.15"
     },
     {
       "id": "34.02.15.2002",
-      "name": "Timbulharjo"
+      "nama": "Timbulharjo",
+      "id_kec": "34.02.15"
     },
     {
       "id": "34.02.15.2003",
-      "name": "Bangunharjo"
+      "nama": "Bangunharjo",
+      "id_kec": "34.02.15"
     },
     {
       "id": "34.02.15.2004",
-      "name": "Panggungharjo"
+      "nama": "Panggungharjo",
+      "id_kec": "34.02.15"
     },
     {
       "id": "34.02.16.2001",
-      "name": "Bangunjiwo"
+      "nama": "Bangunjiwo",
+      "id_kec": "34.02.16"
     },
     {
       "id": "34.02.16.2002",
-      "name": "Tirtonirmolo"
+      "nama": "Tirtonirmolo",
+      "id_kec": "34.02.16"
     },
     {
       "id": "34.02.16.2003",
-      "name": "Tamantirto"
+      "nama": "Tamantirto",
+      "id_kec": "34.02.16"
     },
     {
       "id": "34.02.16.2004",
-      "name": "Ngestiharjo"
+      "nama": "Ngestiharjo",
+      "id_kec": "34.02.16"
     },
     {
       "id": "34.02.17.2001",
-      "name": "Argodadi"
+      "nama": "Argodadi",
+      "id_kec": "34.02.17"
     },
     {
       "id": "34.02.17.2002",
-      "name": "Argorejo"
+      "nama": "Argorejo",
+      "id_kec": "34.02.17"
     },
     {
       "id": "34.02.17.2003",
-      "name": "Argosari"
+      "nama": "Argosari",
+      "id_kec": "34.02.17"
     },
     {
       "id": "34.02.17.2004",
-      "name": "Argomulyo"
+      "nama": "Argomulyo",
+      "id_kec": "34.02.17"
     },
     {
       "id": "34.03.01.2001",
-      "name": "Wonosari"
+      "nama": "Wonosari",
+      "id_kec": "34.03.01"
     },
     {
       "id": "34.03.01.2002",
-      "name": "Kepek"
+      "nama": "Kepek",
+      "id_kec": "34.03.01"
     },
     {
       "id": "34.03.01.2003",
-      "name": "Piyaman"
+      "nama": "Piyaman",
+      "id_kec": "34.03.01"
     },
     {
       "id": "34.03.01.2004",
-      "name": "Gari"
+      "nama": "Gari",
+      "id_kec": "34.03.01"
     },
     {
       "id": "34.03.01.2005",
-      "name": "Karangtengah (Karang Tengah)"
+      "nama": "Karangtengah (Karang Tengah)",
+      "id_kec": "34.03.01"
     },
     {
       "id": "34.03.01.2006",
-      "name": "Selang"
+      "nama": "Selang",
+      "id_kec": "34.03.01"
     },
     {
       "id": "34.03.01.2007",
-      "name": "Baleharjo"
+      "nama": "Baleharjo",
+      "id_kec": "34.03.01"
     },
     {
       "id": "34.03.01.2008",
-      "name": "Siraman"
+      "nama": "Siraman",
+      "id_kec": "34.03.01"
     },
     {
       "id": "34.03.01.2009",
-      "name": "Pulutan"
+      "nama": "Pulutan",
+      "id_kec": "34.03.01"
     },
     {
       "id": "34.03.01.2010",
-      "name": "Wareng"
+      "nama": "Wareng",
+      "id_kec": "34.03.01"
     },
     {
       "id": "34.03.01.2011",
-      "name": "Duwet"
+      "nama": "Duwet",
+      "id_kec": "34.03.01"
     },
     {
       "id": "34.03.01.2012",
-      "name": "Mulo"
+      "nama": "Mulo",
+      "id_kec": "34.03.01"
     },
     {
       "id": "34.03.01.2013",
-      "name": "Wunung"
+      "nama": "Wunung",
+      "id_kec": "34.03.01"
     },
     {
       "id": "34.03.01.2014",
-      "name": "Karangrejek (Karang Rejek)"
+      "nama": "Karangrejek (Karang Rejek)",
+      "id_kec": "34.03.01"
     },
     {
       "id": "34.03.02.2001",
-      "name": "Natah"
+      "nama": "Natah",
+      "id_kec": "34.03.02"
     },
     {
       "id": "34.03.02.2002",
-      "name": "Pilangrejo (Pilang Rejo)"
+      "nama": "Pilangrejo (Pilang Rejo)",
+      "id_kec": "34.03.02"
     },
     {
       "id": "34.03.02.2003",
-      "name": "Kedungpoh"
+      "nama": "Kedungpoh",
+      "id_kec": "34.03.02"
     },
     {
       "id": "34.03.02.2004",
-      "name": "Pengkol"
+      "nama": "Pengkol",
+      "id_kec": "34.03.02"
     },
     {
       "id": "34.03.02.2005",
-      "name": "Kedungkeris (Kedung Keris)"
+      "nama": "Kedungkeris (Kedung Keris)",
+      "id_kec": "34.03.02"
     },
     {
       "id": "34.03.02.2006",
-      "name": "Nglipar"
+      "nama": "Nglipar",
+      "id_kec": "34.03.02"
     },
     {
       "id": "34.03.02.2007",
-      "name": "Katongan"
+      "nama": "Katongan",
+      "id_kec": "34.03.02"
     },
     {
       "id": "34.03.03.2001",
-      "name": "Banyusoco"
+      "nama": "Banyusoco",
+      "id_kec": "34.03.03"
     },
     {
       "id": "34.03.03.2002",
-      "name": "Plembutan"
+      "nama": "Plembutan",
+      "id_kec": "34.03.03"
     },
     {
       "id": "34.03.03.2003",
-      "name": "Bleberan"
+      "nama": "Bleberan",
+      "id_kec": "34.03.03"
     },
     {
       "id": "34.03.03.2004",
-      "name": "Getas"
+      "nama": "Getas",
+      "id_kec": "34.03.03"
     },
     {
       "id": "34.03.03.2005",
-      "name": "Dengok"
+      "nama": "Dengok",
+      "id_kec": "34.03.03"
     },
     {
       "id": "34.03.03.2006",
-      "name": "Ngunut"
+      "nama": "Ngunut",
+      "id_kec": "34.03.03"
     },
     {
       "id": "34.03.03.2007",
-      "name": "Playen"
+      "nama": "Playen",
+      "id_kec": "34.03.03"
     },
     {
       "id": "34.03.03.2008",
-      "name": "Ngawu"
+      "nama": "Ngawu",
+      "id_kec": "34.03.03"
     },
     {
       "id": "34.03.03.2009",
-      "name": "Bandung"
+      "nama": "Bandung",
+      "id_kec": "34.03.03"
     },
     {
       "id": "34.03.03.2010",
-      "name": "Logandeng"
+      "nama": "Logandeng",
+      "id_kec": "34.03.03"
     },
     {
       "id": "34.03.03.2011",
-      "name": "Gading"
+      "nama": "Gading",
+      "id_kec": "34.03.03"
     },
     {
       "id": "34.03.03.2012",
-      "name": "Banaran"
+      "nama": "Banaran",
+      "id_kec": "34.03.03"
     },
     {
       "id": "34.03.03.2013",
-      "name": "Ngleri"
+      "nama": "Ngleri",
+      "id_kec": "34.03.03"
     },
     {
       "id": "34.03.04.2001",
-      "name": "Bunder"
+      "nama": "Bunder",
+      "id_kec": "34.03.04"
     },
     {
       "id": "34.03.04.2002",
-      "name": "Beji"
+      "nama": "Beji",
+      "id_kec": "34.03.04"
     },
     {
       "id": "34.03.04.2003",
-      "name": "Pengkok"
+      "nama": "Pengkok",
+      "id_kec": "34.03.04"
     },
     {
       "id": "34.03.04.2004",
-      "name": "Semoyo"
+      "nama": "Semoyo",
+      "id_kec": "34.03.04"
     },
     {
       "id": "34.03.04.2005",
-      "name": "Salam"
+      "nama": "Salam",
+      "id_kec": "34.03.04"
     },
     {
       "id": "34.03.04.2006",
-      "name": "Patuk"
+      "nama": "Patuk",
+      "id_kec": "34.03.04"
     },
     {
       "id": "34.03.04.2007",
-      "name": "Ngoro-oro (Ngoro Oro)"
+      "nama": "Ngoro-oro (Ngoro Oro)",
+      "id_kec": "34.03.04"
     },
     {
       "id": "34.03.04.2008",
-      "name": "Nglanggeran"
+      "nama": "Nglanggeran",
+      "id_kec": "34.03.04"
     },
     {
       "id": "34.03.04.2009",
-      "name": "Putat"
+      "nama": "Putat",
+      "id_kec": "34.03.04"
     },
     {
       "id": "34.03.04.2010",
-      "name": "Nglegi"
+      "nama": "Nglegi",
+      "id_kec": "34.03.04"
     },
     {
       "id": "34.03.04.2011",
-      "name": "Terbah"
+      "nama": "Terbah",
+      "id_kec": "34.03.04"
     },
     {
       "id": "34.03.05.2001",
-      "name": "Sodo"
+      "nama": "Sodo",
+      "id_kec": "34.03.05"
     },
     {
       "id": "34.03.05.2002",
-      "name": "Pampang"
+      "nama": "Pampang",
+      "id_kec": "34.03.05"
     },
     {
       "id": "34.03.05.2003",
-      "name": "Grogol"
+      "nama": "Grogol",
+      "id_kec": "34.03.05"
     },
     {
       "id": "34.03.05.2004",
-      "name": "Karangduwet (Karang Duwet)"
+      "nama": "Karangduwet (Karang Duwet)",
+      "id_kec": "34.03.05"
     },
     {
       "id": "34.03.05.2005",
-      "name": "Karangasem (Karang Asem)"
+      "nama": "Karangasem (Karang Asem)",
+      "id_kec": "34.03.05"
     },
     {
       "id": "34.03.05.2006",
-      "name": "Mulusan"
+      "nama": "Mulusan",
+      "id_kec": "34.03.05"
     },
     {
       "id": "34.03.05.2007",
-      "name": "Giring"
+      "nama": "Giring",
+      "id_kec": "34.03.05"
     },
     {
       "id": "34.03.06.2001",
-      "name": "Girikarto"
+      "nama": "Girikarto",
+      "id_kec": "34.03.06"
     },
     {
       "id": "34.03.06.2002",
-      "name": "Girisekar"
+      "nama": "Girisekar",
+      "id_kec": "34.03.06"
     },
     {
       "id": "34.03.06.2003",
-      "name": "Girimulyo"
+      "nama": "Girimulyo",
+      "id_kec": "34.03.06"
     },
     {
       "id": "34.03.06.2004",
-      "name": "Giriwungu"
+      "nama": "Giriwungu",
+      "id_kec": "34.03.06"
     },
     {
       "id": "34.03.06.2005",
-      "name": "Giriharjo"
+      "nama": "Giriharjo",
+      "id_kec": "34.03.06"
     },
     {
       "id": "34.03.06.2006",
-      "name": "Girisuko"
+      "nama": "Girisuko",
+      "id_kec": "34.03.06"
     },
     {
       "id": "34.03.07.2001",
-      "name": "Giripanggung"
+      "nama": "Giripanggung",
+      "id_kec": "34.03.07"
     },
     {
       "id": "34.03.07.2002",
-      "name": "Sumberwungu (Sumber Wungu)"
+      "nama": "Sumberwungu (Sumber Wungu)",
+      "id_kec": "34.03.07"
     },
     {
       "id": "34.03.07.2003",
-      "name": "Sidoharjo"
+      "nama": "Sidoharjo",
+      "id_kec": "34.03.07"
     },
     {
       "id": "34.03.07.2004",
-      "name": "Tepus"
+      "nama": "Tepus",
+      "id_kec": "34.03.07"
     },
     {
       "id": "34.03.07.2005",
-      "name": "Purwodadi"
+      "nama": "Purwodadi",
+      "id_kec": "34.03.07"
     },
     {
       "id": "34.03.08.2001",
-      "name": "Ngeposari"
+      "nama": "Ngeposari",
+      "id_kec": "34.03.08"
     },
     {
       "id": "34.03.08.2002",
-      "name": "Semanu"
+      "nama": "Semanu",
+      "id_kec": "34.03.08"
     },
     {
       "id": "34.03.08.2003",
-      "name": "Pacarejo"
+      "nama": "Pacarejo",
+      "id_kec": "34.03.08"
     },
     {
       "id": "34.03.08.2004",
-      "name": "Candirejo"
+      "nama": "Candirejo",
+      "id_kec": "34.03.08"
     },
     {
       "id": "34.03.08.2005",
-      "name": "Dadapayu"
+      "nama": "Dadapayu",
+      "id_kec": "34.03.08"
     },
     {
       "id": "34.03.09.2001",
-      "name": "Bejiharjo"
+      "nama": "Bejiharjo",
+      "id_kec": "34.03.09"
     },
     {
       "id": "34.03.09.2002",
-      "name": "Wiladeg"
+      "nama": "Wiladeg",
+      "id_kec": "34.03.09"
     },
     {
       "id": "34.03.09.2003",
-      "name": "Bendungan"
+      "nama": "Bendungan",
+      "id_kec": "34.03.09"
     },
     {
       "id": "34.03.09.2004",
-      "name": "Kelor"
+      "nama": "Kelor",
+      "id_kec": "34.03.09"
     },
     {
       "id": "34.03.09.2005",
-      "name": "Ngipak"
+      "nama": "Ngipak",
+      "id_kec": "34.03.09"
     },
     {
       "id": "34.03.09.2006",
-      "name": "Karangmojo"
+      "nama": "Karangmojo",
+      "id_kec": "34.03.09"
     },
     {
       "id": "34.03.09.2007",
-      "name": "Gedangrejo (Gedang Rejo)"
+      "nama": "Gedangrejo (Gedang Rejo)",
+      "id_kec": "34.03.09"
     },
     {
       "id": "34.03.09.2008",
-      "name": "Ngawis"
+      "nama": "Ngawis",
+      "id_kec": "34.03.09"
     },
     {
       "id": "34.03.09.2009",
-      "name": "Jatiayu (Jati Ayu)"
+      "nama": "Jatiayu (Jati Ayu)",
+      "id_kec": "34.03.09"
     },
     {
       "id": "34.03.10.2001",
-      "name": "Umbulrejo (Umbul Rejo)"
+      "nama": "Umbulrejo (Umbul Rejo)",
+      "id_kec": "34.03.10"
     },
     {
       "id": "34.03.10.2002",
-      "name": "Sawahan"
+      "nama": "Sawahan",
+      "id_kec": "34.03.10"
     },
     {
       "id": "34.03.10.2003",
-      "name": "Tambakromo"
+      "nama": "Tambakromo",
+      "id_kec": "34.03.10"
     },
     {
       "id": "34.03.10.2004",
-      "name": "Kenteng"
+      "nama": "Kenteng",
+      "id_kec": "34.03.10"
     },
     {
       "id": "34.03.10.2005",
-      "name": "Sumbergiri (Sumber Giri)"
+      "nama": "Sumbergiri (Sumber Giri)",
+      "id_kec": "34.03.10"
     },
     {
       "id": "34.03.10.2006",
-      "name": "Genjahan"
+      "nama": "Genjahan",
+      "id_kec": "34.03.10"
     },
     {
       "id": "34.03.10.2007",
-      "name": "Ponjong"
+      "nama": "Ponjong",
+      "id_kec": "34.03.10"
     },
     {
       "id": "34.03.10.2008",
-      "name": "Karangasem (Karang Asem)"
+      "nama": "Karangasem (Karang Asem)",
+      "id_kec": "34.03.10"
     },
     {
       "id": "34.03.10.2009",
-      "name": "Bedoyo"
+      "nama": "Bedoyo",
+      "id_kec": "34.03.10"
     },
     {
       "id": "34.03.10.2010",
-      "name": "Sidorejo"
+      "nama": "Sidorejo",
+      "id_kec": "34.03.10"
     },
     {
       "id": "34.03.10.2011",
-      "name": "Gombang"
+      "nama": "Gombang",
+      "id_kec": "34.03.10"
     },
     {
       "id": "34.03.11.2001",
-      "name": "Bohol"
+      "nama": "Bohol",
+      "id_kec": "34.03.11"
     },
     {
       "id": "34.03.11.2002",
-      "name": "Pringombo"
+      "nama": "Pringombo",
+      "id_kec": "34.03.11"
     },
     {
       "id": "34.03.11.2003",
-      "name": "Botodayakan (Botodayaan)"
+      "nama": "Botodayakan (Botodayaan)",
+      "id_kec": "34.03.11"
     },
     {
       "id": "34.03.11.2004",
-      "name": "Petir"
+      "nama": "Petir",
+      "id_kec": "34.03.11"
     },
     {
       "id": "34.03.11.2005",
-      "name": "Pucanganom"
+      "nama": "Pucanganom",
+      "id_kec": "34.03.11"
     },
     {
       "id": "34.03.11.2006",
-      "name": "Semugih"
+      "nama": "Semugih",
+      "id_kec": "34.03.11"
     },
     {
       "id": "34.03.11.2007",
-      "name": "Melikan"
+      "nama": "Melikan",
+      "id_kec": "34.03.11"
     },
     {
       "id": "34.03.11.2008",
-      "name": "Karangwuni"
+      "nama": "Karangwuni",
+      "id_kec": "34.03.11"
     },
     {
       "id": "34.03.12.2001",
-      "name": "Kalitekuk"
+      "nama": "Kalitekuk",
+      "id_kec": "34.03.12"
     },
     {
       "id": "34.03.12.2002",
-      "name": "Kemejing"
+      "nama": "Kemejing",
+      "id_kec": "34.03.12"
     },
     {
       "id": "34.03.12.2003",
-      "name": "Bulurejo"
+      "nama": "Bulurejo",
+      "id_kec": "34.03.12"
     },
     {
       "id": "34.03.12.2004",
-      "name": "Sumberejo (Sumberrejo)"
+      "nama": "Sumberejo (Sumberrejo)",
+      "id_kec": "34.03.12"
     },
     {
       "id": "34.03.12.2005",
-      "name": "Bendung"
+      "nama": "Bendung",
+      "id_kec": "34.03.12"
     },
     {
       "id": "34.03.12.2006",
-      "name": "Candirejo (Candi Rejo)"
+      "nama": "Candirejo (Candi Rejo)",
+      "id_kec": "34.03.12"
     },
     {
       "id": "34.03.12.2007",
-      "name": "Rejosari"
+      "nama": "Rejosari",
+      "id_kec": "34.03.12"
     },
     {
       "id": "34.03.12.2008",
-      "name": "Karangsari (Karang Sari)"
+      "nama": "Karangsari (Karang Sari)",
+      "id_kec": "34.03.12"
     },
     {
       "id": "34.03.12.2009",
-      "name": "Pundungsari (Pundung Sari)"
+      "nama": "Pundungsari (Pundung Sari)",
+      "id_kec": "34.03.12"
     },
     {
       "id": "34.03.12.2010",
-      "name": "Semin"
+      "nama": "Semin",
+      "id_kec": "34.03.12"
     },
     {
       "id": "34.03.13.2001",
-      "name": "Tancep"
+      "nama": "Tancep",
+      "id_kec": "34.03.13"
     },
     {
       "id": "34.03.13.2002",
-      "name": "Sambirejo"
+      "nama": "Sambirejo",
+      "id_kec": "34.03.13"
     },
     {
       "id": "34.03.13.2003",
-      "name": "Jurangjero (Jurang Jero)"
+      "nama": "Jurangjero (Jurang Jero)",
+      "id_kec": "34.03.13"
     },
     {
       "id": "34.03.13.2004",
-      "name": "Kampung"
+      "nama": "Kampung",
+      "id_kec": "34.03.13"
     },
     {
       "id": "34.03.13.2005",
-      "name": "Beji"
+      "nama": "Beji",
+      "id_kec": "34.03.13"
     },
     {
       "id": "34.03.13.2006",
-      "name": "Watusigar (Watu Sigar)"
+      "nama": "Watusigar (Watu Sigar)",
+      "id_kec": "34.03.13"
     },
     {
       "id": "34.03.14.2001",
-      "name": "Hargomulyo (Hargo Mulyo)"
+      "nama": "Hargomulyo (Hargo Mulyo)",
+      "id_kec": "34.03.14"
     },
     {
       "id": "34.03.14.2002",
-      "name": "Mertelu"
+      "nama": "Mertelu",
+      "id_kec": "34.03.14"
     },
     {
       "id": "34.03.14.2003",
-      "name": "Watugajah (Watu Gajah)"
+      "nama": "Watugajah (Watu Gajah)",
+      "id_kec": "34.03.14"
     },
     {
       "id": "34.03.14.2004",
-      "name": "Sampang"
+      "nama": "Sampang",
+      "id_kec": "34.03.14"
     },
     {
       "id": "34.03.14.2005",
-      "name": "Serut"
+      "nama": "Serut",
+      "id_kec": "34.03.14"
     },
     {
       "id": "34.03.14.2006",
-      "name": "Ngalang"
+      "nama": "Ngalang",
+      "id_kec": "34.03.14"
     },
     {
       "id": "34.03.14.2007",
-      "name": "Tegalrejo"
+      "nama": "Tegalrejo",
+      "id_kec": "34.03.14"
     },
     {
       "id": "34.03.15.2001",
-      "name": "Krambilsawit (Krambil Sawit)"
+      "nama": "Krambilsawit (Krambil Sawit)",
+      "id_kec": "34.03.15"
     },
     {
       "id": "34.03.15.2002",
-      "name": "Ngloro (Nglora)"
+      "nama": "Ngloro (Nglora)",
+      "id_kec": "34.03.15"
     },
     {
       "id": "34.03.15.2003",
-      "name": "Jetis"
+      "nama": "Jetis",
+      "id_kec": "34.03.15"
     },
     {
       "id": "34.03.15.2004",
-      "name": "Kepek"
+      "nama": "Kepek",
+      "id_kec": "34.03.15"
     },
     {
       "id": "34.03.15.2005",
-      "name": "Kanigoro"
+      "nama": "Kanigoro",
+      "id_kec": "34.03.15"
     },
     {
       "id": "34.03.15.2006",
-      "name": "Monggol"
+      "nama": "Monggol",
+      "id_kec": "34.03.15"
     },
     {
       "id": "34.03.15.2007",
-      "name": "Planjan"
+      "nama": "Planjan",
+      "id_kec": "34.03.15"
     },
     {
       "id": "34.03.16.2001",
-      "name": "Balong"
+      "nama": "Balong",
+      "id_kec": "34.03.16"
     },
     {
       "id": "34.03.16.2002",
-      "name": "Jepitu"
+      "nama": "Jepitu",
+      "id_kec": "34.03.16"
     },
     {
       "id": "34.03.16.2003",
-      "name": "Karangawen"
+      "nama": "Karangawen",
+      "id_kec": "34.03.16"
     },
     {
       "id": "34.03.16.2004",
-      "name": "Nglindur"
+      "nama": "Nglindur",
+      "id_kec": "34.03.16"
     },
     {
       "id": "34.03.16.2005",
-      "name": "Jerukwudel"
+      "nama": "Jerukwudel",
+      "id_kec": "34.03.16"
     },
     {
       "id": "34.03.16.2006",
-      "name": "Tileng"
+      "nama": "Tileng",
+      "id_kec": "34.03.16"
     },
     {
       "id": "34.03.16.2007",
-      "name": "Pucung"
+      "nama": "Pucung",
+      "id_kec": "34.03.16"
     },
     {
       "id": "34.03.16.2008",
-      "name": "Songbanyu"
+      "nama": "Songbanyu",
+      "id_kec": "34.03.16"
     },
     {
       "id": "34.03.17.2001",
-      "name": "Hargosari"
+      "nama": "Hargosari",
+      "id_kec": "34.03.17"
     },
     {
       "id": "34.03.17.2002",
-      "name": "Kemiri"
+      "nama": "Kemiri",
+      "id_kec": "34.03.17"
     },
     {
       "id": "34.03.17.2003",
-      "name": "Kemadang"
+      "nama": "Kemadang",
+      "id_kec": "34.03.17"
     },
     {
       "id": "34.03.17.2004",
-      "name": "Banjarejo"
+      "nama": "Banjarejo",
+      "id_kec": "34.03.17"
     },
     {
       "id": "34.03.17.2005",
-      "name": "Ngestirejo"
+      "nama": "Ngestirejo",
+      "id_kec": "34.03.17"
     },
     {
       "id": "34.03.18.2001",
-      "name": "Giripurwo"
+      "nama": "Giripurwo",
+      "id_kec": "34.03.18"
     },
     {
       "id": "34.03.18.2002",
-      "name": "Giricahyo"
+      "nama": "Giricahyo",
+      "id_kec": "34.03.18"
     },
     {
       "id": "34.03.18.2003",
-      "name": "Girijati"
+      "nama": "Girijati",
+      "id_kec": "34.03.18"
     },
     {
       "id": "34.03.18.2004",
-      "name": "Giriasih"
+      "nama": "Giriasih",
+      "id_kec": "34.03.18"
     },
     {
       "id": "34.03.18.2005",
-      "name": "Giritirto"
+      "nama": "Giritirto",
+      "id_kec": "34.03.18"
     },
     {
       "id": "34.04.01.2001",
-      "name": "Balecatur"
+      "nama": "Balecatur",
+      "id_kec": "34.04.01"
     },
     {
       "id": "34.04.01.2002",
-      "name": "Ambarketawang"
+      "nama": "Ambarketawang",
+      "id_kec": "34.04.01"
     },
     {
       "id": "34.04.01.2003",
-      "name": "Banyuraden"
+      "nama": "Banyuraden",
+      "id_kec": "34.04.01"
     },
     {
       "id": "34.04.01.2004",
-      "name": "Nogotirto"
+      "nama": "Nogotirto",
+      "id_kec": "34.04.01"
     },
     {
       "id": "34.04.01.2005",
-      "name": "Trihanggo"
+      "nama": "Trihanggo",
+      "id_kec": "34.04.01"
     },
     {
       "id": "34.04.02.2001",
-      "name": "Sidorejo"
+      "nama": "Sidorejo",
+      "id_kec": "34.04.02"
     },
     {
       "id": "34.04.02.2002",
-      "name": "Sidoluhur"
+      "nama": "Sidoluhur",
+      "id_kec": "34.04.02"
     },
     {
       "id": "34.04.02.2003",
-      "name": "Sidomulyo"
+      "nama": "Sidomulyo",
+      "id_kec": "34.04.02"
     },
     {
       "id": "34.04.02.2004",
-      "name": "Sidoagung"
+      "nama": "Sidoagung",
+      "id_kec": "34.04.02"
     },
     {
       "id": "34.04.02.2005",
-      "name": "Sidokarto"
+      "nama": "Sidokarto",
+      "id_kec": "34.04.02"
     },
     {
       "id": "34.04.02.2006",
-      "name": "Sidoarum"
+      "nama": "Sidoarum",
+      "id_kec": "34.04.02"
     },
     {
       "id": "34.04.02.2007",
-      "name": "Sidomoyo"
+      "nama": "Sidomoyo",
+      "id_kec": "34.04.02"
     },
     {
       "id": "34.04.03.2001",
-      "name": "Sumberahayu (Sumberrahayu)"
+      "nama": "Sumberahayu (Sumberrahayu)",
+      "id_kec": "34.04.03"
     },
     {
       "id": "34.04.03.2002",
-      "name": "Sumbersari"
+      "nama": "Sumbersari",
+      "id_kec": "34.04.03"
     },
     {
       "id": "34.04.03.2003",
-      "name": "Sumberagung (Sumber Agung)"
+      "nama": "Sumberagung (Sumber Agung)",
+      "id_kec": "34.04.03"
     },
     {
       "id": "34.04.03.2004",
-      "name": "Sumberarum"
+      "nama": "Sumberarum",
+      "id_kec": "34.04.03"
     },
     {
       "id": "34.04.04.2001",
-      "name": "Sendangarum (Sendang Arum)"
+      "nama": "Sendangarum (Sendang Arum)",
+      "id_kec": "34.04.04"
     },
     {
       "id": "34.04.04.2002",
-      "name": "Sendangmulyo (Sendang Mulyo)"
+      "nama": "Sendangmulyo (Sendang Mulyo)",
+      "id_kec": "34.04.04"
     },
     {
       "id": "34.04.04.2003",
-      "name": "Sendangagung"
+      "nama": "Sendangagung",
+      "id_kec": "34.04.04"
     },
     {
       "id": "34.04.04.2004",
-      "name": "Sendangsari"
+      "nama": "Sendangsari",
+      "id_kec": "34.04.04"
     },
     {
       "id": "34.04.04.2005",
-      "name": "Sendangrejo (Sendang Rejo)"
+      "nama": "Sendangrejo (Sendang Rejo)",
+      "id_kec": "34.04.04"
     },
     {
       "id": "34.04.05.2001",
-      "name": "Margoluwih"
+      "nama": "Margoluwih",
+      "id_kec": "34.04.05"
     },
     {
       "id": "34.04.05.2002",
-      "name": "Margodadi"
+      "nama": "Margodadi",
+      "id_kec": "34.04.05"
     },
     {
       "id": "34.04.05.2003",
-      "name": "Margokaton"
+      "nama": "Margokaton",
+      "id_kec": "34.04.05"
     },
     {
       "id": "34.04.05.2004",
-      "name": "Margomulyo"
+      "nama": "Margomulyo",
+      "id_kec": "34.04.05"
     },
     {
       "id": "34.04.05.2005",
-      "name": "Margoagung"
+      "nama": "Margoagung",
+      "id_kec": "34.04.05"
     },
     {
       "id": "34.04.06.2001",
-      "name": "Sinduadi"
+      "nama": "Sinduadi",
+      "id_kec": "34.04.06"
     },
     {
       "id": "34.04.06.2002",
-      "name": "Sendangadi"
+      "nama": "Sendangadi",
+      "id_kec": "34.04.06"
     },
     {
       "id": "34.04.06.2003",
-      "name": "Tlogoadi"
+      "nama": "Tlogoadi",
+      "id_kec": "34.04.06"
     },
     {
       "id": "34.04.06.2004",
-      "name": "Tirtoadi"
+      "nama": "Tirtoadi",
+      "id_kec": "34.04.06"
     },
     {
       "id": "34.04.06.2005",
-      "name": "Sumberadi"
+      "nama": "Sumberadi",
+      "id_kec": "34.04.06"
     },
     {
       "id": "34.04.07.2001",
-      "name": "Caturtunggal (Catur Tunggal)"
+      "nama": "Caturtunggal (Catur Tunggal)",
+      "id_kec": "34.04.07"
     },
     {
       "id": "34.04.07.2002",
-      "name": "Maguwoharjo"
+      "nama": "Maguwoharjo",
+      "id_kec": "34.04.07"
     },
     {
       "id": "34.04.07.2003",
-      "name": "Condongcatur (Condong Catur)"
+      "nama": "Condongcatur (Condong Catur)",
+      "id_kec": "34.04.07"
     },
     {
       "id": "34.04.08.2001",
-      "name": "Sendangtirto (Sendang Tirto)"
+      "nama": "Sendangtirto (Sendang Tirto)",
+      "id_kec": "34.04.08"
     },
     {
       "id": "34.04.08.2002",
-      "name": "Tegaltirto (Tegal Tirto)"
+      "nama": "Tegaltirto (Tegal Tirto)",
+      "id_kec": "34.04.08"
     },
     {
       "id": "34.04.08.2003",
-      "name": "Kalitirto (Kali Tirto)"
+      "nama": "Kalitirto (Kali Tirto)",
+      "id_kec": "34.04.08"
     },
     {
       "id": "34.04.08.2004",
-      "name": "Jogotirto (Jogo Tirto)"
+      "nama": "Jogotirto (Jogo Tirto)",
+      "id_kec": "34.04.08"
     },
     {
       "id": "34.04.09.2001",
-      "name": "Sumberharjo (Sumber Harjo)"
+      "nama": "Sumberharjo (Sumber Harjo)",
+      "id_kec": "34.04.09"
     },
     {
       "id": "34.04.09.2002",
-      "name": "Wukirharjo (Wukir Harjo)"
+      "nama": "Wukirharjo (Wukir Harjo)",
+      "id_kec": "34.04.09"
     },
     {
       "id": "34.04.09.2003",
-      "name": "Gayamharjo (Gayam Harjo)"
+      "nama": "Gayamharjo (Gayam Harjo)",
+      "id_kec": "34.04.09"
     },
     {
       "id": "34.04.09.2004",
-      "name": "Sambirejo (Sambi Rejo)"
+      "nama": "Sambirejo (Sambi Rejo)",
+      "id_kec": "34.04.09"
     },
     {
       "id": "34.04.09.2005",
-      "name": "Madurejo (Madu Rejo)"
+      "nama": "Madurejo (Madu Rejo)",
+      "id_kec": "34.04.09"
     },
     {
       "id": "34.04.09.2006",
-      "name": "Bokoharjo (Boko Harjo)"
+      "nama": "Bokoharjo (Boko Harjo)",
+      "id_kec": "34.04.09"
     },
     {
       "id": "34.04.10.2001",
-      "name": "Purwomartani (Purwo Martani)"
+      "nama": "Purwomartani (Purwo Martani)",
+      "id_kec": "34.04.10"
     },
     {
       "id": "34.04.10.2002",
-      "name": "Tirtomartani (Tirto Martani)"
+      "nama": "Tirtomartani (Tirto Martani)",
+      "id_kec": "34.04.10"
     },
     {
       "id": "34.04.10.2003",
-      "name": "Tamanmartani (Taman Martani)"
+      "nama": "Tamanmartani (Taman Martani)",
+      "id_kec": "34.04.10"
     },
     {
       "id": "34.04.10.2004",
-      "name": "Selomartani (Selo Martani)"
+      "nama": "Selomartani (Selo Martani)",
+      "id_kec": "34.04.10"
     },
     {
       "id": "34.04.11.2001",
-      "name": "Sindumartani"
+      "nama": "Sindumartani",
+      "id_kec": "34.04.11"
     },
     {
       "id": "34.04.11.2002",
-      "name": "Bimomartani (Bimo Martani)"
+      "nama": "Bimomartani (Bimo Martani)",
+      "id_kec": "34.04.11"
     },
     {
       "id": "34.04.11.2003",
-      "name": "Widodomartani (Widodo Martani)"
+      "nama": "Widodomartani (Widodo Martani)",
+      "id_kec": "34.04.11"
     },
     {
       "id": "34.04.11.2004",
-      "name": "Wedomartani"
+      "nama": "Wedomartani",
+      "id_kec": "34.04.11"
     },
     {
       "id": "34.04.11.2005",
-      "name": "Umbulmartani"
+      "nama": "Umbulmartani",
+      "id_kec": "34.04.11"
     },
     {
       "id": "34.04.12.2001",
-      "name": "Sariharjo (Sari Harjo)"
+      "nama": "Sariharjo (Sari Harjo)",
+      "id_kec": "34.04.12"
     },
     {
       "id": "34.04.12.2002",
-      "name": "Minomartani"
+      "nama": "Minomartani",
+      "id_kec": "34.04.12"
     },
     {
       "id": "34.04.12.2003",
-      "name": "Sinduharjo"
+      "nama": "Sinduharjo",
+      "id_kec": "34.04.12"
     },
     {
       "id": "34.04.12.2004",
-      "name": "Sukoharjo (Suko Harjo)"
+      "nama": "Sukoharjo (Suko Harjo)",
+      "id_kec": "34.04.12"
     },
     {
       "id": "34.04.12.2005",
-      "name": "Sardonoharjo"
+      "nama": "Sardonoharjo",
+      "id_kec": "34.04.12"
     },
     {
       "id": "34.04.12.2006",
-      "name": "Donoharjo"
+      "nama": "Donoharjo",
+      "id_kec": "34.04.12"
     },
     {
       "id": "34.04.13.2001",
-      "name": "Caturharjo (Catur Harjo)"
+      "nama": "Caturharjo (Catur Harjo)",
+      "id_kec": "34.04.13"
     },
     {
       "id": "34.04.13.2002",
-      "name": "Triharjo"
+      "nama": "Triharjo",
+      "id_kec": "34.04.13"
     },
     {
       "id": "34.04.13.2003",
-      "name": "Tridadi"
+      "nama": "Tridadi",
+      "id_kec": "34.04.13"
     },
     {
       "id": "34.04.13.2004",
-      "name": "Pandowoharjo (Pandowo Harjo)"
+      "nama": "Pandowoharjo (Pandowo Harjo)",
+      "id_kec": "34.04.13"
     },
     {
       "id": "34.04.13.2005",
-      "name": "Trimulyo (Tri Mulyo)"
+      "nama": "Trimulyo (Tri Mulyo)",
+      "id_kec": "34.04.13"
     },
     {
       "id": "34.04.14.2001",
-      "name": "Banyurejo (Banyu Rejo)"
+      "nama": "Banyurejo (Banyu Rejo)",
+      "id_kec": "34.04.14"
     },
     {
       "id": "34.04.14.2002",
-      "name": "Tambakrejo (Tambak Rejo)"
+      "nama": "Tambakrejo (Tambak Rejo)",
+      "id_kec": "34.04.14"
     },
     {
       "id": "34.04.14.2003",
-      "name": "Sumberrejo (Sumber Rejo)"
+      "nama": "Sumberrejo (Sumber Rejo)",
+      "id_kec": "34.04.14"
     },
     {
       "id": "34.04.14.2004",
-      "name": "Pondokrejo (Pondok Rejo)"
+      "nama": "Pondokrejo (Pondok Rejo)",
+      "id_kec": "34.04.14"
     },
     {
       "id": "34.04.14.2005",
-      "name": "Mororejo (Moro Rejo)"
+      "nama": "Mororejo (Moro Rejo)",
+      "id_kec": "34.04.14"
     },
     {
       "id": "34.04.14.2006",
-      "name": "Margorejo (Margo Rejo)"
+      "nama": "Margorejo (Margo Rejo)",
+      "id_kec": "34.04.14"
     },
     {
       "id": "34.04.14.2007",
-      "name": "Lumbungrejo (Lumbung Rejo)"
+      "nama": "Lumbungrejo (Lumbung Rejo)",
+      "id_kec": "34.04.14"
     },
     {
       "id": "34.04.14.2008",
-      "name": "Merdikorejo (Merdiko Rejo)"
+      "nama": "Merdikorejo (Merdiko Rejo)",
+      "id_kec": "34.04.14"
     },
     {
       "id": "34.04.15.2001",
-      "name": "Bangunkerto (Bangun Kerto)"
+      "nama": "Bangunkerto (Bangun Kerto)",
+      "id_kec": "34.04.15"
     },
     {
       "id": "34.04.15.2002",
-      "name": "Donokerto"
+      "nama": "Donokerto",
+      "id_kec": "34.04.15"
     },
     {
       "id": "34.04.15.2003",
-      "name": "Girikerto (Giri Kerto)"
+      "nama": "Girikerto (Giri Kerto)",
+      "id_kec": "34.04.15"
     },
     {
       "id": "34.04.15.2004",
-      "name": "Wonokerto (Wono Kerto)"
+      "nama": "Wonokerto (Wono Kerto)",
+      "id_kec": "34.04.15"
     },
     {
       "id": "34.04.16.2001",
-      "name": "Purwobinangun (Purwo Binangun)"
+      "nama": "Purwobinangun (Purwo Binangun)",
+      "id_kec": "34.04.16"
     },
     {
       "id": "34.04.16.2002",
-      "name": "Candibinangun (Candi Binangun)"
+      "nama": "Candibinangun (Candi Binangun)",
+      "id_kec": "34.04.16"
     },
     {
       "id": "34.04.16.2003",
-      "name": "Harjobinangun (Harjo Binangun)"
+      "nama": "Harjobinangun (Harjo Binangun)",
+      "id_kec": "34.04.16"
     },
     {
       "id": "34.04.16.2004",
-      "name": "Pakembinangun (Pakem Binangun)"
+      "nama": "Pakembinangun (Pakem Binangun)",
+      "id_kec": "34.04.16"
     },
     {
       "id": "34.04.16.2005",
-      "name": "Hargobinangun (Hargo Binangun)"
+      "nama": "Hargobinangun (Hargo Binangun)",
+      "id_kec": "34.04.16"
     },
     {
       "id": "34.04.17.2001",
-      "name": "Argomulyo (Argo Mulyo)"
+      "nama": "Argomulyo (Argo Mulyo)",
+      "id_kec": "34.04.17"
     },
     {
       "id": "34.04.17.2002",
-      "name": "Wukirsari (Wukir Sari)"
+      "nama": "Wukirsari (Wukir Sari)",
+      "id_kec": "34.04.17"
     },
     {
       "id": "34.04.17.2003",
-      "name": "Glagaharjo (Glagah Harjo)"
+      "nama": "Glagaharjo (Glagah Harjo)",
+      "id_kec": "34.04.17"
     },
     {
       "id": "34.04.17.2004",
-      "name": "Kepuharjo (Kepuh Harjo)"
+      "nama": "Kepuharjo (Kepuh Harjo)",
+      "id_kec": "34.04.17"
     },
     {
       "id": "34.04.17.2005",
-      "name": "Umbulharjo (Umbul Harjo)"
+      "nama": "Umbulharjo (Umbul Harjo)",
+      "id_kec": "34.04.17"
     },
     {
       "id": "34.71.01.1001",
-      "name": "Kricak"
+      "nama": "Kricak",
+      "id_kec": "34.71.01"
     },
     {
       "id": "34.71.01.1002",
-      "name": "Karangwaru"
+      "nama": "Karangwaru",
+      "id_kec": "34.71.01"
     },
     {
       "id": "34.71.01.1003",
-      "name": "Tegalrejo"
+      "nama": "Tegalrejo",
+      "id_kec": "34.71.01"
     },
     {
       "id": "34.71.01.1004",
-      "name": "Bener"
+      "nama": "Bener",
+      "id_kec": "34.71.01"
     },
     {
       "id": "34.71.02.1001",
-      "name": "Bumijo"
+      "nama": "Bumijo",
+      "id_kec": "34.71.02"
     },
     {
       "id": "34.71.02.1002",
-      "name": "Cokrodiningratan"
+      "nama": "Cokrodiningratan",
+      "id_kec": "34.71.02"
     },
     {
       "id": "34.71.02.1003",
-      "name": "Gowongan"
+      "nama": "Gowongan",
+      "id_kec": "34.71.02"
     },
     {
       "id": "34.71.03.1001",
-      "name": "Demangan"
+      "nama": "Demangan",
+      "id_kec": "34.71.03"
     },
     {
       "id": "34.71.03.1002",
-      "name": "Kotabaru"
+      "nama": "Kotabaru",
+      "id_kec": "34.71.03"
     },
     {
       "id": "34.71.03.1003",
-      "name": "Klitren"
+      "nama": "Klitren",
+      "id_kec": "34.71.03"
     },
     {
       "id": "34.71.03.1004",
-      "name": "Baciro"
+      "nama": "Baciro",
+      "id_kec": "34.71.03"
     },
     {
       "id": "34.71.03.1005",
-      "name": "Terban"
+      "nama": "Terban",
+      "id_kec": "34.71.03"
     },
     {
       "id": "34.71.04.1001",
-      "name": "Suryatmajan"
+      "nama": "Suryatmajan",
+      "id_kec": "34.71.04"
     },
     {
       "id": "34.71.04.1002",
-      "name": "Tegalpanggung (Tegal Panggung)"
+      "nama": "Tegalpanggung (Tegal Panggung)",
+      "id_kec": "34.71.04"
     },
     {
       "id": "34.71.04.1003",
-      "name": "Bausasran"
+      "nama": "Bausasran",
+      "id_kec": "34.71.04"
     },
     {
       "id": "34.71.05.1001",
-      "name": "Sosromenduran"
+      "nama": "Sosromenduran",
+      "id_kec": "34.71.05"
     },
     {
       "id": "34.71.05.1002",
-      "name": "Pringgokusuman"
+      "nama": "Pringgokusuman",
+      "id_kec": "34.71.05"
     },
     {
       "id": "34.71.06.1001",
-      "name": "Ngampilan"
+      "nama": "Ngampilan",
+      "id_kec": "34.71.06"
     },
     {
       "id": "34.71.06.1002",
-      "name": "Notoprajan"
+      "nama": "Notoprajan",
+      "id_kec": "34.71.06"
     },
     {
       "id": "34.71.07.1001",
-      "name": "Pakuncen"
+      "nama": "Pakuncen",
+      "id_kec": "34.71.07"
     },
     {
       "id": "34.71.07.1002",
-      "name": "Wirobrajan"
+      "nama": "Wirobrajan",
+      "id_kec": "34.71.07"
     },
     {
       "id": "34.71.07.1003",
-      "name": "Patangpuluhan"
+      "nama": "Patangpuluhan",
+      "id_kec": "34.71.07"
     },
     {
       "id": "34.71.08.1001",
-      "name": "Gedongkiwo"
+      "nama": "Gedongkiwo",
+      "id_kec": "34.71.08"
     },
     {
       "id": "34.71.08.1002",
-      "name": "Suryodiningratan"
+      "nama": "Suryodiningratan",
+      "id_kec": "34.71.08"
     },
     {
       "id": "34.71.08.1003",
-      "name": "Mantrijeron"
+      "nama": "Mantrijeron",
+      "id_kec": "34.71.08"
     },
     {
       "id": "34.71.09.1001",
-      "name": "Patehan"
+      "nama": "Patehan",
+      "id_kec": "34.71.09"
     },
     {
       "id": "34.71.09.1002",
-      "name": "Panembahan"
+      "nama": "Panembahan",
+      "id_kec": "34.71.09"
     },
     {
       "id": "34.71.09.1003",
-      "name": "Kadipaten"
+      "nama": "Kadipaten",
+      "id_kec": "34.71.09"
     },
     {
       "id": "34.71.10.1001",
-      "name": "Ngupasan"
+      "nama": "Ngupasan",
+      "id_kec": "34.71.10"
     },
     {
       "id": "34.71.10.1002",
-      "name": "Prawirodirjan"
+      "nama": "Prawirodirjan",
+      "id_kec": "34.71.10"
     },
     {
       "id": "34.71.11.1001",
-      "name": "Purwokinanti (Purwo Kinanti)"
+      "nama": "Purwokinanti (Purwo Kinanti)",
+      "id_kec": "34.71.11"
     },
     {
       "id": "34.71.11.1002",
-      "name": "Gunungketur (Gunung Ketur)"
+      "nama": "Gunungketur (Gunung Ketur)",
+      "id_kec": "34.71.11"
     },
     {
       "id": "34.71.12.1001",
-      "name": "Keparakan"
+      "nama": "Keparakan",
+      "id_kec": "34.71.12"
     },
     {
       "id": "34.71.12.1002",
-      "name": "Wirogunan"
+      "nama": "Wirogunan",
+      "id_kec": "34.71.12"
     },
     {
       "id": "34.71.12.1003",
-      "name": "Brontokusuman"
+      "nama": "Brontokusuman",
+      "id_kec": "34.71.12"
     },
     {
       "id": "34.71.13.1001",
-      "name": "Semaki"
+      "nama": "Semaki",
+      "id_kec": "34.71.13"
     },
     {
       "id": "34.71.13.1002",
-      "name": "Muja Muju"
+      "nama": "Muja Muju",
+      "id_kec": "34.71.13"
     },
     {
       "id": "34.71.13.1003",
-      "name": "Tahunan"
+      "nama": "Tahunan",
+      "id_kec": "34.71.13"
     },
     {
       "id": "34.71.13.1004",
-      "name": "Warungboto"
+      "nama": "Warungboto",
+      "id_kec": "34.71.13"
     },
     {
       "id": "34.71.13.1005",
-      "name": "Pandeyan"
+      "nama": "Pandeyan",
+      "id_kec": "34.71.13"
     },
     {
       "id": "34.71.13.1006",
-      "name": "Sorosutan"
+      "nama": "Sorosutan",
+      "id_kec": "34.71.13"
     },
     {
       "id": "34.71.13.1007",
-      "name": "Giwangan"
+      "nama": "Giwangan",
+      "id_kec": "34.71.13"
     },
     {
       "id": "34.71.14.1001",
-      "name": "Rejowinangun"
+      "nama": "Rejowinangun",
+      "id_kec": "34.71.14"
     },
     {
       "id": "34.71.14.1002",
-      "name": "Prenggan"
+      "nama": "Prenggan",
+      "id_kec": "34.71.14"
     },
     {
       "id": "34.71.14.1003",
-      "name": "Purbayan"
+      "nama": "Purbayan",
+      "id_kec": "34.71.14"
     }
   ]
 }

@@ -1,1280 +1,1597 @@
 {
   "province": {
     "id": "31",
-    "name": "DKI Jakarta"
+    "nama": "DKI Jakarta"
   },
   "cities": [
     {
       "id": "31.01",
-      "name": "Kepulauan Seribu"
+      "nama": "Kepulauan Seribu",
+      "id_prov": "31"
     },
     {
       "id": "31.71",
-      "name": "Kota Jakarta Pusat"
+      "nama": "Kota Jakarta Pusat",
+      "id_prov": "31"
     },
     {
       "id": "31.72",
-      "name": "Kota Jakarta Utara"
+      "nama": "Kota Jakarta Utara",
+      "id_prov": "31"
     },
     {
       "id": "31.73",
-      "name": "Kota Jakarta Barat"
+      "nama": "Kota Jakarta Barat",
+      "id_prov": "31"
     },
     {
       "id": "31.74",
-      "name": "Kota Jakarta Selatan"
+      "nama": "Kota Jakarta Selatan",
+      "id_prov": "31"
     },
     {
       "id": "31.75",
-      "name": "Kota Jakarta Timur"
+      "nama": "Kota Jakarta Timur",
+      "id_prov": "31"
     }
   ],
   "districts": [
     {
       "id": "31.01.01",
-      "name": "Kepulauan Seribu Utara"
+      "nama": "Kepulauan Seribu Utara",
+      "id_kab": "31.01"
     },
     {
       "id": "31.01.02",
-      "name": "Kepulauan Seribu Selatan"
+      "nama": "Kepulauan Seribu Selatan",
+      "id_kab": "31.01"
     },
     {
       "id": "31.71.01",
-      "name": "Gambir"
+      "nama": "Gambir",
+      "id_kab": "31.71"
     },
     {
       "id": "31.71.02",
-      "name": "Sawah Besar"
+      "nama": "Sawah Besar",
+      "id_kab": "31.71"
     },
     {
       "id": "31.71.03",
-      "name": "Kemayoran"
+      "nama": "Kemayoran",
+      "id_kab": "31.71"
     },
     {
       "id": "31.71.04",
-      "name": "Senen"
+      "nama": "Senen",
+      "id_kab": "31.71"
     },
     {
       "id": "31.71.05",
-      "name": "Cempaka Putih"
+      "nama": "Cempaka Putih",
+      "id_kab": "31.71"
     },
     {
       "id": "31.71.06",
-      "name": "Menteng"
+      "nama": "Menteng",
+      "id_kab": "31.71"
     },
     {
       "id": "31.71.07",
-      "name": "Tanah Abang"
+      "nama": "Tanah Abang",
+      "id_kab": "31.71"
     },
     {
       "id": "31.71.08",
-      "name": "Johar Baru"
+      "nama": "Johar Baru",
+      "id_kab": "31.71"
     },
     {
       "id": "31.72.01",
-      "name": "Penjaringan"
+      "nama": "Penjaringan",
+      "id_kab": "31.72"
     },
     {
       "id": "31.72.02",
-      "name": "Tanjung Priok"
+      "nama": "Tanjung Priok",
+      "id_kab": "31.72"
     },
     {
       "id": "31.72.03",
-      "name": "Koja"
+      "nama": "Koja",
+      "id_kab": "31.72"
     },
     {
       "id": "31.72.04",
-      "name": "Cilincing"
+      "nama": "Cilincing",
+      "id_kab": "31.72"
     },
     {
       "id": "31.72.05",
-      "name": "Pademangan"
+      "nama": "Pademangan",
+      "id_kab": "31.72"
     },
     {
       "id": "31.72.06",
-      "name": "Kelapa Gading"
+      "nama": "Kelapa Gading",
+      "id_kab": "31.72"
     },
     {
       "id": "31.73.01",
-      "name": "Cengkareng"
+      "nama": "Cengkareng",
+      "id_kab": "31.73"
     },
     {
       "id": "31.73.02",
-      "name": "Grogol Petamburan"
+      "nama": "Grogol Petamburan",
+      "id_kab": "31.73"
     },
     {
       "id": "31.73.03",
-      "name": "Taman Sari"
+      "nama": "Taman Sari",
+      "id_kab": "31.73"
     },
     {
       "id": "31.73.04",
-      "name": "Tambora"
+      "nama": "Tambora",
+      "id_kab": "31.73"
     },
     {
       "id": "31.73.05",
-      "name": "Kebon Jeruk"
+      "nama": "Kebon Jeruk",
+      "id_kab": "31.73"
     },
     {
       "id": "31.73.06",
-      "name": "Kalideres"
+      "nama": "Kalideres",
+      "id_kab": "31.73"
     },
     {
       "id": "31.73.07",
-      "name": "Pal Merah (Palmerah)"
+      "nama": "Pal Merah (Palmerah)",
+      "id_kab": "31.73"
     },
     {
       "id": "31.73.08",
-      "name": "Kembangan"
+      "nama": "Kembangan",
+      "id_kab": "31.73"
     },
     {
       "id": "31.74.01",
-      "name": "Tebet"
+      "nama": "Tebet",
+      "id_kab": "31.74"
     },
     {
       "id": "31.74.02",
-      "name": "Setiabudi (Setia Budi)"
+      "nama": "Setiabudi (Setia Budi)",
+      "id_kab": "31.74"
     },
     {
       "id": "31.74.03",
-      "name": "Mampang Prapatan"
+      "nama": "Mampang Prapatan",
+      "id_kab": "31.74"
     },
     {
       "id": "31.74.04",
-      "name": "Pasar Minggu"
+      "nama": "Pasar Minggu",
+      "id_kab": "31.74"
     },
     {
       "id": "31.74.05",
-      "name": "Kebayoran Lama"
+      "nama": "Kebayoran Lama",
+      "id_kab": "31.74"
     },
     {
       "id": "31.74.06",
-      "name": "Cilandak"
+      "nama": "Cilandak",
+      "id_kab": "31.74"
     },
     {
       "id": "31.74.07",
-      "name": "Kebayoran Baru"
+      "nama": "Kebayoran Baru",
+      "id_kab": "31.74"
     },
     {
       "id": "31.74.08",
-      "name": "Pancoran"
+      "nama": "Pancoran",
+      "id_kab": "31.74"
     },
     {
       "id": "31.74.09",
-      "name": "Jagakarsa"
+      "nama": "Jagakarsa",
+      "id_kab": "31.74"
     },
     {
       "id": "31.74.10",
-      "name": "Pesanggrahan"
+      "nama": "Pesanggrahan",
+      "id_kab": "31.74"
     },
     {
       "id": "31.75.01",
-      "name": "Matraman"
+      "nama": "Matraman",
+      "id_kab": "31.75"
     },
     {
       "id": "31.75.02",
-      "name": "Pulogadung (Pulo Gadung)"
+      "nama": "Pulogadung (Pulo Gadung)",
+      "id_kab": "31.75"
     },
     {
       "id": "31.75.03",
-      "name": "Jatinegara"
+      "nama": "Jatinegara",
+      "id_kab": "31.75"
     },
     {
       "id": "31.75.04",
-      "name": "Kramatjati (Kramat Jati)"
+      "nama": "Kramatjati (Kramat Jati)",
+      "id_kab": "31.75"
     },
     {
       "id": "31.75.05",
-      "name": "Pasar Rebo"
+      "nama": "Pasar Rebo",
+      "id_kab": "31.75"
     },
     {
       "id": "31.75.06",
-      "name": "Cakung"
+      "nama": "Cakung",
+      "id_kab": "31.75"
     },
     {
       "id": "31.75.07",
-      "name": "Duren Sawit"
+      "nama": "Duren Sawit",
+      "id_kab": "31.75"
     },
     {
       "id": "31.75.08",
-      "name": "Makasar"
+      "nama": "Makasar",
+      "id_kab": "31.75"
     },
     {
       "id": "31.75.09",
-      "name": "Ciracas"
+      "nama": "Ciracas",
+      "id_kab": "31.75"
     },
     {
       "id": "31.75.10",
-      "name": "Cipayung"
+      "nama": "Cipayung",
+      "id_kab": "31.75"
     }
   ],
   "villages": [
     {
       "id": "31.01.01.1001",
-      "name": "Pulau Panggang"
+      "nama": "Pulau Panggang",
+      "id_kec": "31.01.01"
     },
     {
       "id": "31.01.01.1002",
-      "name": "Pulau Kelapa"
+      "nama": "Pulau Kelapa",
+      "id_kec": "31.01.01"
     },
     {
       "id": "31.01.01.1003",
-      "name": "Pulau Harapan"
+      "nama": "Pulau Harapan",
+      "id_kec": "31.01.01"
     },
     {
       "id": "31.01.02.1001",
-      "name": "Pulau Untung Jawa"
+      "nama": "Pulau Untung Jawa",
+      "id_kec": "31.01.02"
     },
     {
       "id": "31.01.02.1002",
-      "name": "Pulau Tidung"
+      "nama": "Pulau Tidung",
+      "id_kec": "31.01.02"
     },
     {
       "id": "31.01.02.1003",
-      "name": "Pulau Pari"
+      "nama": "Pulau Pari",
+      "id_kec": "31.01.02"
     },
     {
       "id": "31.71.01.1001",
-      "name": "Gambir"
+      "nama": "Gambir",
+      "id_kec": "31.71.01"
     },
     {
       "id": "31.71.01.1002",
-      "name": "Cideng"
+      "nama": "Cideng",
+      "id_kec": "31.71.01"
     },
     {
       "id": "31.71.01.1003",
-      "name": "Petojo Utara"
+      "nama": "Petojo Utara",
+      "id_kec": "31.71.01"
     },
     {
       "id": "31.71.01.1004",
-      "name": "Petojo Selatan"
+      "nama": "Petojo Selatan",
+      "id_kec": "31.71.01"
     },
     {
       "id": "31.71.01.1005",
-      "name": "Kebon Kelapa"
+      "nama": "Kebon Kelapa",
+      "id_kec": "31.71.01"
     },
     {
       "id": "31.71.01.1006",
-      "name": "Duri Pulo"
+      "nama": "Duri Pulo",
+      "id_kec": "31.71.01"
     },
     {
       "id": "31.71.02.1001",
-      "name": "Pasar Baru"
+      "nama": "Pasar Baru",
+      "id_kec": "31.71.02"
     },
     {
       "id": "31.71.02.1002",
-      "name": "Karang Anyar"
+      "nama": "Karang Anyar",
+      "id_kec": "31.71.02"
     },
     {
       "id": "31.71.02.1003",
-      "name": "Kartini"
+      "nama": "Kartini",
+      "id_kec": "31.71.02"
     },
     {
       "id": "31.71.02.1004",
-      "name": "Gunung Sahari Utara"
+      "nama": "Gunung Sahari Utara",
+      "id_kec": "31.71.02"
     },
     {
       "id": "31.71.02.1005",
-      "name": "Mangga Dua Selatan"
+      "nama": "Mangga Dua Selatan",
+      "id_kec": "31.71.02"
     },
     {
       "id": "31.71.03.1001",
-      "name": "Kemayoran"
+      "nama": "Kemayoran",
+      "id_kec": "31.71.03"
     },
     {
       "id": "31.71.03.1002",
-      "name": "Kebon Kosong"
+      "nama": "Kebon Kosong",
+      "id_kec": "31.71.03"
     },
     {
       "id": "31.71.03.1003",
-      "name": "Harapan Mulia (Harapan Mulya)"
+      "nama": "Harapan Mulia (Harapan Mulya)",
+      "id_kec": "31.71.03"
     },
     {
       "id": "31.71.03.1004",
-      "name": "Serdang"
+      "nama": "Serdang",
+      "id_kec": "31.71.03"
     },
     {
       "id": "31.71.03.1005",
-      "name": "Gunung Sahari Selatan"
+      "nama": "Gunung Sahari Selatan",
+      "id_kec": "31.71.03"
     },
     {
       "id": "31.71.03.1006",
-      "name": "Cempaka Baru"
+      "nama": "Cempaka Baru",
+      "id_kec": "31.71.03"
     },
     {
       "id": "31.71.03.1007",
-      "name": "Sumur Batu"
+      "nama": "Sumur Batu",
+      "id_kec": "31.71.03"
     },
     {
       "id": "31.71.03.1008",
-      "name": "Utan Panjang"
+      "nama": "Utan Panjang",
+      "id_kec": "31.71.03"
     },
     {
       "id": "31.71.04.1001",
-      "name": "Senen"
+      "nama": "Senen",
+      "id_kec": "31.71.04"
     },
     {
       "id": "31.71.04.1002",
-      "name": "Kenari"
+      "nama": "Kenari",
+      "id_kec": "31.71.04"
     },
     {
       "id": "31.71.04.1003",
-      "name": "Paseban"
+      "nama": "Paseban",
+      "id_kec": "31.71.04"
     },
     {
       "id": "31.71.04.1004",
-      "name": "Kramat"
+      "nama": "Kramat",
+      "id_kec": "31.71.04"
     },
     {
       "id": "31.71.04.1005",
-      "name": "Kwitang"
+      "nama": "Kwitang",
+      "id_kec": "31.71.04"
     },
     {
       "id": "31.71.04.1006",
-      "name": "Bungur"
+      "nama": "Bungur",
+      "id_kec": "31.71.04"
     },
     {
       "id": "31.71.05.1001",
-      "name": "Cempaka Putih Timur"
+      "nama": "Cempaka Putih Timur",
+      "id_kec": "31.71.05"
     },
     {
       "id": "31.71.05.1002",
-      "name": "Cempaka Putih Barat"
+      "nama": "Cempaka Putih Barat",
+      "id_kec": "31.71.05"
     },
     {
       "id": "31.71.05.1003",
-      "name": "Rawasari"
+      "nama": "Rawasari",
+      "id_kec": "31.71.05"
     },
     {
       "id": "31.71.06.1001",
-      "name": "Menteng"
+      "nama": "Menteng",
+      "id_kec": "31.71.06"
     },
     {
       "id": "31.71.06.1002",
-      "name": "Pegangsaan"
+      "nama": "Pegangsaan",
+      "id_kec": "31.71.06"
     },
     {
       "id": "31.71.06.1003",
-      "name": "Cikini"
+      "nama": "Cikini",
+      "id_kec": "31.71.06"
     },
     {
       "id": "31.71.06.1004",
-      "name": "Gondangdia"
+      "nama": "Gondangdia",
+      "id_kec": "31.71.06"
     },
     {
       "id": "31.71.06.1005",
-      "name": "Kebon Sirih"
+      "nama": "Kebon Sirih",
+      "id_kec": "31.71.06"
     },
     {
       "id": "31.71.07.1001",
-      "name": "Gelora"
+      "nama": "Gelora",
+      "id_kec": "31.71.07"
     },
     {
       "id": "31.71.07.1002",
-      "name": "Bendungan Hilir"
+      "nama": "Bendungan Hilir",
+      "id_kec": "31.71.07"
     },
     {
       "id": "31.71.07.1003",
-      "name": "Karet Tengsin"
+      "nama": "Karet Tengsin",
+      "id_kec": "31.71.07"
     },
     {
       "id": "31.71.07.1004",
-      "name": "Petamburan"
+      "nama": "Petamburan",
+      "id_kec": "31.71.07"
     },
     {
       "id": "31.71.07.1005",
-      "name": "Kebon Melati"
+      "nama": "Kebon Melati",
+      "id_kec": "31.71.07"
     },
     {
       "id": "31.71.07.1006",
-      "name": "Kebon Kacang"
+      "nama": "Kebon Kacang",
+      "id_kec": "31.71.07"
     },
     {
       "id": "31.71.07.1007",
-      "name": "Kampung Bali"
+      "nama": "Kampung Bali",
+      "id_kec": "31.71.07"
     },
     {
       "id": "31.71.08.1001",
-      "name": "Johar Baru"
+      "nama": "Johar Baru",
+      "id_kec": "31.71.08"
     },
     {
       "id": "31.71.08.1002",
-      "name": "Kampung Rawa"
+      "nama": "Kampung Rawa",
+      "id_kec": "31.71.08"
     },
     {
       "id": "31.71.08.1003",
-      "name": "Galur"
+      "nama": "Galur",
+      "id_kec": "31.71.08"
     },
     {
       "id": "31.71.08.1004",
-      "name": "Tanah Tinggi"
+      "nama": "Tanah Tinggi",
+      "id_kec": "31.71.08"
     },
     {
       "id": "31.72.01.1001",
-      "name": "Penjaringan"
+      "nama": "Penjaringan",
+      "id_kec": "31.72.01"
     },
     {
       "id": "31.72.01.1002",
-      "name": "Kamal Muara"
+      "nama": "Kamal Muara",
+      "id_kec": "31.72.01"
     },
     {
       "id": "31.72.01.1003",
-      "name": "Kapuk Muara"
+      "nama": "Kapuk Muara",
+      "id_kec": "31.72.01"
     },
     {
       "id": "31.72.01.1004",
-      "name": "Pejagalan"
+      "nama": "Pejagalan",
+      "id_kec": "31.72.01"
     },
     {
       "id": "31.72.01.1005",
-      "name": "Pluit"
+      "nama": "Pluit",
+      "id_kec": "31.72.01"
     },
     {
       "id": "31.72.02.1001",
-      "name": "Tanjung Priok"
+      "nama": "Tanjung Priok",
+      "id_kec": "31.72.02"
     },
     {
       "id": "31.72.02.1002",
-      "name": "Sunter Jaya"
+      "nama": "Sunter Jaya",
+      "id_kec": "31.72.02"
     },
     {
       "id": "31.72.02.1003",
-      "name": "Papanggo"
+      "nama": "Papanggo",
+      "id_kec": "31.72.02"
     },
     {
       "id": "31.72.02.1004",
-      "name": "Sungai Bambu"
+      "nama": "Sungai Bambu",
+      "id_kec": "31.72.02"
     },
     {
       "id": "31.72.02.1005",
-      "name": "Kebon Bawang"
+      "nama": "Kebon Bawang",
+      "id_kec": "31.72.02"
     },
     {
       "id": "31.72.02.1006",
-      "name": "Sunter Agung"
+      "nama": "Sunter Agung",
+      "id_kec": "31.72.02"
     },
     {
       "id": "31.72.02.1007",
-      "name": "Warakas"
+      "nama": "Warakas",
+      "id_kec": "31.72.02"
     },
     {
       "id": "31.72.03.1001",
-      "name": "Koja (Utara, Selatan)"
+      "nama": "Koja (Utara, Selatan)",
+      "id_kec": "31.72.03"
     },
     {
       "id": "31.72.03.1002",
-      "name": "Tugu Utara"
+      "nama": "Tugu Utara",
+      "id_kec": "31.72.03"
     },
     {
       "id": "31.72.03.1003",
-      "name": "Lagoa"
+      "nama": "Lagoa",
+      "id_kec": "31.72.03"
     },
     {
       "id": "31.72.03.1004",
-      "name": "Rawa Badak Utara"
+      "nama": "Rawa Badak Utara",
+      "id_kec": "31.72.03"
     },
     {
       "id": "31.72.03.1005",
-      "name": "Tugu Selatan"
+      "nama": "Tugu Selatan",
+      "id_kec": "31.72.03"
     },
     {
       "id": "31.72.03.1006",
-      "name": "Rawa Badak Selatan"
+      "nama": "Rawa Badak Selatan",
+      "id_kec": "31.72.03"
     },
     {
       "id": "31.72.04.1001",
-      "name": "Cilincing"
+      "nama": "Cilincing",
+      "id_kec": "31.72.04"
     },
     {
       "id": "31.72.04.1002",
-      "name": "Sukapura"
+      "nama": "Sukapura",
+      "id_kec": "31.72.04"
     },
     {
       "id": "31.72.04.1003",
-      "name": "Marunda"
+      "nama": "Marunda",
+      "id_kec": "31.72.04"
     },
     {
       "id": "31.72.04.1004",
-      "name": "Kalibaru (Kali Baru)"
+      "nama": "Kalibaru (Kali Baru)",
+      "id_kec": "31.72.04"
     },
     {
       "id": "31.72.04.1005",
-      "name": "Semper Timur"
+      "nama": "Semper Timur",
+      "id_kec": "31.72.04"
     },
     {
       "id": "31.72.04.1006",
-      "name": "Rorotan"
+      "nama": "Rorotan",
+      "id_kec": "31.72.04"
     },
     {
       "id": "31.72.04.1007",
-      "name": "Semper Barat"
+      "nama": "Semper Barat",
+      "id_kec": "31.72.04"
     },
     {
       "id": "31.72.05.1001",
-      "name": "Pademangan Timur"
+      "nama": "Pademangan Timur",
+      "id_kec": "31.72.05"
     },
     {
       "id": "31.72.05.1002",
-      "name": "Pademangan Barat"
+      "nama": "Pademangan Barat",
+      "id_kec": "31.72.05"
     },
     {
       "id": "31.72.05.1003",
-      "name": "Ancol"
+      "nama": "Ancol",
+      "id_kec": "31.72.05"
     },
     {
       "id": "31.72.06.1001",
-      "name": "Kelapa Gading Timur"
+      "nama": "Kelapa Gading Timur",
+      "id_kec": "31.72.06"
     },
     {
       "id": "31.72.06.1002",
-      "name": "Pegangsaan Dua"
+      "nama": "Pegangsaan Dua",
+      "id_kec": "31.72.06"
     },
     {
       "id": "31.72.06.1003",
-      "name": "Kelapa Gading Barat"
+      "nama": "Kelapa Gading Barat",
+      "id_kec": "31.72.06"
     },
     {
       "id": "31.73.01.1001",
-      "name": "Cengkareng Barat"
+      "nama": "Cengkareng Barat",
+      "id_kec": "31.73.01"
     },
     {
       "id": "31.73.01.1002",
-      "name": "Duri Kosambi"
+      "nama": "Duri Kosambi",
+      "id_kec": "31.73.01"
     },
     {
       "id": "31.73.01.1003",
-      "name": "Rawa Buaya"
+      "nama": "Rawa Buaya",
+      "id_kec": "31.73.01"
     },
     {
       "id": "31.73.01.1004",
-      "name": "Kedaung Kali Angke"
+      "nama": "Kedaung Kali Angke",
+      "id_kec": "31.73.01"
     },
     {
       "id": "31.73.01.1005",
-      "name": "Kapuk"
+      "nama": "Kapuk",
+      "id_kec": "31.73.01"
     },
     {
       "id": "31.73.01.1006",
-      "name": "Cengkareng Timur"
+      "nama": "Cengkareng Timur",
+      "id_kec": "31.73.01"
     },
     {
       "id": "31.73.02.1001",
-      "name": "Grogol"
+      "nama": "Grogol",
+      "id_kec": "31.73.02"
     },
     {
       "id": "31.73.02.1002",
-      "name": "Tanjung Duren Utara"
+      "nama": "Tanjung Duren Utara",
+      "id_kec": "31.73.02"
     },
     {
       "id": "31.73.02.1003",
-      "name": "Tomang"
+      "nama": "Tomang",
+      "id_kec": "31.73.02"
     },
     {
       "id": "31.73.02.1004",
-      "name": "Jelambar"
+      "nama": "Jelambar",
+      "id_kec": "31.73.02"
     },
     {
       "id": "31.73.02.1005",
-      "name": "Tanjung Duren Selatan"
+      "nama": "Tanjung Duren Selatan",
+      "id_kec": "31.73.02"
     },
     {
       "id": "31.73.02.1006",
-      "name": "Jelambar Baru"
+      "nama": "Jelambar Baru",
+      "id_kec": "31.73.02"
     },
     {
       "id": "31.73.02.1007",
-      "name": "Wijaya Kusuma"
+      "nama": "Wijaya Kusuma",
+      "id_kec": "31.73.02"
     },
     {
       "id": "31.73.03.1001",
-      "name": "Taman Sari"
+      "nama": "Taman Sari",
+      "id_kec": "31.73.03"
     },
     {
       "id": "31.73.03.1002",
-      "name": "Krukut"
+      "nama": "Krukut",
+      "id_kec": "31.73.03"
     },
     {
       "id": "31.73.03.1003",
-      "name": "Maphar"
+      "nama": "Maphar",
+      "id_kec": "31.73.03"
     },
     {
       "id": "31.73.03.1004",
-      "name": "Tangki"
+      "nama": "Tangki",
+      "id_kec": "31.73.03"
     },
     {
       "id": "31.73.03.1005",
-      "name": "Mangga Besar"
+      "nama": "Mangga Besar",
+      "id_kec": "31.73.03"
     },
     {
       "id": "31.73.03.1006",
-      "name": "Keagungan"
+      "nama": "Keagungan",
+      "id_kec": "31.73.03"
     },
     {
       "id": "31.73.03.1007",
-      "name": "Glodok"
+      "nama": "Glodok",
+      "id_kec": "31.73.03"
     },
     {
       "id": "31.73.03.1008",
-      "name": "Pinangsia"
+      "nama": "Pinangsia",
+      "id_kec": "31.73.03"
     },
     {
       "id": "31.73.04.1001",
-      "name": "Tambora"
+      "nama": "Tambora",
+      "id_kec": "31.73.04"
     },
     {
       "id": "31.73.04.1002",
-      "name": "Kali Anyar"
+      "nama": "Kali Anyar",
+      "id_kec": "31.73.04"
     },
     {
       "id": "31.73.04.1003",
-      "name": "Duri Utara"
+      "nama": "Duri Utara",
+      "id_kec": "31.73.04"
     },
     {
       "id": "31.73.04.1004",
-      "name": "Tanah Sereal"
+      "nama": "Tanah Sereal",
+      "id_kec": "31.73.04"
     },
     {
       "id": "31.73.04.1005",
-      "name": "Krendang"
+      "nama": "Krendang",
+      "id_kec": "31.73.04"
     },
     {
       "id": "31.73.04.1006",
-      "name": "Jembatan Besi"
+      "nama": "Jembatan Besi",
+      "id_kec": "31.73.04"
     },
     {
       "id": "31.73.04.1007",
-      "name": "Angke"
+      "nama": "Angke",
+      "id_kec": "31.73.04"
     },
     {
       "id": "31.73.04.1008",
-      "name": "Jembatan Lima"
+      "nama": "Jembatan Lima",
+      "id_kec": "31.73.04"
     },
     {
       "id": "31.73.04.1009",
-      "name": "Pekojan"
+      "nama": "Pekojan",
+      "id_kec": "31.73.04"
     },
     {
       "id": "31.73.04.1010",
-      "name": "Roa Malaka"
+      "nama": "Roa Malaka",
+      "id_kec": "31.73.04"
     },
     {
       "id": "31.73.04.1011",
-      "name": "Duri Selatan"
+      "nama": "Duri Selatan",
+      "id_kec": "31.73.04"
     },
     {
       "id": "31.73.05.1001",
-      "name": "Kebon Jeruk"
+      "nama": "Kebon Jeruk",
+      "id_kec": "31.73.05"
     },
     {
       "id": "31.73.05.1002",
-      "name": "Sukabumi Utara (Ilir)"
+      "nama": "Sukabumi Utara (Ilir)",
+      "id_kec": "31.73.05"
     },
     {
       "id": "31.73.05.1003",
-      "name": "Sukabumi Selatan (Udik)"
+      "nama": "Sukabumi Selatan (Udik)",
+      "id_kec": "31.73.05"
     },
     {
       "id": "31.73.05.1004",
-      "name": "Kelapa Dua"
+      "nama": "Kelapa Dua",
+      "id_kec": "31.73.05"
     },
     {
       "id": "31.73.05.1005",
-      "name": "Duri Kepa"
+      "nama": "Duri Kepa",
+      "id_kec": "31.73.05"
     },
     {
       "id": "31.73.05.1006",
-      "name": "Kedoya Utara"
+      "nama": "Kedoya Utara",
+      "id_kec": "31.73.05"
     },
     {
       "id": "31.73.05.1007",
-      "name": "Kedoya Selatan"
+      "nama": "Kedoya Selatan",
+      "id_kec": "31.73.05"
     },
     {
       "id": "31.73.06.1001",
-      "name": "Kalideres"
+      "nama": "Kalideres",
+      "id_kec": "31.73.06"
     },
     {
       "id": "31.73.06.1002",
-      "name": "Semanan"
+      "nama": "Semanan",
+      "id_kec": "31.73.06"
     },
     {
       "id": "31.73.06.1003",
-      "name": "Tegal Alur"
+      "nama": "Tegal Alur",
+      "id_kec": "31.73.06"
     },
     {
       "id": "31.73.06.1004",
-      "name": "Kamal"
+      "nama": "Kamal",
+      "id_kec": "31.73.06"
     },
     {
       "id": "31.73.06.1005",
-      "name": "Pegadungan"
+      "nama": "Pegadungan",
+      "id_kec": "31.73.06"
     },
     {
       "id": "31.73.07.1001",
-      "name": "Palmerah"
+      "nama": "Palmerah",
+      "id_kec": "31.73.07"
     },
     {
       "id": "31.73.07.1002",
-      "name": "Slipi"
+      "nama": "Slipi",
+      "id_kec": "31.73.07"
     },
     {
       "id": "31.73.07.1003",
-      "name": "Kota Bambu Utara"
+      "nama": "Kota Bambu Utara",
+      "id_kec": "31.73.07"
     },
     {
       "id": "31.73.07.1004",
-      "name": "Jatipulo"
+      "nama": "Jatipulo",
+      "id_kec": "31.73.07"
     },
     {
       "id": "31.73.07.1005",
-      "name": "Kemanggisan"
+      "nama": "Kemanggisan",
+      "id_kec": "31.73.07"
     },
     {
       "id": "31.73.07.1006",
-      "name": "Kota Bambu Selatan"
+      "nama": "Kota Bambu Selatan",
+      "id_kec": "31.73.07"
     },
     {
       "id": "31.73.08.1001",
-      "name": "Kembangan Utara"
+      "nama": "Kembangan Utara",
+      "id_kec": "31.73.08"
     },
     {
       "id": "31.73.08.1002",
-      "name": "Meruya Utara (Ilir)"
+      "nama": "Meruya Utara (Ilir)",
+      "id_kec": "31.73.08"
     },
     {
       "id": "31.73.08.1003",
-      "name": "Meruya Selatan (Udik)"
+      "nama": "Meruya Selatan (Udik)",
+      "id_kec": "31.73.08"
     },
     {
       "id": "31.73.08.1004",
-      "name": "Srengseng"
+      "nama": "Srengseng",
+      "id_kec": "31.73.08"
     },
     {
       "id": "31.73.08.1005",
-      "name": "Joglo"
+      "nama": "Joglo",
+      "id_kec": "31.73.08"
     },
     {
       "id": "31.73.08.1006",
-      "name": "Kembangan Selatan"
+      "nama": "Kembangan Selatan",
+      "id_kec": "31.73.08"
     },
     {
       "id": "31.74.01.1001",
-      "name": "Tebet Timur"
+      "nama": "Tebet Timur",
+      "id_kec": "31.74.01"
     },
     {
       "id": "31.74.01.1002",
-      "name": "Tebet Barat"
+      "nama": "Tebet Barat",
+      "id_kec": "31.74.01"
     },
     {
       "id": "31.74.01.1003",
-      "name": "Menteng Dalam"
+      "nama": "Menteng Dalam",
+      "id_kec": "31.74.01"
     },
     {
       "id": "31.74.01.1004",
-      "name": "Kebon Baru"
+      "nama": "Kebon Baru",
+      "id_kec": "31.74.01"
     },
     {
       "id": "31.74.01.1005",
-      "name": "Bukit Duri"
+      "nama": "Bukit Duri",
+      "id_kec": "31.74.01"
     },
     {
       "id": "31.74.01.1006",
-      "name": "Manggarai Selatan"
+      "nama": "Manggarai Selatan",
+      "id_kec": "31.74.01"
     },
     {
       "id": "31.74.01.1007",
-      "name": "Manggarai"
+      "nama": "Manggarai",
+      "id_kec": "31.74.01"
     },
     {
       "id": "31.74.02.1001",
-      "name": "Setia Budi (Setiabudi)"
+      "nama": "Setia Budi (Setiabudi)",
+      "id_kec": "31.74.02"
     },
     {
       "id": "31.74.02.1002",
-      "name": "Karet Semanggi"
+      "nama": "Karet Semanggi",
+      "id_kec": "31.74.02"
     },
     {
       "id": "31.74.02.1003",
-      "name": "Karet Kuningan"
+      "nama": "Karet Kuningan",
+      "id_kec": "31.74.02"
     },
     {
       "id": "31.74.02.1004",
-      "name": "Karet"
+      "nama": "Karet",
+      "id_kec": "31.74.02"
     },
     {
       "id": "31.74.02.1005",
-      "name": "Menteng Atas"
+      "nama": "Menteng Atas",
+      "id_kec": "31.74.02"
     },
     {
       "id": "31.74.02.1006",
-      "name": "Pasar Manggis"
+      "nama": "Pasar Manggis",
+      "id_kec": "31.74.02"
     },
     {
       "id": "31.74.02.1007",
-      "name": "Guntur"
+      "nama": "Guntur",
+      "id_kec": "31.74.02"
     },
     {
       "id": "31.74.02.1008",
-      "name": "Kuningan Timur"
+      "nama": "Kuningan Timur",
+      "id_kec": "31.74.02"
     },
     {
       "id": "31.74.03.1001",
-      "name": "Mampang Prapatan"
+      "nama": "Mampang Prapatan",
+      "id_kec": "31.74.03"
     },
     {
       "id": "31.74.03.1002",
-      "name": "Bangka"
+      "nama": "Bangka",
+      "id_kec": "31.74.03"
     },
     {
       "id": "31.74.03.1003",
-      "name": "Pela Mampang"
+      "nama": "Pela Mampang",
+      "id_kec": "31.74.03"
     },
     {
       "id": "31.74.03.1004",
-      "name": "Tegal Parang"
+      "nama": "Tegal Parang",
+      "id_kec": "31.74.03"
     },
     {
       "id": "31.74.03.1005",
-      "name": "Kuningan Barat"
+      "nama": "Kuningan Barat",
+      "id_kec": "31.74.03"
     },
     {
       "id": "31.74.04.1001",
-      "name": "Pasar Minggu"
+      "nama": "Pasar Minggu",
+      "id_kec": "31.74.04"
     },
     {
       "id": "31.74.04.1002",
-      "name": "Jati Padang"
+      "nama": "Jati Padang",
+      "id_kec": "31.74.04"
     },
     {
       "id": "31.74.04.1003",
-      "name": "Cilandak Timur"
+      "nama": "Cilandak Timur",
+      "id_kec": "31.74.04"
     },
     {
       "id": "31.74.04.1004",
-      "name": "Ragunan"
+      "nama": "Ragunan",
+      "id_kec": "31.74.04"
     },
     {
       "id": "31.74.04.1005",
-      "name": "Pejaten Timur"
+      "nama": "Pejaten Timur",
+      "id_kec": "31.74.04"
     },
     {
       "id": "31.74.04.1006",
-      "name": "Pejaten Barat"
+      "nama": "Pejaten Barat",
+      "id_kec": "31.74.04"
     },
     {
       "id": "31.74.04.1007",
-      "name": "Kebagusan"
+      "nama": "Kebagusan",
+      "id_kec": "31.74.04"
     },
     {
       "id": "31.74.05.1001",
-      "name": "Kebayoran Lama Utara"
+      "nama": "Kebayoran Lama Utara",
+      "id_kec": "31.74.05"
     },
     {
       "id": "31.74.05.1002",
-      "name": "Pondok Pinang"
+      "nama": "Pondok Pinang",
+      "id_kec": "31.74.05"
     },
     {
       "id": "31.74.05.1003",
-      "name": "Cipulir"
+      "nama": "Cipulir",
+      "id_kec": "31.74.05"
     },
     {
       "id": "31.74.05.1004",
-      "name": "Grogol Utara"
+      "nama": "Grogol Utara",
+      "id_kec": "31.74.05"
     },
     {
       "id": "31.74.05.1005",
-      "name": "Grogol Selatan"
+      "nama": "Grogol Selatan",
+      "id_kec": "31.74.05"
     },
     {
       "id": "31.74.05.1006",
-      "name": "Kebayoran Lama Selatan"
+      "nama": "Kebayoran Lama Selatan",
+      "id_kec": "31.74.05"
     },
     {
       "id": "31.74.06.1001",
-      "name": "Cilandak Barat"
+      "nama": "Cilandak Barat",
+      "id_kec": "31.74.06"
     },
     {
       "id": "31.74.06.1002",
-      "name": "Lebak Bulus"
+      "nama": "Lebak Bulus",
+      "id_kec": "31.74.06"
     },
     {
       "id": "31.74.06.1003",
-      "name": "Pondok Labu"
+      "nama": "Pondok Labu",
+      "id_kec": "31.74.06"
     },
     {
       "id": "31.74.06.1004",
-      "name": "Gandaria Selatan"
+      "nama": "Gandaria Selatan",
+      "id_kec": "31.74.06"
     },
     {
       "id": "31.74.06.1005",
-      "name": "Cipete Selatan"
+      "nama": "Cipete Selatan",
+      "id_kec": "31.74.06"
     },
     {
       "id": "31.74.07.1001",
-      "name": "Melawai"
+      "nama": "Melawai",
+      "id_kec": "31.74.07"
     },
     {
       "id": "31.74.07.1002",
-      "name": "Gunung"
+      "nama": "Gunung",
+      "id_kec": "31.74.07"
     },
     {
       "id": "31.74.07.1003",
-      "name": "Kramat Pela"
+      "nama": "Kramat Pela",
+      "id_kec": "31.74.07"
     },
     {
       "id": "31.74.07.1004",
-      "name": "Selong"
+      "nama": "Selong",
+      "id_kec": "31.74.07"
     },
     {
       "id": "31.74.07.1005",
-      "name": "Rawa Barat"
+      "nama": "Rawa Barat",
+      "id_kec": "31.74.07"
     },
     {
       "id": "31.74.07.1006",
-      "name": "Senayan"
+      "nama": "Senayan",
+      "id_kec": "31.74.07"
     },
     {
       "id": "31.74.07.1007",
-      "name": "Pulo"
+      "nama": "Pulo",
+      "id_kec": "31.74.07"
     },
     {
       "id": "31.74.07.1008",
-      "name": "Petogogan"
+      "nama": "Petogogan",
+      "id_kec": "31.74.07"
     },
     {
       "id": "31.74.07.1009",
-      "name": "Gandaria Utara"
+      "nama": "Gandaria Utara",
+      "id_kec": "31.74.07"
     },
     {
       "id": "31.74.07.1010",
-      "name": "Cipete Utara"
+      "nama": "Cipete Utara",
+      "id_kec": "31.74.07"
     },
     {
       "id": "31.74.08.1001",
-      "name": "Pancoran"
+      "nama": "Pancoran",
+      "id_kec": "31.74.08"
     },
     {
       "id": "31.74.08.1002",
-      "name": "Kalibata"
+      "nama": "Kalibata",
+      "id_kec": "31.74.08"
     },
     {
       "id": "31.74.08.1003",
-      "name": "Rawajati (Rawa Jati)"
+      "nama": "Rawajati (Rawa Jati)",
+      "id_kec": "31.74.08"
     },
     {
       "id": "31.74.08.1004",
-      "name": "Duren Tiga"
+      "nama": "Duren Tiga",
+      "id_kec": "31.74.08"
     },
     {
       "id": "31.74.08.1005",
-      "name": "Pengadegan"
+      "nama": "Pengadegan",
+      "id_kec": "31.74.08"
     },
     {
       "id": "31.74.08.1006",
-      "name": "Cikoko"
+      "nama": "Cikoko",
+      "id_kec": "31.74.08"
     },
     {
       "id": "31.74.09.1001",
-      "name": "Jagakarsa"
+      "nama": "Jagakarsa",
+      "id_kec": "31.74.09"
     },
     {
       "id": "31.74.09.1002",
-      "name": "Srengseng Sawah"
+      "nama": "Srengseng Sawah",
+      "id_kec": "31.74.09"
     },
     {
       "id": "31.74.09.1003",
-      "name": "Ciganjur"
+      "nama": "Ciganjur",
+      "id_kec": "31.74.09"
     },
     {
       "id": "31.74.09.1004",
-      "name": "Lenteng Agung"
+      "nama": "Lenteng Agung",
+      "id_kec": "31.74.09"
     },
     {
       "id": "31.74.09.1005",
-      "name": "Tanjung Barat"
+      "nama": "Tanjung Barat",
+      "id_kec": "31.74.09"
     },
     {
       "id": "31.74.09.1006",
-      "name": "Cipedak"
+      "nama": "Cipedak",
+      "id_kec": "31.74.09"
     },
     {
       "id": "31.74.10.1001",
-      "name": "Pesanggrahan"
+      "nama": "Pesanggrahan",
+      "id_kec": "31.74.10"
     },
     {
       "id": "31.74.10.1002",
-      "name": "Bintaro"
+      "nama": "Bintaro",
+      "id_kec": "31.74.10"
     },
     {
       "id": "31.74.10.1003",
-      "name": "Petukangan Utara"
+      "nama": "Petukangan Utara",
+      "id_kec": "31.74.10"
     },
     {
       "id": "31.74.10.1004",
-      "name": "Petukangan Selatan"
+      "nama": "Petukangan Selatan",
+      "id_kec": "31.74.10"
     },
     {
       "id": "31.74.10.1005",
-      "name": "Ulujami"
+      "nama": "Ulujami",
+      "id_kec": "31.74.10"
     },
     {
       "id": "31.75.01.1001",
-      "name": "Pisangan Baru"
+      "nama": "Pisangan Baru",
+      "id_kec": "31.75.01"
     },
     {
       "id": "31.75.01.1002",
-      "name": "Utan Kayu Utara"
+      "nama": "Utan Kayu Utara",
+      "id_kec": "31.75.01"
     },
     {
       "id": "31.75.01.1003",
-      "name": "Kayu Manis"
+      "nama": "Kayu Manis",
+      "id_kec": "31.75.01"
     },
     {
       "id": "31.75.01.1004",
-      "name": "Palmeriam (Pal Meriam)"
+      "nama": "Palmeriam (Pal Meriam)",
+      "id_kec": "31.75.01"
     },
     {
       "id": "31.75.01.1005",
-      "name": "Kebon Manggis"
+      "nama": "Kebon Manggis",
+      "id_kec": "31.75.01"
     },
     {
       "id": "31.75.01.1006",
-      "name": "Utan Kayu Selatan"
+      "nama": "Utan Kayu Selatan",
+      "id_kec": "31.75.01"
     },
     {
       "id": "31.75.02.1001",
-      "name": "Pulo Gadung"
+      "nama": "Pulo Gadung",
+      "id_kec": "31.75.02"
     },
     {
       "id": "31.75.02.1002",
-      "name": "Pisangan Timur"
+      "nama": "Pisangan Timur",
+      "id_kec": "31.75.02"
     },
     {
       "id": "31.75.02.1003",
-      "name": "Cipinang"
+      "nama": "Cipinang",
+      "id_kec": "31.75.02"
     },
     {
       "id": "31.75.02.1004",
-      "name": "Jatinegara Kaum"
+      "nama": "Jatinegara Kaum",
+      "id_kec": "31.75.02"
     },
     {
       "id": "31.75.02.1005",
-      "name": "Rawamangun"
+      "nama": "Rawamangun",
+      "id_kec": "31.75.02"
     },
     {
       "id": "31.75.02.1006",
-      "name": "Kayu Putih"
+      "nama": "Kayu Putih",
+      "id_kec": "31.75.02"
     },
     {
       "id": "31.75.02.1007",
-      "name": "Jati"
+      "nama": "Jati",
+      "id_kec": "31.75.02"
     },
     {
       "id": "31.75.03.1001",
-      "name": "Kampung Melayu"
+      "nama": "Kampung Melayu",
+      "id_kec": "31.75.03"
     },
     {
       "id": "31.75.03.1002",
-      "name": "Bidara Cina (Bidaracina)"
+      "nama": "Bidara Cina (Bidaracina)",
+      "id_kec": "31.75.03"
     },
     {
       "id": "31.75.03.1003",
-      "name": "Bali Mester"
+      "nama": "Bali Mester",
+      "id_kec": "31.75.03"
     },
     {
       "id": "31.75.03.1004",
-      "name": "Rawa Bunga"
+      "nama": "Rawa Bunga",
+      "id_kec": "31.75.03"
     },
     {
       "id": "31.75.03.1005",
-      "name": "Cipinang Cempedak"
+      "nama": "Cipinang Cempedak",
+      "id_kec": "31.75.03"
     },
     {
       "id": "31.75.03.1006",
-      "name": "Cipinang Muara"
+      "nama": "Cipinang Muara",
+      "id_kec": "31.75.03"
     },
     {
       "id": "31.75.03.1007",
-      "name": "Cipinang Besar Selatan"
+      "nama": "Cipinang Besar Selatan",
+      "id_kec": "31.75.03"
     },
     {
       "id": "31.75.03.1008",
-      "name": "Cipinang Besar Utara"
+      "nama": "Cipinang Besar Utara",
+      "id_kec": "31.75.03"
     },
     {
       "id": "31.75.04.1001",
-      "name": "Kramatjati (Kramat Jati)"
+      "nama": "Kramatjati (Kramat Jati)",
+      "id_kec": "31.75.04"
     },
     {
       "id": "31.75.04.1002",
-      "name": "Tengah (Kampung Tengah)"
+      "nama": "Tengah (Kampung Tengah)",
+      "id_kec": "31.75.04"
     },
     {
       "id": "31.75.04.1003",
-      "name": "Dukuh"
+      "nama": "Dukuh",
+      "id_kec": "31.75.04"
     },
     {
       "id": "31.75.04.1004",
-      "name": "Batu Ampar (Batuampar)"
+      "nama": "Batu Ampar (Batuampar)",
+      "id_kec": "31.75.04"
     },
     {
       "id": "31.75.04.1005",
-      "name": "Balekambang"
+      "nama": "Balekambang",
+      "id_kec": "31.75.04"
     },
     {
       "id": "31.75.04.1006",
-      "name": "Cililitan"
+      "nama": "Cililitan",
+      "id_kec": "31.75.04"
     },
     {
       "id": "31.75.04.1007",
-      "name": "Cawang"
+      "nama": "Cawang",
+      "id_kec": "31.75.04"
     },
     {
       "id": "31.75.05.1001",
-      "name": "Gedong"
+      "nama": "Gedong",
+      "id_kec": "31.75.05"
     },
     {
       "id": "31.75.05.1002",
-      "name": "Baru"
+      "nama": "Baru",
+      "id_kec": "31.75.05"
     },
     {
       "id": "31.75.05.1003",
-      "name": "Cijantung"
+      "nama": "Cijantung",
+      "id_kec": "31.75.05"
     },
     {
       "id": "31.75.05.1004",
-      "name": "Kalisari"
+      "nama": "Kalisari",
+      "id_kec": "31.75.05"
     },
     {
       "id": "31.75.05.1005",
-      "name": "Pekayon"
+      "nama": "Pekayon",
+      "id_kec": "31.75.05"
     },
     {
       "id": "31.75.06.1001",
-      "name": "Jatinegara"
+      "nama": "Jatinegara",
+      "id_kec": "31.75.06"
     },
     {
       "id": "31.75.06.1002",
-      "name": "Rawa Terate"
+      "nama": "Rawa Terate",
+      "id_kec": "31.75.06"
     },
     {
       "id": "31.75.06.1003",
-      "name": "Penggilingan"
+      "nama": "Penggilingan",
+      "id_kec": "31.75.06"
     },
     {
       "id": "31.75.06.1004",
-      "name": "Cakung Timur"
+      "nama": "Cakung Timur",
+      "id_kec": "31.75.06"
     },
     {
       "id": "31.75.06.1005",
-      "name": "Pulo Gebang"
+      "nama": "Pulo Gebang",
+      "id_kec": "31.75.06"
     },
     {
       "id": "31.75.06.1006",
-      "name": "Ujung Menteng"
+      "nama": "Ujung Menteng",
+      "id_kec": "31.75.06"
     },
     {
       "id": "31.75.06.1007",
-      "name": "Cakung Barat"
+      "nama": "Cakung Barat",
+      "id_kec": "31.75.06"
     },
     {
       "id": "31.75.07.1001",
-      "name": "Duren Sawit"
+      "nama": "Duren Sawit",
+      "id_kec": "31.75.07"
     },
     {
       "id": "31.75.07.1002",
-      "name": "Pondok Bambu"
+      "nama": "Pondok Bambu",
+      "id_kec": "31.75.07"
     },
     {
       "id": "31.75.07.1003",
-      "name": "Klender"
+      "nama": "Klender",
+      "id_kec": "31.75.07"
     },
     {
       "id": "31.75.07.1004",
-      "name": "Pondok Kelapa"
+      "nama": "Pondok Kelapa",
+      "id_kec": "31.75.07"
     },
     {
       "id": "31.75.07.1005",
-      "name": "Malaka Sari"
+      "nama": "Malaka Sari",
+      "id_kec": "31.75.07"
     },
     {
       "id": "31.75.07.1006",
-      "name": "Malaka Jaya"
+      "nama": "Malaka Jaya",
+      "id_kec": "31.75.07"
     },
     {
       "id": "31.75.07.1007",
-      "name": "Pondok Kopi"
+      "nama": "Pondok Kopi",
+      "id_kec": "31.75.07"
     },
     {
       "id": "31.75.08.1001",
-      "name": "Makasar"
+      "nama": "Makasar",
+      "id_kec": "31.75.08"
     },
     {
       "id": "31.75.08.1002",
-      "name": "Pinangranti (Pinang Ranti)"
+      "nama": "Pinangranti (Pinang Ranti)",
+      "id_kec": "31.75.08"
     },
     {
       "id": "31.75.08.1003",
-      "name": "Kebon Pala"
+      "nama": "Kebon Pala",
+      "id_kec": "31.75.08"
     },
     {
       "id": "31.75.08.1004",
-      "name": "Halim Perdana Kusuma (Halim Perdana Kusumah)"
+      "nama": "Halim Perdana Kusuma (Halim Perdana Kusumah)",
+      "id_kec": "31.75.08"
     },
     {
       "id": "31.75.08.1005",
-      "name": "Cipinang Melayu"
+      "nama": "Cipinang Melayu",
+      "id_kec": "31.75.08"
     },
     {
       "id": "31.75.09.1001",
-      "name": "Ciracas"
+      "nama": "Ciracas",
+      "id_kec": "31.75.09"
     },
     {
       "id": "31.75.09.1002",
-      "name": "Cibubur"
+      "nama": "Cibubur",
+      "id_kec": "31.75.09"
     },
     {
       "id": "31.75.09.1003",
-      "name": "Kelapa Dua Wetan"
+      "nama": "Kelapa Dua Wetan",
+      "id_kec": "31.75.09"
     },
     {
       "id": "31.75.09.1004",
-      "name": "Susukan"
+      "nama": "Susukan",
+      "id_kec": "31.75.09"
     },
     {
       "id": "31.75.09.1005",
-      "name": "Rambutan"
+      "nama": "Rambutan",
+      "id_kec": "31.75.09"
     },
     {
       "id": "31.75.10.1001",
-      "name": "Cipayung"
+      "nama": "Cipayung",
+      "id_kec": "31.75.10"
     },
     {
       "id": "31.75.10.1002",
-      "name": "Cilangkap"
+      "nama": "Cilangkap",
+      "id_kec": "31.75.10"
     },
     {
       "id": "31.75.10.1003",
-      "name": "Pondok Ranggon (Pondok Rangon)"
+      "nama": "Pondok Ranggon (Pondok Rangon)",
+      "id_kec": "31.75.10"
     },
     {
       "id": "31.75.10.1004",
-      "name": "Munjul"
+      "nama": "Munjul",
+      "id_kec": "31.75.10"
     },
     {
       "id": "31.75.10.1005",
-      "name": "Setu"
+      "nama": "Setu",
+      "id_kec": "31.75.10"
     },
     {
       "id": "31.75.10.1006",
-      "name": "Bambu Apus"
+      "nama": "Bambu Apus",
+      "id_kec": "31.75.10"
     },
     {
       "id": "31.75.10.1007",
-      "name": "Lubang Buaya"
+      "nama": "Lubang Buaya",
+      "id_kec": "31.75.10"
     },
     {
       "id": "31.75.10.1008",
-      "name": "Ceger"
+      "nama": "Ceger",
+      "id_kec": "31.75.10"
     }
   ]
 }

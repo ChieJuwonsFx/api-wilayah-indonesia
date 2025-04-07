@@ -1,4624 +1,5777 @@
 {
   "province": {
     "id": "64",
-    "name": "Kalimantan Timur"
+    "nama": "Kalimantan Timur"
   },
   "cities": [
     {
       "id": "64.01",
-      "name": "Paser"
+      "nama": "Paser",
+      "id_prov": "64"
     },
     {
       "id": "64.02",
-      "name": "Kutai Kartanegara"
+      "nama": "Kutai Kartanegara",
+      "id_prov": "64"
     },
     {
       "id": "64.03",
-      "name": "Berau"
+      "nama": "Berau",
+      "id_prov": "64"
     },
     {
       "id": "64.07",
-      "name": "Kutai Barat"
+      "nama": "Kutai Barat",
+      "id_prov": "64"
     },
     {
       "id": "64.08",
-      "name": "Kutai Timur"
+      "nama": "Kutai Timur",
+      "id_prov": "64"
     },
     {
       "id": "64.09",
-      "name": "Penajam Paser Utara"
+      "nama": "Penajam Paser Utara",
+      "id_prov": "64"
     },
     {
       "id": "64.11",
-      "name": "Mahakam Ulu"
+      "nama": "Mahakam Ulu",
+      "id_prov": "64"
     },
     {
       "id": "64.71",
-      "name": "Kota Balikpapan"
+      "nama": "Kota Balikpapan",
+      "id_prov": "64"
     },
     {
       "id": "64.72",
-      "name": "Kota Samarinda"
+      "nama": "Kota Samarinda",
+      "id_prov": "64"
     },
     {
       "id": "64.74",
-      "name": "Kota Bontang"
+      "nama": "Kota Bontang",
+      "id_prov": "64"
     }
   ],
   "districts": [
     {
       "id": "64.01.01",
-      "name": "Batu Sopang"
+      "nama": "Batu Sopang",
+      "id_kab": "64.01"
     },
     {
       "id": "64.01.02",
-      "name": "Tanjung Harapan"
+      "nama": "Tanjung Harapan",
+      "id_kab": "64.01"
     },
     {
       "id": "64.01.03",
-      "name": "Paser Belengkong (Pasir Belengkong)"
+      "nama": "Paser Belengkong (Pasir Belengkong)",
+      "id_kab": "64.01"
     },
     {
       "id": "64.01.04",
-      "name": "Tanah Grogot"
+      "nama": "Tanah Grogot",
+      "id_kab": "64.01"
     },
     {
       "id": "64.01.05",
-      "name": "Kuaro"
+      "nama": "Kuaro",
+      "id_kab": "64.01"
     },
     {
       "id": "64.01.06",
-      "name": "Long Ikis"
+      "nama": "Long Ikis",
+      "id_kab": "64.01"
     },
     {
       "id": "64.01.07",
-      "name": "Muara Komam"
+      "nama": "Muara Komam",
+      "id_kab": "64.01"
     },
     {
       "id": "64.01.08",
-      "name": "Long Kali"
+      "nama": "Long Kali",
+      "id_kab": "64.01"
     },
     {
       "id": "64.01.09",
-      "name": "Batu Engau"
+      "nama": "Batu Engau",
+      "id_kab": "64.01"
     },
     {
       "id": "64.01.10",
-      "name": "Muara Samu"
+      "nama": "Muara Samu",
+      "id_kab": "64.01"
     },
     {
       "id": "64.02.01",
-      "name": "Muara Muntai"
+      "nama": "Muara Muntai",
+      "id_kab": "64.02"
     },
     {
       "id": "64.02.02",
-      "name": "Loa Kulu"
+      "nama": "Loa Kulu",
+      "id_kab": "64.02"
     },
     {
       "id": "64.02.03",
-      "name": "Loa Janan"
+      "nama": "Loa Janan",
+      "id_kab": "64.02"
     },
     {
       "id": "64.02.04",
-      "name": "Anggana"
+      "nama": "Anggana",
+      "id_kab": "64.02"
     },
     {
       "id": "64.02.05",
-      "name": "Muara Badak"
+      "nama": "Muara Badak",
+      "id_kab": "64.02"
     },
     {
       "id": "64.02.06",
-      "name": "Tenggarong"
+      "nama": "Tenggarong",
+      "id_kab": "64.02"
     },
     {
       "id": "64.02.07",
-      "name": "Sebulu"
+      "nama": "Sebulu",
+      "id_kab": "64.02"
     },
     {
       "id": "64.02.08",
-      "name": "Kota Bangun"
+      "nama": "Kota Bangun",
+      "id_kab": "64.02"
     },
     {
       "id": "64.02.09",
-      "name": "Kenohan"
+      "nama": "Kenohan",
+      "id_kab": "64.02"
     },
     {
       "id": "64.02.10",
-      "name": "Kembang Janggut"
+      "nama": "Kembang Janggut",
+      "id_kab": "64.02"
     },
     {
       "id": "64.02.11",
-      "name": "Muara Kaman"
+      "nama": "Muara Kaman",
+      "id_kab": "64.02"
     },
     {
       "id": "64.02.12",
-      "name": "Tabang"
+      "nama": "Tabang",
+      "id_kab": "64.02"
     },
     {
       "id": "64.02.13",
-      "name": "Samboja (Semboja)"
+      "nama": "Samboja (Semboja)",
+      "id_kab": "64.02"
     },
     {
       "id": "64.02.14",
-      "name": "Muara Jawa"
+      "nama": "Muara Jawa",
+      "id_kab": "64.02"
     },
     {
       "id": "64.02.15",
-      "name": "Sanga Sanga"
+      "nama": "Sanga Sanga",
+      "id_kab": "64.02"
     },
     {
       "id": "64.02.16",
-      "name": "Tenggarong Seberang"
+      "nama": "Tenggarong Seberang",
+      "id_kab": "64.02"
     },
     {
       "id": "64.02.17",
-      "name": "Marang Kayu"
+      "nama": "Marang Kayu",
+      "id_kab": "64.02"
     },
     {
       "id": "64.02.18",
-      "name": "Muara Wis"
+      "nama": "Muara Wis",
+      "id_kab": "64.02"
     },
     {
       "id": "64.02.19",
-      "name": "Kota Bangun Darat"
+      "nama": "Kota Bangun Darat",
+      "id_kab": "64.02"
     },
     {
       "id": "64.02.20",
-      "name": "Samboja Barat"
+      "nama": "Samboja Barat",
+      "id_kab": "64.02"
     },
     {
       "id": "64.03.01",
-      "name": "Kelay"
+      "nama": "Kelay",
+      "id_kab": "64.03"
     },
     {
       "id": "64.03.02",
-      "name": "Talisayan"
+      "nama": "Talisayan",
+      "id_kab": "64.03"
     },
     {
       "id": "64.03.03",
-      "name": "Sambaliung"
+      "nama": "Sambaliung",
+      "id_kab": "64.03"
     },
     {
       "id": "64.03.04",
-      "name": "Segah"
+      "nama": "Segah",
+      "id_kab": "64.03"
     },
     {
       "id": "64.03.05",
-      "name": "Tanjung Redeb"
+      "nama": "Tanjung Redeb",
+      "id_kab": "64.03"
     },
     {
       "id": "64.03.06",
-      "name": "Gunung Tabur"
+      "nama": "Gunung Tabur",
+      "id_kab": "64.03"
     },
     {
       "id": "64.03.07",
-      "name": "Pulau Derawan"
+      "nama": "Pulau Derawan",
+      "id_kab": "64.03"
     },
     {
       "id": "64.03.08",
-      "name": "Biduk-Biduk"
+      "nama": "Biduk-Biduk",
+      "id_kab": "64.03"
     },
     {
       "id": "64.03.09",
-      "name": "Teluk Bayur"
+      "nama": "Teluk Bayur",
+      "id_kab": "64.03"
     },
     {
       "id": "64.03.10",
-      "name": "Tabalar"
+      "nama": "Tabalar",
+      "id_kab": "64.03"
     },
     {
       "id": "64.03.11",
-      "name": "Maratua"
+      "nama": "Maratua",
+      "id_kab": "64.03"
     },
     {
       "id": "64.03.12",
-      "name": "Batu Putih"
+      "nama": "Batu Putih",
+      "id_kab": "64.03"
     },
     {
       "id": "64.03.13",
-      "name": "Biatan"
+      "nama": "Biatan",
+      "id_kab": "64.03"
     },
     {
       "id": "64.07.05",
-      "name": "Long Iram"
+      "nama": "Long Iram",
+      "id_kab": "64.07"
     },
     {
       "id": "64.07.06",
-      "name": "Melak"
+      "nama": "Melak",
+      "id_kab": "64.07"
     },
     {
       "id": "64.07.07",
-      "name": "Barong Tongkok"
+      "nama": "Barong Tongkok",
+      "id_kab": "64.07"
     },
     {
       "id": "64.07.08",
-      "name": "Damai"
+      "nama": "Damai",
+      "id_kab": "64.07"
     },
     {
       "id": "64.07.09",
-      "name": "Muara Lawa"
+      "nama": "Muara Lawa",
+      "id_kab": "64.07"
     },
     {
       "id": "64.07.10",
-      "name": "Muara Pahu"
+      "nama": "Muara Pahu",
+      "id_kab": "64.07"
     },
     {
       "id": "64.07.11",
-      "name": "Jempang"
+      "nama": "Jempang",
+      "id_kab": "64.07"
     },
     {
       "id": "64.07.12",
-      "name": "Bongan"
+      "nama": "Bongan",
+      "id_kab": "64.07"
     },
     {
       "id": "64.07.13",
-      "name": "Penyinggahan"
+      "nama": "Penyinggahan",
+      "id_kab": "64.07"
     },
     {
       "id": "64.07.14",
-      "name": "Bentian Besar"
+      "nama": "Bentian Besar",
+      "id_kab": "64.07"
     },
     {
       "id": "64.07.15",
-      "name": "Linggang Bigung"
+      "nama": "Linggang Bigung",
+      "id_kab": "64.07"
     },
     {
       "id": "64.07.16",
-      "name": "Nyuatan"
+      "nama": "Nyuatan",
+      "id_kab": "64.07"
     },
     {
       "id": "64.07.17",
-      "name": "Siluq Ngurai"
+      "nama": "Siluq Ngurai",
+      "id_kab": "64.07"
     },
     {
       "id": "64.07.18",
-      "name": "Mook Manaar Bulatn"
+      "nama": "Mook Manaar Bulatn",
+      "id_kab": "64.07"
     },
     {
       "id": "64.07.19",
-      "name": "Tering"
+      "nama": "Tering",
+      "id_kab": "64.07"
     },
     {
       "id": "64.07.20",
-      "name": "Sekolaq Darat"
+      "nama": "Sekolaq Darat",
+      "id_kab": "64.07"
     },
     {
       "id": "64.08.01",
-      "name": "Muara Ancalong"
+      "nama": "Muara Ancalong",
+      "id_kab": "64.08"
     },
     {
       "id": "64.08.02",
-      "name": "Muara Wahau"
+      "nama": "Muara Wahau",
+      "id_kab": "64.08"
     },
     {
       "id": "64.08.03",
-      "name": "Muara Bengkal"
+      "nama": "Muara Bengkal",
+      "id_kab": "64.08"
     },
     {
       "id": "64.08.04",
-      "name": "Sangatta Utara"
+      "nama": "Sangatta Utara",
+      "id_kab": "64.08"
     },
     {
       "id": "64.08.05",
-      "name": "Sangkulirang"
+      "nama": "Sangkulirang",
+      "id_kab": "64.08"
     },
     {
       "id": "64.08.06",
-      "name": "Busang"
+      "nama": "Busang",
+      "id_kab": "64.08"
     },
     {
       "id": "64.08.07",
-      "name": "Telen"
+      "nama": "Telen",
+      "id_kab": "64.08"
     },
     {
       "id": "64.08.08",
-      "name": "Kombeng (Kongbeng)"
+      "nama": "Kombeng (Kongbeng)",
+      "id_kab": "64.08"
     },
     {
       "id": "64.08.09",
-      "name": "Bengalon"
+      "nama": "Bengalon",
+      "id_kab": "64.08"
     },
     {
       "id": "64.08.10",
-      "name": "Kaliorang"
+      "nama": "Kaliorang",
+      "id_kab": "64.08"
     },
     {
       "id": "64.08.11",
-      "name": "Sandaran"
+      "nama": "Sandaran",
+      "id_kab": "64.08"
     },
     {
       "id": "64.08.12",
-      "name": "Sangatta Selatan"
+      "nama": "Sangatta Selatan",
+      "id_kab": "64.08"
     },
     {
       "id": "64.08.13",
-      "name": "Teluk Pandan"
+      "nama": "Teluk Pandan",
+      "id_kab": "64.08"
     },
     {
       "id": "64.08.14",
-      "name": "Rantau Pulung"
+      "nama": "Rantau Pulung",
+      "id_kab": "64.08"
     },
     {
       "id": "64.08.15",
-      "name": "Kaubun"
+      "nama": "Kaubun",
+      "id_kab": "64.08"
     },
     {
       "id": "64.08.16",
-      "name": "Karangan"
+      "nama": "Karangan",
+      "id_kab": "64.08"
     },
     {
       "id": "64.08.17",
-      "name": "Batu Ampar"
+      "nama": "Batu Ampar",
+      "id_kab": "64.08"
     },
     {
       "id": "64.08.18",
-      "name": "Long Mesangat"
+      "nama": "Long Mesangat",
+      "id_kab": "64.08"
     },
     {
       "id": "64.09.01",
-      "name": "Penajam"
+      "nama": "Penajam",
+      "id_kab": "64.09"
     },
     {
       "id": "64.09.02",
-      "name": "Waru"
+      "nama": "Waru",
+      "id_kab": "64.09"
     },
     {
       "id": "64.09.03",
-      "name": "Babulu"
+      "nama": "Babulu",
+      "id_kab": "64.09"
     },
     {
       "id": "64.09.04",
-      "name": "Sepaku"
+      "nama": "Sepaku",
+      "id_kab": "64.09"
     },
     {
       "id": "64.11.01",
-      "name": "Long Bagun"
+      "nama": "Long Bagun",
+      "id_kab": "64.11"
     },
     {
       "id": "64.11.02",
-      "name": "Long Hubung"
+      "nama": "Long Hubung",
+      "id_kab": "64.11"
     },
     {
       "id": "64.11.03",
-      "name": "Laham"
+      "nama": "Laham",
+      "id_kab": "64.11"
     },
     {
       "id": "64.11.04",
-      "name": "Long Apari"
+      "nama": "Long Apari",
+      "id_kab": "64.11"
     },
     {
       "id": "64.11.05",
-      "name": "Long Pahangai"
+      "nama": "Long Pahangai",
+      "id_kab": "64.11"
     },
     {
       "id": "64.71.01",
-      "name": "Balikpapan Timur"
+      "nama": "Balikpapan Timur",
+      "id_kab": "64.71"
     },
     {
       "id": "64.71.02",
-      "name": "Balikpapan Barat"
+      "nama": "Balikpapan Barat",
+      "id_kab": "64.71"
     },
     {
       "id": "64.71.03",
-      "name": "Balikpapan Utara"
+      "nama": "Balikpapan Utara",
+      "id_kab": "64.71"
     },
     {
       "id": "64.71.04",
-      "name": "Balikpapan Tengah"
+      "nama": "Balikpapan Tengah",
+      "id_kab": "64.71"
     },
     {
       "id": "64.71.05",
-      "name": "Balikpapan Selatan"
+      "nama": "Balikpapan Selatan",
+      "id_kab": "64.71"
     },
     {
       "id": "64.71.06",
-      "name": "Balikpapan Kota"
+      "nama": "Balikpapan Kota",
+      "id_kab": "64.71"
     },
     {
       "id": "64.72.01",
-      "name": "Palaran"
+      "nama": "Palaran",
+      "id_kab": "64.72"
     },
     {
       "id": "64.72.02",
-      "name": "Samarinda Seberang"
+      "nama": "Samarinda Seberang",
+      "id_kab": "64.72"
     },
     {
       "id": "64.72.03",
-      "name": "Samarinda Ulu"
+      "nama": "Samarinda Ulu",
+      "id_kab": "64.72"
     },
     {
       "id": "64.72.04",
-      "name": "Samarinda Ilir"
+      "nama": "Samarinda Ilir",
+      "id_kab": "64.72"
     },
     {
       "id": "64.72.05",
-      "name": "Samarinda Utara"
+      "nama": "Samarinda Utara",
+      "id_kab": "64.72"
     },
     {
       "id": "64.72.06",
-      "name": "Sungai Kunjang"
+      "nama": "Sungai Kunjang",
+      "id_kab": "64.72"
     },
     {
       "id": "64.72.07",
-      "name": "Sambutan"
+      "nama": "Sambutan",
+      "id_kab": "64.72"
     },
     {
       "id": "64.72.08",
-      "name": "Sungai Pinang"
+      "nama": "Sungai Pinang",
+      "id_kab": "64.72"
     },
     {
       "id": "64.72.09",
-      "name": "Samarinda Kota"
+      "nama": "Samarinda Kota",
+      "id_kab": "64.72"
     },
     {
       "id": "64.72.10",
-      "name": "Loa Janan Ilir"
+      "nama": "Loa Janan Ilir",
+      "id_kab": "64.72"
     },
     {
       "id": "64.74.01",
-      "name": "Bontang Utara"
+      "nama": "Bontang Utara",
+      "id_kab": "64.74"
     },
     {
       "id": "64.74.02",
-      "name": "Bontang Selatan"
+      "nama": "Bontang Selatan",
+      "id_kab": "64.74"
     },
     {
       "id": "64.74.03",
-      "name": "Bontang Barat"
+      "nama": "Bontang Barat",
+      "id_kab": "64.74"
     }
   ],
   "villages": [
     {
       "id": "64.01.01.2009",
-      "name": "Samuranggau (Samurangau)"
+      "nama": "Samuranggau (Samurangau)",
+      "id_kec": "64.01.01"
     },
     {
       "id": "64.01.01.2010",
-      "name": "Busui"
+      "nama": "Busui",
+      "id_kec": "64.01.01"
     },
     {
       "id": "64.01.01.2011",
-      "name": "Batu Kajang (Batu Sopang)"
+      "nama": "Batu Kajang (Batu Sopang)",
+      "id_kec": "64.01.01"
     },
     {
       "id": "64.01.01.2012",
-      "name": "Legai"
+      "nama": "Legai",
+      "id_kec": "64.01.01"
     },
     {
       "id": "64.01.01.2013",
-      "name": "Sei/Sungai Terik"
+      "nama": "Sei/Sungai Terik",
+      "id_kec": "64.01.01"
     },
     {
       "id": "64.01.01.2014",
-      "name": "Kasungai"
+      "nama": "Kasungai",
+      "id_kec": "64.01.01"
     },
     {
       "id": "64.01.01.2015",
-      "name": "Rantau Buta"
+      "nama": "Rantau Buta",
+      "id_kec": "64.01.01"
     },
     {
       "id": "64.01.01.2016",
-      "name": "Rantau Layung"
+      "nama": "Rantau Layung",
+      "id_kec": "64.01.01"
     },
     {
       "id": "64.01.01.2017",
-      "name": "Songka"
+      "nama": "Songka",
+      "id_kec": "64.01.01"
     },
     {
       "id": "64.01.02.2004",
-      "name": "Keladen"
+      "nama": "Keladen",
+      "id_kec": "64.01.02"
     },
     {
       "id": "64.01.02.2006",
-      "name": "Tanjung Aru"
+      "nama": "Tanjung Aru",
+      "id_kec": "64.01.02"
     },
     {
       "id": "64.01.02.2007",
-      "name": "Labuangkallo (Labuangkalo)"
+      "nama": "Labuangkallo (Labuangkalo)",
+      "id_kec": "64.01.02"
     },
     {
       "id": "64.01.02.2012",
-      "name": "Lori"
+      "nama": "Lori",
+      "id_kec": "64.01.02"
     },
     {
       "id": "64.01.02.2013",
-      "name": "Selengot"
+      "nama": "Selengot",
+      "id_kec": "64.01.02"
     },
     {
       "id": "64.01.02.2014",
-      "name": "Random"
+      "nama": "Random",
+      "id_kec": "64.01.02"
     },
     {
       "id": "64.01.02.2015",
-      "name": "Senipah"
+      "nama": "Senipah",
+      "id_kec": "64.01.02"
     },
     {
       "id": "64.01.03.2001",
-      "name": "Lempesu"
+      "nama": "Lempesu",
+      "id_kec": "64.01.03"
     },
     {
       "id": "64.01.03.2002",
-      "name": "Bekoso"
+      "nama": "Bekoso",
+      "id_kec": "64.01.03"
     },
     {
       "id": "64.01.03.2003",
-      "name": "Damit"
+      "nama": "Damit",
+      "id_kec": "64.01.03"
     },
     {
       "id": "64.01.03.2004",
-      "name": "Suatang"
+      "nama": "Suatang",
+      "id_kec": "64.01.03"
     },
     {
       "id": "64.01.03.2005",
-      "name": "Suliliran"
+      "nama": "Suliliran",
+      "id_kec": "64.01.03"
     },
     {
       "id": "64.01.03.2006",
-      "name": "Pasir Belengkong"
+      "nama": "Pasir Belengkong",
+      "id_kec": "64.01.03"
     },
     {
       "id": "64.01.03.2007",
-      "name": "Sangkuriman"
+      "nama": "Sangkuriman",
+      "id_kec": "64.01.03"
     },
     {
       "id": "64.01.03.2008",
-      "name": "Laburan"
+      "nama": "Laburan",
+      "id_kec": "64.01.03"
     },
     {
       "id": "64.01.03.2009",
-      "name": "Suliliran Baru"
+      "nama": "Suliliran Baru",
+      "id_kec": "64.01.03"
     },
     {
       "id": "64.01.03.2010",
-      "name": "Keresik Bura"
+      "nama": "Keresik Bura",
+      "id_kec": "64.01.03"
     },
     {
       "id": "64.01.03.2011",
-      "name": "Laburan Baru"
+      "nama": "Laburan Baru",
+      "id_kec": "64.01.03"
     },
     {
       "id": "64.01.03.2012",
-      "name": "Seniung Jaya"
+      "nama": "Seniung Jaya",
+      "id_kec": "64.01.03"
     },
     {
       "id": "64.01.03.2013",
-      "name": "Sunge Batu"
+      "nama": "Sunge Batu",
+      "id_kec": "64.01.03"
     },
     {
       "id": "64.01.03.2014",
-      "name": "Olong Pinang"
+      "nama": "Olong Pinang",
+      "id_kec": "64.01.03"
     },
     {
       "id": "64.01.03.2015",
-      "name": "Suatang Keteban"
+      "nama": "Suatang Keteban",
+      "id_kec": "64.01.03"
     },
     {
       "id": "64.01.04.1001",
-      "name": "Tanah Grogot"
+      "nama": "Tanah Grogot",
+      "id_kec": "64.01.04"
     },
     {
       "id": "64.01.04.2002",
-      "name": "Janju"
+      "nama": "Janju",
+      "id_kec": "64.01.04"
     },
     {
       "id": "64.01.04.2003",
-      "name": "Tepian Batang"
+      "nama": "Tepian Batang",
+      "id_kec": "64.01.04"
     },
     {
       "id": "64.01.04.2004",
-      "name": "Tanah Periuk"
+      "nama": "Tanah Periuk",
+      "id_kec": "64.01.04"
     },
     {
       "id": "64.01.04.2005",
-      "name": "Pepara"
+      "nama": "Pepara",
+      "id_kec": "64.01.04"
     },
     {
       "id": "64.01.04.2006",
-      "name": "Sei/Sungai Tuak"
+      "nama": "Sei/Sungai Tuak",
+      "id_kec": "64.01.04"
     },
     {
       "id": "64.01.04.2007",
-      "name": "Sempulang"
+      "nama": "Sempulang",
+      "id_kec": "64.01.04"
     },
     {
       "id": "64.01.04.2008",
-      "name": "Jone"
+      "nama": "Jone",
+      "id_kec": "64.01.04"
     },
     {
       "id": "64.01.04.2009",
-      "name": "Rantau Panjang"
+      "nama": "Rantau Panjang",
+      "id_kec": "64.01.04"
     },
     {
       "id": "64.01.04.2010",
-      "name": "Muara Pasir"
+      "nama": "Muara Pasir",
+      "id_kec": "64.01.04"
     },
     {
       "id": "64.01.04.2011",
-      "name": "Padang Pengrapat"
+      "nama": "Padang Pengrapat",
+      "id_kec": "64.01.04"
     },
     {
       "id": "64.01.04.2012",
-      "name": "Perepat"
+      "nama": "Perepat",
+      "id_kec": "64.01.04"
     },
     {
       "id": "64.01.04.2013",
-      "name": "Pulau Rantau"
+      "nama": "Pulau Rantau",
+      "id_kec": "64.01.04"
     },
     {
       "id": "64.01.04.2014",
-      "name": "Sungai Langir"
+      "nama": "Sungai Langir",
+      "id_kec": "64.01.04"
     },
     {
       "id": "64.01.04.2015",
-      "name": "Tapis"
+      "nama": "Tapis",
+      "id_kec": "64.01.04"
     },
     {
       "id": "64.01.04.2016",
-      "name": "Senaken"
+      "nama": "Senaken",
+      "id_kec": "64.01.04"
     },
     {
       "id": "64.01.05.1001",
-      "name": "Kuaro"
+      "nama": "Kuaro",
+      "id_kec": "64.01.05"
     },
     {
       "id": "64.01.05.2002",
-      "name": "Lolo (Keluang Lolo)"
+      "nama": "Lolo (Keluang Lolo)",
+      "id_kec": "64.01.05"
     },
     {
       "id": "64.01.05.2003",
-      "name": "Sandeley"
+      "nama": "Sandeley",
+      "id_kec": "64.01.05"
     },
     {
       "id": "64.01.05.2004",
-      "name": "Harapan Baru"
+      "nama": "Harapan Baru",
+      "id_kec": "64.01.05"
     },
     {
       "id": "64.01.05.2005",
-      "name": "Rangan"
+      "nama": "Rangan",
+      "id_kec": "64.01.05"
     },
     {
       "id": "64.01.05.2006",
-      "name": "Modang"
+      "nama": "Modang",
+      "id_kec": "64.01.05"
     },
     {
       "id": "64.01.05.2007",
-      "name": "Pasir Mayang"
+      "nama": "Pasir Mayang",
+      "id_kec": "64.01.05"
     },
     {
       "id": "64.01.05.2008",
-      "name": "Kerta Bumi"
+      "nama": "Kerta Bumi",
+      "id_kec": "64.01.05"
     },
     {
       "id": "64.01.05.2009",
-      "name": "Pondang Baru (Pondong Baru)"
+      "nama": "Pondang Baru (Pondong Baru)",
+      "id_kec": "64.01.05"
     },
     {
       "id": "64.01.05.2010",
-      "name": "Padang Jaya"
+      "nama": "Padang Jaya",
+      "id_kec": "64.01.05"
     },
     {
       "id": "64.01.05.2011",
-      "name": "Kendarom"
+      "nama": "Kendarom",
+      "id_kec": "64.01.05"
     },
     {
       "id": "64.01.05.2012",
-      "name": "Klempang Sari"
+      "nama": "Klempang Sari",
+      "id_kec": "64.01.05"
     },
     {
       "id": "64.01.05.2013",
-      "name": "Keluang Paser Jaya"
+      "nama": "Keluang Paser Jaya",
+      "id_kec": "64.01.05"
     },
     {
       "id": "64.01.06.1001",
-      "name": "Long Ikis"
+      "nama": "Long Ikis",
+      "id_kec": "64.01.06"
     },
     {
       "id": "64.01.06.2002",
-      "name": "Muara Adang"
+      "nama": "Muara Adang",
+      "id_kec": "64.01.06"
     },
     {
       "id": "64.01.06.2003",
-      "name": "Teluk Waru"
+      "nama": "Teluk Waru",
+      "id_kec": "64.01.06"
     },
     {
       "id": "64.01.06.2004",
-      "name": "Tajur"
+      "nama": "Tajur",
+      "id_kec": "64.01.06"
     },
     {
       "id": "64.01.06.2005",
-      "name": "Samuntai"
+      "nama": "Samuntai",
+      "id_kec": "64.01.06"
     },
     {
       "id": "64.01.06.2006",
-      "name": "Lombok"
+      "nama": "Lombok",
+      "id_kec": "64.01.06"
     },
     {
       "id": "64.01.06.2007",
-      "name": "Pait"
+      "nama": "Pait",
+      "id_kec": "64.01.06"
     },
     {
       "id": "64.01.06.2008",
-      "name": "Olung"
+      "nama": "Olung",
+      "id_kec": "64.01.06"
     },
     {
       "id": "64.01.06.2009",
-      "name": "Kayungo"
+      "nama": "Kayungo",
+      "id_kec": "64.01.06"
     },
     {
       "id": "64.01.06.2010",
-      "name": "Jemparing"
+      "nama": "Jemparing",
+      "id_kec": "64.01.06"
     },
     {
       "id": "64.01.06.2011",
-      "name": "Tiwei"
+      "nama": "Tiwei",
+      "id_kec": "64.01.06"
     },
     {
       "id": "64.01.06.2012",
-      "name": "Belimbing"
+      "nama": "Belimbing",
+      "id_kec": "64.01.06"
     },
     {
       "id": "64.01.06.2013",
-      "name": "Long Gelang"
+      "nama": "Long Gelang",
+      "id_kec": "64.01.06"
     },
     {
       "id": "64.01.06.2014",
-      "name": "Krayan Jaya"
+      "nama": "Krayan Jaya",
+      "id_kec": "64.01.06"
     },
     {
       "id": "64.01.06.2015",
-      "name": "Bukit Saloka (Bukit Seloka)"
+      "nama": "Bukit Saloka (Bukit Seloka)",
+      "id_kec": "64.01.06"
     },
     {
       "id": "64.01.06.2016",
-      "name": "Krayan Sentosa"
+      "nama": "Krayan Sentosa",
+      "id_kec": "64.01.06"
     },
     {
       "id": "64.01.06.2017",
-      "name": "Krayan Makmur"
+      "nama": "Krayan Makmur",
+      "id_kec": "64.01.06"
     },
     {
       "id": "64.01.06.2018",
-      "name": "Kayungo Sari"
+      "nama": "Kayungo Sari",
+      "id_kec": "64.01.06"
     },
     {
       "id": "64.01.06.2019",
-      "name": "Krayan Bahagia"
+      "nama": "Krayan Bahagia",
+      "id_kec": "64.01.06"
     },
     {
       "id": "64.01.06.2020",
-      "name": "Sawit Jaya"
+      "nama": "Sawit Jaya",
+      "id_kec": "64.01.06"
     },
     {
       "id": "64.01.06.2021",
-      "name": "Sekurou Jaya"
+      "nama": "Sekurou Jaya",
+      "id_kec": "64.01.06"
     },
     {
       "id": "64.01.06.2022",
-      "name": "Kerta Bhakti (Kerta Bakti)"
+      "nama": "Kerta Bhakti (Kerta Bakti)",
+      "id_kec": "64.01.06"
     },
     {
       "id": "64.01.06.2023",
-      "name": "Adang Jaya (Muara Adang I)"
+      "nama": "Adang Jaya (Muara Adang I)",
+      "id_kec": "64.01.06"
     },
     {
       "id": "64.01.06.2024",
-      "name": "Tajer Mulya"
+      "nama": "Tajer Mulya",
+      "id_kec": "64.01.06"
     },
     {
       "id": "64.01.06.2025",
-      "name": "Brewe"
+      "nama": "Brewe",
+      "id_kec": "64.01.06"
     },
     {
       "id": "64.01.06.2026",
-      "name": "Atang Pait"
+      "nama": "Atang Pait",
+      "id_kec": "64.01.06"
     },
     {
       "id": "64.01.07.1001",
-      "name": "Muarakomam (Muara Komam)"
+      "nama": "Muarakomam (Muara Komam)",
+      "id_kec": "64.01.07"
     },
     {
       "id": "64.01.07.2002",
-      "name": "Batu Butok"
+      "nama": "Batu Butok",
+      "id_kec": "64.01.07"
     },
     {
       "id": "64.01.07.2003",
-      "name": "Uko"
+      "nama": "Uko",
+      "id_kec": "64.01.07"
     },
     {
       "id": "64.01.07.2004",
-      "name": "Muara Langon"
+      "nama": "Muara Langon",
+      "id_kec": "64.01.07"
     },
     {
       "id": "64.01.07.2005",
-      "name": "Binangon"
+      "nama": "Binangon",
+      "id_kec": "64.01.07"
     },
     {
       "id": "64.01.07.2006",
-      "name": "Muara Kuaro"
+      "nama": "Muara Kuaro",
+      "id_kec": "64.01.07"
     },
     {
       "id": "64.01.07.2007",
-      "name": "Prayon"
+      "nama": "Prayon",
+      "id_kec": "64.01.07"
     },
     {
       "id": "64.01.07.2008",
-      "name": "Long Sayo"
+      "nama": "Long Sayo",
+      "id_kec": "64.01.07"
     },
     {
       "id": "64.01.07.2009",
-      "name": "Muara Payang"
+      "nama": "Muara Payang",
+      "id_kec": "64.01.07"
     },
     {
       "id": "64.01.07.2010",
-      "name": "Lusan"
+      "nama": "Lusan",
+      "id_kec": "64.01.07"
     },
     {
       "id": "64.01.07.2011",
-      "name": "Swan Slutung"
+      "nama": "Swan Slutung",
+      "id_kec": "64.01.07"
     },
     {
       "id": "64.01.07.2012",
-      "name": "Sekuan Makmur"
+      "nama": "Sekuan Makmur",
+      "id_kec": "64.01.07"
     },
     {
       "id": "64.01.07.2013",
-      "name": "Selerong"
+      "nama": "Selerong",
+      "id_kec": "64.01.07"
     },
     {
       "id": "64.01.08.1001",
-      "name": "Long Kali"
+      "nama": "Long Kali",
+      "id_kec": "64.01.08"
     },
     {
       "id": "64.01.08.2002",
-      "name": "Muara Telake"
+      "nama": "Muara Telake",
+      "id_kec": "64.01.08"
     },
     {
       "id": "64.01.08.2003",
-      "name": "Sebakung"
+      "nama": "Sebakung",
+      "id_kec": "64.01.08"
     },
     {
       "id": "64.01.08.2004",
-      "name": "Bente Tualan (Bente / Tualan)"
+      "nama": "Bente Tualan (Bente / Tualan)",
+      "id_kec": "64.01.08"
     },
     {
       "id": "64.01.08.2005",
-      "name": "Mendik"
+      "nama": "Mendik",
+      "id_kec": "64.01.08"
     },
     {
       "id": "64.01.08.2006",
-      "name": "Munggu"
+      "nama": "Munggu",
+      "id_kec": "64.01.08"
     },
     {
       "id": "64.01.08.2007",
-      "name": "Muara Pias"
+      "nama": "Muara Pias",
+      "id_kec": "64.01.08"
     },
     {
       "id": "64.01.08.2008",
-      "name": "Muara Toyu"
+      "nama": "Muara Toyu",
+      "id_kec": "64.01.08"
     },
     {
       "id": "64.01.08.2009",
-      "name": "Perkuwen (Perkuwin)"
+      "nama": "Perkuwen (Perkuwin)",
+      "id_kec": "64.01.08"
     },
     {
       "id": "64.01.08.2010",
-      "name": "Pinang Jatus"
+      "nama": "Pinang Jatus",
+      "id_kec": "64.01.08"
     },
     {
       "id": "64.01.08.2011",
-      "name": "Muara Lambakan"
+      "nama": "Muara Lambakan",
+      "id_kec": "64.01.08"
     },
     {
       "id": "64.01.08.2012",
-      "name": "Kepala Telake"
+      "nama": "Kepala Telake",
+      "id_kec": "64.01.08"
     },
     {
       "id": "64.01.08.2013",
-      "name": "Mendik Makmur"
+      "nama": "Mendik Makmur",
+      "id_kec": "64.01.08"
     },
     {
       "id": "64.01.08.2014",
-      "name": "Mendik Karya"
+      "nama": "Mendik Karya",
+      "id_kec": "64.01.08"
     },
     {
       "id": "64.01.08.2015",
-      "name": "Mendik Bhakti"
+      "nama": "Mendik Bhakti",
+      "id_kec": "64.01.08"
     },
     {
       "id": "64.01.08.2016",
-      "name": "Sebakung Taka (Sebakung IV)"
+      "nama": "Sebakung Taka (Sebakung IV)",
+      "id_kec": "64.01.08"
     },
     {
       "id": "64.01.08.2017",
-      "name": "Maruat"
+      "nama": "Maruat",
+      "id_kec": "64.01.08"
     },
     {
       "id": "64.01.08.2018",
-      "name": "Sebakung Makmur"
+      "nama": "Sebakung Makmur",
+      "id_kec": "64.01.08"
     },
     {
       "id": "64.01.08.2019",
-      "name": "Petiku"
+      "nama": "Petiku",
+      "id_kec": "64.01.08"
     },
     {
       "id": "64.01.08.2020",
-      "name": "Muara Adang II (Muaraadang II)"
+      "nama": "Muara Adang II (Muaraadang II)",
+      "id_kec": "64.01.08"
     },
     {
       "id": "64.01.08.2021",
-      "name": "Makmur Jaya"
+      "nama": "Makmur Jaya",
+      "id_kec": "64.01.08"
     },
     {
       "id": "64.01.08.2022",
-      "name": "Gunung Putar (Gunungputar)"
+      "nama": "Gunung Putar (Gunungputar)",
+      "id_kec": "64.01.08"
     },
     {
       "id": "64.01.08.2023",
-      "name": "Putang"
+      "nama": "Putang",
+      "id_kec": "64.01.08"
     },
     {
       "id": "64.01.09.2001",
-      "name": "Kerang"
+      "nama": "Kerang",
+      "id_kec": "64.01.09"
     },
     {
       "id": "64.01.09.2002",
-      "name": "Lomu"
+      "nama": "Lomu",
+      "id_kec": "64.01.09"
     },
     {
       "id": "64.01.09.2003",
-      "name": "Segendang"
+      "nama": "Segendang",
+      "id_kec": "64.01.09"
     },
     {
       "id": "64.01.09.2004",
-      "name": "Mengkudu"
+      "nama": "Mengkudu",
+      "id_kec": "64.01.09"
     },
     {
       "id": "64.01.09.2005",
-      "name": "Riwang"
+      "nama": "Riwang",
+      "id_kec": "64.01.09"
     },
     {
       "id": "64.01.09.2006",
-      "name": "Langgai"
+      "nama": "Langgai",
+      "id_kec": "64.01.09"
     },
     {
       "id": "64.01.09.2007",
-      "name": "Petangis"
+      "nama": "Petangis",
+      "id_kec": "64.01.09"
     },
     {
       "id": "64.01.09.2008",
-      "name": "Tampakan"
+      "nama": "Tampakan",
+      "id_kec": "64.01.09"
     },
     {
       "id": "64.01.09.2009",
-      "name": "Kerang Dayo"
+      "nama": "Kerang Dayo",
+      "id_kec": "64.01.09"
     },
     {
       "id": "64.01.09.2010",
-      "name": "Saing Prupuk"
+      "nama": "Saing Prupuk",
+      "id_kec": "64.01.09"
     },
     {
       "id": "64.01.09.2011",
-      "name": "Bai Jaya"
+      "nama": "Bai Jaya",
+      "id_kec": "64.01.09"
     },
     {
       "id": "64.01.09.2012",
-      "name": "Pengguren Jaya"
+      "nama": "Pengguren Jaya",
+      "id_kec": "64.01.09"
     },
     {
       "id": "64.01.09.2013",
-      "name": "Tebru Paser Damai"
+      "nama": "Tebru Paser Damai",
+      "id_kec": "64.01.09"
     },
     {
       "id": "64.01.10.2001",
-      "name": "Tanjung Pinang"
+      "nama": "Tanjung Pinang",
+      "id_kec": "64.01.10"
     },
     {
       "id": "64.01.10.2002",
-      "name": "Rantau Atas"
+      "nama": "Rantau Atas",
+      "id_kec": "64.01.10"
     },
     {
       "id": "64.01.10.2003",
-      "name": "Libur Dinding"
+      "nama": "Libur Dinding",
+      "id_kec": "64.01.10"
     },
     {
       "id": "64.01.10.2004",
-      "name": "Luan (Dilibinti)"
+      "nama": "Luan (Dilibinti)",
+      "id_kec": "64.01.10"
     },
     {
       "id": "64.01.10.2005",
-      "name": "Suweto"
+      "nama": "Suweto",
+      "id_kec": "64.01.10"
     },
     {
       "id": "64.01.10.2006",
-      "name": "Muser"
+      "nama": "Muser",
+      "id_kec": "64.01.10"
     },
     {
       "id": "64.01.10.2007",
-      "name": "Biu"
+      "nama": "Biu",
+      "id_kec": "64.01.10"
     },
     {
       "id": "64.01.10.2008",
-      "name": "Rantau Bintungan"
+      "nama": "Rantau Bintungan",
+      "id_kec": "64.01.10"
     },
     {
       "id": "64.01.10.2009",
-      "name": "Muara Andeh"
+      "nama": "Muara Andeh",
+      "id_kec": "64.01.10"
     },
     {
       "id": "64.02.01.2001",
-      "name": "Perian"
+      "nama": "Perian",
+      "id_kec": "64.02.01"
     },
     {
       "id": "64.02.01.2002",
-      "name": "Muara Leka"
+      "nama": "Muara Leka",
+      "id_kec": "64.02.01"
     },
     {
       "id": "64.02.01.2003",
-      "name": "Muara Aloh"
+      "nama": "Muara Aloh",
+      "id_kec": "64.02.01"
     },
     {
       "id": "64.02.01.2004",
-      "name": "Jantur"
+      "nama": "Jantur",
+      "id_kec": "64.02.01"
     },
     {
       "id": "64.02.01.2005",
-      "name": "Batuq"
+      "nama": "Batuq",
+      "id_kec": "64.02.01"
     },
     {
       "id": "64.02.01.2006",
-      "name": "Rebaq Rinding"
+      "nama": "Rebaq Rinding",
+      "id_kec": "64.02.01"
     },
     {
       "id": "64.02.01.2007",
-      "name": "Muara Muntai Ulu"
+      "nama": "Muara Muntai Ulu",
+      "id_kec": "64.02.01"
     },
     {
       "id": "64.02.01.2008",
-      "name": "Muara Muntai Ilir"
+      "nama": "Muara Muntai Ilir",
+      "id_kec": "64.02.01"
     },
     {
       "id": "64.02.01.2009",
-      "name": "Kayu Batu"
+      "nama": "Kayu Batu",
+      "id_kec": "64.02.01"
     },
     {
       "id": "64.02.01.2010",
-      "name": "Jantur Selatan"
+      "nama": "Jantur Selatan",
+      "id_kec": "64.02.01"
     },
     {
       "id": "64.02.01.2011",
-      "name": "Tanjung Batuq (Tanjung Batuq Harapan)"
+      "nama": "Tanjung Batuq (Tanjung Batuq Harapan)",
+      "id_kec": "64.02.01"
     },
     {
       "id": "64.02.01.2012",
-      "name": "Pulau Harapan"
+      "nama": "Pulau Harapan",
+      "id_kec": "64.02.01"
     },
     {
       "id": "64.02.01.2013",
-      "name": "Jantur Baru"
+      "nama": "Jantur Baru",
+      "id_kec": "64.02.01"
     },
     {
       "id": "64.02.02.2001",
-      "name": "Jonggon Desa"
+      "nama": "Jonggon Desa",
+      "id_kec": "64.02.02"
     },
     {
       "id": "64.02.02.2002",
-      "name": "Sungai Payang"
+      "nama": "Sungai Payang",
+      "id_kec": "64.02.02"
     },
     {
       "id": "64.02.02.2003",
-      "name": "Jembayan"
+      "nama": "Jembayan",
+      "id_kec": "64.02.02"
     },
     {
       "id": "64.02.02.2004",
-      "name": "Loa Kulu Kota"
+      "nama": "Loa Kulu Kota",
+      "id_kec": "64.02.02"
     },
     {
       "id": "64.02.02.2005",
-      "name": "Loh Sumber"
+      "nama": "Loh Sumber",
+      "id_kec": "64.02.02"
     },
     {
       "id": "64.02.02.2006",
-      "name": "Ponoragan"
+      "nama": "Ponoragan",
+      "id_kec": "64.02.02"
     },
     {
       "id": "64.02.02.2007",
-      "name": "Rempanga"
+      "nama": "Rempanga",
+      "id_kec": "64.02.02"
     },
     {
       "id": "64.02.02.2008",
-      "name": "Margahayu"
+      "nama": "Margahayu",
+      "id_kec": "64.02.02"
     },
     {
       "id": "64.02.02.2009",
-      "name": "Jonggon Jaya (Karya Utama)"
+      "nama": "Jonggon Jaya (Karya Utama)",
+      "id_kec": "64.02.02"
     },
     {
       "id": "64.02.02.2010",
-      "name": "Lung Anai"
+      "nama": "Lung Anai",
+      "id_kec": "64.02.02"
     },
     {
       "id": "64.02.02.2011",
-      "name": "Jembayan Tengah"
+      "nama": "Jembayan Tengah",
+      "id_kec": "64.02.02"
     },
     {
       "id": "64.02.02.2012",
-      "name": "Jembayan Dalam"
+      "nama": "Jembayan Dalam",
+      "id_kec": "64.02.02"
     },
     {
       "id": "64.02.02.2013",
-      "name": "Sepakat"
+      "nama": "Sepakat",
+      "id_kec": "64.02.02"
     },
     {
       "id": "64.02.02.2014",
-      "name": "Sumber Sari"
+      "nama": "Sumber Sari",
+      "id_kec": "64.02.02"
     },
     {
       "id": "64.02.02.2015",
-      "name": "Jongkang"
+      "nama": "Jongkang",
+      "id_kec": "64.02.02"
     },
     {
       "id": "64.02.03.2001",
-      "name": "Bakungan"
+      "nama": "Bakungan",
+      "id_kec": "64.02.03"
     },
     {
       "id": "64.02.03.2002",
-      "name": "Loa Duri Ulu"
+      "nama": "Loa Duri Ulu",
+      "id_kec": "64.02.03"
     },
     {
       "id": "64.02.03.2003",
-      "name": "Loa Janan Ulu"
+      "nama": "Loa Janan Ulu",
+      "id_kec": "64.02.03"
     },
     {
       "id": "64.02.03.2004",
-      "name": "Purwajaya"
+      "nama": "Purwajaya",
+      "id_kec": "64.02.03"
     },
     {
       "id": "64.02.03.2005",
-      "name": "Tani Bhakti (Tani Bakti)"
+      "nama": "Tani Bhakti (Tani Bakti)",
+      "id_kec": "64.02.03"
     },
     {
       "id": "64.02.03.2006",
-      "name": "Batuah"
+      "nama": "Batuah",
+      "id_kec": "64.02.03"
     },
     {
       "id": "64.02.03.2007",
-      "name": "Loa Duri Ilir"
+      "nama": "Loa Duri Ilir",
+      "id_kec": "64.02.03"
     },
     {
       "id": "64.02.03.2008",
-      "name": "Tani Harapan"
+      "nama": "Tani Harapan",
+      "id_kec": "64.02.03"
     },
     {
       "id": "64.02.04.2001",
-      "name": "Sepatin"
+      "nama": "Sepatin",
+      "id_kec": "64.02.04"
     },
     {
       "id": "64.02.04.2002",
-      "name": "Muara Pantuan"
+      "nama": "Muara Pantuan",
+      "id_kec": "64.02.04"
     },
     {
       "id": "64.02.04.2003",
-      "name": "Tani Baru"
+      "nama": "Tani Baru",
+      "id_kec": "64.02.04"
     },
     {
       "id": "64.02.04.2004",
-      "name": "Kutai Lama"
+      "nama": "Kutai Lama",
+      "id_kec": "64.02.04"
     },
     {
       "id": "64.02.04.2005",
-      "name": "Anggana"
+      "nama": "Anggana",
+      "id_kec": "64.02.04"
     },
     {
       "id": "64.02.04.2006",
-      "name": "Sungai Meriam"
+      "nama": "Sungai Meriam",
+      "id_kec": "64.02.04"
     },
     {
       "id": "64.02.04.2007",
-      "name": "Sidomulyo"
+      "nama": "Sidomulyo",
+      "id_kec": "64.02.04"
     },
     {
       "id": "64.02.04.2008",
-      "name": "Handil Terusan"
+      "nama": "Handil Terusan",
+      "id_kec": "64.02.04"
     },
     {
       "id": "64.02.05.2001",
-      "name": "Saliki (Seliki)"
+      "nama": "Saliki (Seliki)",
+      "id_kec": "64.02.05"
     },
     {
       "id": "64.02.05.2002",
-      "name": "Salok Palai"
+      "nama": "Salok Palai",
+      "id_kec": "64.02.05"
     },
     {
       "id": "64.02.05.2003",
-      "name": "Muara Badak Ulu"
+      "nama": "Muara Badak Ulu",
+      "id_kec": "64.02.05"
     },
     {
       "id": "64.02.05.2004",
-      "name": "Muara Badak Ilir"
+      "nama": "Muara Badak Ilir",
+      "id_kec": "64.02.05"
     },
     {
       "id": "64.02.05.2005",
-      "name": "Tanjung Limau"
+      "nama": "Tanjung Limau",
+      "id_kec": "64.02.05"
     },
     {
       "id": "64.02.05.2006",
-      "name": "Tanah Datar"
+      "nama": "Tanah Datar",
+      "id_kec": "64.02.05"
     },
     {
       "id": "64.02.05.2007",
-      "name": "Badak Baru"
+      "nama": "Badak Baru",
+      "id_kec": "64.02.05"
     },
     {
       "id": "64.02.05.2008",
-      "name": "Suka Damai"
+      "nama": "Suka Damai",
+      "id_kec": "64.02.05"
     },
     {
       "id": "64.02.05.2009",
-      "name": "Badak Mekar"
+      "nama": "Badak Mekar",
+      "id_kec": "64.02.05"
     },
     {
       "id": "64.02.05.2010",
-      "name": "Gas Alam Badak I"
+      "nama": "Gas Alam Badak I",
+      "id_kec": "64.02.05"
     },
     {
       "id": "64.02.05.2011",
-      "name": "Batu Batu"
+      "nama": "Batu Batu",
+      "id_kec": "64.02.05"
     },
     {
       "id": "64.02.05.2012",
-      "name": "Sallo Cela (Salo Cella)"
+      "nama": "Sallo Cela (Salo Cella)",
+      "id_kec": "64.02.05"
     },
     {
       "id": "64.02.05.2013",
-      "name": "Sungai Bawang"
+      "nama": "Sungai Bawang",
+      "id_kec": "64.02.05"
     },
     {
       "id": "64.02.06.1001",
-      "name": "Jahab"
+      "nama": "Jahab",
+      "id_kec": "64.02.06"
     },
     {
       "id": "64.02.06.1002",
-      "name": "Loa Ipuh"
+      "nama": "Loa Ipuh",
+      "id_kec": "64.02.06"
     },
     {
       "id": "64.02.06.1003",
-      "name": "Bukit Biru"
+      "nama": "Bukit Biru",
+      "id_kec": "64.02.06"
     },
     {
       "id": "64.02.06.1004",
-      "name": "Timbau"
+      "nama": "Timbau",
+      "id_kec": "64.02.06"
     },
     {
       "id": "64.02.06.1005",
-      "name": "Melayu"
+      "nama": "Melayu",
+      "id_kec": "64.02.06"
     },
     {
       "id": "64.02.06.1006",
-      "name": "Panji"
+      "nama": "Panji",
+      "id_kec": "64.02.06"
     },
     {
       "id": "64.02.06.1007",
-      "name": "Sukarame"
+      "nama": "Sukarame",
+      "id_kec": "64.02.06"
     },
     {
       "id": "64.02.06.1008",
-      "name": "Kampung Baru"
+      "nama": "Kampung Baru",
+      "id_kec": "64.02.06"
     },
     {
       "id": "64.02.06.1009",
-      "name": "Loa Tebu"
+      "nama": "Loa Tebu",
+      "id_kec": "64.02.06"
     },
     {
       "id": "64.02.06.1010",
-      "name": "Mangkurawang"
+      "nama": "Mangkurawang",
+      "id_kec": "64.02.06"
     },
     {
       "id": "64.02.06.1011",
-      "name": "Maluhu"
+      "nama": "Maluhu",
+      "id_kec": "64.02.06"
     },
     {
       "id": "64.02.06.1013",
-      "name": "Loa Ipuh Darat"
+      "nama": "Loa Ipuh Darat",
+      "id_kec": "64.02.06"
     },
     {
       "id": "64.02.06.2012",
-      "name": "Rapak Lambur"
+      "nama": "Rapak Lambur",
+      "id_kec": "64.02.06"
     },
     {
       "id": "64.02.06.2014",
-      "name": "Bendang Raya"
+      "nama": "Bendang Raya",
+      "id_kec": "64.02.06"
     },
     {
       "id": "64.02.07.2001",
-      "name": "Selerong"
+      "nama": "Selerong",
+      "id_kec": "64.02.07"
     },
     {
       "id": "64.02.07.2002",
-      "name": "Tanjung Harapan"
+      "nama": "Tanjung Harapan",
+      "id_kec": "64.02.07"
     },
     {
       "id": "64.02.07.2003",
-      "name": "Beloro"
+      "nama": "Beloro",
+      "id_kec": "64.02.07"
     },
     {
       "id": "64.02.07.2004",
-      "name": "Sebulu Ulu"
+      "nama": "Sebulu Ulu",
+      "id_kec": "64.02.07"
     },
     {
       "id": "64.02.07.2005",
-      "name": "Sebulu Ilir"
+      "nama": "Sebulu Ilir",
+      "id_kec": "64.02.07"
     },
     {
       "id": "64.02.07.2006",
-      "name": "Segihan"
+      "nama": "Segihan",
+      "id_kec": "64.02.07"
     },
     {
       "id": "64.02.07.2007",
-      "name": "Sumber Sari"
+      "nama": "Sumber Sari",
+      "id_kec": "64.02.07"
     },
     {
       "id": "64.02.07.2008",
-      "name": "Manunggal Daya"
+      "nama": "Manunggal Daya",
+      "id_kec": "64.02.07"
     },
     {
       "id": "64.02.07.2009",
-      "name": "Giri Agung"
+      "nama": "Giri Agung",
+      "id_kec": "64.02.07"
     },
     {
       "id": "64.02.07.2010",
-      "name": "Senoni"
+      "nama": "Senoni",
+      "id_kec": "64.02.07"
     },
     {
       "id": "64.02.07.2011",
-      "name": "Sebulu Moderen (Sebulu Modern)"
+      "nama": "Sebulu Moderen (Sebulu Modern)",
+      "id_kec": "64.02.07"
     },
     {
       "id": "64.02.07.2012",
-      "name": "Sanggulan"
+      "nama": "Sanggulan",
+      "id_kec": "64.02.07"
     },
     {
       "id": "64.02.07.2013",
-      "name": "Lekaq Kidau"
+      "nama": "Lekaq Kidau",
+      "id_kec": "64.02.07"
     },
     {
       "id": "64.02.07.2014",
-      "name": "Mekar Jaya"
+      "nama": "Mekar Jaya",
+      "id_kec": "64.02.07"
     },
     {
       "id": "64.02.08.2004",
-      "name": "Loleng"
+      "nama": "Loleng",
+      "id_kec": "64.02.08"
     },
     {
       "id": "64.02.08.2005",
-      "name": "Kota Bangun Ulu"
+      "nama": "Kota Bangun Ulu",
+      "id_kec": "64.02.08"
     },
     {
       "id": "64.02.08.2006",
-      "name": "Kota Bangun Ilir"
+      "nama": "Kota Bangun Ilir",
+      "id_kec": "64.02.08"
     },
     {
       "id": "64.02.08.2007",
-      "name": "Liang"
+      "nama": "Liang",
+      "id_kec": "64.02.08"
     },
     {
       "id": "64.02.08.2008",
-      "name": "Muhuran"
+      "nama": "Muhuran",
+      "id_kec": "64.02.08"
     },
     {
       "id": "64.02.08.2009",
-      "name": "Pela"
+      "nama": "Pela",
+      "id_kec": "64.02.08"
     },
     {
       "id": "64.02.08.2017",
-      "name": "Kedang Murung"
+      "nama": "Kedang Murung",
+      "id_kec": "64.02.08"
     },
     {
       "id": "64.02.08.2018",
-      "name": "Kota Bangun (Kota Bangun Seberang)"
+      "nama": "Kota Bangun (Kota Bangun Seberang)",
+      "id_kec": "64.02.08"
     },
     {
       "id": "64.02.08.2019",
-      "name": "Liang Ulu"
+      "nama": "Liang Ulu",
+      "id_kec": "64.02.08"
     },
     {
       "id": "64.02.08.2020",
-      "name": "Sebelimbingan"
+      "nama": "Sebelimbingan",
+      "id_kec": "64.02.08"
     },
     {
       "id": "64.02.08.2021",
-      "name": "Sangkuliman"
+      "nama": "Sangkuliman",
+      "id_kec": "64.02.08"
     },
     {
       "id": "64.02.09.2001",
-      "name": "Lamin Telihan"
+      "nama": "Lamin Telihan",
+      "id_kec": "64.02.09"
     },
     {
       "id": "64.02.09.2002",
-      "name": "Lamin Pulut"
+      "nama": "Lamin Pulut",
+      "id_kec": "64.02.09"
     },
     {
       "id": "64.02.09.2003",
-      "name": "Teluk Bingkai"
+      "nama": "Teluk Bingkai",
+      "id_kec": "64.02.09"
     },
     {
       "id": "64.02.09.2004",
-      "name": "Kahala"
+      "nama": "Kahala",
+      "id_kec": "64.02.09"
     },
     {
       "id": "64.02.09.2005",
-      "name": "Tubuhan"
+      "nama": "Tubuhan",
+      "id_kec": "64.02.09"
     },
     {
       "id": "64.02.09.2006",
-      "name": "Semayang"
+      "nama": "Semayang",
+      "id_kec": "64.02.09"
     },
     {
       "id": "64.02.09.2007",
-      "name": "Teluk Muda"
+      "nama": "Teluk Muda",
+      "id_kec": "64.02.09"
     },
     {
       "id": "64.02.09.2008",
-      "name": "Tuana Tuha"
+      "nama": "Tuana Tuha",
+      "id_kec": "64.02.09"
     },
     {
       "id": "64.02.09.2009",
-      "name": "Kahala Ilir"
+      "nama": "Kahala Ilir",
+      "id_kec": "64.02.09"
     },
     {
       "id": "64.02.10.2001",
-      "name": "Genting Tanah"
+      "nama": "Genting Tanah",
+      "id_kec": "64.02.10"
     },
     {
       "id": "64.02.10.2002",
-      "name": "Loa Sakoh"
+      "nama": "Loa Sakoh",
+      "id_kec": "64.02.10"
     },
     {
       "id": "64.02.10.2003",
-      "name": "Hambau"
+      "nama": "Hambau",
+      "id_kec": "64.02.10"
     },
     {
       "id": "64.02.10.2004",
-      "name": "Kembang Janggut"
+      "nama": "Kembang Janggut",
+      "id_kec": "64.02.10"
     },
     {
       "id": "64.02.10.2005",
-      "name": "Kelekat"
+      "nama": "Kelekat",
+      "id_kec": "64.02.10"
     },
     {
       "id": "64.02.10.2006",
-      "name": "Pulau Pinang"
+      "nama": "Pulau Pinang",
+      "id_kec": "64.02.10"
     },
     {
       "id": "64.02.10.2007",
-      "name": "Long Beleh Haloq"
+      "nama": "Long Beleh Haloq",
+      "id_kec": "64.02.10"
     },
     {
       "id": "64.02.10.2008",
-      "name": "Long Beleh Modang"
+      "nama": "Long Beleh Modang",
+      "id_kec": "64.02.10"
     },
     {
       "id": "64.02.10.2009",
-      "name": "Muai"
+      "nama": "Muai",
+      "id_kec": "64.02.10"
     },
     {
       "id": "64.02.10.2010",
-      "name": "Perdana"
+      "nama": "Perdana",
+      "id_kec": "64.02.10"
     },
     {
       "id": "64.02.10.2011",
-      "name": "Bukit Layang"
+      "nama": "Bukit Layang",
+      "id_kec": "64.02.10"
     },
     {
       "id": "64.02.11.2001",
-      "name": "Muara Kaman Ilir"
+      "nama": "Muara Kaman Ilir",
+      "id_kec": "64.02.11"
     },
     {
       "id": "64.02.11.2002",
-      "name": "Rantau Hempang"
+      "nama": "Rantau Hempang",
+      "id_kec": "64.02.11"
     },
     {
       "id": "64.02.11.2003",
-      "name": "Teratak"
+      "nama": "Teratak",
+      "id_kec": "64.02.11"
     },
     {
       "id": "64.02.11.2004",
-      "name": "Benua Puhun"
+      "nama": "Benua Puhun",
+      "id_kec": "64.02.11"
     },
     {
       "id": "64.02.11.2005",
-      "name": "Muara Kaman Ulu"
+      "nama": "Muara Kaman Ulu",
+      "id_kec": "64.02.11"
     },
     {
       "id": "64.02.11.2006",
-      "name": "Sabintulung"
+      "nama": "Sabintulung",
+      "id_kec": "64.02.11"
     },
     {
       "id": "64.02.11.2007",
-      "name": "Muara Siran"
+      "nama": "Muara Siran",
+      "id_kec": "64.02.11"
     },
     {
       "id": "64.02.11.2008",
-      "name": "Tunjungan"
+      "nama": "Tunjungan",
+      "id_kec": "64.02.11"
     },
     {
       "id": "64.02.11.2009",
-      "name": "Sedulang"
+      "nama": "Sedulang",
+      "id_kec": "64.02.11"
     },
     {
       "id": "64.02.11.2010",
-      "name": "Menamang Kiri"
+      "nama": "Menamang Kiri",
+      "id_kec": "64.02.11"
     },
     {
       "id": "64.02.11.2011",
-      "name": "Menamang Kanan"
+      "nama": "Menamang Kanan",
+      "id_kec": "64.02.11"
     },
     {
       "id": "64.02.11.2012",
-      "name": "Sidomukti (Sido Mukti)"
+      "nama": "Sidomukti (Sido Mukti)",
+      "id_kec": "64.02.11"
     },
     {
       "id": "64.02.11.2013",
-      "name": "Panca Jaya"
+      "nama": "Panca Jaya",
+      "id_kec": "64.02.11"
     },
     {
       "id": "64.02.11.2014",
-      "name": "Bunga Jadi"
+      "nama": "Bunga Jadi",
+      "id_kec": "64.02.11"
     },
     {
       "id": "64.02.11.2015",
-      "name": "Kupang Baru"
+      "nama": "Kupang Baru",
+      "id_kec": "64.02.11"
     },
     {
       "id": "64.02.11.2016",
-      "name": "Lebaho Ulaq"
+      "nama": "Lebaho Ulaq",
+      "id_kec": "64.02.11"
     },
     {
       "id": "64.02.11.2017",
-      "name": "Bukit Jering"
+      "nama": "Bukit Jering",
+      "id_kec": "64.02.11"
     },
     {
       "id": "64.02.11.2018",
-      "name": "Liang Buaya"
+      "nama": "Liang Buaya",
+      "id_kec": "64.02.11"
     },
     {
       "id": "64.02.11.2019",
-      "name": "Puan Cepak"
+      "nama": "Puan Cepak",
+      "id_kec": "64.02.11"
     },
     {
       "id": "64.02.11.2020",
-      "name": "Cipari Makmur"
+      "nama": "Cipari Makmur",
+      "id_kec": "64.02.11"
     },
     {
       "id": "64.02.12.2001",
-      "name": "Gunung Sari"
+      "nama": "Gunung Sari",
+      "id_kec": "64.02.12"
     },
     {
       "id": "64.02.12.2002",
-      "name": "Long Lalang"
+      "nama": "Long Lalang",
+      "id_kec": "64.02.12"
     },
     {
       "id": "64.02.12.2003",
-      "name": "Muara Ritan"
+      "nama": "Muara Ritan",
+      "id_kec": "64.02.12"
     },
     {
       "id": "64.02.12.2004",
-      "name": "Buluk Sen"
+      "nama": "Buluk Sen",
+      "id_kec": "64.02.12"
     },
     {
       "id": "64.02.12.2005",
-      "name": "Umaq Dian"
+      "nama": "Umaq Dian",
+      "id_kec": "64.02.12"
     },
     {
       "id": "64.02.12.2006",
-      "name": "Muara Pedohon"
+      "nama": "Muara Pedohon",
+      "id_kec": "64.02.12"
     },
     {
       "id": "64.02.12.2007",
-      "name": "Bila Talang"
+      "nama": "Bila Talang",
+      "id_kec": "64.02.12"
     },
     {
       "id": "64.02.12.2008",
-      "name": "Kampung Baru"
+      "nama": "Kampung Baru",
+      "id_kec": "64.02.12"
     },
     {
       "id": "64.02.12.2009",
-      "name": "Umaq Tukung"
+      "nama": "Umaq Tukung",
+      "id_kec": "64.02.12"
     },
     {
       "id": "64.02.12.2010",
-      "name": "Sidomulyo"
+      "nama": "Sidomulyo",
+      "id_kec": "64.02.12"
     },
     {
       "id": "64.02.12.2011",
-      "name": "Umaq Bekuay (Umaq Bekuai)"
+      "nama": "Umaq Bekuay (Umaq Bekuai)",
+      "id_kec": "64.02.12"
     },
     {
       "id": "64.02.12.2012",
-      "name": "Tabang Lama"
+      "nama": "Tabang Lama",
+      "id_kec": "64.02.12"
     },
     {
       "id": "64.02.12.2013",
-      "name": "Muara Tiq"
+      "nama": "Muara Tiq",
+      "id_kec": "64.02.12"
     },
     {
       "id": "64.02.12.2014",
-      "name": "Muara Salung"
+      "nama": "Muara Salung",
+      "id_kec": "64.02.12"
     },
     {
       "id": "64.02.12.2015",
-      "name": "Muara Kebaq"
+      "nama": "Muara Kebaq",
+      "id_kec": "64.02.12"
     },
     {
       "id": "64.02.12.2016",
-      "name": "Muara Belinau"
+      "nama": "Muara Belinau",
+      "id_kec": "64.02.12"
     },
     {
       "id": "64.02.12.2017",
-      "name": "Muara Tubo (Muara Tuboq)"
+      "nama": "Muara Tubo (Muara Tuboq)",
+      "id_kec": "64.02.12"
     },
     {
       "id": "64.02.12.2018",
-      "name": "Ritan Baru"
+      "nama": "Ritan Baru",
+      "id_kec": "64.02.12"
     },
     {
       "id": "64.02.12.2019",
-      "name": "Tukung Ritan"
+      "nama": "Tukung Ritan",
+      "id_kec": "64.02.12"
     },
     {
       "id": "64.02.13.1007",
-      "name": "Sungai Seluang"
+      "nama": "Sungai Seluang",
+      "id_kec": "64.02.13"
     },
     {
       "id": "64.02.13.1008",
-      "name": "Wonotirto"
+      "nama": "Wonotirto",
+      "id_kec": "64.02.13"
     },
     {
       "id": "64.02.13.1009",
-      "name": "Tanjung Harapan"
+      "nama": "Tanjung Harapan",
+      "id_kec": "64.02.13"
     },
     {
       "id": "64.02.13.1010",
-      "name": "Samboja Kuala"
+      "nama": "Samboja Kuala",
+      "id_kec": "64.02.13"
     },
     {
       "id": "64.02.13.1011",
-      "name": "Sanipah"
+      "nama": "Sanipah",
+      "id_kec": "64.02.13"
     },
     {
       "id": "64.02.13.1012",
-      "name": "Handil Baru"
+      "nama": "Handil Baru",
+      "id_kec": "64.02.13"
     },
     {
       "id": "64.02.13.1013",
-      "name": "Muara Sembilang"
+      "nama": "Muara Sembilang",
+      "id_kec": "64.02.13"
     },
     {
       "id": "64.02.13.1021",
-      "name": "Teluk Pemedas"
+      "nama": "Teluk Pemedas",
+      "id_kec": "64.02.13"
     },
     {
       "id": "64.02.13.1022",
-      "name": "Kampung Lama"
+      "nama": "Kampung Lama",
+      "id_kec": "64.02.13"
     },
     {
       "id": "64.02.13.1023",
-      "name": "Handil Baru Darat"
+      "nama": "Handil Baru Darat",
+      "id_kec": "64.02.13"
     },
     {
       "id": "64.02.13.2014",
-      "name": "Karya Jaya"
+      "nama": "Karya Jaya",
+      "id_kec": "64.02.13"
     },
     {
       "id": "64.02.13.2016",
-      "name": "Bukit Raya"
+      "nama": "Bukit Raya",
+      "id_kec": "64.02.13"
     },
     {
       "id": "64.02.13.2019",
-      "name": "Beringin Agung"
+      "nama": "Beringin Agung",
+      "id_kec": "64.02.13"
     },
     {
       "id": "64.02.14.1001",
-      "name": "Muara Jawa Ilir"
+      "nama": "Muara Jawa Ilir",
+      "id_kec": "64.02.14"
     },
     {
       "id": "64.02.14.1002",
-      "name": "Muara Jawa Tengah"
+      "nama": "Muara Jawa Tengah",
+      "id_kec": "64.02.14"
     },
     {
       "id": "64.02.14.1003",
-      "name": "Muara Jawa Ulu"
+      "nama": "Muara Jawa Ulu",
+      "id_kec": "64.02.14"
     },
     {
       "id": "64.02.14.1004",
-      "name": "Teluk Dalam"
+      "nama": "Teluk Dalam",
+      "id_kec": "64.02.14"
     },
     {
       "id": "64.02.14.1005",
-      "name": "Dondang"
+      "nama": "Dondang",
+      "id_kec": "64.02.14"
     },
     {
       "id": "64.02.14.1006",
-      "name": "Tama Pole (Tamapole)"
+      "nama": "Tama Pole (Tamapole)",
+      "id_kec": "64.02.14"
     },
     {
       "id": "64.02.14.1007",
-      "name": "Muara Kembang"
+      "nama": "Muara Kembang",
+      "id_kec": "64.02.14"
     },
     {
       "id": "64.02.14.1008",
-      "name": "Muara Jawa (Muara Jawa Pesisir)"
+      "nama": "Muara Jawa (Muara Jawa Pesisir)",
+      "id_kec": "64.02.14"
     },
     {
       "id": "64.02.15.1001",
-      "name": "Jawa"
+      "nama": "Jawa",
+      "id_kec": "64.02.15"
     },
     {
       "id": "64.02.15.1002",
-      "name": "Pendingin"
+      "nama": "Pendingin",
+      "id_kec": "64.02.15"
     },
     {
       "id": "64.02.15.1003",
-      "name": "Sanga-Sanga Dalam"
+      "nama": "Sanga-Sanga Dalam",
+      "id_kec": "64.02.15"
     },
     {
       "id": "64.02.15.1004",
-      "name": "Sari Jaya (Sarijaya)"
+      "nama": "Sari Jaya (Sarijaya)",
+      "id_kec": "64.02.15"
     },
     {
       "id": "64.02.15.1005",
-      "name": "Sanga-Sanga Muara"
+      "nama": "Sanga-Sanga Muara",
+      "id_kec": "64.02.15"
     },
     {
       "id": "64.02.16.2001",
-      "name": "Manunggal Jaya"
+      "nama": "Manunggal Jaya",
+      "id_kec": "64.02.16"
     },
     {
       "id": "64.02.16.2002",
-      "name": "Bukit Raya"
+      "nama": "Bukit Raya",
+      "id_kec": "64.02.16"
     },
     {
       "id": "64.02.16.2003",
-      "name": "Embalut"
+      "nama": "Embalut",
+      "id_kec": "64.02.16"
     },
     {
       "id": "64.02.16.2004",
-      "name": "Bangun Rejo"
+      "nama": "Bangun Rejo",
+      "id_kec": "64.02.16"
     },
     {
       "id": "64.02.16.2005",
-      "name": "Kerta Buana"
+      "nama": "Kerta Buana",
+      "id_kec": "64.02.16"
     },
     {
       "id": "64.02.16.2006",
-      "name": "Separi"
+      "nama": "Separi",
+      "id_kec": "64.02.16"
     },
     {
       "id": "64.02.16.2007",
-      "name": "Bukit Pariaman"
+      "nama": "Bukit Pariaman",
+      "id_kec": "64.02.16"
     },
     {
       "id": "64.02.16.2008",
-      "name": "Bhuana Jaya (Buana Jaya)"
+      "nama": "Bhuana Jaya (Buana Jaya)",
+      "id_kec": "64.02.16"
     },
     {
       "id": "64.02.16.2009",
-      "name": "Mulawarman"
+      "nama": "Mulawarman",
+      "id_kec": "64.02.16"
     },
     {
       "id": "64.02.16.2010",
-      "name": "Loa Ulung"
+      "nama": "Loa Ulung",
+      "id_kec": "64.02.16"
     },
     {
       "id": "64.02.16.2011",
-      "name": "Loa Raya"
+      "nama": "Loa Raya",
+      "id_kec": "64.02.16"
     },
     {
       "id": "64.02.16.2012",
-      "name": "Perjiwa"
+      "nama": "Perjiwa",
+      "id_kec": "64.02.16"
     },
     {
       "id": "64.02.16.2013",
-      "name": "Teluk Dalam"
+      "nama": "Teluk Dalam",
+      "id_kec": "64.02.16"
     },
     {
       "id": "64.02.16.2014",
-      "name": "Loa Lepu"
+      "nama": "Loa Lepu",
+      "id_kec": "64.02.16"
     },
     {
       "id": "64.02.16.2015",
-      "name": "Suka Maju (Sukamaju)"
+      "nama": "Suka Maju (Sukamaju)",
+      "id_kec": "64.02.16"
     },
     {
       "id": "64.02.16.2016",
-      "name": "Loa Pari"
+      "nama": "Loa Pari",
+      "id_kec": "64.02.16"
     },
     {
       "id": "64.02.16.2017",
-      "name": "Karang Tunggal"
+      "nama": "Karang Tunggal",
+      "id_kec": "64.02.16"
     },
     {
       "id": "64.02.16.2018",
-      "name": "Tanjung Batu"
+      "nama": "Tanjung Batu",
+      "id_kec": "64.02.16"
     },
     {
       "id": "64.02.17.2001",
-      "name": "Sebuntal"
+      "nama": "Sebuntal",
+      "id_kec": "64.02.17"
     },
     {
       "id": "64.02.17.2002",
-      "name": "Santan Ulu"
+      "nama": "Santan Ulu",
+      "id_kec": "64.02.17"
     },
     {
       "id": "64.02.17.2003",
-      "name": "Santan Tengah"
+      "nama": "Santan Tengah",
+      "id_kec": "64.02.17"
     },
     {
       "id": "64.02.17.2004",
-      "name": "Santan Ilir"
+      "nama": "Santan Ilir",
+      "id_kec": "64.02.17"
     },
     {
       "id": "64.02.17.2005",
-      "name": "Kersik"
+      "nama": "Kersik",
+      "id_kec": "64.02.17"
     },
     {
       "id": "64.02.17.2006",
-      "name": "Bunga Putih"
+      "nama": "Bunga Putih",
+      "id_kec": "64.02.17"
     },
     {
       "id": "64.02.17.2007",
-      "name": "Makarti"
+      "nama": "Makarti",
+      "id_kec": "64.02.17"
     },
     {
       "id": "64.02.17.2008",
-      "name": "Prangat Selatan (Perangat Selatan)"
+      "nama": "Prangat Selatan (Perangat Selatan)",
+      "id_kec": "64.02.17"
     },
     {
       "id": "64.02.17.2009",
-      "name": "Prangat Baru (Perangat Baru)"
+      "nama": "Prangat Baru (Perangat Baru)",
+      "id_kec": "64.02.17"
     },
     {
       "id": "64.02.17.2010",
-      "name": "Semangko (Semangkok)"
+      "nama": "Semangko (Semangkok)",
+      "id_kec": "64.02.17"
     },
     {
       "id": "64.02.17.2011",
-      "name": "Sambera Baru"
+      "nama": "Sambera Baru",
+      "id_kec": "64.02.17"
     },
     {
       "id": "64.02.18.2001",
-      "name": "Muara Wis"
+      "nama": "Muara Wis",
+      "id_kec": "64.02.18"
     },
     {
       "id": "64.02.18.2002",
-      "name": "Sebemban"
+      "nama": "Sebemban",
+      "id_kec": "64.02.18"
     },
     {
       "id": "64.02.18.2003",
-      "name": "Melintang"
+      "nama": "Melintang",
+      "id_kec": "64.02.18"
     },
     {
       "id": "64.02.18.2004",
-      "name": "Enggelam"
+      "nama": "Enggelam",
+      "id_kec": "64.02.18"
     },
     {
       "id": "64.02.18.2005",
-      "name": "Lebak Mantan"
+      "nama": "Lebak Mantan",
+      "id_kec": "64.02.18"
     },
     {
       "id": "64.02.18.2006",
-      "name": "Lebak Cilong"
+      "nama": "Lebak Cilong",
+      "id_kec": "64.02.18"
     },
     {
       "id": "64.02.18.2007",
-      "name": "Muara Enggelam"
+      "nama": "Muara Enggelam",
+      "id_kec": "64.02.18"
     },
     {
       "id": "64.02.19.2001",
-      "name": "Kedang Ipil"
+      "nama": "Kedang Ipil",
+      "id_kec": "64.02.19"
     },
     {
       "id": "64.02.19.2002",
-      "name": "Sedulang"
+      "nama": "Sedulang",
+      "id_kec": "64.02.19"
     },
     {
       "id": "64.02.19.2003",
-      "name": "Benua Baru"
+      "nama": "Benua Baru",
+      "id_kec": "64.02.19"
     },
     {
       "id": "64.02.19.2004",
-      "name": "Kota Bangun I"
+      "nama": "Kota Bangun I",
+      "id_kec": "64.02.19"
     },
     {
       "id": "64.02.19.2005",
-      "name": "Kota Bangun II"
+      "nama": "Kota Bangun II",
+      "id_kec": "64.02.19"
     },
     {
       "id": "64.02.19.2006",
-      "name": "Kota Bangun III"
+      "nama": "Kota Bangun III",
+      "id_kec": "64.02.19"
     },
     {
       "id": "64.02.19.2007",
-      "name": "Sumber Sari"
+      "nama": "Sumber Sari",
+      "id_kec": "64.02.19"
     },
     {
       "id": "64.02.19.2008",
-      "name": "Sari Nadi (Sarinadi)"
+      "nama": "Sari Nadi (Sarinadi)",
+      "id_kec": "64.02.19"
     },
     {
       "id": "64.02.19.2009",
-      "name": "Suka Bumi (Sukabumi)"
+      "nama": "Suka Bumi (Sukabumi)",
+      "id_kec": "64.02.19"
     },
     {
       "id": "64.02.19.2010",
-      "name": "Wonosari"
+      "nama": "Wonosari",
+      "id_kec": "64.02.19"
     },
     {
       "id": "64.02.20.1001",
-      "name": "Bukit Merdeka"
+      "nama": "Bukit Merdeka",
+      "id_kec": "64.02.20"
     },
     {
       "id": "64.02.20.1002",
-      "name": "Sungai Merdeka"
+      "nama": "Sungai Merdeka",
+      "id_kec": "64.02.20"
     },
     {
       "id": "64.02.20.1003",
-      "name": "Karya Merdeka"
+      "nama": "Karya Merdeka",
+      "id_kec": "64.02.20"
     },
     {
       "id": "64.02.20.1005",
-      "name": "Amborawang Darat (Ambarawang Darat)"
+      "nama": "Amborawang Darat (Ambarawang Darat)",
+      "id_kec": "64.02.20"
     },
     {
       "id": "64.02.20.1006",
-      "name": "Argo Sari (Argosari)"
+      "nama": "Argo Sari (Argosari)",
+      "id_kec": "64.02.20"
     },
     {
       "id": "64.02.20.1007",
-      "name": "Salok Api Darat"
+      "nama": "Salok Api Darat",
+      "id_kec": "64.02.20"
     },
     {
       "id": "64.02.20.1008",
-      "name": "Salok Api Laut"
+      "nama": "Salok Api Laut",
+      "id_kec": "64.02.20"
     },
     {
       "id": "64.02.20.1009",
-      "name": "Amborawang Laut (Ambarawang Laut)"
+      "nama": "Amborawang Laut (Ambarawang Laut)",
+      "id_kec": "64.02.20"
     },
     {
       "id": "64.02.20.1010",
-      "name": "Margomulyo"
+      "nama": "Margomulyo",
+      "id_kec": "64.02.20"
     },
     {
       "id": "64.02.20.2004",
-      "name": "Tani Bhakti (Tani Bakti)"
+      "nama": "Tani Bhakti (Tani Bakti)",
+      "id_kec": "64.02.20"
     },
     {
       "id": "64.03.01.2001",
-      "name": "Merabu"
+      "nama": "Merabu",
+      "id_kec": "64.03.01"
     },
     {
       "id": "64.03.01.2002",
-      "name": "Panaan"
+      "nama": "Panaan",
+      "id_kec": "64.03.01"
     },
     {
       "id": "64.03.01.2003",
-      "name": "Merapun"
+      "nama": "Merapun",
+      "id_kec": "64.03.01"
     },
     {
       "id": "64.03.01.2004",
-      "name": "Muara Lesan"
+      "nama": "Muara Lesan",
+      "id_kec": "64.03.01"
     },
     {
       "id": "64.03.01.2005",
-      "name": "Merasa"
+      "nama": "Merasa",
+      "id_kec": "64.03.01"
     },
     {
       "id": "64.03.01.2006",
-      "name": "Lesan Dayak"
+      "nama": "Lesan Dayak",
+      "id_kec": "64.03.01"
     },
     {
       "id": "64.03.01.2007",
-      "name": "Long Beliu"
+      "nama": "Long Beliu",
+      "id_kec": "64.03.01"
     },
     {
       "id": "64.03.01.2008",
-      "name": "Long Duhung"
+      "nama": "Long Duhung",
+      "id_kec": "64.03.01"
     },
     {
       "id": "64.03.01.2009",
-      "name": "Long Lamcin"
+      "nama": "Long Lamcin",
+      "id_kec": "64.03.01"
     },
     {
       "id": "64.03.01.2010",
-      "name": "Long Keluh"
+      "nama": "Long Keluh",
+      "id_kec": "64.03.01"
     },
     {
       "id": "64.03.01.2011",
-      "name": "Long Pelay"
+      "nama": "Long Pelay",
+      "id_kec": "64.03.01"
     },
     {
       "id": "64.03.01.2012",
-      "name": "Mapulu"
+      "nama": "Mapulu",
+      "id_kec": "64.03.01"
     },
     {
       "id": "64.03.01.2013",
-      "name": "Long Sului"
+      "nama": "Long Sului",
+      "id_kec": "64.03.01"
     },
     {
       "id": "64.03.01.2014",
-      "name": "Sido Bangen"
+      "nama": "Sido Bangen",
+      "id_kec": "64.03.01"
     },
     {
       "id": "64.03.02.2002",
-      "name": "Dumaring"
+      "nama": "Dumaring",
+      "id_kec": "64.03.02"
     },
     {
       "id": "64.03.02.2003",
-      "name": "Talisayan"
+      "nama": "Talisayan",
+      "id_kec": "64.03.02"
     },
     {
       "id": "64.03.02.2014",
-      "name": "Campur Sari"
+      "nama": "Campur Sari",
+      "id_kec": "64.03.02"
     },
     {
       "id": "64.03.02.2015",
-      "name": "Bumi Jaya"
+      "nama": "Bumi Jaya",
+      "id_kec": "64.03.02"
     },
     {
       "id": "64.03.02.2016",
-      "name": "Tunggal Bumi"
+      "nama": "Tunggal Bumi",
+      "id_kec": "64.03.02"
     },
     {
       "id": "64.03.02.2017",
-      "name": "Sumber Mulya (Sumber Mulia)"
+      "nama": "Sumber Mulya (Sumber Mulia)",
+      "id_kec": "64.03.02"
     },
     {
       "id": "64.03.02.2018",
-      "name": "Suka Murya"
+      "nama": "Suka Murya",
+      "id_kec": "64.03.02"
     },
     {
       "id": "64.03.02.2019",
-      "name": "Purna Sari Jaya"
+      "nama": "Purna Sari Jaya",
+      "id_kec": "64.03.02"
     },
     {
       "id": "64.03.02.2021",
-      "name": "Eka Sapta"
+      "nama": "Eka Sapta",
+      "id_kec": "64.03.02"
     },
     {
       "id": "64.03.02.2023",
-      "name": "Capuak"
+      "nama": "Capuak",
+      "id_kec": "64.03.02"
     },
     {
       "id": "64.03.03.1013",
-      "name": "Sambaliung"
+      "nama": "Sambaliung",
+      "id_kec": "64.03.03"
     },
     {
       "id": "64.03.03.2001",
-      "name": "Long Lanuk"
+      "nama": "Long Lanuk",
+      "id_kec": "64.03.03"
     },
     {
       "id": "64.03.03.2002",
-      "name": "Tumbit Dayak"
+      "nama": "Tumbit Dayak",
+      "id_kec": "64.03.03"
     },
     {
       "id": "64.03.03.2004",
-      "name": "Inaran"
+      "nama": "Inaran",
+      "id_kec": "64.03.03"
     },
     {
       "id": "64.03.03.2005",
-      "name": "Pegat Bukur"
+      "nama": "Pegat Bukur",
+      "id_kec": "64.03.03"
     },
     {
       "id": "64.03.03.2006",
-      "name": "Rantau Panjang"
+      "nama": "Rantau Panjang",
+      "id_kec": "64.03.03"
     },
     {
       "id": "64.03.03.2007",
-      "name": "Suaran"
+      "nama": "Suaran",
+      "id_kec": "64.03.03"
     },
     {
       "id": "64.03.03.2008",
-      "name": "Pilanjau"
+      "nama": "Pilanjau",
+      "id_kec": "64.03.03"
     },
     {
       "id": "64.03.03.2009",
-      "name": "Pesayan"
+      "nama": "Pesayan",
+      "id_kec": "64.03.03"
     },
     {
       "id": "64.03.03.2010",
-      "name": "Bebanir (Sei Bebanir Bangun)"
+      "nama": "Bebanir (Sei Bebanir Bangun)",
+      "id_kec": "64.03.03"
     },
     {
       "id": "64.03.03.2011",
-      "name": "Gurimbang"
+      "nama": "Gurimbang",
+      "id_kec": "64.03.03"
     },
     {
       "id": "64.03.03.2012",
-      "name": "Sukan Tengah"
+      "nama": "Sukan Tengah",
+      "id_kec": "64.03.03"
     },
     {
       "id": "64.03.03.2014",
-      "name": "Tanjung Perangat"
+      "nama": "Tanjung Perangat",
+      "id_kec": "64.03.03"
     },
     {
       "id": "64.03.03.2015",
-      "name": "Bena Baru"
+      "nama": "Bena Baru",
+      "id_kec": "64.03.03"
     },
     {
       "id": "64.03.04.2001",
-      "name": "Long La'ai (Long Laay / Laai)"
+      "nama": "Long La'ai (Long Laay / Laai)",
+      "id_kec": "64.03.04"
     },
     {
       "id": "64.03.04.2002",
-      "name": "Punan Segah"
+      "nama": "Punan Segah",
+      "id_kec": "64.03.04"
     },
     {
       "id": "64.03.04.2003",
-      "name": "Long Ayap"
+      "nama": "Long Ayap",
+      "id_kec": "64.03.04"
     },
     {
       "id": "64.03.04.2004",
-      "name": "Long Ayan"
+      "nama": "Long Ayan",
+      "id_kec": "64.03.04"
     },
     {
       "id": "64.03.04.2005",
-      "name": "Punan Malinau"
+      "nama": "Punan Malinau",
+      "id_kec": "64.03.04"
     },
     {
       "id": "64.03.04.2006",
-      "name": "Punan Mahkam"
+      "nama": "Punan Mahkam",
+      "id_kec": "64.03.04"
     },
     {
       "id": "64.03.04.2007",
-      "name": "Gunung Sari"
+      "nama": "Gunung Sari",
+      "id_kec": "64.03.04"
     },
     {
       "id": "64.03.04.2008",
-      "name": "Pandan Sari"
+      "nama": "Pandan Sari",
+      "id_kec": "64.03.04"
     },
     {
       "id": "64.03.04.2009",
-      "name": "Bukit Makmur"
+      "nama": "Bukit Makmur",
+      "id_kec": "64.03.04"
     },
     {
       "id": "64.03.04.2010",
-      "name": "Harapan Jaya"
+      "nama": "Harapan Jaya",
+      "id_kec": "64.03.04"
     },
     {
       "id": "64.03.04.2011",
-      "name": "Tepian Buah"
+      "nama": "Tepian Buah",
+      "id_kec": "64.03.04"
     },
     {
       "id": "64.03.04.2012",
-      "name": "Batu Rajang"
+      "nama": "Batu Rajang",
+      "id_kec": "64.03.04"
     },
     {
       "id": "64.03.04.2013",
-      "name": "Siduung Indah"
+      "nama": "Siduung Indah",
+      "id_kec": "64.03.04"
     },
     {
       "id": "64.03.05.1003",
-      "name": "Sei/Sungai Bedungun"
+      "nama": "Sei/Sungai Bedungun",
+      "id_kec": "64.03.05"
     },
     {
       "id": "64.03.05.1004",
-      "name": "Tanjung Redeb"
+      "nama": "Tanjung Redeb",
+      "id_kec": "64.03.05"
     },
     {
       "id": "64.03.05.1005",
-      "name": "Bugis"
+      "nama": "Bugis",
+      "id_kec": "64.03.05"
     },
     {
       "id": "64.03.05.1006",
-      "name": "Gayam"
+      "nama": "Gayam",
+      "id_kec": "64.03.05"
     },
     {
       "id": "64.03.05.1007",
-      "name": "Karang Ambun"
+      "nama": "Karang Ambun",
+      "id_kec": "64.03.05"
     },
     {
       "id": "64.03.05.1008",
-      "name": "Gunung Panjang"
+      "nama": "Gunung Panjang",
+      "id_kec": "64.03.05"
     },
     {
       "id": "64.03.06.1003",
-      "name": "Gunung Tabur"
+      "nama": "Gunung Tabur",
+      "id_kec": "64.03.06"
     },
     {
       "id": "64.03.06.2001",
-      "name": "Tasuk"
+      "nama": "Tasuk",
+      "id_kec": "64.03.06"
     },
     {
       "id": "64.03.06.2002",
-      "name": "Birang"
+      "nama": "Birang",
+      "id_kec": "64.03.06"
     },
     {
       "id": "64.03.06.2004",
-      "name": "Maluang"
+      "nama": "Maluang",
+      "id_kec": "64.03.06"
     },
     {
       "id": "64.03.06.2005",
-      "name": "Samburakat"
+      "nama": "Samburakat",
+      "id_kec": "64.03.06"
     },
     {
       "id": "64.03.06.2006",
-      "name": "Sambakungan"
+      "nama": "Sambakungan",
+      "id_kec": "64.03.06"
     },
     {
       "id": "64.03.06.2007",
-      "name": "Merancang Ulu"
+      "nama": "Merancang Ulu",
+      "id_kec": "64.03.06"
     },
     {
       "id": "64.03.06.2008",
-      "name": "Merancang Ilir"
+      "nama": "Merancang Ilir",
+      "id_kec": "64.03.06"
     },
     {
       "id": "64.03.06.2009",
-      "name": "Pulau Besing"
+      "nama": "Pulau Besing",
+      "id_kec": "64.03.06"
     },
     {
       "id": "64.03.06.2010",
-      "name": "Melati Jaya"
+      "nama": "Melati Jaya",
+      "id_kec": "64.03.06"
     },
     {
       "id": "64.03.06.2011",
-      "name": "Batu-Batu"
+      "nama": "Batu-Batu",
+      "id_kec": "64.03.06"
     },
     {
       "id": "64.03.07.2001",
-      "name": "Pegat Batumbuk (Pegat Bertumbuk)"
+      "nama": "Pegat Batumbuk (Pegat Bertumbuk)",
+      "id_kec": "64.03.07"
     },
     {
       "id": "64.03.07.2002",
-      "name": "Teluk Semanting"
+      "nama": "Teluk Semanting",
+      "id_kec": "64.03.07"
     },
     {
       "id": "64.03.07.2003",
-      "name": "Tanjung Batu"
+      "nama": "Tanjung Batu",
+      "id_kec": "64.03.07"
     },
     {
       "id": "64.03.07.2004",
-      "name": "Pulau Derawan"
+      "nama": "Pulau Derawan",
+      "id_kec": "64.03.07"
     },
     {
       "id": "64.03.07.2009",
-      "name": "Kasai"
+      "nama": "Kasai",
+      "id_kec": "64.03.07"
     },
     {
       "id": "64.03.08.2001",
-      "name": "Biduk-Biduk"
+      "nama": "Biduk-Biduk",
+      "id_kec": "64.03.08"
     },
     {
       "id": "64.03.08.2002",
-      "name": "Pantai Harapan"
+      "nama": "Pantai Harapan",
+      "id_kec": "64.03.08"
     },
     {
       "id": "64.03.08.2003",
-      "name": "Tanjung Prepat (Tanjung Perepat)"
+      "nama": "Tanjung Prepat (Tanjung Perepat)",
+      "id_kec": "64.03.08"
     },
     {
       "id": "64.03.08.2004",
-      "name": "Teluk Sumbang"
+      "nama": "Teluk Sumbang",
+      "id_kec": "64.03.08"
     },
     {
       "id": "64.03.08.2008",
-      "name": "Teluk Sulaiman"
+      "nama": "Teluk Sulaiman",
+      "id_kec": "64.03.08"
     },
     {
       "id": "64.03.08.2009",
-      "name": "Giring-Giring"
+      "nama": "Giring-Giring",
+      "id_kec": "64.03.08"
     },
     {
       "id": "64.03.09.1002",
-      "name": "Teluk Bayur"
+      "nama": "Teluk Bayur",
+      "id_kec": "64.03.09"
     },
     {
       "id": "64.03.09.1003",
-      "name": "Rinding"
+      "nama": "Rinding",
+      "id_kec": "64.03.09"
     },
     {
       "id": "64.03.09.2001",
-      "name": "Tumbit Melayu"
+      "nama": "Tumbit Melayu",
+      "id_kec": "64.03.09"
     },
     {
       "id": "64.03.09.2004",
-      "name": "Labanan Jaya"
+      "nama": "Labanan Jaya",
+      "id_kec": "64.03.09"
     },
     {
       "id": "64.03.09.2005",
-      "name": "Labanan Makmur"
+      "nama": "Labanan Makmur",
+      "id_kec": "64.03.09"
     },
     {
       "id": "64.03.09.2006",
-      "name": "Labanan Makarti"
+      "nama": "Labanan Makarti",
+      "id_kec": "64.03.09"
     },
     {
       "id": "64.03.10.2002",
-      "name": "Tabalar Muara"
+      "nama": "Tabalar Muara",
+      "id_kec": "64.03.10"
     },
     {
       "id": "64.03.10.2003",
-      "name": "Tubaan"
+      "nama": "Tubaan",
+      "id_kec": "64.03.10"
     },
     {
       "id": "64.03.10.2004",
-      "name": "Tabalar Ulu"
+      "nama": "Tabalar Ulu",
+      "id_kec": "64.03.10"
     },
     {
       "id": "64.03.10.2005",
-      "name": "Semurut"
+      "nama": "Semurut",
+      "id_kec": "64.03.10"
     },
     {
       "id": "64.03.10.2006",
-      "name": "Buyung-Buyung (Radak)"
+      "nama": "Buyung-Buyung (Radak)",
+      "id_kec": "64.03.10"
     },
     {
       "id": "64.03.10.2007",
-      "name": "Harapan Maju"
+      "nama": "Harapan Maju",
+      "id_kec": "64.03.10"
     },
     {
       "id": "64.03.11.2001",
-      "name": "Bohe Silian (Maratua Bohesilian)"
+      "nama": "Bohe Silian (Maratua Bohesilian)",
+      "id_kec": "64.03.11"
     },
     {
       "id": "64.03.11.2002",
-      "name": "Payung-Payung (Maratua Payung-Payung)"
+      "nama": "Payung-Payung (Maratua Payung-Payung)",
+      "id_kec": "64.03.11"
     },
     {
       "id": "64.03.11.2003",
-      "name": "Teluk Alulu (Maratua Teluk Alulu)"
+      "nama": "Teluk Alulu (Maratua Teluk Alulu)",
+      "id_kec": "64.03.11"
     },
     {
       "id": "64.03.11.2004",
-      "name": "Teluk Harapan (Maratua Teluk Harapan)"
+      "nama": "Teluk Harapan (Maratua Teluk Harapan)",
+      "id_kec": "64.03.11"
     },
     {
       "id": "64.03.12.2001",
-      "name": "Tembudan"
+      "nama": "Tembudan",
+      "id_kec": "64.03.12"
     },
     {
       "id": "64.03.12.2002",
-      "name": "Kayu Indah"
+      "nama": "Kayu Indah",
+      "id_kec": "64.03.12"
     },
     {
       "id": "64.03.12.2003",
-      "name": "Batu Putih"
+      "nama": "Batu Putih",
+      "id_kec": "64.03.12"
     },
     {
       "id": "64.03.12.2004",
-      "name": "Lobang Kelatak"
+      "nama": "Lobang Kelatak",
+      "id_kec": "64.03.12"
     },
     {
       "id": "64.03.12.2005",
-      "name": "Ampen Medang"
+      "nama": "Ampen Medang",
+      "id_kec": "64.03.12"
     },
     {
       "id": "64.03.12.2006",
-      "name": "Balik Kukuk (Balikukup)"
+      "nama": "Balik Kukuk (Balikukup)",
+      "id_kec": "64.03.12"
     },
     {
       "id": "64.03.12.2007",
-      "name": "Sumber Agung"
+      "nama": "Sumber Agung",
+      "id_kec": "64.03.12"
     },
     {
       "id": "64.03.13.2001",
-      "name": "Biatan Ulu"
+      "nama": "Biatan Ulu",
+      "id_kec": "64.03.13"
     },
     {
       "id": "64.03.13.2002",
-      "name": "Biatan Ilir"
+      "nama": "Biatan Ilir",
+      "id_kec": "64.03.13"
     },
     {
       "id": "64.03.13.2003",
-      "name": "Karangan"
+      "nama": "Karangan",
+      "id_kec": "64.03.13"
     },
     {
       "id": "64.03.13.2004",
-      "name": "Biatan Lempake"
+      "nama": "Biatan Lempake",
+      "id_kec": "64.03.13"
     },
     {
       "id": "64.03.13.2005",
-      "name": "Manunggal Jaya"
+      "nama": "Manunggal Jaya",
+      "id_kec": "64.03.13"
     },
     {
       "id": "64.03.13.2006",
-      "name": "Biatan Bapinang"
+      "nama": "Biatan Bapinang",
+      "id_kec": "64.03.13"
     },
     {
       "id": "64.03.13.2007",
-      "name": "Biatan Baru"
+      "nama": "Biatan Baru",
+      "id_kec": "64.03.13"
     },
     {
       "id": "64.03.13.2008",
-      "name": "Bukit Makmur Jaya"
+      "nama": "Bukit Makmur Jaya",
+      "id_kec": "64.03.13"
     },
     {
       "id": "64.07.05.2008",
-      "name": "Linggang Muara Leban (Muara Leban)"
+      "nama": "Linggang Muara Leban (Muara Leban)",
+      "id_kec": "64.07.05"
     },
     {
       "id": "64.07.05.2009",
-      "name": "Long Iram Seberang (Longiram Seberang)"
+      "nama": "Long Iram Seberang (Longiram Seberang)",
+      "id_kec": "64.07.05"
     },
     {
       "id": "64.07.05.2010",
-      "name": "Long Iram Ilir"
+      "nama": "Long Iram Ilir",
+      "id_kec": "64.07.05"
     },
     {
       "id": "64.07.05.2011",
-      "name": "Anah"
+      "nama": "Anah",
+      "id_kec": "64.07.05"
     },
     {
       "id": "64.07.05.2015",
-      "name": "Long Daliq"
+      "nama": "Long Daliq",
+      "id_kec": "64.07.05"
     },
     {
       "id": "64.07.05.2016",
-      "name": "Long Iram Kota"
+      "nama": "Long Iram Kota",
+      "id_kec": "64.07.05"
     },
     {
       "id": "64.07.05.2017",
-      "name": "Long Iram Bayan"
+      "nama": "Long Iram Bayan",
+      "id_kec": "64.07.05"
     },
     {
       "id": "64.07.05.2018",
-      "name": "Keliwai (Keliway)"
+      "nama": "Keliwai (Keliway)",
+      "id_kec": "64.07.05"
     },
     {
       "id": "64.07.05.2019",
-      "name": "Ujoh Halang"
+      "nama": "Ujoh Halang",
+      "id_kec": "64.07.05"
     },
     {
       "id": "64.07.05.2021",
-      "name": "Kelian Luar (Kalian Luar)"
+      "nama": "Kelian Luar (Kalian Luar)",
+      "id_kec": "64.07.05"
     },
     {
       "id": "64.07.05.2022",
-      "name": "Sukomulyo (Suko Mulyo)"
+      "nama": "Sukomulyo (Suko Mulyo)",
+      "id_kec": "64.07.05"
     },
     {
       "id": "64.07.06.1006",
-      "name": "Melak Ilir"
+      "nama": "Melak Ilir",
+      "id_kec": "64.07.06"
     },
     {
       "id": "64.07.06.1011",
-      "name": "Melak Ulu"
+      "nama": "Melak Ulu",
+      "id_kec": "64.07.06"
     },
     {
       "id": "64.07.06.2001",
-      "name": "Empas"
+      "nama": "Empas",
+      "id_kec": "64.07.06"
     },
     {
       "id": "64.07.06.2002",
-      "name": "Empakuq"
+      "nama": "Empakuq",
+      "id_kec": "64.07.06"
     },
     {
       "id": "64.07.06.2003",
-      "name": "Muara Bunyut"
+      "nama": "Muara Bunyut",
+      "id_kec": "64.07.06"
     },
     {
       "id": "64.07.06.2012",
-      "name": "Muara Benangaq"
+      "nama": "Muara Benangaq",
+      "id_kec": "64.07.06"
     },
     {
       "id": "64.07.07.1001",
-      "name": "Barong Tongkok"
+      "nama": "Barong Tongkok",
+      "id_kec": "64.07.07"
     },
     {
       "id": "64.07.07.1021",
-      "name": "Simpang Raya"
+      "nama": "Simpang Raya",
+      "id_kec": "64.07.07"
     },
     {
       "id": "64.07.07.2002",
-      "name": "Mencimai"
+      "nama": "Mencimai",
+      "id_kec": "64.07.07"
     },
     {
       "id": "64.07.07.2003",
-      "name": "Engkuni Pasek"
+      "nama": "Engkuni Pasek",
+      "id_kec": "64.07.07"
     },
     {
       "id": "64.07.07.2004",
-      "name": "Pepas Eheng"
+      "nama": "Pepas Eheng",
+      "id_kec": "64.07.07"
     },
     {
       "id": "64.07.07.2006",
-      "name": "Juhan Asa"
+      "nama": "Juhan Asa",
+      "id_kec": "64.07.07"
     },
     {
       "id": "64.07.07.2007",
-      "name": "Asa"
+      "nama": "Asa",
+      "id_kec": "64.07.07"
     },
     {
       "id": "64.07.07.2008",
-      "name": "Pepas/Pepes Asa"
+      "nama": "Pepas/Pepes Asa",
+      "id_kec": "64.07.07"
     },
     {
       "id": "64.07.07.2009",
-      "name": "Muara Asa"
+      "nama": "Muara Asa",
+      "id_kec": "64.07.07"
     },
     {
       "id": "64.07.07.2010",
-      "name": "Ongko Asa"
+      "nama": "Ongko Asa",
+      "id_kec": "64.07.07"
     },
     {
       "id": "64.07.07.2011",
-      "name": "Juaq Asa"
+      "nama": "Juaq Asa",
+      "id_kec": "64.07.07"
     },
     {
       "id": "64.07.07.2012",
-      "name": "Ombau Asa"
+      "nama": "Ombau Asa",
+      "id_kec": "64.07.07"
     },
     {
       "id": "64.07.07.2013",
-      "name": "Ngenyan Asa"
+      "nama": "Ngenyan Asa",
+      "id_kec": "64.07.07"
     },
     {
       "id": "64.07.07.2014",
-      "name": "Gemuhan Asa"
+      "nama": "Gemuhan Asa",
+      "id_kec": "64.07.07"
     },
     {
       "id": "64.07.07.2015",
-      "name": "Geleo Baru"
+      "nama": "Geleo Baru",
+      "id_kec": "64.07.07"
     },
     {
       "id": "64.07.07.2016",
-      "name": "Geleo Asa"
+      "nama": "Geleo Asa",
+      "id_kec": "64.07.07"
     },
     {
       "id": "64.07.07.2017",
-      "name": "Rejo Basuki"
+      "nama": "Rejo Basuki",
+      "id_kec": "64.07.07"
     },
     {
       "id": "64.07.07.2018",
-      "name": "Sumber Sari"
+      "nama": "Sumber Sari",
+      "id_kec": "64.07.07"
     },
     {
       "id": "64.07.07.2019",
-      "name": "Sendawar"
+      "nama": "Sendawar",
+      "id_kec": "64.07.07"
     },
     {
       "id": "64.07.07.2020",
-      "name": "Balok Asa"
+      "nama": "Balok Asa",
+      "id_kec": "64.07.07"
     },
     {
       "id": "64.07.07.2022",
-      "name": "Belempung Ulaq"
+      "nama": "Belempung Ulaq",
+      "id_kec": "64.07.07"
     },
     {
       "id": "64.07.08.2001",
-      "name": "Besiq"
+      "nama": "Besiq",
+      "id_kec": "64.07.08"
     },
     {
       "id": "64.07.08.2002",
-      "name": "Bermai"
+      "nama": "Bermai",
+      "id_kec": "64.07.08"
     },
     {
       "id": "64.07.08.2003",
-      "name": "Muara Niliq"
+      "nama": "Muara Niliq",
+      "id_kec": "64.07.08"
     },
     {
       "id": "64.07.08.2004",
-      "name": "Mantar"
+      "nama": "Mantar",
+      "id_kec": "64.07.08"
     },
     {
       "id": "64.07.08.2005",
-      "name": "Muara Bomboy"
+      "nama": "Muara Bomboy",
+      "id_kec": "64.07.08"
     },
     {
       "id": "64.07.08.2006",
-      "name": "Damai Seberang"
+      "nama": "Damai Seberang",
+      "id_kec": "64.07.08"
     },
     {
       "id": "64.07.08.2007",
-      "name": "Mendika"
+      "nama": "Mendika",
+      "id_kec": "64.07.08"
     },
     {
       "id": "64.07.08.2008",
-      "name": "Damai Kota"
+      "nama": "Damai Kota",
+      "id_kec": "64.07.08"
     },
     {
       "id": "64.07.08.2009",
-      "name": "Lumpat Dahuq"
+      "nama": "Lumpat Dahuq",
+      "id_kec": "64.07.08"
     },
     {
       "id": "64.07.08.2010",
-      "name": "Muara Tokong"
+      "nama": "Muara Tokong",
+      "id_kec": "64.07.08"
     },
     {
       "id": "64.07.08.2011",
-      "name": "Jengan Danum"
+      "nama": "Jengan Danum",
+      "id_kec": "64.07.08"
     },
     {
       "id": "64.07.08.2012",
-      "name": "Keay"
+      "nama": "Keay",
+      "id_kec": "64.07.08"
     },
     {
       "id": "64.07.08.2013",
-      "name": "Tapulang"
+      "nama": "Tapulang",
+      "id_kec": "64.07.08"
     },
     {
       "id": "64.07.08.2014",
-      "name": "Benung"
+      "nama": "Benung",
+      "id_kec": "64.07.08"
     },
     {
       "id": "64.07.08.2020",
-      "name": "Muara Nyahing"
+      "nama": "Muara Nyahing",
+      "id_kec": "64.07.08"
     },
     {
       "id": "64.07.08.2021",
-      "name": "Sempatn"
+      "nama": "Sempatn",
+      "id_kec": "64.07.08"
     },
     {
       "id": "64.07.08.2022",
-      "name": "Kelian"
+      "nama": "Kelian",
+      "id_kec": "64.07.08"
     },
     {
       "id": "64.07.09.2001",
-      "name": "Muara Begai"
+      "nama": "Muara Begai",
+      "id_kec": "64.07.09"
     },
     {
       "id": "64.07.09.2002",
-      "name": "Lataq/Lotaq"
+      "nama": "Lataq/Lotaq",
+      "id_kec": "64.07.09"
     },
     {
       "id": "64.07.09.2003",
-      "name": "Payang"
+      "nama": "Payang",
+      "id_kec": "64.07.09"
     },
     {
       "id": "64.07.09.2004",
-      "name": "Dingin"
+      "nama": "Dingin",
+      "id_kec": "64.07.09"
     },
     {
       "id": "64.07.09.2005",
-      "name": "Muara Lawa"
+      "nama": "Muara Lawa",
+      "id_kec": "64.07.09"
     },
     {
       "id": "64.07.09.2006",
-      "name": "Lambing"
+      "nama": "Lambing",
+      "id_kec": "64.07.09"
     },
     {
       "id": "64.07.09.2007",
-      "name": "Benggeris"
+      "nama": "Benggeris",
+      "id_kec": "64.07.09"
     },
     {
       "id": "64.07.09.2008",
-      "name": "Cempedes (Cempedas)"
+      "nama": "Cempedes (Cempedas)",
+      "id_kec": "64.07.09"
     },
     {
       "id": "64.07.10.2015",
-      "name": "Jerang Dayak"
+      "nama": "Jerang Dayak",
+      "id_kec": "64.07.10"
     },
     {
       "id": "64.07.10.2016",
-      "name": "Mendung"
+      "nama": "Mendung",
+      "id_kec": "64.07.10"
     },
     {
       "id": "64.07.10.2017",
-      "name": "Jerang Melayu"
+      "nama": "Jerang Melayu",
+      "id_kec": "64.07.10"
     },
     {
       "id": "64.07.10.2018",
-      "name": "Dasaq"
+      "nama": "Dasaq",
+      "id_kec": "64.07.10"
     },
     {
       "id": "64.07.10.2020",
-      "name": "Tepian Ulaq"
+      "nama": "Tepian Ulaq",
+      "id_kec": "64.07.10"
     },
     {
       "id": "64.07.10.2021",
-      "name": "Sebelang"
+      "nama": "Sebelang",
+      "id_kec": "64.07.10"
     },
     {
       "id": "64.07.10.2022",
-      "name": "Muara Baroh"
+      "nama": "Muara Baroh",
+      "id_kec": "64.07.10"
     },
     {
       "id": "64.07.10.2023",
-      "name": "Teluk Tempudau"
+      "nama": "Teluk Tempudau",
+      "id_kec": "64.07.10"
     },
     {
       "id": "64.07.10.2024",
-      "name": "Tanjung Laong"
+      "nama": "Tanjung Laong",
+      "id_kec": "64.07.10"
     },
     {
       "id": "64.07.10.2025",
-      "name": "Tanjung Pagar"
+      "nama": "Tanjung Pagar",
+      "id_kec": "64.07.10"
     },
     {
       "id": "64.07.10.2029",
-      "name": "Gunung Bayan"
+      "nama": "Gunung Bayan",
+      "id_kec": "64.07.10"
     },
     {
       "id": "64.07.10.2030",
-      "name": "Muara Beloan"
+      "nama": "Muara Beloan",
+      "id_kec": "64.07.10"
     },
     {
       "id": "64.07.11.2001",
-      "name": "Pentat"
+      "nama": "Pentat",
+      "id_kec": "64.07.11"
     },
     {
       "id": "64.07.11.2002",
-      "name": "Lembonah"
+      "nama": "Lembonah",
+      "id_kec": "64.07.11"
     },
     {
       "id": "64.07.11.2003",
-      "name": "Muara Nayan"
+      "nama": "Muara Nayan",
+      "id_kec": "64.07.11"
     },
     {
       "id": "64.07.11.2004",
-      "name": "Mancong"
+      "nama": "Mancong",
+      "id_kec": "64.07.11"
     },
     {
       "id": "64.07.11.2005",
-      "name": "Perigiq"
+      "nama": "Perigiq",
+      "id_kec": "64.07.11"
     },
     {
       "id": "64.07.11.2006",
-      "name": "Muara Ohong"
+      "nama": "Muara Ohong",
+      "id_kec": "64.07.11"
     },
     {
       "id": "64.07.11.2007",
-      "name": "Tanjung Jone"
+      "nama": "Tanjung Jone",
+      "id_kec": "64.07.11"
     },
     {
       "id": "64.07.11.2008",
-      "name": "Tanjung Isuy"
+      "nama": "Tanjung Isuy",
+      "id_kec": "64.07.11"
     },
     {
       "id": "64.07.11.2009",
-      "name": "Tanjung Jan"
+      "nama": "Tanjung Jan",
+      "id_kec": "64.07.11"
     },
     {
       "id": "64.07.11.2010",
-      "name": "Pulau Lanting"
+      "nama": "Pulau Lanting",
+      "id_kec": "64.07.11"
     },
     {
       "id": "64.07.11.2011",
-      "name": "Muara Tae"
+      "nama": "Muara Tae",
+      "id_kec": "64.07.11"
     },
     {
       "id": "64.07.11.2012",
-      "name": "Bekokong Makmur (Resak Bekokong)"
+      "nama": "Bekokong Makmur (Resak Bekokong)",
+      "id_kec": "64.07.11"
     },
     {
       "id": "64.07.12.2001",
-      "name": "Gerungung (Gerunggung)"
+      "nama": "Gerungung (Gerunggung)",
+      "id_kec": "64.07.12"
     },
     {
       "id": "64.07.12.2002",
-      "name": "Pereng Taliq (Pereng Talik)"
+      "nama": "Pereng Taliq (Pereng Talik)",
+      "id_kec": "64.07.12"
     },
     {
       "id": "64.07.12.2003",
-      "name": "Tanjung Soke"
+      "nama": "Tanjung Soke",
+      "id_kec": "64.07.12"
     },
     {
       "id": "64.07.12.2004",
-      "name": "Deraya"
+      "nama": "Deraya",
+      "id_kec": "64.07.12"
     },
     {
       "id": "64.07.12.2005",
-      "name": "Lemper"
+      "nama": "Lemper",
+      "id_kec": "64.07.12"
     },
     {
       "id": "64.07.12.2006",
-      "name": "Muara Siram"
+      "nama": "Muara Siram",
+      "id_kec": "64.07.12"
     },
     {
       "id": "64.07.12.2007",
-      "name": "Resak"
+      "nama": "Resak",
+      "id_kec": "64.07.12"
     },
     {
       "id": "64.07.12.2008",
-      "name": "Jambuk"
+      "nama": "Jambuk",
+      "id_kec": "64.07.12"
     },
     {
       "id": "64.07.12.2009",
-      "name": "Muara Gusik"
+      "nama": "Muara Gusik",
+      "id_kec": "64.07.12"
     },
     {
       "id": "64.07.12.2010",
-      "name": "Penawai"
+      "nama": "Penawai",
+      "id_kec": "64.07.12"
     },
     {
       "id": "64.07.12.2011",
-      "name": "Muara Kedang"
+      "nama": "Muara Kedang",
+      "id_kec": "64.07.12"
     },
     {
       "id": "64.07.12.2012",
-      "name": "Jambuk Makmur"
+      "nama": "Jambuk Makmur",
+      "id_kec": "64.07.12"
     },
     {
       "id": "64.07.12.2014",
-      "name": "Muaram Siram I (Siram Makmur)"
+      "nama": "Muaram Siram I (Siram Makmur)",
+      "id_kec": "64.07.12"
     },
     {
       "id": "64.07.12.2015",
-      "name": "Muaram Siram II (Siram Jaya)"
+      "nama": "Muaram Siram II (Siram Jaya)",
+      "id_kec": "64.07.12"
     },
     {
       "id": "64.07.12.2016",
-      "name": "Bukit Harapan"
+      "nama": "Bukit Harapan",
+      "id_kec": "64.07.12"
     },
     {
       "id": "64.07.12.2019",
-      "name": "Tanjung Sari"
+      "nama": "Tanjung Sari",
+      "id_kec": "64.07.12"
     },
     {
       "id": "64.07.13.2001",
-      "name": "Loa Deras"
+      "nama": "Loa Deras",
+      "id_kec": "64.07.13"
     },
     {
       "id": "64.07.13.2002",
-      "name": "Minta"
+      "nama": "Minta",
+      "id_kec": "64.07.13"
     },
     {
       "id": "64.07.13.2003",
-      "name": "Tanjung Haur"
+      "nama": "Tanjung Haur",
+      "id_kec": "64.07.13"
     },
     {
       "id": "64.07.13.2004",
-      "name": "Penyinggahan Ilir"
+      "nama": "Penyinggahan Ilir",
+      "id_kec": "64.07.13"
     },
     {
       "id": "64.07.13.2005",
-      "name": "Penyinggahan Ulu"
+      "nama": "Penyinggahan Ulu",
+      "id_kec": "64.07.13"
     },
     {
       "id": "64.07.13.2006",
-      "name": "Bakung"
+      "nama": "Bakung",
+      "id_kec": "64.07.13"
     },
     {
       "id": "64.07.14.2001",
-      "name": "Randa Empas"
+      "nama": "Randa Empas",
+      "id_kec": "64.07.14"
     },
     {
       "id": "64.07.14.2002",
-      "name": "Tuquk/Tukuq"
+      "nama": "Tuquk/Tukuq",
+      "id_kec": "64.07.14"
     },
     {
       "id": "64.07.14.2003",
-      "name": "Tende"
+      "nama": "Tende",
+      "id_kec": "64.07.14"
     },
     {
       "id": "64.07.14.2004",
-      "name": "Sambung"
+      "nama": "Sambung",
+      "id_kec": "64.07.14"
     },
     {
       "id": "64.07.14.2005",
-      "name": "Anan Jaya"
+      "nama": "Anan Jaya",
+      "id_kec": "64.07.14"
     },
     {
       "id": "64.07.14.2006",
-      "name": "Jelmu Sibak"
+      "nama": "Jelmu Sibak",
+      "id_kec": "64.07.14"
     },
     {
       "id": "64.07.14.2007",
-      "name": "Suakong"
+      "nama": "Suakong",
+      "id_kec": "64.07.14"
     },
     {
       "id": "64.07.14.2008",
-      "name": "Penarung"
+      "nama": "Penarung",
+      "id_kec": "64.07.14"
     },
     {
       "id": "64.07.14.2009",
-      "name": "Dilang Puti"
+      "nama": "Dilang Puti",
+      "id_kec": "64.07.14"
     },
     {
       "id": "64.07.15.2001",
-      "name": "Linggang Melapeh Baru (Melapeh Baru)"
+      "nama": "Linggang Melapeh Baru (Melapeh Baru)",
+      "id_kec": "64.07.15"
     },
     {
       "id": "64.07.15.2002",
-      "name": "Linggang Bigung Baru (Bigung Baru)"
+      "nama": "Linggang Bigung Baru (Bigung Baru)",
+      "id_kec": "64.07.15"
     },
     {
       "id": "64.07.15.2003",
-      "name": "Linggang Tutung (Tutuh / Tutung)"
+      "nama": "Linggang Tutung (Tutuh / Tutung)",
+      "id_kec": "64.07.15"
     },
     {
       "id": "64.07.15.2004",
-      "name": "Linggang Melapeh"
+      "nama": "Linggang Melapeh",
+      "id_kec": "64.07.15"
     },
     {
       "id": "64.07.15.2005",
-      "name": "Linggang Mapan"
+      "nama": "Linggang Mapan",
+      "id_kec": "64.07.15"
     },
     {
       "id": "64.07.15.2006",
-      "name": "Linggang Bigung"
+      "nama": "Linggang Bigung",
+      "id_kec": "64.07.15"
     },
     {
       "id": "64.07.15.2007",
-      "name": "Linggang Amer"
+      "nama": "Linggang Amer",
+      "id_kec": "64.07.15"
     },
     {
       "id": "64.07.15.2008",
-      "name": "Linggang Bangunsari (Bangun Sari)"
+      "nama": "Linggang Bangunsari (Bangun Sari)",
+      "id_kec": "64.07.15"
     },
     {
       "id": "64.07.15.2009",
-      "name": "Linggang Purwodadi (Purwadadi)"
+      "nama": "Linggang Purwodadi (Purwadadi)",
+      "id_kec": "64.07.15"
     },
     {
       "id": "64.07.15.2010",
-      "name": "Linggang Mencelew"
+      "nama": "Linggang Mencelew",
+      "id_kec": "64.07.15"
     },
     {
       "id": "64.07.15.2011",
-      "name": "Linggang Kebut"
+      "nama": "Linggang Kebut",
+      "id_kec": "64.07.15"
     },
     {
       "id": "64.07.16.2001",
-      "name": "Dempar"
+      "nama": "Dempar",
+      "id_kec": "64.07.16"
     },
     {
       "id": "64.07.16.2002",
-      "name": "Temula"
+      "nama": "Temula",
+      "id_kec": "64.07.16"
     },
     {
       "id": "64.07.16.2003",
-      "name": "Jontai"
+      "nama": "Jontai",
+      "id_kec": "64.07.16"
     },
     {
       "id": "64.07.16.2004",
-      "name": "Sembuan"
+      "nama": "Sembuan",
+      "id_kec": "64.07.16"
     },
     {
       "id": "64.07.16.2005",
-      "name": "Intu Lingau"
+      "nama": "Intu Lingau",
+      "id_kec": "64.07.16"
     },
     {
       "id": "64.07.16.2006",
-      "name": "Mu'ut"
+      "nama": "Mu'ut",
+      "id_kec": "64.07.16"
     },
     {
       "id": "64.07.16.2007",
-      "name": "Terajuk"
+      "nama": "Terajuk",
+      "id_kec": "64.07.16"
     },
     {
       "id": "64.07.16.2008",
-      "name": "Lakan Bilem"
+      "nama": "Lakan Bilem",
+      "id_kec": "64.07.16"
     },
     {
       "id": "64.07.16.2009",
-      "name": "Sentalar"
+      "nama": "Sentalar",
+      "id_kec": "64.07.16"
     },
     {
       "id": "64.07.16.2010",
-      "name": "Awai"
+      "nama": "Awai",
+      "id_kec": "64.07.16"
     },
     {
       "id": "64.07.17.2001",
-      "name": "Tebisaq"
+      "nama": "Tebisaq",
+      "id_kec": "64.07.17"
     },
     {
       "id": "64.07.17.2002",
-      "name": "Kaliq"
+      "nama": "Kaliq",
+      "id_kec": "64.07.17"
     },
     {
       "id": "64.07.17.2003",
-      "name": "Tanah Mea (Tana Mea)"
+      "nama": "Tanah Mea (Tana Mea)",
+      "id_kec": "64.07.17"
     },
     {
       "id": "64.07.17.2004",
-      "name": "Sang Sang (Sansang)"
+      "nama": "Sang Sang (Sansang)",
+      "id_kec": "64.07.17"
     },
     {
       "id": "64.07.17.2005",
-      "name": "Muhur"
+      "nama": "Muhur",
+      "id_kec": "64.07.17"
     },
     {
       "id": "64.07.17.2006",
-      "name": "Muara Kelawit"
+      "nama": "Muara Kelawit",
+      "id_kec": "64.07.17"
     },
     {
       "id": "64.07.17.2007",
-      "name": "Bentas"
+      "nama": "Bentas",
+      "id_kec": "64.07.17"
     },
     {
       "id": "64.07.17.2008",
-      "name": "Betung"
+      "nama": "Betung",
+      "id_kec": "64.07.17"
     },
     {
       "id": "64.07.17.2009",
-      "name": "Kiaq"
+      "nama": "Kiaq",
+      "id_kec": "64.07.17"
     },
     {
       "id": "64.07.17.2010",
-      "name": "Tendiq"
+      "nama": "Tendiq",
+      "id_kec": "64.07.17"
     },
     {
       "id": "64.07.17.2011",
-      "name": "Penawang"
+      "nama": "Penawang",
+      "id_kec": "64.07.17"
     },
     {
       "id": "64.07.17.2012",
-      "name": "Lendian Liang Nayuq (Nayuk / Nayung)"
+      "nama": "Lendian Liang Nayuq (Nayuk / Nayung)",
+      "id_kec": "64.07.17"
     },
     {
       "id": "64.07.17.2013",
-      "name": "Kenyanyan"
+      "nama": "Kenyanyan",
+      "id_kec": "64.07.17"
     },
     {
       "id": "64.07.17.2014",
-      "name": "Rikong"
+      "nama": "Rikong",
+      "id_kec": "64.07.17"
     },
     {
       "id": "64.07.17.2015",
-      "name": "Kendisiq"
+      "nama": "Kendisiq",
+      "id_kec": "64.07.17"
     },
     {
       "id": "64.07.17.2016",
-      "name": "Muara Ponaq"
+      "nama": "Muara Ponaq",
+      "id_kec": "64.07.17"
     },
     {
       "id": "64.07.18.2001",
-      "name": "Sakaq Lotoq"
+      "nama": "Sakaq Lotoq",
+      "id_kec": "64.07.18"
     },
     {
       "id": "64.07.18.2002",
-      "name": "Sakaq Tada"
+      "nama": "Sakaq Tada",
+      "id_kec": "64.07.18"
     },
     {
       "id": "64.07.18.2003",
-      "name": "Gemuruh"
+      "nama": "Gemuruh",
+      "id_kec": "64.07.18"
     },
     {
       "id": "64.07.18.2004",
-      "name": "Karangan"
+      "nama": "Karangan",
+      "id_kec": "64.07.18"
     },
     {
       "id": "64.07.18.2005",
-      "name": "Merayaq"
+      "nama": "Merayaq",
+      "id_kec": "64.07.18"
     },
     {
       "id": "64.07.18.2006",
-      "name": "Linggang Marimun"
+      "nama": "Linggang Marimun",
+      "id_kec": "64.07.18"
     },
     {
       "id": "64.07.18.2007",
-      "name": "Kelumpang"
+      "nama": "Kelumpang",
+      "id_kec": "64.07.18"
     },
     {
       "id": "64.07.18.2008",
-      "name": "Gadur"
+      "nama": "Gadur",
+      "id_kec": "64.07.18"
     },
     {
       "id": "64.07.18.2009",
-      "name": "Linggang Muara Batuq (Muara Batuq)"
+      "nama": "Linggang Muara Batuq (Muara Batuq)",
+      "id_kec": "64.07.18"
     },
     {
       "id": "64.07.18.2010",
-      "name": "Muara Jawaq"
+      "nama": "Muara Jawaq",
+      "id_kec": "64.07.18"
     },
     {
       "id": "64.07.18.2011",
-      "name": "Abit"
+      "nama": "Abit",
+      "id_kec": "64.07.18"
     },
     {
       "id": "64.07.18.2012",
-      "name": "Rembayan"
+      "nama": "Rembayan",
+      "id_kec": "64.07.18"
     },
     {
       "id": "64.07.18.2014",
-      "name": "Gunung Rampah"
+      "nama": "Gunung Rampah",
+      "id_kec": "64.07.18"
     },
     {
       "id": "64.07.18.2015",
-      "name": "Jengan"
+      "nama": "Jengan",
+      "id_kec": "64.07.18"
     },
     {
       "id": "64.07.18.2016",
-      "name": "Muara Kalaq"
+      "nama": "Muara Kalaq",
+      "id_kec": "64.07.18"
     },
     {
       "id": "64.07.18.2017",
-      "name": "Tondoh"
+      "nama": "Tondoh",
+      "id_kec": "64.07.18"
     },
     {
       "id": "64.07.19.2001",
-      "name": "Tering Baru"
+      "nama": "Tering Baru",
+      "id_kec": "64.07.19"
     },
     {
       "id": "64.07.19.2002",
-      "name": "Tering Lama"
+      "nama": "Tering Lama",
+      "id_kec": "64.07.19"
     },
     {
       "id": "64.07.19.2003",
-      "name": "Linggang Tering Seberang (Tering Seberang)"
+      "nama": "Linggang Tering Seberang (Tering Seberang)",
+      "id_kec": "64.07.19"
     },
     {
       "id": "64.07.19.2004",
-      "name": "Tukul"
+      "nama": "Tukul",
+      "id_kec": "64.07.19"
     },
     {
       "id": "64.07.19.2005",
-      "name": "Linggang Kelubaq (Kelubaq)"
+      "nama": "Linggang Kelubaq (Kelubaq)",
+      "id_kec": "64.07.19"
     },
     {
       "id": "64.07.19.2006",
-      "name": "Linggang Purworejo (Purworejo)"
+      "nama": "Linggang Purworejo (Purworejo)",
+      "id_kec": "64.07.19"
     },
     {
       "id": "64.07.19.2007",
-      "name": "Linggang Jelemuq (Jelemuq)"
+      "nama": "Linggang Jelemuq (Jelemuq)",
+      "id_kec": "64.07.19"
     },
     {
       "id": "64.07.19.2008",
-      "name": "Kelian Dalam"
+      "nama": "Kelian Dalam",
+      "id_kec": "64.07.19"
     },
     {
       "id": "64.07.19.2009",
-      "name": "Linggang Muara Mujan (Muara Mujan)"
+      "nama": "Linggang Muara Mujan (Muara Mujan)",
+      "id_kec": "64.07.19"
     },
     {
       "id": "64.07.19.2010",
-      "name": "Muyub Ulu"
+      "nama": "Muyub Ulu",
+      "id_kec": "64.07.19"
     },
     {
       "id": "64.07.19.2011",
-      "name": "Muyub Aket"
+      "nama": "Muyub Aket",
+      "id_kec": "64.07.19"
     },
     {
       "id": "64.07.19.2013",
-      "name": "Linggang Muyub Ilir (Muyub Ilir)"
+      "nama": "Linggang Muyub Ilir (Muyub Ilir)",
+      "id_kec": "64.07.19"
     },
     {
       "id": "64.07.19.2014",
-      "name": "Gabung Baru"
+      "nama": "Gabung Baru",
+      "id_kec": "64.07.19"
     },
     {
       "id": "64.07.19.2015",
-      "name": "Linggang Banjarejo (Banjarejo)"
+      "nama": "Linggang Banjarejo (Banjarejo)",
+      "id_kec": "64.07.19"
     },
     {
       "id": "64.07.19.2016",
-      "name": "Tering Lama Ulu"
+      "nama": "Tering Lama Ulu",
+      "id_kec": "64.07.19"
     },
     {
       "id": "64.07.20.2001",
-      "name": "Sekolaq Joleq"
+      "nama": "Sekolaq Joleq",
+      "id_kec": "64.07.20"
     },
     {
       "id": "64.07.20.2002",
-      "name": "Sekolaq Muliaq"
+      "nama": "Sekolaq Muliaq",
+      "id_kec": "64.07.20"
     },
     {
       "id": "64.07.20.2003",
-      "name": "Sekolaq Oday"
+      "nama": "Sekolaq Oday",
+      "id_kec": "64.07.20"
     },
     {
       "id": "64.07.20.2004",
-      "name": "Srimulyo"
+      "nama": "Srimulyo",
+      "id_kec": "64.07.20"
     },
     {
       "id": "64.07.20.2005",
-      "name": "Sember Bangun"
+      "nama": "Sember Bangun",
+      "id_kec": "64.07.20"
     },
     {
       "id": "64.07.20.2006",
-      "name": "Sumber Rejo"
+      "nama": "Sumber Rejo",
+      "id_kec": "64.07.20"
     },
     {
       "id": "64.07.20.2007",
-      "name": "Sekolaq Darat"
+      "nama": "Sekolaq Darat",
+      "id_kec": "64.07.20"
     },
     {
       "id": "64.07.20.2008",
-      "name": "Leleng"
+      "nama": "Leleng",
+      "id_kec": "64.07.20"
     },
     {
       "id": "64.08.01.2001",
-      "name": "Senyiur"
+      "nama": "Senyiur",
+      "id_kec": "64.08.01"
     },
     {
       "id": "64.08.01.2002",
-      "name": "Kelinjau Ilir"
+      "nama": "Kelinjau Ilir",
+      "id_kec": "64.08.01"
     },
     {
       "id": "64.08.01.2003",
-      "name": "Kelinjau Ulu"
+      "nama": "Kelinjau Ulu",
+      "id_kec": "64.08.01"
     },
     {
       "id": "64.08.01.2004",
-      "name": "Long Nah"
+      "nama": "Long Nah",
+      "id_kec": "64.08.01"
     },
     {
       "id": "64.08.01.2006",
-      "name": "Long Tesak"
+      "nama": "Long Tesak",
+      "id_kec": "64.08.01"
     },
     {
       "id": "64.08.01.2009",
-      "name": "Gemar Baru"
+      "nama": "Gemar Baru",
+      "id_kec": "64.08.01"
     },
     {
       "id": "64.08.01.2012",
-      "name": "Long Poq Baru"
+      "nama": "Long Poq Baru",
+      "id_kec": "64.08.01"
     },
     {
       "id": "64.08.01.2013",
-      "name": "Muara Dun"
+      "nama": "Muara Dun",
+      "id_kec": "64.08.01"
     },
     {
       "id": "64.08.01.2014",
-      "name": "Teluk Baru"
+      "nama": "Teluk Baru",
+      "id_kec": "64.08.01"
     },
     {
       "id": "64.08.02.2001",
-      "name": "Jak Luay"
+      "nama": "Jak Luay",
+      "id_kec": "64.08.02"
     },
     {
       "id": "64.08.02.2002",
-      "name": "Nehes Liah Bing (Nehesliah Bing)"
+      "nama": "Nehes Liah Bing (Nehesliah Bing)",
+      "id_kec": "64.08.02"
     },
     {
       "id": "64.08.02.2003",
-      "name": "Muara Wahau"
+      "nama": "Muara Wahau",
+      "id_kec": "64.08.02"
     },
     {
       "id": "64.08.02.2004",
-      "name": "Dabeq"
+      "nama": "Dabeq",
+      "id_kec": "64.08.02"
     },
     {
       "id": "64.08.02.2005",
-      "name": "Diaq Lay"
+      "nama": "Diaq Lay",
+      "id_kec": "64.08.02"
     },
     {
       "id": "64.08.02.2006",
-      "name": "Benhes"
+      "nama": "Benhes",
+      "id_kec": "64.08.02"
     },
     {
       "id": "64.08.02.2007",
-      "name": "Wanasari (Wana Sari)"
+      "nama": "Wanasari (Wana Sari)",
+      "id_kec": "64.08.02"
     },
     {
       "id": "64.08.02.2008",
-      "name": "Wahau Baru"
+      "nama": "Wahau Baru",
+      "id_kec": "64.08.02"
     },
     {
       "id": "64.08.02.2009",
-      "name": "Karya Bhakti (Karya Bakti)"
+      "nama": "Karya Bhakti (Karya Bakti)",
+      "id_kec": "64.08.02"
     },
     {
       "id": "64.08.02.2010",
-      "name": "Long Wehea"
+      "nama": "Long Wehea",
+      "id_kec": "64.08.02"
     },
     {
       "id": "64.08.03.2001",
-      "name": "Senambah"
+      "nama": "Senambah",
+      "id_kec": "64.08.03"
     },
     {
       "id": "64.08.03.2002",
-      "name": "Ngayau"
+      "nama": "Ngayau",
+      "id_kec": "64.08.03"
     },
     {
       "id": "64.08.03.2003",
-      "name": "Muara Bengkal Ilir"
+      "nama": "Muara Bengkal Ilir",
+      "id_kec": "64.08.03"
     },
     {
       "id": "64.08.03.2004",
-      "name": "Muara Bengkal Ulu"
+      "nama": "Muara Bengkal Ulu",
+      "id_kec": "64.08.03"
     },
     {
       "id": "64.08.03.2005",
-      "name": "Benua Baru"
+      "nama": "Benua Baru",
+      "id_kec": "64.08.03"
     },
     {
       "id": "64.08.03.2013",
-      "name": "Mulupan"
+      "nama": "Mulupan",
+      "id_kec": "64.08.03"
     },
     {
       "id": "64.08.03.2014",
-      "name": "Batu Balai"
+      "nama": "Batu Balai",
+      "id_kec": "64.08.03"
     },
     {
       "id": "64.08.04.1010",
-      "name": "Teluk Lingga"
+      "nama": "Teluk Lingga",
+      "id_kec": "64.08.04"
     },
     {
       "id": "64.08.04.2001",
-      "name": "Sangatta Utara"
+      "nama": "Sangatta Utara",
+      "id_kec": "64.08.04"
     },
     {
       "id": "64.08.04.2011",
-      "name": "Singa Gembara"
+      "nama": "Singa Gembara",
+      "id_kec": "64.08.04"
     },
     {
       "id": "64.08.04.2012",
-      "name": "Swarga Bara"
+      "nama": "Swarga Bara",
+      "id_kec": "64.08.04"
     },
     {
       "id": "64.08.05.2001",
-      "name": "Kerayaan"
+      "nama": "Kerayaan",
+      "id_kec": "64.08.05"
     },
     {
       "id": "64.08.05.2002",
-      "name": "Tanjung Manis"
+      "nama": "Tanjung Manis",
+      "id_kec": "64.08.05"
     },
     {
       "id": "64.08.05.2003",
-      "name": "Peridan"
+      "nama": "Peridan",
+      "id_kec": "64.08.05"
     },
     {
       "id": "64.08.05.2004",
-      "name": "Saka"
+      "nama": "Saka",
+      "id_kec": "64.08.05"
     },
     {
       "id": "64.08.05.2005",
-      "name": "Mandu Dalam"
+      "nama": "Mandu Dalam",
+      "id_kec": "64.08.05"
     },
     {
       "id": "64.08.05.2006",
-      "name": "Benua Baru (Benua Baru Ilir)"
+      "nama": "Benua Baru (Benua Baru Ilir)",
+      "id_kec": "64.08.05"
     },
     {
       "id": "64.08.05.2011",
-      "name": "Sempuyau (Sempayau)"
+      "nama": "Sempuyau (Sempayau)",
+      "id_kec": "64.08.05"
     },
     {
       "id": "64.08.05.2012",
-      "name": "Pelawan"
+      "nama": "Pelawan",
+      "id_kec": "64.08.05"
     },
     {
       "id": "64.08.05.2013",
-      "name": "Tepian Terap"
+      "nama": "Tepian Terap",
+      "id_kec": "64.08.05"
     },
     {
       "id": "64.08.05.2015",
-      "name": "Maloy"
+      "nama": "Maloy",
+      "id_kec": "64.08.05"
     },
     {
       "id": "64.08.05.2016",
-      "name": "Benua Baru Ulu"
+      "nama": "Benua Baru Ulu",
+      "id_kec": "64.08.05"
     },
     {
       "id": "64.08.05.2017",
-      "name": "Kolek"
+      "nama": "Kolek",
+      "id_kec": "64.08.05"
     },
     {
       "id": "64.08.05.2018",
-      "name": "Pulau Miang"
+      "nama": "Pulau Miang",
+      "id_kec": "64.08.05"
     },
     {
       "id": "64.08.05.2019",
-      "name": "Perupuk"
+      "nama": "Perupuk",
+      "id_kec": "64.08.05"
     },
     {
       "id": "64.08.05.2020",
-      "name": "Mandu Pantai Sejahtera (Mandau Pantai Sejahtera)"
+      "nama": "Mandu Pantai Sejahtera (Mandau Pantai Sejahtera)",
+      "id_kec": "64.08.05"
     },
     {
       "id": "64.08.06.2001",
-      "name": "Long Bentuq (Long Bentuk)"
+      "nama": "Long Bentuq (Long Bentuk)",
+      "id_kec": "64.08.06"
     },
     {
       "id": "64.08.06.2002",
-      "name": "Long Pejeng"
+      "nama": "Long Pejeng",
+      "id_kec": "64.08.06"
     },
     {
       "id": "64.08.06.2003",
-      "name": "Long Lees"
+      "nama": "Long Lees",
+      "id_kec": "64.08.06"
     },
     {
       "id": "64.08.06.2004",
-      "name": "Mekar Baru"
+      "nama": "Mekar Baru",
+      "id_kec": "64.08.06"
     },
     {
       "id": "64.08.06.2005",
-      "name": "Rantau Sentosa"
+      "nama": "Rantau Sentosa",
+      "id_kec": "64.08.06"
     },
     {
       "id": "64.08.06.2006",
-      "name": "Long Nyelong"
+      "nama": "Long Nyelong",
+      "id_kec": "64.08.06"
     },
     {
       "id": "64.08.07.2001",
-      "name": "Marah Haloq"
+      "nama": "Marah Haloq",
+      "id_kec": "64.08.07"
     },
     {
       "id": "64.08.07.2002",
-      "name": "Lung Melah"
+      "nama": "Lung Melah",
+      "id_kec": "64.08.07"
     },
     {
       "id": "64.08.07.2003",
-      "name": "Juk Ayaq (Juk Ayak)"
+      "nama": "Juk Ayaq (Juk Ayak)",
+      "id_kec": "64.08.07"
     },
     {
       "id": "64.08.07.2004",
-      "name": "Long Segar"
+      "nama": "Long Segar",
+      "id_kec": "64.08.07"
     },
     {
       "id": "64.08.07.2005",
-      "name": "Long Noran"
+      "nama": "Long Noran",
+      "id_kec": "64.08.07"
     },
     {
       "id": "64.08.07.2006",
-      "name": "Muara Pantun"
+      "nama": "Muara Pantun",
+      "id_kec": "64.08.07"
     },
     {
       "id": "64.08.07.2007",
-      "name": "Rantau Panjang"
+      "nama": "Rantau Panjang",
+      "id_kec": "64.08.07"
     },
     {
       "id": "64.08.07.2008",
-      "name": "Kernyanyan"
+      "nama": "Kernyanyan",
+      "id_kec": "64.08.07"
     },
     {
       "id": "64.08.08.2001",
-      "name": "Makmur Jaya"
+      "nama": "Makmur Jaya",
+      "id_kec": "64.08.08"
     },
     {
       "id": "64.08.08.2002",
-      "name": "Marga Mulya (Marga Mulia)"
+      "nama": "Marga Mulya (Marga Mulia)",
+      "id_kec": "64.08.08"
     },
     {
       "id": "64.08.08.2003",
-      "name": "Sukamaju (Suka Maju)"
+      "nama": "Sukamaju (Suka Maju)",
+      "id_kec": "64.08.08"
     },
     {
       "id": "64.08.08.2004",
-      "name": "Sidomulyo"
+      "nama": "Sidomulyo",
+      "id_kec": "64.08.08"
     },
     {
       "id": "64.08.08.2005",
-      "name": "Sri Pantun"
+      "nama": "Sri Pantun",
+      "id_kec": "64.08.08"
     },
     {
       "id": "64.08.08.2006",
-      "name": "Kombeng Indah (Kongbeng Indah)"
+      "nama": "Kombeng Indah (Kongbeng Indah)",
+      "id_kec": "64.08.08"
     },
     {
       "id": "64.08.08.2007",
-      "name": "Miau Baru"
+      "nama": "Miau Baru",
+      "id_kec": "64.08.08"
     },
     {
       "id": "64.08.09.2001",
-      "name": "Sepaso (Sepaso Induk)"
+      "nama": "Sepaso (Sepaso Induk)",
+      "id_kec": "64.08.09"
     },
     {
       "id": "64.08.09.2002",
-      "name": "Sekerat"
+      "nama": "Sekerat",
+      "id_kec": "64.08.09"
     },
     {
       "id": "64.08.09.2003",
-      "name": "Keraitan"
+      "nama": "Keraitan",
+      "id_kec": "64.08.09"
     },
     {
       "id": "64.08.09.2004",
-      "name": "Tepian Langsat"
+      "nama": "Tepian Langsat",
+      "id_kec": "64.08.09"
     },
     {
       "id": "64.08.09.2005",
-      "name": "Tebangan Lebak/Lembak"
+      "nama": "Tebangan Lebak/Lembak",
+      "id_kec": "64.08.09"
     },
     {
       "id": "64.08.09.2006",
-      "name": "Sepaso Timur"
+      "nama": "Sepaso Timur",
+      "id_kec": "64.08.09"
     },
     {
       "id": "64.08.09.2007",
-      "name": "Sepaso Selatan"
+      "nama": "Sepaso Selatan",
+      "id_kec": "64.08.09"
     },
     {
       "id": "64.08.09.2008",
-      "name": "Muara Bengalon"
+      "nama": "Muara Bengalon",
+      "id_kec": "64.08.09"
     },
     {
       "id": "64.08.09.2009",
-      "name": "Tepian Baru"
+      "nama": "Tepian Baru",
+      "id_kec": "64.08.09"
     },
     {
       "id": "64.08.09.2010",
-      "name": "Tepian Indah"
+      "nama": "Tepian Indah",
+      "id_kec": "64.08.09"
     },
     {
       "id": "64.08.09.2011",
-      "name": "Sepaso Barat"
+      "nama": "Sepaso Barat",
+      "id_kec": "64.08.09"
     },
     {
       "id": "64.08.10.2001",
-      "name": "Kaliorang"
+      "nama": "Kaliorang",
+      "id_kec": "64.08.10"
     },
     {
       "id": "64.08.10.2006",
-      "name": "Bukit Makmur"
+      "nama": "Bukit Makmur",
+      "id_kec": "64.08.10"
     },
     {
       "id": "64.08.10.2007",
-      "name": "Bukit Harapan"
+      "nama": "Bukit Harapan",
+      "id_kec": "64.08.10"
     },
     {
       "id": "64.08.10.2008",
-      "name": "Citra Manunggal Jaya"
+      "nama": "Citra Manunggal Jaya",
+      "id_kec": "64.08.10"
     },
     {
       "id": "64.08.10.2009",
-      "name": "Bangun Jaya"
+      "nama": "Bangun Jaya",
+      "id_kec": "64.08.10"
     },
     {
       "id": "64.08.10.2010",
-      "name": "Bumi Sejahtera"
+      "nama": "Bumi Sejahtera",
+      "id_kec": "64.08.10"
     },
     {
       "id": "64.08.10.2013",
-      "name": "Selangkau"
+      "nama": "Selangkau",
+      "id_kec": "64.08.10"
     },
     {
       "id": "64.08.11.2001",
-      "name": "Sandaran"
+      "nama": "Sandaran",
+      "id_kec": "64.08.11"
     },
     {
       "id": "64.08.11.2002",
-      "name": "Manubar"
+      "nama": "Manubar",
+      "id_kec": "64.08.11"
     },
     {
       "id": "64.08.11.2003",
-      "name": "Tadoan"
+      "nama": "Tadoan",
+      "id_kec": "64.08.11"
     },
     {
       "id": "64.08.11.2004",
-      "name": "Marukangan"
+      "nama": "Marukangan",
+      "id_kec": "64.08.11"
     },
     {
       "id": "64.08.11.2005",
-      "name": "Susuk Luar"
+      "nama": "Susuk Luar",
+      "id_kec": "64.08.11"
     },
     {
       "id": "64.08.11.2006",
-      "name": "Susuk Dalam"
+      "nama": "Susuk Dalam",
+      "id_kec": "64.08.11"
     },
     {
       "id": "64.08.11.2007",
-      "name": "Tanjung Mangkaliat"
+      "nama": "Tanjung Mangkaliat",
+      "id_kec": "64.08.11"
     },
     {
       "id": "64.08.11.2008",
-      "name": "Manubar Dalam"
+      "nama": "Manubar Dalam",
+      "id_kec": "64.08.11"
     },
     {
       "id": "64.08.11.2009",
-      "name": "Susuk Tengah"
+      "nama": "Susuk Tengah",
+      "id_kec": "64.08.11"
     },
     {
       "id": "64.08.12.1002",
-      "name": "Singa Geweh"
+      "nama": "Singa Geweh",
+      "id_kec": "64.08.12"
     },
     {
       "id": "64.08.12.2001",
-      "name": "Sangatta Selatan (Sangata Selatan)"
+      "nama": "Sangatta Selatan (Sangata Selatan)",
+      "id_kec": "64.08.12"
     },
     {
       "id": "64.08.12.2003",
-      "name": "Sangkima"
+      "nama": "Sangkima",
+      "id_kec": "64.08.12"
     },
     {
       "id": "64.08.12.2004",
-      "name": "Teluk Singkam / Singkama"
+      "nama": "Teluk Singkam / Singkama",
+      "id_kec": "64.08.12"
     },
     {
       "id": "64.08.13.2001",
-      "name": "Teluk Pandan"
+      "nama": "Teluk Pandan",
+      "id_kec": "64.08.13"
     },
     {
       "id": "64.08.13.2002",
-      "name": "Suka Rahmat"
+      "nama": "Suka Rahmat",
+      "id_kec": "64.08.13"
     },
     {
       "id": "64.08.13.2003",
-      "name": "Suka Damai"
+      "nama": "Suka Damai",
+      "id_kec": "64.08.13"
     },
     {
       "id": "64.08.13.2004",
-      "name": "Kandolo"
+      "nama": "Kandolo",
+      "id_kec": "64.08.13"
     },
     {
       "id": "64.08.13.2005",
-      "name": "Danau Redan"
+      "nama": "Danau Redan",
+      "id_kec": "64.08.13"
     },
     {
       "id": "64.08.13.2006",
-      "name": "Martadinata"
+      "nama": "Martadinata",
+      "id_kec": "64.08.13"
     },
     {
       "id": "64.08.14.2001",
-      "name": "Mukti Jaya"
+      "nama": "Mukti Jaya",
+      "id_kec": "64.08.14"
     },
     {
       "id": "64.08.14.2002",
-      "name": "Pulung Sari"
+      "nama": "Pulung Sari",
+      "id_kec": "64.08.14"
     },
     {
       "id": "64.08.14.2003",
-      "name": "Margo Mulyo"
+      "nama": "Margo Mulyo",
+      "id_kec": "64.08.14"
     },
     {
       "id": "64.08.14.2004",
-      "name": "Rantau Makmur"
+      "nama": "Rantau Makmur",
+      "id_kec": "64.08.14"
     },
     {
       "id": "64.08.14.2005",
-      "name": "Manunggal Jaya"
+      "nama": "Manunggal Jaya",
+      "id_kec": "64.08.14"
     },
     {
       "id": "64.08.14.2006",
-      "name": "Tanjung Labu"
+      "nama": "Tanjung Labu",
+      "id_kec": "64.08.14"
     },
     {
       "id": "64.08.14.2007",
-      "name": "Kebon Agung"
+      "nama": "Kebon Agung",
+      "id_kec": "64.08.14"
     },
     {
       "id": "64.08.14.2008",
-      "name": "Tepian Makmur"
+      "nama": "Tepian Makmur",
+      "id_kec": "64.08.14"
     },
     {
       "id": "64.08.14.2009",
-      "name": "Masalap Raya"
+      "nama": "Masalap Raya",
+      "id_kec": "64.08.14"
     },
     {
       "id": "64.08.15.2001",
-      "name": "Bumi Etam"
+      "nama": "Bumi Etam",
+      "id_kec": "64.08.15"
     },
     {
       "id": "64.08.15.2002",
-      "name": "Bumi Rapak"
+      "nama": "Bumi Rapak",
+      "id_kec": "64.08.15"
     },
     {
       "id": "64.08.15.2003",
-      "name": "Bumi Jaya"
+      "nama": "Bumi Jaya",
+      "id_kec": "64.08.15"
     },
     {
       "id": "64.08.15.2004",
-      "name": "Cipta Graha"
+      "nama": "Cipta Graha",
+      "id_kec": "64.08.15"
     },
     {
       "id": "64.08.15.2005",
-      "name": "Kadungan Jaya"
+      "nama": "Kadungan Jaya",
+      "id_kec": "64.08.15"
     },
     {
       "id": "64.08.15.2006",
-      "name": "Pengadan Baru"
+      "nama": "Pengadan Baru",
+      "id_kec": "64.08.15"
     },
     {
       "id": "64.08.15.2007",
-      "name": "Mata Air"
+      "nama": "Mata Air",
+      "id_kec": "64.08.15"
     },
     {
       "id": "64.08.15.2008",
-      "name": "Bukit Permata"
+      "nama": "Bukit Permata",
+      "id_kec": "64.08.15"
     },
     {
       "id": "64.08.16.2001",
-      "name": "Karangan Dalam"
+      "nama": "Karangan Dalam",
+      "id_kec": "64.08.16"
     },
     {
       "id": "64.08.16.2002",
-      "name": "Batu Lepoq"
+      "nama": "Batu Lepoq",
+      "id_kec": "64.08.16"
     },
     {
       "id": "64.08.16.2003",
-      "name": "Pengadan (Pengadaan Baru)"
+      "nama": "Pengadan (Pengadaan Baru)",
+      "id_kec": "64.08.16"
     },
     {
       "id": "64.08.16.2004",
-      "name": "Baay"
+      "nama": "Baay",
+      "id_kec": "64.08.16"
     },
     {
       "id": "64.08.16.2005",
-      "name": "Mukti Lestari"
+      "nama": "Mukti Lestari",
+      "id_kec": "64.08.16"
     },
     {
       "id": "64.08.16.2006",
-      "name": "Karangan Seberang"
+      "nama": "Karangan Seberang",
+      "id_kec": "64.08.16"
     },
     {
       "id": "64.08.16.2007",
-      "name": "Karangan Hilir"
+      "nama": "Karangan Hilir",
+      "id_kec": "64.08.16"
     },
     {
       "id": "64.08.17.2001",
-      "name": "Batu Timbau"
+      "nama": "Batu Timbau",
+      "id_kec": "64.08.17"
     },
     {
       "id": "64.08.17.2002",
-      "name": "Beno Harapan (Benua Harapan)"
+      "nama": "Beno Harapan (Benua Harapan)",
+      "id_kec": "64.08.17"
     },
     {
       "id": "64.08.17.2003",
-      "name": "Mugi Rahayu"
+      "nama": "Mugi Rahayu",
+      "id_kec": "64.08.17"
     },
     {
       "id": "64.08.17.2004",
-      "name": "Mawai Indah"
+      "nama": "Mawai Indah",
+      "id_kec": "64.08.17"
     },
     {
       "id": "64.08.17.2005",
-      "name": "Himba Lestari"
+      "nama": "Himba Lestari",
+      "id_kec": "64.08.17"
     },
     {
       "id": "64.08.17.2006",
-      "name": "Telaga"
+      "nama": "Telaga",
+      "id_kec": "64.08.17"
     },
     {
       "id": "64.08.17.2007",
-      "name": "Batu Timbau Ulu"
+      "nama": "Batu Timbau Ulu",
+      "id_kec": "64.08.17"
     },
     {
       "id": "64.08.18.2001",
-      "name": "Sika Makmur"
+      "nama": "Sika Makmur",
+      "id_kec": "64.08.18"
     },
     {
       "id": "64.08.18.2002",
-      "name": "Segoy Makmur (Segoi Makmur)"
+      "nama": "Segoy Makmur (Segoi Makmur)",
+      "id_kec": "64.08.18"
     },
     {
       "id": "64.08.18.2003",
-      "name": "Mukti Utama"
+      "nama": "Mukti Utama",
+      "id_kec": "64.08.18"
     },
     {
       "id": "64.08.18.2004",
-      "name": "Sumber Sari"
+      "nama": "Sumber Sari",
+      "id_kec": "64.08.18"
     },
     {
       "id": "64.08.18.2005",
-      "name": "Melan"
+      "nama": "Melan",
+      "id_kec": "64.08.18"
     },
     {
       "id": "64.08.18.2006",
-      "name": "Tanah Abang"
+      "nama": "Tanah Abang",
+      "id_kec": "64.08.18"
     },
     {
       "id": "64.08.18.2007",
-      "name": "Sumber Agung"
+      "nama": "Sumber Agung",
+      "id_kec": "64.08.18"
     },
     {
       "id": "64.09.01.1001",
-      "name": "Tanjung Tengah"
+      "nama": "Tanjung Tengah",
+      "id_kec": "64.09.01"
     },
     {
       "id": "64.09.01.1002",
-      "name": "Salo Loang (Saloloang)"
+      "nama": "Salo Loang (Saloloang)",
+      "id_kec": "64.09.01"
     },
     {
       "id": "64.09.01.1003",
-      "name": "Petung"
+      "nama": "Petung",
+      "id_kec": "64.09.01"
     },
     {
       "id": "64.09.01.1004",
-      "name": "Lawe Lawe"
+      "nama": "Lawe Lawe",
+      "id_kec": "64.09.01"
     },
     {
       "id": "64.09.01.1005",
-      "name": "Pejala"
+      "nama": "Pejala",
+      "id_kec": "64.09.01"
     },
     {
       "id": "64.09.01.1006",
-      "name": "Kampung Baru"
+      "nama": "Kampung Baru",
+      "id_kec": "64.09.01"
     },
     {
       "id": "64.09.01.1007",
-      "name": "Sesumpu"
+      "nama": "Sesumpu",
+      "id_kec": "64.09.01"
     },
     {
       "id": "64.09.01.1008",
-      "name": "Sei/Sungai Parit"
+      "nama": "Sei/Sungai Parit",
+      "id_kec": "64.09.01"
     },
     {
       "id": "64.09.01.1009",
-      "name": "Nipah Nipah"
+      "nama": "Nipah Nipah",
+      "id_kec": "64.09.01"
     },
     {
       "id": "64.09.01.1010",
-      "name": "Nenang"
+      "nama": "Nenang",
+      "id_kec": "64.09.01"
     },
     {
       "id": "64.09.01.1011",
-      "name": "Penajam"
+      "nama": "Penajam",
+      "id_kec": "64.09.01"
     },
     {
       "id": "64.09.01.1012",
-      "name": "Gunung Seteleng"
+      "nama": "Gunung Seteleng",
+      "id_kec": "64.09.01"
     },
     {
       "id": "64.09.01.1013",
-      "name": "Buluminung (Bulu Minung)"
+      "nama": "Buluminung (Bulu Minung)",
+      "id_kec": "64.09.01"
     },
     {
       "id": "64.09.01.1014",
-      "name": "Sotek"
+      "nama": "Sotek",
+      "id_kec": "64.09.01"
     },
     {
       "id": "64.09.01.1015",
-      "name": "Sepan"
+      "nama": "Sepan",
+      "id_kec": "64.09.01"
     },
     {
       "id": "64.09.01.1016",
-      "name": "Riko"
+      "nama": "Riko",
+      "id_kec": "64.09.01"
     },
     {
       "id": "64.09.01.1017",
-      "name": "Gersik"
+      "nama": "Gersik",
+      "id_kec": "64.09.01"
     },
     {
       "id": "64.09.01.1018",
-      "name": "Jenebora"
+      "nama": "Jenebora",
+      "id_kec": "64.09.01"
     },
     {
       "id": "64.09.01.1019",
-      "name": "Pantai Lango"
+      "nama": "Pantai Lango",
+      "id_kec": "64.09.01"
     },
     {
       "id": "64.09.01.2020",
-      "name": "Giri Mukti"
+      "nama": "Giri Mukti",
+      "id_kec": "64.09.01"
     },
     {
       "id": "64.09.01.2021",
-      "name": "Bukit Subur"
+      "nama": "Bukit Subur",
+      "id_kec": "64.09.01"
     },
     {
       "id": "64.09.01.2022",
-      "name": "Sidorejo"
+      "nama": "Sidorejo",
+      "id_kec": "64.09.01"
     },
     {
       "id": "64.09.01.2023",
-      "name": "Giri Purwa (Giripurwa)"
+      "nama": "Giri Purwa (Giripurwa)",
+      "id_kec": "64.09.01"
     },
     {
       "id": "64.09.02.1003",
-      "name": "Waru"
+      "nama": "Waru",
+      "id_kec": "64.09.02"
     },
     {
       "id": "64.09.02.2001",
-      "name": "Api Api"
+      "nama": "Api Api",
+      "id_kec": "64.09.02"
     },
     {
       "id": "64.09.02.2002",
-      "name": "Sesulu"
+      "nama": "Sesulu",
+      "id_kec": "64.09.02"
     },
     {
       "id": "64.09.02.2004",
-      "name": "Bangun Mulya"
+      "nama": "Bangun Mulya",
+      "id_kec": "64.09.02"
     },
     {
       "id": "64.09.03.2001",
-      "name": "Babulu Darat"
+      "nama": "Babulu Darat",
+      "id_kec": "64.09.03"
     },
     {
       "id": "64.09.03.2002",
-      "name": "Labangka"
+      "nama": "Labangka",
+      "id_kec": "64.09.03"
     },
     {
       "id": "64.09.03.2003",
-      "name": "Babulu Laut"
+      "nama": "Babulu Laut",
+      "id_kec": "64.09.03"
     },
     {
       "id": "64.09.03.2004",
-      "name": "Gunung Intan"
+      "nama": "Gunung Intan",
+      "id_kec": "64.09.03"
     },
     {
       "id": "64.09.03.2005",
-      "name": "Gunung Makmur"
+      "nama": "Gunung Makmur",
+      "id_kec": "64.09.03"
     },
     {
       "id": "64.09.03.2006",
-      "name": "Sebakung Jaya"
+      "nama": "Sebakung Jaya",
+      "id_kec": "64.09.03"
     },
     {
       "id": "64.09.03.2007",
-      "name": "Rawa Mulia"
+      "nama": "Rawa Mulia",
+      "id_kec": "64.09.03"
     },
     {
       "id": "64.09.03.2008",
-      "name": "Sri Raharja"
+      "nama": "Sri Raharja",
+      "id_kec": "64.09.03"
     },
     {
       "id": "64.09.03.2009",
-      "name": "Sumber Sari"
+      "nama": "Sumber Sari",
+      "id_kec": "64.09.03"
     },
     {
       "id": "64.09.03.2010",
-      "name": "Rintik"
+      "nama": "Rintik",
+      "id_kec": "64.09.03"
     },
     {
       "id": "64.09.03.2011",
-      "name": "Gunung Mulia"
+      "nama": "Gunung Mulia",
+      "id_kec": "64.09.03"
     },
     {
       "id": "64.09.03.2012",
-      "name": "Labangka Barat"
+      "nama": "Labangka Barat",
+      "id_kec": "64.09.03"
     },
     {
       "id": "64.09.04.1005",
-      "name": "Sepaku"
+      "nama": "Sepaku",
+      "id_kec": "64.09.04"
     },
     {
       "id": "64.09.04.1006",
-      "name": "Pemaluan"
+      "nama": "Pemaluan",
+      "id_kec": "64.09.04"
     },
     {
       "id": "64.09.04.1007",
-      "name": "Maridan"
+      "nama": "Maridan",
+      "id_kec": "64.09.04"
     },
     {
       "id": "64.09.04.1008",
-      "name": "Mentawir"
+      "nama": "Mentawir",
+      "id_kec": "64.09.04"
     },
     {
       "id": "64.09.04.2001",
-      "name": "Tengin Baru (Sepaku III)"
+      "nama": "Tengin Baru (Sepaku III)",
+      "id_kec": "64.09.04"
     },
     {
       "id": "64.09.04.2002",
-      "name": "Bukit Raya (Sepaku I)"
+      "nama": "Bukit Raya (Sepaku I)",
+      "id_kec": "64.09.04"
     },
     {
       "id": "64.09.04.2003",
-      "name": "Suka Raja (Sukaraja / Sepaku II)"
+      "nama": "Suka Raja (Sukaraja / Sepaku II)",
+      "id_kec": "64.09.04"
     },
     {
       "id": "64.09.04.2004",
-      "name": "Bumi Harapan"
+      "nama": "Bumi Harapan",
+      "id_kec": "64.09.04"
     },
     {
       "id": "64.09.04.2009",
-      "name": "Argo Mulyo"
+      "nama": "Argo Mulyo",
+      "id_kec": "64.09.04"
     },
     {
       "id": "64.09.04.2010",
-      "name": "Semoi Dua (Semoi II)"
+      "nama": "Semoi Dua (Semoi II)",
+      "id_kec": "64.09.04"
     },
     {
       "id": "64.09.04.2011",
-      "name": "Suko Mulyo"
+      "nama": "Suko Mulyo",
+      "id_kec": "64.09.04"
     },
     {
       "id": "64.09.04.2012",
-      "name": "Wono Sari (Wonosari)"
+      "nama": "Wono Sari (Wonosari)",
+      "id_kec": "64.09.04"
     },
     {
       "id": "64.09.04.2013",
-      "name": "Karang Jinawi"
+      "nama": "Karang Jinawi",
+      "id_kec": "64.09.04"
     },
     {
       "id": "64.09.04.2014",
-      "name": "Binuang"
+      "nama": "Binuang",
+      "id_kec": "64.09.04"
     },
     {
       "id": "64.09.04.2015",
-      "name": "Telemow"
+      "nama": "Telemow",
+      "id_kec": "64.09.04"
     },
     {
       "id": "64.11.01.2001",
-      "name": "Long Hurai"
+      "nama": "Long Hurai",
+      "id_kec": "64.11.01"
     },
     {
       "id": "64.11.01.2002",
-      "name": "Long Melaham"
+      "nama": "Long Melaham",
+      "id_kec": "64.11.01"
     },
     {
       "id": "64.11.01.2003",
-      "name": "Memahak Besar (Mamahak Ilir)"
+      "nama": "Memahak Besar (Mamahak Ilir)",
+      "id_kec": "64.11.01"
     },
     {
       "id": "64.11.01.2004",
-      "name": "Memahak Ulu (Mamahak Ulu)"
+      "nama": "Memahak Ulu (Mamahak Ulu)",
+      "id_kec": "64.11.01"
     },
     {
       "id": "64.11.01.2005",
-      "name": "Batu Majang"
+      "nama": "Batu Majang",
+      "id_kec": "64.11.01"
     },
     {
       "id": "64.11.01.2006",
-      "name": "Ujoh Bilang"
+      "nama": "Ujoh Bilang",
+      "id_kec": "64.11.01"
     },
     {
       "id": "64.11.01.2007",
-      "name": "Long Bagun Ilir"
+      "nama": "Long Bagun Ilir",
+      "id_kec": "64.11.01"
     },
     {
       "id": "64.11.01.2008",
-      "name": "Long Bagun Ulu"
+      "nama": "Long Bagun Ulu",
+      "id_kec": "64.11.01"
     },
     {
       "id": "64.11.01.2009",
-      "name": "Batoq Kelo"
+      "nama": "Batoq Kelo",
+      "id_kec": "64.11.01"
     },
     {
       "id": "64.11.01.2010",
-      "name": "Long Merah"
+      "nama": "Long Merah",
+      "id_kec": "64.11.01"
     },
     {
       "id": "64.11.01.2011",
-      "name": "Rukun Damai"
+      "nama": "Rukun Damai",
+      "id_kec": "64.11.01"
     },
     {
       "id": "64.11.02.2001",
-      "name": "Long Hubung"
+      "nama": "Long Hubung",
+      "id_kec": "64.11.02"
     },
     {
       "id": "64.11.02.2002",
-      "name": "Memahak Teboq"
+      "nama": "Memahak Teboq",
+      "id_kec": "64.11.02"
     },
     {
       "id": "64.11.02.2003",
-      "name": "Lutan"
+      "nama": "Lutan",
+      "id_kec": "64.11.02"
     },
     {
       "id": "64.11.02.2004",
-      "name": "Matalibaq"
+      "nama": "Matalibaq",
+      "id_kec": "64.11.02"
     },
     {
       "id": "64.11.02.2005",
-      "name": "Datah Bilang Ilir"
+      "nama": "Datah Bilang Ilir",
+      "id_kec": "64.11.02"
     },
     {
       "id": "64.11.02.2006",
-      "name": "Datah Bilang Ulu"
+      "nama": "Datah Bilang Ulu",
+      "id_kec": "64.11.02"
     },
     {
       "id": "64.11.02.2007",
-      "name": "Tri Pariq Makmur"
+      "nama": "Tri Pariq Makmur",
+      "id_kec": "64.11.02"
     },
     {
       "id": "64.11.02.2008",
-      "name": "Wana Pariq"
+      "nama": "Wana Pariq",
+      "id_kec": "64.11.02"
     },
     {
       "id": "64.11.02.2009",
-      "name": "Datah Bilang Baru"
+      "nama": "Datah Bilang Baru",
+      "id_kec": "64.11.02"
     },
     {
       "id": "64.11.02.2010",
-      "name": "Sirau"
+      "nama": "Sirau",
+      "id_kec": "64.11.02"
     },
     {
       "id": "64.11.02.2011",
-      "name": "Long Hubung Ulu"
+      "nama": "Long Hubung Ulu",
+      "id_kec": "64.11.02"
     },
     {
       "id": "64.11.03.2001",
-      "name": "Laham"
+      "nama": "Laham",
+      "id_kec": "64.11.03"
     },
     {
       "id": "64.11.03.2002",
-      "name": "Long Gelawang"
+      "nama": "Long Gelawang",
+      "id_kec": "64.11.03"
     },
     {
       "id": "64.11.03.2003",
-      "name": "Muara Ratah"
+      "nama": "Muara Ratah",
+      "id_kec": "64.11.03"
     },
     {
       "id": "64.11.03.2004",
-      "name": "Danum Paroy"
+      "nama": "Danum Paroy",
+      "id_kec": "64.11.03"
     },
     {
       "id": "64.11.03.2005",
-      "name": "Nyaribungan"
+      "nama": "Nyaribungan",
+      "id_kec": "64.11.03"
     },
     {
       "id": "64.11.04.2001",
-      "name": "Long Penaneh I"
+      "nama": "Long Penaneh I",
+      "id_kec": "64.11.04"
     },
     {
       "id": "64.11.04.2002",
-      "name": "Long Kerioq"
+      "nama": "Long Kerioq",
+      "id_kec": "64.11.04"
     },
     {
       "id": "64.11.04.2003",
-      "name": "Long Penaneh II"
+      "nama": "Long Penaneh II",
+      "id_kec": "64.11.04"
     },
     {
       "id": "64.11.04.2004",
-      "name": "Tiong Ohang"
+      "nama": "Tiong Ohang",
+      "id_kec": "64.11.04"
     },
     {
       "id": "64.11.04.2005",
-      "name": "Long Penaneh III"
+      "nama": "Long Penaneh III",
+      "id_kec": "64.11.04"
     },
     {
       "id": "64.11.04.2006",
-      "name": "Tiong Bu'u (Tiong Buu)"
+      "nama": "Tiong Bu'u (Tiong Buu)",
+      "id_kec": "64.11.04"
     },
     {
       "id": "64.11.04.2007",
-      "name": "Naha Buan"
+      "nama": "Naha Buan",
+      "id_kec": "64.11.04"
     },
     {
       "id": "64.11.04.2008",
-      "name": "Naha Tifab (Naha Tivab)"
+      "nama": "Naha Tifab (Naha Tivab)",
+      "id_kec": "64.11.04"
     },
     {
       "id": "64.11.04.2009",
-      "name": "Naha Silat (Noha Silat)"
+      "nama": "Naha Silat (Noha Silat)",
+      "id_kec": "64.11.04"
     },
     {
       "id": "64.11.04.2010",
-      "name": "Long Apari"
+      "nama": "Long Apari",
+      "id_kec": "64.11.04"
     },
     {
       "id": "64.11.05.2001",
-      "name": "Delang Kerohong (Delang Krohong)"
+      "nama": "Delang Kerohong (Delang Krohong)",
+      "id_kec": "64.11.05"
     },
     {
       "id": "64.11.05.2002",
-      "name": "Long Pakaq"
+      "nama": "Long Pakaq",
+      "id_kec": "64.11.05"
     },
     {
       "id": "64.11.05.2003",
-      "name": "Long Lunuk"
+      "nama": "Long Lunuk",
+      "id_kec": "64.11.05"
     },
     {
       "id": "64.11.05.2004",
-      "name": "Long Isun"
+      "nama": "Long Isun",
+      "id_kec": "64.11.05"
     },
     {
       "id": "64.11.05.2005",
-      "name": "Naha Aru (Naha Aruq)"
+      "nama": "Naha Aru (Naha Aruq)",
+      "id_kec": "64.11.05"
     },
     {
       "id": "64.11.05.2006",
-      "name": "Datah Naha"
+      "nama": "Datah Naha",
+      "id_kec": "64.11.05"
     },
     {
       "id": "64.11.05.2007",
-      "name": "Lirung Ubing"
+      "nama": "Lirung Ubing",
+      "id_kec": "64.11.05"
     },
     {
       "id": "64.11.05.2008",
-      "name": "Long Pahangai I"
+      "nama": "Long Pahangai I",
+      "id_kec": "64.11.05"
     },
     {
       "id": "64.11.05.2009",
-      "name": "Long Pahangai II"
+      "nama": "Long Pahangai II",
+      "id_kec": "64.11.05"
     },
     {
       "id": "64.11.05.2010",
-      "name": "Long Tuyoq"
+      "nama": "Long Tuyoq",
+      "id_kec": "64.11.05"
     },
     {
       "id": "64.11.05.2011",
-      "name": "Liu Mulang"
+      "nama": "Liu Mulang",
+      "id_kec": "64.11.05"
     },
     {
       "id": "64.11.05.2012",
-      "name": "Long Pakaq Baru"
+      "nama": "Long Pakaq Baru",
+      "id_kec": "64.11.05"
     },
     {
       "id": "64.11.05.2013",
-      "name": "Long Lunuk Baru"
+      "nama": "Long Lunuk Baru",
+      "id_kec": "64.11.05"
     },
     {
       "id": "64.71.01.1001",
-      "name": "Manggar"
+      "nama": "Manggar",
+      "id_kec": "64.71.01"
     },
     {
       "id": "64.71.01.1002",
-      "name": "Lamaru"
+      "nama": "Lamaru",
+      "id_kec": "64.71.01"
     },
     {
       "id": "64.71.01.1003",
-      "name": "Teritip"
+      "nama": "Teritip",
+      "id_kec": "64.71.01"
     },
     {
       "id": "64.71.01.1004",
-      "name": "Manggar Baru"
+      "nama": "Manggar Baru",
+      "id_kec": "64.71.01"
     },
     {
       "id": "64.71.02.1001",
-      "name": "Baru Ilir"
+      "nama": "Baru Ilir",
+      "id_kec": "64.71.02"
     },
     {
       "id": "64.71.02.1002",
-      "name": "Baru Tengah"
+      "nama": "Baru Tengah",
+      "id_kec": "64.71.02"
     },
     {
       "id": "64.71.02.1003",
-      "name": "Baru Ulu"
+      "nama": "Baru Ulu",
+      "id_kec": "64.71.02"
     },
     {
       "id": "64.71.02.1004",
-      "name": "Kariangau"
+      "nama": "Kariangau",
+      "id_kec": "64.71.02"
     },
     {
       "id": "64.71.02.1005",
-      "name": "Margo Mulyo"
+      "nama": "Margo Mulyo",
+      "id_kec": "64.71.02"
     },
     {
       "id": "64.71.02.1006",
-      "name": "Marga Sari"
+      "nama": "Marga Sari",
+      "id_kec": "64.71.02"
     },
     {
       "id": "64.71.03.1001",
-      "name": "Batu Ampar"
+      "nama": "Batu Ampar",
+      "id_kec": "64.71.03"
     },
     {
       "id": "64.71.03.1002",
-      "name": "Gunungsamarinda (Gunung Samarinda)"
+      "nama": "Gunungsamarinda (Gunung Samarinda)",
+      "id_kec": "64.71.03"
     },
     {
       "id": "64.71.03.1003",
-      "name": "Karang Joang"
+      "nama": "Karang Joang",
+      "id_kec": "64.71.03"
     },
     {
       "id": "64.71.03.1004",
-      "name": "Muararapak (Muara Rapak)"
+      "nama": "Muararapak (Muara Rapak)",
+      "id_kec": "64.71.03"
     },
     {
       "id": "64.71.03.1005",
-      "name": "Gunungsamarinda Baru (Gunung Samarinda Baru)"
+      "nama": "Gunungsamarinda Baru (Gunung Samarinda Baru)",
+      "id_kec": "64.71.03"
     },
     {
       "id": "64.71.03.1006",
-      "name": "Graha Indah"
+      "nama": "Graha Indah",
+      "id_kec": "64.71.03"
     },
     {
       "id": "64.71.04.1001",
-      "name": "Gunungsari Ulu (Gunung Sari Ulu)"
+      "nama": "Gunungsari Ulu (Gunung Sari Ulu)",
+      "id_kec": "64.71.04"
     },
     {
       "id": "64.71.04.1002",
-      "name": "Gunungsari Ilir (Gunung Sari Ilir)"
+      "nama": "Gunungsari Ilir (Gunung Sari Ilir)",
+      "id_kec": "64.71.04"
     },
     {
       "id": "64.71.04.1003",
-      "name": "Karang Rejo"
+      "nama": "Karang Rejo",
+      "id_kec": "64.71.04"
     },
     {
       "id": "64.71.04.1004",
-      "name": "Karang Jati"
+      "nama": "Karang Jati",
+      "id_kec": "64.71.04"
     },
     {
       "id": "64.71.04.1005",
-      "name": "Mekar Sari"
+      "nama": "Mekar Sari",
+      "id_kec": "64.71.04"
     },
     {
       "id": "64.71.04.1006",
-      "name": "Sumber Rejo"
+      "nama": "Sumber Rejo",
+      "id_kec": "64.71.04"
     },
     {
       "id": "64.71.05.1002",
-      "name": "Sepinggan"
+      "nama": "Sepinggan",
+      "id_kec": "64.71.05"
     },
     {
       "id": "64.71.05.1006",
-      "name": "Gunungbahagia (Gunung Bahagia)"
+      "nama": "Gunungbahagia (Gunung Bahagia)",
+      "id_kec": "64.71.05"
     },
     {
       "id": "64.71.05.1008",
-      "name": "Sepinggan Baru"
+      "nama": "Sepinggan Baru",
+      "id_kec": "64.71.05"
     },
     {
       "id": "64.71.05.1009",
-      "name": "Sepinggan Raya"
+      "nama": "Sepinggan Raya",
+      "id_kec": "64.71.05"
     },
     {
       "id": "64.71.05.1010",
-      "name": "Sungainangka (Sungai Nangka)"
+      "nama": "Sungainangka (Sungai Nangka)",
+      "id_kec": "64.71.05"
     },
     {
       "id": "64.71.05.1011",
-      "name": "Damai Baru"
+      "nama": "Damai Baru",
+      "id_kec": "64.71.05"
     },
     {
       "id": "64.71.05.1012",
-      "name": "Damai Bahagia"
+      "nama": "Damai Bahagia",
+      "id_kec": "64.71.05"
     },
     {
       "id": "64.71.06.1001",
-      "name": "Prapatan"
+      "nama": "Prapatan",
+      "id_kec": "64.71.06"
     },
     {
       "id": "64.71.06.1002",
-      "name": "Telaga Sari"
+      "nama": "Telaga Sari",
+      "id_kec": "64.71.06"
     },
     {
       "id": "64.71.06.1003",
-      "name": "Klandasan Ulu"
+      "nama": "Klandasan Ulu",
+      "id_kec": "64.71.06"
     },
     {
       "id": "64.71.06.1004",
-      "name": "Klandasan Ilir"
+      "nama": "Klandasan Ilir",
+      "id_kec": "64.71.06"
     },
     {
       "id": "64.71.06.1005",
-      "name": "Damai"
+      "nama": "Damai",
+      "id_kec": "64.71.06"
     },
     {
       "id": "64.72.01.1001",
-      "name": "Rawa Makmur"
+      "nama": "Rawa Makmur",
+      "id_kec": "64.72.01"
     },
     {
       "id": "64.72.01.1002",
-      "name": "Handil Bakti"
+      "nama": "Handil Bakti",
+      "id_kec": "64.72.01"
     },
     {
       "id": "64.72.01.1003",
-      "name": "Bukuan"
+      "nama": "Bukuan",
+      "id_kec": "64.72.01"
     },
     {
       "id": "64.72.01.1004",
-      "name": "Simpang Pasir"
+      "nama": "Simpang Pasir",
+      "id_kec": "64.72.01"
     },
     {
       "id": "64.72.01.1005",
-      "name": "Bantuas"
+      "nama": "Bantuas",
+      "id_kec": "64.72.01"
     },
     {
       "id": "64.72.02.1001",
-      "name": "Sungai Keledang"
+      "nama": "Sungai Keledang",
+      "id_kec": "64.72.02"
     },
     {
       "id": "64.72.02.1002",
-      "name": "Baqa"
+      "nama": "Baqa",
+      "id_kec": "64.72.02"
     },
     {
       "id": "64.72.02.1003",
-      "name": "Mesjid"
+      "nama": "Mesjid",
+      "id_kec": "64.72.02"
     },
     {
       "id": "64.72.02.1009",
-      "name": "Mangkupalas"
+      "nama": "Mangkupalas",
+      "id_kec": "64.72.02"
     },
     {
       "id": "64.72.02.1010",
-      "name": "Tenun Samarinda"
+      "nama": "Tenun Samarinda",
+      "id_kec": "64.72.02"
     },
     {
       "id": "64.72.02.1011",
-      "name": "Gunung Panjang"
+      "nama": "Gunung Panjang",
+      "id_kec": "64.72.02"
     },
     {
       "id": "64.72.03.1001",
-      "name": "Teluk Lerong Ilir"
+      "nama": "Teluk Lerong Ilir",
+      "id_kec": "64.72.03"
     },
     {
       "id": "64.72.03.1002",
-      "name": "Jawa"
+      "nama": "Jawa",
+      "id_kec": "64.72.03"
     },
     {
       "id": "64.72.03.1004",
-      "name": "Air Putih"
+      "nama": "Air Putih",
+      "id_kec": "64.72.03"
     },
     {
       "id": "64.72.03.1005",
-      "name": "Sidodadi"
+      "nama": "Sidodadi",
+      "id_kec": "64.72.03"
     },
     {
       "id": "64.72.03.1006",
-      "name": "Air Hitam"
+      "nama": "Air Hitam",
+      "id_kec": "64.72.03"
     },
     {
       "id": "64.72.03.1007",
-      "name": "Dadi Mulya"
+      "nama": "Dadi Mulya",
+      "id_kec": "64.72.03"
     },
     {
       "id": "64.72.03.1008",
-      "name": "Gunung Kelua"
+      "nama": "Gunung Kelua",
+      "id_kec": "64.72.03"
     },
     {
       "id": "64.72.03.1009",
-      "name": "Bukit Pinang"
+      "nama": "Bukit Pinang",
+      "id_kec": "64.72.03"
     },
     {
       "id": "64.72.04.1001",
-      "name": "Selili"
+      "nama": "Selili",
+      "id_kec": "64.72.04"
     },
     {
       "id": "64.72.04.1002",
-      "name": "Sungai Dama"
+      "nama": "Sungai Dama",
+      "id_kec": "64.72.04"
     },
     {
       "id": "64.72.04.1003",
-      "name": "Sidomulyo"
+      "nama": "Sidomulyo",
+      "id_kec": "64.72.04"
     },
     {
       "id": "64.72.04.1013",
-      "name": "Sidodamai"
+      "nama": "Sidodamai",
+      "id_kec": "64.72.04"
     },
     {
       "id": "64.72.04.1014",
-      "name": "Pelita"
+      "nama": "Pelita",
+      "id_kec": "64.72.04"
     },
     {
       "id": "64.72.05.1002",
-      "name": "Sempaja Selatan"
+      "nama": "Sempaja Selatan",
+      "id_kec": "64.72.05"
     },
     {
       "id": "64.72.05.1003",
-      "name": "Lempake"
+      "nama": "Lempake",
+      "id_kec": "64.72.05"
     },
     {
       "id": "64.72.05.1004",
-      "name": "Sungai Siring"
+      "nama": "Sungai Siring",
+      "id_kec": "64.72.05"
     },
     {
       "id": "64.72.05.1010",
-      "name": "Sempaja Utara"
+      "nama": "Sempaja Utara",
+      "id_kec": "64.72.05"
     },
     {
       "id": "64.72.05.1011",
-      "name": "Tanah Merah"
+      "nama": "Tanah Merah",
+      "id_kec": "64.72.05"
     },
     {
       "id": "64.72.05.1012",
-      "name": "Sempaja Barat"
+      "nama": "Sempaja Barat",
+      "id_kec": "64.72.05"
     },
     {
       "id": "64.72.05.1013",
-      "name": "Sempaja Timur"
+      "nama": "Sempaja Timur",
+      "id_kec": "64.72.05"
     },
     {
       "id": "64.72.05.1014",
-      "name": "Budaya Pampang"
+      "nama": "Budaya Pampang",
+      "id_kec": "64.72.05"
     },
     {
       "id": "64.72.06.1001",
-      "name": "Loa Bakung"
+      "nama": "Loa Bakung",
+      "id_kec": "64.72.06"
     },
     {
       "id": "64.72.06.1002",
-      "name": "Loa Buah"
+      "nama": "Loa Buah",
+      "id_kec": "64.72.06"
     },
     {
       "id": "64.72.06.1003",
-      "name": "Karang Asam Ulu"
+      "nama": "Karang Asam Ulu",
+      "id_kec": "64.72.06"
     },
     {
       "id": "64.72.06.1004",
-      "name": "Lok Bahu"
+      "nama": "Lok Bahu",
+      "id_kec": "64.72.06"
     },
     {
       "id": "64.72.06.1005",
-      "name": "Teluk Lerong Ulu"
+      "nama": "Teluk Lerong Ulu",
+      "id_kec": "64.72.06"
     },
     {
       "id": "64.72.06.1006",
-      "name": "Karang Asam Ilir"
+      "nama": "Karang Asam Ilir",
+      "id_kec": "64.72.06"
     },
     {
       "id": "64.72.06.1007",
-      "name": "Karang Anyar"
+      "nama": "Karang Anyar",
+      "id_kec": "64.72.06"
     },
     {
       "id": "64.72.07.1001",
-      "name": "Sei/Sungai Kapih"
+      "nama": "Sei/Sungai Kapih",
+      "id_kec": "64.72.07"
     },
     {
       "id": "64.72.07.1002",
-      "name": "Sambutan"
+      "nama": "Sambutan",
+      "id_kec": "64.72.07"
     },
     {
       "id": "64.72.07.1003",
-      "name": "Makroman"
+      "nama": "Makroman",
+      "id_kec": "64.72.07"
     },
     {
       "id": "64.72.07.1004",
-      "name": "Sindang Sari"
+      "nama": "Sindang Sari",
+      "id_kec": "64.72.07"
     },
     {
       "id": "64.72.07.1005",
-      "name": "Pulau Atas"
+      "nama": "Pulau Atas",
+      "id_kec": "64.72.07"
     },
     {
       "id": "64.72.08.1001",
-      "name": "Temindung Permai"
+      "nama": "Temindung Permai",
+      "id_kec": "64.72.08"
     },
     {
       "id": "64.72.08.1002",
-      "name": "Sei/Sungai Pinang Dalam"
+      "nama": "Sei/Sungai Pinang Dalam",
+      "id_kec": "64.72.08"
     },
     {
       "id": "64.72.08.1003",
-      "name": "Gunung Lingai"
+      "nama": "Gunung Lingai",
+      "id_kec": "64.72.08"
     },
     {
       "id": "64.72.08.1004",
-      "name": "Mugirejo"
+      "nama": "Mugirejo",
+      "id_kec": "64.72.08"
     },
     {
       "id": "64.72.08.1005",
-      "name": "Bandara"
+      "nama": "Bandara",
+      "id_kec": "64.72.08"
     },
     {
       "id": "64.72.09.1001",
-      "name": "Karang Mumus"
+      "nama": "Karang Mumus",
+      "id_kec": "64.72.09"
     },
     {
       "id": "64.72.09.1002",
-      "name": "Pelabuhan"
+      "nama": "Pelabuhan",
+      "id_kec": "64.72.09"
     },
     {
       "id": "64.72.09.1003",
-      "name": "Pasar Pagi"
+      "nama": "Pasar Pagi",
+      "id_kec": "64.72.09"
     },
     {
       "id": "64.72.09.1004",
-      "name": "Bugis"
+      "nama": "Bugis",
+      "id_kec": "64.72.09"
     },
     {
       "id": "64.72.09.1005",
-      "name": "Sungai Pinang Luar"
+      "nama": "Sungai Pinang Luar",
+      "id_kec": "64.72.09"
     },
     {
       "id": "64.72.10.1001",
-      "name": "Simpang Tiga (Loa Janan Ilir)"
+      "nama": "Simpang Tiga (Loa Janan Ilir)",
+      "id_kec": "64.72.10"
     },
     {
       "id": "64.72.10.1002",
-      "name": "Tani Aman"
+      "nama": "Tani Aman",
+      "id_kec": "64.72.10"
     },
     {
       "id": "64.72.10.1003",
-      "name": "Sengkotek"
+      "nama": "Sengkotek",
+      "id_kec": "64.72.10"
     },
     {
       "id": "64.72.10.1004",
-      "name": "Harapan Baru"
+      "nama": "Harapan Baru",
+      "id_kec": "64.72.10"
     },
     {
       "id": "64.72.10.1005",
-      "name": "Rapak Dalam"
+      "nama": "Rapak Dalam",
+      "id_kec": "64.72.10"
     },
     {
       "id": "64.74.01.1001",
-      "name": "Bontang Kuala"
+      "nama": "Bontang Kuala",
+      "id_kec": "64.74.01"
     },
     {
       "id": "64.74.01.1002",
-      "name": "Bontang Baru"
+      "nama": "Bontang Baru",
+      "id_kec": "64.74.01"
     },
     {
       "id": "64.74.01.1003",
-      "name": "Loktuan (Lok Tuan)"
+      "nama": "Loktuan (Lok Tuan)",
+      "id_kec": "64.74.01"
     },
     {
       "id": "64.74.01.1004",
-      "name": "Guntung"
+      "nama": "Guntung",
+      "id_kec": "64.74.01"
     },
     {
       "id": "64.74.01.1005",
-      "name": "Gunung Elai"
+      "nama": "Gunung Elai",
+      "id_kec": "64.74.01"
     },
     {
       "id": "64.74.01.1006",
-      "name": "Api-Api"
+      "nama": "Api-Api",
+      "id_kec": "64.74.01"
     },
     {
       "id": "64.74.02.1001",
-      "name": "Tanjung Laut"
+      "nama": "Tanjung Laut",
+      "id_kec": "64.74.02"
     },
     {
       "id": "64.74.02.1002",
-      "name": "Berebas Tengah (Berbas Tengah)"
+      "nama": "Berebas Tengah (Berbas Tengah)",
+      "id_kec": "64.74.02"
     },
     {
       "id": "64.74.02.1003",
-      "name": "Berebas Pantai (Berbas Pantai)"
+      "nama": "Berebas Pantai (Berbas Pantai)",
+      "id_kec": "64.74.02"
     },
     {
       "id": "64.74.02.1004",
-      "name": "Satimpo"
+      "nama": "Satimpo",
+      "id_kec": "64.74.02"
     },
     {
       "id": "64.74.02.1005",
-      "name": "Bontang Lestari"
+      "nama": "Bontang Lestari",
+      "id_kec": "64.74.02"
     },
     {
       "id": "64.74.02.1006",
-      "name": "Tanjung Laut Indah"
+      "nama": "Tanjung Laut Indah",
+      "id_kec": "64.74.02"
     },
     {
       "id": "64.74.03.1001",
-      "name": "Belimbing"
+      "nama": "Belimbing",
+      "id_kec": "64.74.03"
     },
     {
       "id": "64.74.03.1002",
-      "name": "Telihan (Gunung Telihan)"
+      "nama": "Telihan (Gunung Telihan)",
+      "id_kec": "64.74.03"
     },
     {
       "id": "64.74.03.1003",
-      "name": "Kanaan"
+      "nama": "Kanaan",
+      "id_kec": "64.74.03"
     }
   ]
 }

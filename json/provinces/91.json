@@ -1,4464 +1,5577 @@
 {
   "province": {
     "id": "91",
-    "name": "Papua"
+    "nama": "Papua"
   },
   "cities": [
     {
       "id": "91.03",
-      "name": "Jayapura"
+      "nama": "Jayapura",
+      "id_prov": "91"
     },
     {
       "id": "91.05",
-      "name": "Kepulauan Yapen"
+      "nama": "Kepulauan Yapen",
+      "id_prov": "91"
     },
     {
       "id": "91.06",
-      "name": "Biak Numfor"
+      "nama": "Biak Numfor",
+      "id_prov": "91"
     },
     {
       "id": "91.10",
-      "name": "Sarmi"
+      "nama": "Sarmi",
+      "id_prov": "91"
     },
     {
       "id": "91.11",
-      "name": "Keerom"
+      "nama": "Keerom",
+      "id_prov": "91"
     },
     {
       "id": "91.15",
-      "name": "Waropen"
+      "nama": "Waropen",
+      "id_prov": "91"
     },
     {
       "id": "91.19",
-      "name": "Supiori"
+      "nama": "Supiori",
+      "id_prov": "91"
     },
     {
       "id": "91.20",
-      "name": "Mamberamo Raya"
+      "nama": "Mamberamo Raya",
+      "id_prov": "91"
     },
     {
       "id": "91.71",
-      "name": "Kota Jayapura"
+      "nama": "Kota Jayapura",
+      "id_prov": "91"
     }
   ],
   "districts": [
     {
       "id": "91.03.01",
-      "name": "Sentani"
+      "nama": "Sentani",
+      "id_kab": "91.03"
     },
     {
       "id": "91.03.02",
-      "name": "Sentani Timur"
+      "nama": "Sentani Timur",
+      "id_kab": "91.03"
     },
     {
       "id": "91.03.03",
-      "name": "Depapre"
+      "nama": "Depapre",
+      "id_kab": "91.03"
     },
     {
       "id": "91.03.04",
-      "name": "Sentani Barat"
+      "nama": "Sentani Barat",
+      "id_kab": "91.03"
     },
     {
       "id": "91.03.05",
-      "name": "Kemtuk"
+      "nama": "Kemtuk",
+      "id_kab": "91.03"
     },
     {
       "id": "91.03.06",
-      "name": "Kemtuk Gresi"
+      "nama": "Kemtuk Gresi",
+      "id_kab": "91.03"
     },
     {
       "id": "91.03.07",
-      "name": "Nimboran"
+      "nama": "Nimboran",
+      "id_kab": "91.03"
     },
     {
       "id": "91.03.08",
-      "name": "Nimbokrang"
+      "nama": "Nimbokrang",
+      "id_kab": "91.03"
     },
     {
       "id": "91.03.09",
-      "name": "Unurum Guay"
+      "nama": "Unurum Guay",
+      "id_kab": "91.03"
     },
     {
       "id": "91.03.10",
-      "name": "Demta"
+      "nama": "Demta",
+      "id_kab": "91.03"
     },
     {
       "id": "91.03.11",
-      "name": "Kaureh"
+      "nama": "Kaureh",
+      "id_kab": "91.03"
     },
     {
       "id": "91.03.12",
-      "name": "Ebungfao (Ebungfau / Ebungfa)"
+      "nama": "Ebungfao (Ebungfau / Ebungfa)",
+      "id_kab": "91.03"
     },
     {
       "id": "91.03.13",
-      "name": "Waibu"
+      "nama": "Waibu",
+      "id_kab": "91.03"
     },
     {
       "id": "91.03.14",
-      "name": "Nambluong"
+      "nama": "Nambluong",
+      "id_kab": "91.03"
     },
     {
       "id": "91.03.15",
-      "name": "Yapsi"
+      "nama": "Yapsi",
+      "id_kab": "91.03"
     },
     {
       "id": "91.03.16",
-      "name": "Airu"
+      "nama": "Airu",
+      "id_kab": "91.03"
     },
     {
       "id": "91.03.17",
-      "name": "Raveni Rara (Ravenirara)"
+      "nama": "Raveni Rara (Ravenirara)",
+      "id_kab": "91.03"
     },
     {
       "id": "91.03.18",
-      "name": "Gresi Selatan"
+      "nama": "Gresi Selatan",
+      "id_kab": "91.03"
     },
     {
       "id": "91.03.19",
-      "name": "Yokari"
+      "nama": "Yokari",
+      "id_kab": "91.03"
     },
     {
       "id": "91.05.01",
-      "name": "Yapen Selatan"
+      "nama": "Yapen Selatan",
+      "id_kab": "91.05"
     },
     {
       "id": "91.05.02",
-      "name": "Yapen Barat"
+      "nama": "Yapen Barat",
+      "id_kab": "91.05"
     },
     {
       "id": "91.05.03",
-      "name": "Yapen Timur"
+      "nama": "Yapen Timur",
+      "id_kab": "91.05"
     },
     {
       "id": "91.05.04",
-      "name": "Angkaisera"
+      "nama": "Angkaisera",
+      "id_kab": "91.05"
     },
     {
       "id": "91.05.05",
-      "name": "Poom"
+      "nama": "Poom",
+      "id_kab": "91.05"
     },
     {
       "id": "91.05.06",
-      "name": "Kosiwo"
+      "nama": "Kosiwo",
+      "id_kab": "91.05"
     },
     {
       "id": "91.05.07",
-      "name": "Yapen Utara"
+      "nama": "Yapen Utara",
+      "id_kab": "91.05"
     },
     {
       "id": "91.05.08",
-      "name": "Raimbawi"
+      "nama": "Raimbawi",
+      "id_kab": "91.05"
     },
     {
       "id": "91.05.09",
-      "name": "Teluk Ampimoi"
+      "nama": "Teluk Ampimoi",
+      "id_kab": "91.05"
     },
     {
       "id": "91.05.10",
-      "name": "Kepulauan Ambai"
+      "nama": "Kepulauan Ambai",
+      "id_kab": "91.05"
     },
     {
       "id": "91.05.11",
-      "name": "Wonawa"
+      "nama": "Wonawa",
+      "id_kab": "91.05"
     },
     {
       "id": "91.05.12",
-      "name": "Windesi"
+      "nama": "Windesi",
+      "id_kab": "91.05"
     },
     {
       "id": "91.05.13",
-      "name": "Pulau Kurudu"
+      "nama": "Pulau Kurudu",
+      "id_kab": "91.05"
     },
     {
       "id": "91.05.14",
-      "name": "Pulau Yerui"
+      "nama": "Pulau Yerui",
+      "id_kab": "91.05"
     },
     {
       "id": "91.05.15",
-      "name": "Anotaurei"
+      "nama": "Anotaurei",
+      "id_kab": "91.05"
     },
     {
       "id": "91.05.16",
-      "name": "Yawakukat"
+      "nama": "Yawakukat",
+      "id_kab": "91.05"
     },
     {
       "id": "91.05.17",
-      "name": "Nusawani"
+      "nama": "Nusawani",
+      "id_kab": "91.05"
     },
     {
       "id": "91.06.01",
-      "name": "Biak Kota"
+      "nama": "Biak Kota",
+      "id_kab": "91.06"
     },
     {
       "id": "91.06.02",
-      "name": "Biak Utara"
+      "nama": "Biak Utara",
+      "id_kab": "91.06"
     },
     {
       "id": "91.06.03",
-      "name": "Biak Timur"
+      "nama": "Biak Timur",
+      "id_kab": "91.06"
     },
     {
       "id": "91.06.04",
-      "name": "Numfor Barat"
+      "nama": "Numfor Barat",
+      "id_kab": "91.06"
     },
     {
       "id": "91.06.05",
-      "name": "Numfor Timur"
+      "nama": "Numfor Timur",
+      "id_kab": "91.06"
     },
     {
       "id": "91.06.08",
-      "name": "Biak Barat"
+      "nama": "Biak Barat",
+      "id_kab": "91.06"
     },
     {
       "id": "91.06.09",
-      "name": "Warsa"
+      "nama": "Warsa",
+      "id_kab": "91.06"
     },
     {
       "id": "91.06.10",
-      "name": "Padaido"
+      "nama": "Padaido",
+      "id_kab": "91.06"
     },
     {
       "id": "91.06.11",
-      "name": "Yendidori"
+      "nama": "Yendidori",
+      "id_kab": "91.06"
     },
     {
       "id": "91.06.12",
-      "name": "Samofa"
+      "nama": "Samofa",
+      "id_kab": "91.06"
     },
     {
       "id": "91.06.13",
-      "name": "Yawosi"
+      "nama": "Yawosi",
+      "id_kab": "91.06"
     },
     {
       "id": "91.06.14",
-      "name": "Andey"
+      "nama": "Andey",
+      "id_kab": "91.06"
     },
     {
       "id": "91.06.15",
-      "name": "Swandiwe"
+      "nama": "Swandiwe",
+      "id_kab": "91.06"
     },
     {
       "id": "91.06.16",
-      "name": "Bruyadori"
+      "nama": "Bruyadori",
+      "id_kab": "91.06"
     },
     {
       "id": "91.06.17",
-      "name": "Orkeri"
+      "nama": "Orkeri",
+      "id_kab": "91.06"
     },
     {
       "id": "91.06.18",
-      "name": "Poiru"
+      "nama": "Poiru",
+      "id_kab": "91.06"
     },
     {
       "id": "91.06.19",
-      "name": "Aimando Padaido"
+      "nama": "Aimando Padaido",
+      "id_kab": "91.06"
     },
     {
       "id": "91.06.20",
-      "name": "Oridek"
+      "nama": "Oridek",
+      "id_kab": "91.06"
     },
     {
       "id": "91.06.21",
-      "name": "Bondifuar"
+      "nama": "Bondifuar",
+      "id_kab": "91.06"
     },
     {
       "id": "91.10.01",
-      "name": "Sarmi"
+      "nama": "Sarmi",
+      "id_kab": "91.10"
     },
     {
       "id": "91.10.02",
-      "name": "Tor Atas"
+      "nama": "Tor Atas",
+      "id_kab": "91.10"
     },
     {
       "id": "91.10.03",
-      "name": "Pantai Barat"
+      "nama": "Pantai Barat",
+      "id_kab": "91.10"
     },
     {
       "id": "91.10.04",
-      "name": "Pantai Timur"
+      "nama": "Pantai Timur",
+      "id_kab": "91.10"
     },
     {
       "id": "91.10.05",
-      "name": "Bonggo"
+      "nama": "Bonggo",
+      "id_kab": "91.10"
     },
     {
       "id": "91.10.09",
-      "name": "Apawer Hulu"
+      "nama": "Apawer Hulu",
+      "id_kab": "91.10"
     },
     {
       "id": "91.10.12",
-      "name": "Sarmi Selatan"
+      "nama": "Sarmi Selatan",
+      "id_kab": "91.10"
     },
     {
       "id": "91.10.13",
-      "name": "Sarmi Timur"
+      "nama": "Sarmi Timur",
+      "id_kab": "91.10"
     },
     {
       "id": "91.10.14",
-      "name": "Pantai Timur Bagian Barat"
+      "nama": "Pantai Timur Bagian Barat",
+      "id_kab": "91.10"
     },
     {
       "id": "91.10.15",
-      "name": "Bonggo Timur"
+      "nama": "Bonggo Timur",
+      "id_kab": "91.10"
     },
     {
       "id": "91.11.01",
-      "name": "Waris"
+      "nama": "Waris",
+      "id_kab": "91.11"
     },
     {
       "id": "91.11.02",
-      "name": "Arso"
+      "nama": "Arso",
+      "id_kab": "91.11"
     },
     {
       "id": "91.11.03",
-      "name": "Senggi"
+      "nama": "Senggi",
+      "id_kab": "91.11"
     },
     {
       "id": "91.11.04",
-      "name": "Web"
+      "nama": "Web",
+      "id_kab": "91.11"
     },
     {
       "id": "91.11.05",
-      "name": "Skanto"
+      "nama": "Skanto",
+      "id_kab": "91.11"
     },
     {
       "id": "91.11.06",
-      "name": "Arso Timur"
+      "nama": "Arso Timur",
+      "id_kab": "91.11"
     },
     {
       "id": "91.11.07",
-      "name": "Towe"
+      "nama": "Towe",
+      "id_kab": "91.11"
     },
     {
       "id": "91.11.08",
-      "name": "Arso Barat"
+      "nama": "Arso Barat",
+      "id_kab": "91.11"
     },
     {
       "id": "91.11.09",
-      "name": "Mannem"
+      "nama": "Mannem",
+      "id_kab": "91.11"
     },
     {
       "id": "91.11.10",
-      "name": "Yaffi"
+      "nama": "Yaffi",
+      "id_kab": "91.11"
     },
     {
       "id": "91.11.11",
-      "name": "Kaisenar"
+      "nama": "Kaisenar",
+      "id_kab": "91.11"
     },
     {
       "id": "91.15.01",
-      "name": "Waropen Bawah"
+      "nama": "Waropen Bawah",
+      "id_kab": "91.15"
     },
     {
       "id": "91.15.03",
-      "name": "Masirei"
+      "nama": "Masirei",
+      "id_kab": "91.15"
     },
     {
       "id": "91.15.07",
-      "name": "Risei Sayati"
+      "nama": "Risei Sayati",
+      "id_kab": "91.15"
     },
     {
       "id": "91.15.08",
-      "name": "Urei Faisei"
+      "nama": "Urei Faisei",
+      "id_kab": "91.15"
     },
     {
       "id": "91.15.09",
-      "name": "Inggerus"
+      "nama": "Inggerus",
+      "id_kab": "91.15"
     },
     {
       "id": "91.15.10",
-      "name": "Kirihi"
+      "nama": "Kirihi",
+      "id_kab": "91.15"
     },
     {
       "id": "91.15.11",
-      "name": "Oudate"
+      "nama": "Oudate",
+      "id_kab": "91.15"
     },
     {
       "id": "91.15.12",
-      "name": "Wapoga"
+      "nama": "Wapoga",
+      "id_kab": "91.15"
     },
     {
       "id": "91.15.13",
-      "name": "Demba"
+      "nama": "Demba",
+      "id_kab": "91.15"
     },
     {
       "id": "91.15.14",
-      "name": "Wonti"
+      "nama": "Wonti",
+      "id_kab": "91.15"
     },
     {
       "id": "91.15.15",
-      "name": "Soyoi Mambai"
+      "nama": "Soyoi Mambai",
+      "id_kab": "91.15"
     },
     {
       "id": "91.19.01",
-      "name": "Supiori Selatan"
+      "nama": "Supiori Selatan",
+      "id_kab": "91.19"
     },
     {
       "id": "91.19.02",
-      "name": "Supiori Utara"
+      "nama": "Supiori Utara",
+      "id_kab": "91.19"
     },
     {
       "id": "91.19.03",
-      "name": "Supiori Timur"
+      "nama": "Supiori Timur",
+      "id_kab": "91.19"
     },
     {
       "id": "91.19.04",
-      "name": "Kepulauan Aruri"
+      "nama": "Kepulauan Aruri",
+      "id_kab": "91.19"
     },
     {
       "id": "91.19.05",
-      "name": "Supiori Barat"
+      "nama": "Supiori Barat",
+      "id_kab": "91.19"
     },
     {
       "id": "91.20.01",
-      "name": "Mamberamo Tengah"
+      "nama": "Mamberamo Tengah",
+      "id_kab": "91.20"
     },
     {
       "id": "91.20.02",
-      "name": "Mamberamo Hulu"
+      "nama": "Mamberamo Hulu",
+      "id_kab": "91.20"
     },
     {
       "id": "91.20.03",
-      "name": "Rufaer"
+      "nama": "Rufaer",
+      "id_kab": "91.20"
     },
     {
       "id": "91.20.04",
-      "name": "Mamberamo Tengah Timur"
+      "nama": "Mamberamo Tengah Timur",
+      "id_kab": "91.20"
     },
     {
       "id": "91.20.05",
-      "name": "Mamberamo Hilir"
+      "nama": "Mamberamo Hilir",
+      "id_kab": "91.20"
     },
     {
       "id": "91.20.06",
-      "name": "Waropen Atas"
+      "nama": "Waropen Atas",
+      "id_kab": "91.20"
     },
     {
       "id": "91.20.07",
-      "name": "Benuki"
+      "nama": "Benuki",
+      "id_kab": "91.20"
     },
     {
       "id": "91.20.08",
-      "name": "Sawai"
+      "nama": "Sawai",
+      "id_kab": "91.20"
     },
     {
       "id": "91.71.01",
-      "name": "Jayapura Utara"
+      "nama": "Jayapura Utara",
+      "id_kab": "91.71"
     },
     {
       "id": "91.71.02",
-      "name": "Jayapura Selatan"
+      "nama": "Jayapura Selatan",
+      "id_kab": "91.71"
     },
     {
       "id": "91.71.03",
-      "name": "Abepura"
+      "nama": "Abepura",
+      "id_kab": "91.71"
     },
     {
       "id": "91.71.04",
-      "name": "Muara Tami"
+      "nama": "Muara Tami",
+      "id_kab": "91.71"
     },
     {
       "id": "91.71.05",
-      "name": "Heram"
+      "nama": "Heram",
+      "id_kab": "91.71"
     }
   ],
   "villages": [
     {
       "id": "91.03.01.1001",
-      "name": "Sentani Kota"
+      "nama": "Sentani Kota",
+      "id_kec": "91.03.01"
     },
     {
       "id": "91.03.01.1002",
-      "name": "Dobonsolo"
+      "nama": "Dobonsolo",
+      "id_kec": "91.03.01"
     },
     {
       "id": "91.03.01.1003",
-      "name": "Hinekombe"
+      "nama": "Hinekombe",
+      "id_kec": "91.03.01"
     },
     {
       "id": "91.03.01.2004",
-      "name": "Sereh"
+      "nama": "Sereh",
+      "id_kec": "91.03.01"
     },
     {
       "id": "91.03.01.2005",
-      "name": "Yobeh"
+      "nama": "Yobeh",
+      "id_kec": "91.03.01"
     },
     {
       "id": "91.03.01.2006",
-      "name": "Ifale (Ilfele)"
+      "nama": "Ifale (Ilfele)",
+      "id_kec": "91.03.01"
     },
     {
       "id": "91.03.01.2007",
-      "name": "Keheran (Kehiran)"
+      "nama": "Keheran (Kehiran)",
+      "id_kec": "91.03.01"
     },
     {
       "id": "91.03.01.2010",
-      "name": "Ifar Besar"
+      "nama": "Ifar Besar",
+      "id_kec": "91.03.01"
     },
     {
       "id": "91.03.01.2011",
-      "name": "Hobong"
+      "nama": "Hobong",
+      "id_kec": "91.03.01"
     },
     {
       "id": "91.03.01.2017",
-      "name": "Yahim"
+      "nama": "Yahim",
+      "id_kec": "91.03.01"
     },
     {
       "id": "91.03.02.2001",
-      "name": "Nolokla"
+      "nama": "Nolokla",
+      "id_kec": "91.03.02"
     },
     {
       "id": "91.03.02.2002",
-      "name": "Puay (Puai)"
+      "nama": "Puay (Puai)",
+      "id_kec": "91.03.02"
     },
     {
       "id": "91.03.02.2003",
-      "name": "Ayapo (Itakiwa)"
+      "nama": "Ayapo (Itakiwa)",
+      "id_kec": "91.03.02"
     },
     {
       "id": "91.03.02.2004",
-      "name": "Asei Besar"
+      "nama": "Asei Besar",
+      "id_kec": "91.03.02"
     },
     {
       "id": "91.03.02.2005",
-      "name": "Asei Kecil"
+      "nama": "Asei Kecil",
+      "id_kec": "91.03.02"
     },
     {
       "id": "91.03.02.2006",
-      "name": "Nendali"
+      "nama": "Nendali",
+      "id_kec": "91.03.02"
     },
     {
       "id": "91.03.02.2007",
-      "name": "Yokiwa"
+      "nama": "Yokiwa",
+      "id_kec": "91.03.02"
     },
     {
       "id": "91.03.03.2001",
-      "name": "Waiya"
+      "nama": "Waiya",
+      "id_kec": "91.03.03"
     },
     {
       "id": "91.03.03.2002",
-      "name": "Entiyebo"
+      "nama": "Entiyebo",
+      "id_kec": "91.03.03"
     },
     {
       "id": "91.03.03.2003",
-      "name": "Kendate"
+      "nama": "Kendate",
+      "id_kec": "91.03.03"
     },
     {
       "id": "91.03.03.2004",
-      "name": "Tablasupa"
+      "nama": "Tablasupa",
+      "id_kec": "91.03.03"
     },
     {
       "id": "91.03.03.2005",
-      "name": "Yefase (Yepase)"
+      "nama": "Yefase (Yepase)",
+      "id_kec": "91.03.03"
     },
     {
       "id": "91.03.03.2006",
-      "name": "Wambena"
+      "nama": "Wambena",
+      "id_kec": "91.03.03"
     },
     {
       "id": "91.03.03.2007",
-      "name": "Yewena"
+      "nama": "Yewena",
+      "id_kec": "91.03.03"
     },
     {
       "id": "91.03.03.2012",
-      "name": "Doromena"
+      "nama": "Doromena",
+      "id_kec": "91.03.03"
     },
     {
       "id": "91.03.04.2001",
-      "name": "Dosay (Dosai)"
+      "nama": "Dosay (Dosai)",
+      "id_kec": "91.03.04"
     },
     {
       "id": "91.03.04.2005",
-      "name": "Maribu"
+      "nama": "Maribu",
+      "id_kec": "91.03.04"
     },
     {
       "id": "91.03.04.2006",
-      "name": "Waibron"
+      "nama": "Waibron",
+      "id_kec": "91.03.04"
     },
     {
       "id": "91.03.04.2008",
-      "name": "Sabron Sari"
+      "nama": "Sabron Sari",
+      "id_kec": "91.03.04"
     },
     {
       "id": "91.03.04.2011",
-      "name": "Sabron Yaru (Sabro Yaru)"
+      "nama": "Sabron Yaru (Sabro Yaru)",
+      "id_kec": "91.03.04"
     },
     {
       "id": "91.03.05.2001",
-      "name": "Sama"
+      "nama": "Sama",
+      "id_kec": "91.03.05"
     },
     {
       "id": "91.03.05.2002",
-      "name": "Manda Yawan (Mandayawan)"
+      "nama": "Manda Yawan (Mandayawan)",
+      "id_kec": "91.03.05"
     },
     {
       "id": "91.03.05.2003",
-      "name": "Mamda"
+      "nama": "Mamda",
+      "id_kec": "91.03.05"
     },
     {
       "id": "91.03.05.2004",
-      "name": "Mamei (Namei)"
+      "nama": "Mamei (Namei)",
+      "id_kec": "91.03.05"
     },
     {
       "id": "91.03.05.2005",
-      "name": "Nambom (Nambon)"
+      "nama": "Nambom (Nambon)",
+      "id_kec": "91.03.05"
     },
     {
       "id": "91.03.05.2006",
-      "name": "Kwansu"
+      "nama": "Kwansu",
+      "id_kec": "91.03.05"
     },
     {
       "id": "91.03.05.2007",
-      "name": "Soaib"
+      "nama": "Soaib",
+      "id_kec": "91.03.05"
     },
     {
       "id": "91.03.05.2008",
-      "name": "Sabeab Kecil"
+      "nama": "Sabeab Kecil",
+      "id_kec": "91.03.05"
     },
     {
       "id": "91.03.05.2009",
-      "name": "Sekori"
+      "nama": "Sekori",
+      "id_kec": "91.03.05"
     },
     {
       "id": "91.03.05.2010",
-      "name": "Skoaim"
+      "nama": "Skoaim",
+      "id_kec": "91.03.05"
     },
     {
       "id": "91.03.05.2011",
-      "name": "Benggwin Progo (Bengguin Progo)"
+      "nama": "Benggwin Progo (Bengguin Progo)",
+      "id_kec": "91.03.05"
     },
     {
       "id": "91.03.05.2012",
-      "name": "Aib"
+      "nama": "Aib",
+      "id_kec": "91.03.05"
     },
     {
       "id": "91.03.06.1015",
-      "name": "Hatib"
+      "nama": "Hatib",
+      "id_kec": "91.03.06"
     },
     {
       "id": "91.03.06.2001",
-      "name": "Domoikati (Damoi Kati)"
+      "nama": "Domoikati (Damoi Kati)",
+      "id_kec": "91.03.06"
     },
     {
       "id": "91.03.06.2002",
-      "name": "Dementin (Demetin)"
+      "nama": "Dementin (Demetin)",
+      "id_kec": "91.03.06"
     },
     {
       "id": "91.03.06.2003",
-      "name": "Yanbra (Yanim)"
+      "nama": "Yanbra (Yanim)",
+      "id_kec": "91.03.06"
     },
     {
       "id": "91.03.06.2004",
-      "name": "Braso"
+      "nama": "Braso",
+      "id_kec": "91.03.06"
     },
     {
       "id": "91.03.06.2005",
-      "name": "Pupehabu"
+      "nama": "Pupehabu",
+      "id_kec": "91.03.06"
     },
     {
       "id": "91.03.06.2006",
-      "name": "Bring"
+      "nama": "Bring",
+      "id_kec": "91.03.06"
     },
     {
       "id": "91.03.06.2007",
-      "name": "Nembu Gresi"
+      "nama": "Nembu Gresi",
+      "id_kec": "91.03.06"
     },
     {
       "id": "91.03.06.2009",
-      "name": "Ibub"
+      "nama": "Ibub",
+      "id_kec": "91.03.06"
     },
     {
       "id": "91.03.06.2013",
-      "name": "Swentab"
+      "nama": "Swentab",
+      "id_kec": "91.03.06"
     },
     {
       "id": "91.03.06.2014",
-      "name": "Jagrang"
+      "nama": "Jagrang",
+      "id_kec": "91.03.06"
     },
     {
       "id": "91.03.06.2016",
-      "name": "Hyansip"
+      "nama": "Hyansip",
+      "id_kec": "91.03.06"
     },
     {
       "id": "91.03.07.1021",
-      "name": "Tabri"
+      "nama": "Tabri",
+      "id_kec": "91.03.07"
     },
     {
       "id": "91.03.07.2001",
-      "name": "Gemebs"
+      "nama": "Gemebs",
+      "id_kec": "91.03.07"
     },
     {
       "id": "91.03.07.2002",
-      "name": "Singgri"
+      "nama": "Singgri",
+      "id_kec": "91.03.07"
     },
     {
       "id": "91.03.07.2003",
-      "name": "Meyu"
+      "nama": "Meyu",
+      "id_kec": "91.03.07"
     },
     {
       "id": "91.03.07.2004",
-      "name": "Benyom"
+      "nama": "Benyom",
+      "id_kec": "91.03.07"
     },
     {
       "id": "91.03.07.2005",
-      "name": "Oyengsi"
+      "nama": "Oyengsi",
+      "id_kec": "91.03.07"
     },
     {
       "id": "91.03.07.2006",
-      "name": "Singgriway (Singgriwai)"
+      "nama": "Singgriway (Singgriwai)",
+      "id_kec": "91.03.07"
     },
     {
       "id": "91.03.07.2009",
-      "name": "Imsar"
+      "nama": "Imsar",
+      "id_kec": "91.03.07"
     },
     {
       "id": "91.03.07.2010",
-      "name": "Kuipon (Kuipons)"
+      "nama": "Kuipon (Kuipons)",
+      "id_kec": "91.03.07"
     },
     {
       "id": "91.03.07.2014",
-      "name": "Yenggu Baru"
+      "nama": "Yenggu Baru",
+      "id_kec": "91.03.07"
     },
     {
       "id": "91.03.07.2015",
-      "name": "Yenggu (Yenggu Lama)"
+      "nama": "Yenggu (Yenggu Lama)",
+      "id_kec": "91.03.07"
     },
     {
       "id": "91.03.07.2017",
-      "name": "Kuwase"
+      "nama": "Kuwase",
+      "id_kec": "91.03.07"
     },
     {
       "id": "91.03.07.2018",
-      "name": "Kaitemung (Kautemung)"
+      "nama": "Kaitemung (Kautemung)",
+      "id_kec": "91.03.07"
     },
     {
       "id": "91.03.07.2019",
-      "name": "Pobaim"
+      "nama": "Pobaim",
+      "id_kec": "91.03.07"
     },
     {
       "id": "91.03.08.2001",
-      "name": "Nembukrang (Nimbokrang)"
+      "nama": "Nembukrang (Nimbokrang)",
+      "id_kec": "91.03.08"
     },
     {
       "id": "91.03.08.2002",
-      "name": "Benyom Jaya I"
+      "nama": "Benyom Jaya I",
+      "id_kec": "91.03.08"
     },
     {
       "id": "91.03.08.2003",
-      "name": "Benyom Jaya II"
+      "nama": "Benyom Jaya II",
+      "id_kec": "91.03.08"
     },
     {
       "id": "91.03.08.2004",
-      "name": "Berab"
+      "nama": "Berab",
+      "id_kec": "91.03.08"
     },
     {
       "id": "91.03.08.2005",
-      "name": "Hamonggrang (Hamongkrang)"
+      "nama": "Hamonggrang (Hamongkrang)",
+      "id_kec": "91.03.08"
     },
     {
       "id": "91.03.08.2006",
-      "name": "Wahab"
+      "nama": "Wahab",
+      "id_kec": "91.03.08"
     },
     {
       "id": "91.03.08.2007",
-      "name": "Nombukrang Sari (Nembukrang / Nimbokrang Sari)"
+      "nama": "Nombukrang Sari (Nembukrang / Nimbokrang Sari)",
+      "id_kec": "91.03.08"
     },
     {
       "id": "91.03.08.2008",
-      "name": "Rhepang Muaf (Rhepang Muaif / Muaib)"
+      "nama": "Rhepang Muaf (Rhepang Muaif / Muaib)",
+      "id_kec": "91.03.08"
     },
     {
       "id": "91.03.08.2009",
-      "name": "Bunyom"
+      "nama": "Bunyom",
+      "id_kec": "91.03.08"
     },
     {
       "id": "91.03.09.2001",
-      "name": "Beneik"
+      "nama": "Beneik",
+      "id_kec": "91.03.09"
     },
     {
       "id": "91.03.09.2002",
-      "name": "Ganusa (Garusa)"
+      "nama": "Ganusa (Garusa)",
+      "id_kec": "91.03.09"
     },
     {
       "id": "91.03.09.2003",
-      "name": "Guriyad (Guryard)"
+      "nama": "Guriyad (Guryard)",
+      "id_kec": "91.03.09"
     },
     {
       "id": "91.03.09.2004",
-      "name": "Sentosa (Santosa)"
+      "nama": "Sentosa (Santosa)",
+      "id_kec": "91.03.09"
     },
     {
       "id": "91.03.09.2005",
-      "name": "Sawesuma (Sawa Suma)"
+      "nama": "Sawesuma (Sawa Suma)",
+      "id_kec": "91.03.09"
     },
     {
       "id": "91.03.09.2006",
-      "name": "Nandalzi (Nandaizi)"
+      "nama": "Nandalzi (Nandaizi)",
+      "id_kec": "91.03.09"
     },
     {
       "id": "91.03.10.2001",
-      "name": "Demta (Demta Kota)"
+      "nama": "Demta (Demta Kota)",
+      "id_kec": "91.03.10"
     },
     {
       "id": "91.03.10.2002",
-      "name": "Ambora"
+      "nama": "Ambora",
+      "id_kec": "91.03.10"
     },
     {
       "id": "91.03.10.2003",
-      "name": "Yaugapsa (Yougapsa)"
+      "nama": "Yaugapsa (Yougapsa)",
+      "id_kec": "91.03.10"
     },
     {
       "id": "91.03.10.2004",
-      "name": "Muris Kecil"
+      "nama": "Muris Kecil",
+      "id_kec": "91.03.10"
     },
     {
       "id": "91.03.10.2005",
-      "name": "Yakore"
+      "nama": "Yakore",
+      "id_kec": "91.03.10"
     },
     {
       "id": "91.03.10.2006",
-      "name": "Kamdera"
+      "nama": "Kamdera",
+      "id_kec": "91.03.10"
     },
     {
       "id": "91.03.10.2007",
-      "name": "Muaif"
+      "nama": "Muaif",
+      "id_kec": "91.03.10"
     },
     {
       "id": "91.03.11.2001",
-      "name": "Lapua"
+      "nama": "Lapua",
+      "id_kec": "91.03.11"
     },
     {
       "id": "91.03.11.2002",
-      "name": "Sebum"
+      "nama": "Sebum",
+      "id_kec": "91.03.11"
     },
     {
       "id": "91.03.11.2003",
-      "name": "Soskotek"
+      "nama": "Soskotek",
+      "id_kec": "91.03.11"
     },
     {
       "id": "91.03.11.2004",
-      "name": "Yadouw (Yadauw)"
+      "nama": "Yadouw (Yadauw)",
+      "id_kec": "91.03.11"
     },
     {
       "id": "91.03.11.2006",
-      "name": "Umbron"
+      "nama": "Umbron",
+      "id_kec": "91.03.11"
     },
     {
       "id": "91.03.12.2001",
-      "name": "Ebungfa"
+      "nama": "Ebungfa",
+      "id_kec": "91.03.12"
     },
     {
       "id": "91.03.12.2002",
-      "name": "Abar (Atabar)"
+      "nama": "Abar (Atabar)",
+      "id_kec": "91.03.12"
     },
     {
       "id": "91.03.12.2003",
-      "name": "Babrongko (Ifar Bobrongko)"
+      "nama": "Babrongko (Ifar Bobrongko)",
+      "id_kec": "91.03.12"
     },
     {
       "id": "91.03.12.2004",
-      "name": "Khameyoka (Khameyaka / Kameyoka / Khamaeka)"
+      "nama": "Khameyoka (Khameyaka / Kameyoka / Khamaeka)",
+      "id_kec": "91.03.12"
     },
     {
       "id": "91.03.12.2005",
-      "name": "Simporo (Babo/Yosiba/Homf)"
+      "nama": "Simporo (Babo/Yosiba/Homf)",
+      "id_kec": "91.03.12"
     },
     {
       "id": "91.03.13.2001",
-      "name": "Dondai (Donday)"
+      "nama": "Dondai (Donday)",
+      "id_kec": "91.03.13"
     },
     {
       "id": "91.03.13.2002",
-      "name": "Doyo Lama"
+      "nama": "Doyo Lama",
+      "id_kec": "91.03.13"
     },
     {
       "id": "91.03.13.2003",
-      "name": "Kwadeware (Kanda)"
+      "nama": "Kwadeware (Kanda)",
+      "id_kec": "91.03.13"
     },
     {
       "id": "91.03.13.2004",
-      "name": "Yakonde"
+      "nama": "Yakonde",
+      "id_kec": "91.03.13"
     },
     {
       "id": "91.03.13.2005",
-      "name": "Sosiri"
+      "nama": "Sosiri",
+      "id_kec": "91.03.13"
     },
     {
       "id": "91.03.13.2006",
-      "name": "Doyo Baru"
+      "nama": "Doyo Baru",
+      "id_kec": "91.03.13"
     },
     {
       "id": "91.03.13.2007",
-      "name": "Bambar"
+      "nama": "Bambar",
+      "id_kec": "91.03.13"
     },
     {
       "id": "91.03.14.2001",
-      "name": "Sarmai Atas"
+      "nama": "Sarmai Atas",
+      "id_kec": "91.03.14"
     },
     {
       "id": "91.03.14.2002",
-      "name": "Sarmai Bawah"
+      "nama": "Sarmai Bawah",
+      "id_kec": "91.03.14"
     },
     {
       "id": "91.03.14.2003",
-      "name": "Sanggai"
+      "nama": "Sanggai",
+      "id_kec": "91.03.14"
     },
     {
       "id": "91.03.14.2004",
-      "name": "Yakasib (Yakasip/Yokasib)"
+      "nama": "Yakasib (Yakasip/Yokasib)",
+      "id_kec": "91.03.14"
     },
     {
       "id": "91.03.14.2005",
-      "name": "Besum"
+      "nama": "Besum",
+      "id_kec": "91.03.14"
     },
     {
       "id": "91.03.14.2007",
-      "name": "Imestum (Imustum)"
+      "nama": "Imestum (Imustum)",
+      "id_kec": "91.03.14"
     },
     {
       "id": "91.03.14.2008",
-      "name": "Karya Bumi"
+      "nama": "Karya Bumi",
+      "id_kec": "91.03.14"
     },
     {
       "id": "91.03.14.2009",
-      "name": "Hanggaiy Hamong"
+      "nama": "Hanggaiy Hamong",
+      "id_kec": "91.03.14"
     },
     {
       "id": "91.03.14.2010",
-      "name": "Sumbe"
+      "nama": "Sumbe",
+      "id_kec": "91.03.14"
     },
     {
       "id": "91.03.15.2001",
-      "name": "Tabbeyan (Tabeyan)"
+      "nama": "Tabbeyan (Tabeyan)",
+      "id_kec": "91.03.15"
     },
     {
       "id": "91.03.15.2002",
-      "name": "Kwarja (Kwaja)"
+      "nama": "Kwarja (Kwaja)",
+      "id_kec": "91.03.15"
     },
     {
       "id": "91.03.15.2003",
-      "name": "Ongan Jaya"
+      "nama": "Ongan Jaya",
+      "id_kec": "91.03.15"
     },
     {
       "id": "91.03.15.2004",
-      "name": "Bumi Sahaja"
+      "nama": "Bumi Sahaja",
+      "id_kec": "91.03.15"
     },
     {
       "id": "91.03.15.2005",
-      "name": "Nawa Mulya"
+      "nama": "Nawa Mulya",
+      "id_kec": "91.03.15"
     },
     {
       "id": "91.03.15.2006",
-      "name": "Nawa Mukti"
+      "nama": "Nawa Mukti",
+      "id_kec": "91.03.15"
     },
     {
       "id": "91.03.15.2007",
-      "name": "Taqwa/Takwa Bangun"
+      "nama": "Taqwa/Takwa Bangun",
+      "id_kec": "91.03.15"
     },
     {
       "id": "91.03.15.2008",
-      "name": "Purnawajati (Purnama Jati)"
+      "nama": "Purnawajati (Purnama Jati)",
+      "id_kec": "91.03.15"
     },
     {
       "id": "91.03.15.2009",
-      "name": "Bundru"
+      "nama": "Bundru",
+      "id_kec": "91.03.15"
     },
     {
       "id": "91.03.16.2001",
-      "name": "Hulu Atas"
+      "nama": "Hulu Atas",
+      "id_kec": "91.03.16"
     },
     {
       "id": "91.03.16.2002",
-      "name": "Pagai"
+      "nama": "Pagai",
+      "id_kec": "91.03.16"
     },
     {
       "id": "91.03.16.2003",
-      "name": "Aurina"
+      "nama": "Aurina",
+      "id_kec": "91.03.16"
     },
     {
       "id": "91.03.16.2004",
-      "name": "Muara Nawa (Muarah Mawa)"
+      "nama": "Muara Nawa (Muarah Mawa)",
+      "id_kec": "91.03.16"
     },
     {
       "id": "91.03.16.2005",
-      "name": "Kamikaru"
+      "nama": "Kamikaru",
+      "id_kec": "91.03.16"
     },
     {
       "id": "91.03.16.2006",
-      "name": "Naira"
+      "nama": "Naira",
+      "id_kec": "91.03.16"
     },
     {
       "id": "91.03.17.2001",
-      "name": "Yongsu Sapari"
+      "nama": "Yongsu Sapari",
+      "id_kec": "91.03.17"
     },
     {
       "id": "91.03.17.2002",
-      "name": "Yongsu Besar (Dosoyo)"
+      "nama": "Yongsu Besar (Dosoyo)",
+      "id_kec": "91.03.17"
     },
     {
       "id": "91.03.17.2003",
-      "name": "Ormuwari (Newa)"
+      "nama": "Ormuwari (Newa)",
+      "id_kec": "91.03.17"
     },
     {
       "id": "91.03.17.2004",
-      "name": "Nehibe (Nacha Tawa)"
+      "nama": "Nehibe (Nacha Tawa)",
+      "id_kec": "91.03.17"
     },
     {
       "id": "91.03.18.2001",
-      "name": "Omon"
+      "nama": "Omon",
+      "id_kec": "91.03.18"
     },
     {
       "id": "91.03.18.2002",
-      "name": "Iwon"
+      "nama": "Iwon",
+      "id_kec": "91.03.18"
     },
     {
       "id": "91.03.18.2003",
-      "name": "Klaisu"
+      "nama": "Klaisu",
+      "id_kec": "91.03.18"
     },
     {
       "id": "91.03.18.2004",
-      "name": "Bangai"
+      "nama": "Bangai",
+      "id_kec": "91.03.18"
     },
     {
       "id": "91.03.19.2001",
-      "name": "Maruwai (Maruway)"
+      "nama": "Maruwai (Maruway)",
+      "id_kec": "91.03.19"
     },
     {
       "id": "91.03.19.2002",
-      "name": "Meukisi"
+      "nama": "Meukisi",
+      "id_kec": "91.03.19"
     },
     {
       "id": "91.03.19.2003",
-      "name": "Endokisi"
+      "nama": "Endokisi",
+      "id_kec": "91.03.19"
     },
     {
       "id": "91.03.19.2005",
-      "name": "Buseryo"
+      "nama": "Buseryo",
+      "id_kec": "91.03.19"
     },
     {
       "id": "91.03.19.2006",
-      "name": "Senamay (Snamay)"
+      "nama": "Senamay (Snamay)",
+      "id_kec": "91.03.19"
     },
     {
       "id": "91.05.01.1004",
-      "name": "Tarau"
+      "nama": "Tarau",
+      "id_kec": "91.05.01"
     },
     {
       "id": "91.05.01.1005",
-      "name": "Serui Kota"
+      "nama": "Serui Kota",
+      "id_kec": "91.05.01"
     },
     {
       "id": "91.05.01.1006",
-      "name": "Serui Jaya"
+      "nama": "Serui Jaya",
+      "id_kec": "91.05.01"
     },
     {
       "id": "91.05.01.2014",
-      "name": "Serui Laut"
+      "nama": "Serui Laut",
+      "id_kec": "91.05.01"
     },
     {
       "id": "91.05.01.2015",
-      "name": "Banawa"
+      "nama": "Banawa",
+      "id_kec": "91.05.01"
     },
     {
       "id": "91.05.01.2017",
-      "name": "Turu"
+      "nama": "Turu",
+      "id_kec": "91.05.01"
     },
     {
       "id": "91.05.01.2019",
-      "name": "Pasir Hitam"
+      "nama": "Pasir Hitam",
+      "id_kec": "91.05.01"
     },
     {
       "id": "91.05.01.2020",
-      "name": "Pasir Putih"
+      "nama": "Pasir Putih",
+      "id_kec": "91.05.01"
     },
     {
       "id": "91.05.01.2023",
-      "name": "Manaini"
+      "nama": "Manaini",
+      "id_kec": "91.05.01"
     },
     {
       "id": "91.05.01.2024",
-      "name": "Imandoa"
+      "nama": "Imandoa",
+      "id_kec": "91.05.01"
     },
     {
       "id": "91.05.01.2026",
-      "name": "Barawaikap"
+      "nama": "Barawaikap",
+      "id_kec": "91.05.01"
     },
     {
       "id": "91.05.01.2027",
-      "name": "Bawai"
+      "nama": "Bawai",
+      "id_kec": "91.05.01"
     },
     {
       "id": "91.05.01.2028",
-      "name": "Nundawipi"
+      "nama": "Nundawipi",
+      "id_kec": "91.05.01"
     },
     {
       "id": "91.05.02.1003",
-      "name": "Ansus"
+      "nama": "Ansus",
+      "id_kec": "91.05.02"
     },
     {
       "id": "91.05.02.2002",
-      "name": "Webi"
+      "nama": "Webi",
+      "id_kec": "91.05.02"
     },
     {
       "id": "91.05.02.2004",
-      "name": "Papuama"
+      "nama": "Papuama",
+      "id_kec": "91.05.02"
     },
     {
       "id": "91.05.02.2007",
-      "name": "Kairawi"
+      "nama": "Kairawi",
+      "id_kec": "91.05.02"
     },
     {
       "id": "91.05.02.2008",
-      "name": "Natabui"
+      "nama": "Natabui",
+      "id_kec": "91.05.02"
     },
     {
       "id": "91.05.02.2010",
-      "name": "Warabori"
+      "nama": "Warabori",
+      "id_kec": "91.05.02"
     },
     {
       "id": "91.05.02.2012",
-      "name": "Wimoni"
+      "nama": "Wimoni",
+      "id_kec": "91.05.02"
     },
     {
       "id": "91.05.02.2013",
-      "name": "Sasawa"
+      "nama": "Sasawa",
+      "id_kec": "91.05.02"
     },
     {
       "id": "91.05.02.2015",
-      "name": "Inowa"
+      "nama": "Inowa",
+      "id_kec": "91.05.02"
     },
     {
       "id": "91.05.02.2016",
-      "name": "Maniri"
+      "nama": "Maniri",
+      "id_kec": "91.05.02"
     },
     {
       "id": "91.05.02.2017",
-      "name": "Nuiwiora"
+      "nama": "Nuiwiora",
+      "id_kec": "91.05.02"
     },
     {
       "id": "91.05.02.2018",
-      "name": "Yenusi Marau"
+      "nama": "Yenusi Marau",
+      "id_kec": "91.05.02"
     },
     {
       "id": "91.05.02.2019",
-      "name": "Marau"
+      "nama": "Marau",
+      "id_kec": "91.05.02"
     },
     {
       "id": "91.05.02.2020",
-      "name": "Toweta"
+      "nama": "Toweta",
+      "id_kec": "91.05.02"
     },
     {
       "id": "91.05.02.2021",
-      "name": "Woiwani"
+      "nama": "Woiwani",
+      "id_kec": "91.05.02"
     },
     {
       "id": "91.05.02.2022",
-      "name": "Yarori"
+      "nama": "Yarori",
+      "id_kec": "91.05.02"
     },
     {
       "id": "91.05.02.2023",
-      "name": "Narei"
+      "nama": "Narei",
+      "id_kec": "91.05.02"
     },
     {
       "id": "91.05.03.2004",
-      "name": "Korombobi (Karombobi)"
+      "nama": "Korombobi (Karombobi)",
+      "id_kec": "91.05.03"
     },
     {
       "id": "91.05.03.2005",
-      "name": "Dawai"
+      "nama": "Dawai",
+      "id_kec": "91.05.03"
     },
     {
       "id": "91.05.03.2010",
-      "name": "Wabo"
+      "nama": "Wabo",
+      "id_kec": "91.05.03"
     },
     {
       "id": "91.05.03.2014",
-      "name": "Nunsembai (Hunsembai)"
+      "nama": "Nunsembai (Hunsembai)",
+      "id_kec": "91.05.03"
     },
     {
       "id": "91.05.03.2015",
-      "name": "Nunsiari"
+      "nama": "Nunsiari",
+      "id_kec": "91.05.03"
     },
     {
       "id": "91.05.03.2023",
-      "name": "Woinsupi (Waisopi)"
+      "nama": "Woinsupi (Waisopi)",
+      "id_kec": "91.05.03"
     },
     {
       "id": "91.05.03.2024",
-      "name": "Awunawai"
+      "nama": "Awunawai",
+      "id_kec": "91.05.03"
     },
     {
       "id": "91.05.03.2025",
-      "name": "Mareruni (Mereruni / Maseruni)"
+      "nama": "Mareruni (Mereruni / Maseruni)",
+      "id_kec": "91.05.03"
     },
     {
       "id": "91.05.03.2031",
-      "name": "Wabompi"
+      "nama": "Wabompi",
+      "id_kec": "91.05.03"
     },
     {
       "id": "91.05.03.2036",
-      "name": "Duai"
+      "nama": "Duai",
+      "id_kec": "91.05.03"
     },
     {
       "id": "91.05.03.2037",
-      "name": "Sere Sere"
+      "nama": "Sere Sere",
+      "id_kec": "91.05.03"
     },
     {
       "id": "91.05.04.2003",
-      "name": "Menawi"
+      "nama": "Menawi",
+      "id_kec": "91.05.04"
     },
     {
       "id": "91.05.04.2004",
-      "name": "Wadapi"
+      "nama": "Wadapi",
+      "id_kec": "91.05.04"
     },
     {
       "id": "91.05.04.2009",
-      "name": "Kainui I"
+      "nama": "Kainui I",
+      "id_kec": "91.05.04"
     },
     {
       "id": "91.05.04.2010",
-      "name": "Aitiri"
+      "nama": "Aitiri",
+      "id_kec": "91.05.04"
     },
     {
       "id": "91.05.04.2011",
-      "name": "Wawuti"
+      "nama": "Wawuti",
+      "id_kec": "91.05.04"
     },
     {
       "id": "91.05.04.2015",
-      "name": "Roipi"
+      "nama": "Roipi",
+      "id_kec": "91.05.04"
     },
     {
       "id": "91.05.04.2016",
-      "name": "Ransarnoni"
+      "nama": "Ransarnoni",
+      "id_kec": "91.05.04"
     },
     {
       "id": "91.05.04.2021",
-      "name": "Kainui II"
+      "nama": "Kainui II",
+      "id_kec": "91.05.04"
     },
     {
       "id": "91.05.04.2024",
-      "name": "Wanampompi"
+      "nama": "Wanampompi",
+      "id_kec": "91.05.04"
     },
     {
       "id": "91.05.04.2028",
-      "name": "Mananayam"
+      "nama": "Mananayam",
+      "id_kec": "91.05.04"
     },
     {
       "id": "91.05.04.2030",
-      "name": "Roipi Dua"
+      "nama": "Roipi Dua",
+      "id_kec": "91.05.04"
     },
     {
       "id": "91.05.05.2001",
-      "name": "Poom I"
+      "nama": "Poom I",
+      "id_kec": "91.05.05"
     },
     {
       "id": "91.05.05.2003",
-      "name": "Serewen"
+      "nama": "Serewen",
+      "id_kec": "91.05.05"
     },
     {
       "id": "91.05.05.2006",
-      "name": "Poom II"
+      "nama": "Poom II",
+      "id_kec": "91.05.05"
     },
     {
       "id": "91.05.05.2007",
-      "name": "Mokiroan"
+      "nama": "Mokiroan",
+      "id_kec": "91.05.05"
     },
     {
       "id": "91.05.05.2011",
-      "name": "Rasiri (Woisiri)"
+      "nama": "Rasiri (Woisiri)",
+      "id_kec": "91.05.05"
     },
     {
       "id": "91.05.05.2012",
-      "name": "Warioi"
+      "nama": "Warioi",
+      "id_kec": "91.05.05"
     },
     {
       "id": "91.05.05.2015",
-      "name": "Humbe Awai"
+      "nama": "Humbe Awai",
+      "id_kec": "91.05.05"
     },
     {
       "id": "91.05.05.2016",
-      "name": "Nurawi"
+      "nama": "Nurawi",
+      "id_kec": "91.05.05"
     },
     {
       "id": "91.05.06.2001",
-      "name": "Kamanap"
+      "nama": "Kamanap",
+      "id_kec": "91.05.06"
     },
     {
       "id": "91.05.06.2002",
-      "name": "Aromarea"
+      "nama": "Aromarea",
+      "id_kec": "91.05.06"
     },
     {
       "id": "91.05.06.2003",
-      "name": "Maria Rotu (Mariarotu / Mariar Rotu)"
+      "nama": "Maria Rotu (Mariarotu / Mariar Rotu)",
+      "id_kec": "91.05.06"
     },
     {
       "id": "91.05.06.2004",
-      "name": "Kanawa"
+      "nama": "Kanawa",
+      "id_kec": "91.05.06"
     },
     {
       "id": "91.05.06.2005",
-      "name": "Tatui"
+      "nama": "Tatui",
+      "id_kec": "91.05.06"
     },
     {
       "id": "91.05.06.2006",
-      "name": "Ariepi"
+      "nama": "Ariepi",
+      "id_kec": "91.05.06"
     },
     {
       "id": "91.05.06.2007",
-      "name": "Sarawandori"
+      "nama": "Sarawandori",
+      "id_kec": "91.05.06"
     },
     {
       "id": "91.05.06.2008",
-      "name": "Ambaidiru"
+      "nama": "Ambaidiru",
+      "id_kec": "91.05.06"
     },
     {
       "id": "91.05.06.2009",
-      "name": "Mambo"
+      "nama": "Mambo",
+      "id_kec": "91.05.06"
     },
     {
       "id": "91.05.06.2010",
-      "name": "Manainin"
+      "nama": "Manainin",
+      "id_kec": "91.05.06"
     },
     {
       "id": "91.05.06.2011",
-      "name": "Numaman"
+      "nama": "Numaman",
+      "id_kec": "91.05.06"
     },
     {
       "id": "91.05.06.2012",
-      "name": "Ramangkurani"
+      "nama": "Ramangkurani",
+      "id_kec": "91.05.06"
     },
     {
       "id": "91.05.06.2013",
-      "name": "Sarawandori Dua"
+      "nama": "Sarawandori Dua",
+      "id_kec": "91.05.06"
     },
     {
       "id": "91.05.06.2014",
-      "name": "Ariepi Dua"
+      "nama": "Ariepi Dua",
+      "id_kec": "91.05.06"
     },
     {
       "id": "91.05.06.2015",
-      "name": "Panduami (Pandoami/Panduani)"
+      "nama": "Panduami (Pandoami/Panduani)",
+      "id_kec": "91.05.06"
     },
     {
       "id": "91.05.07.2001",
-      "name": "Tindaret"
+      "nama": "Tindaret",
+      "id_kec": "91.05.07"
     },
     {
       "id": "91.05.07.2002",
-      "name": "Yobi"
+      "nama": "Yobi",
+      "id_kec": "91.05.07"
     },
     {
       "id": "91.05.07.2003",
-      "name": "Sambrawai (Samrawai)"
+      "nama": "Sambrawai (Samrawai)",
+      "id_kec": "91.05.07"
     },
     {
       "id": "91.05.07.2006",
-      "name": "Kiriyou (Kiriyow)"
+      "nama": "Kiriyou (Kiriyow)",
+      "id_kec": "91.05.07"
     },
     {
       "id": "91.05.07.2007",
-      "name": "Soromasen (Soromasem)"
+      "nama": "Soromasen (Soromasem)",
+      "id_kec": "91.05.07"
     },
     {
       "id": "91.05.07.2009",
-      "name": "Roswari (Artaneng)"
+      "nama": "Roswari (Artaneng)",
+      "id_kec": "91.05.07"
     },
     {
       "id": "91.05.07.2010",
-      "name": "Doreimanona"
+      "nama": "Doreimanona",
+      "id_kec": "91.05.07"
     },
     {
       "id": "91.05.08.2001",
-      "name": "Waindu"
+      "nama": "Waindu",
+      "id_kec": "91.05.08"
     },
     {
       "id": "91.05.08.2008",
-      "name": "Barawai"
+      "nama": "Barawai",
+      "id_kec": "91.05.08"
     },
     {
       "id": "91.05.08.2009",
-      "name": "Woda"
+      "nama": "Woda",
+      "id_kec": "91.05.08"
     },
     {
       "id": "91.05.08.2010",
-      "name": "Kororompui"
+      "nama": "Kororompui",
+      "id_kec": "91.05.08"
     },
     {
       "id": "91.05.08.2011",
-      "name": "Aisau"
+      "nama": "Aisau",
+      "id_kec": "91.05.08"
     },
     {
       "id": "91.05.08.2012",
-      "name": "Sewenui"
+      "nama": "Sewenui",
+      "id_kec": "91.05.08"
     },
     {
       "id": "91.05.08.2013",
-      "name": "Sawendui"
+      "nama": "Sawendui",
+      "id_kec": "91.05.08"
     },
     {
       "id": "91.05.09.2001",
-      "name": "Randawaya"
+      "nama": "Randawaya",
+      "id_kec": "91.05.09"
     },
     {
       "id": "91.05.09.2002",
-      "name": "Warironi"
+      "nama": "Warironi",
+      "id_kec": "91.05.09"
     },
     {
       "id": "91.05.09.2003",
-      "name": "Ampimoi"
+      "nama": "Ampimoi",
+      "id_kec": "91.05.09"
     },
     {
       "id": "91.05.09.2004",
-      "name": "Waita"
+      "nama": "Waita",
+      "id_kec": "91.05.09"
     },
     {
       "id": "91.05.09.2005",
-      "name": "Ayari"
+      "nama": "Ayari",
+      "id_kec": "91.05.09"
     },
     {
       "id": "91.05.09.2006",
-      "name": "Koroapi"
+      "nama": "Koroapi",
+      "id_kec": "91.05.09"
     },
     {
       "id": "91.05.09.2007",
-      "name": "Wabuayar (Wabuayer)"
+      "nama": "Wabuayar (Wabuayer)",
+      "id_kec": "91.05.09"
     },
     {
       "id": "91.05.09.2008",
-      "name": "Tarei"
+      "nama": "Tarei",
+      "id_kec": "91.05.09"
     },
     {
       "id": "91.05.09.2009",
-      "name": "Bareraif"
+      "nama": "Bareraif",
+      "id_kec": "91.05.09"
     },
     {
       "id": "91.05.09.2010",
-      "name": "Arareni"
+      "nama": "Arareni",
+      "id_kec": "91.05.09"
     },
     {
       "id": "91.05.09.2011",
-      "name": "Siromi"
+      "nama": "Siromi",
+      "id_kec": "91.05.09"
     },
     {
       "id": "91.05.10.2001",
-      "name": "Ambai I"
+      "nama": "Ambai I",
+      "id_kec": "91.05.10"
     },
     {
       "id": "91.05.10.2004",
-      "name": "Kawipi"
+      "nama": "Kawipi",
+      "id_kec": "91.05.10"
     },
     {
       "id": "91.05.10.2005",
-      "name": "Wamori"
+      "nama": "Wamori",
+      "id_kec": "91.05.10"
     },
     {
       "id": "91.05.10.2006",
-      "name": "Adiwipi"
+      "nama": "Adiwipi",
+      "id_kec": "91.05.10"
     },
     {
       "id": "91.05.10.2008",
-      "name": "Ambai II"
+      "nama": "Ambai II",
+      "id_kec": "91.05.10"
     },
     {
       "id": "91.05.10.2009",
-      "name": "Mambawi"
+      "nama": "Mambawi",
+      "id_kec": "91.05.10"
     },
     {
       "id": "91.05.10.2010",
-      "name": "Baisore"
+      "nama": "Baisore",
+      "id_kec": "91.05.10"
     },
     {
       "id": "91.05.10.2011",
-      "name": "Rondepi"
+      "nama": "Rondepi",
+      "id_kec": "91.05.10"
     },
     {
       "id": "91.05.10.2014",
-      "name": "Imboriawa"
+      "nama": "Imboriawa",
+      "id_kec": "91.05.10"
     },
     {
       "id": "91.05.10.2015",
-      "name": "Bairei"
+      "nama": "Bairei",
+      "id_kec": "91.05.10"
     },
     {
       "id": "91.05.10.2016",
-      "name": "Aiwaraggani"
+      "nama": "Aiwaraggani",
+      "id_kec": "91.05.10"
     },
     {
       "id": "91.05.10.2017",
-      "name": "Toroa"
+      "nama": "Toroa",
+      "id_kec": "91.05.10"
     },
     {
       "id": "91.05.10.2019",
-      "name": "Marawi"
+      "nama": "Marawi",
+      "id_kec": "91.05.10"
     },
     {
       "id": "91.05.11.2001",
-      "name": "Wooi"
+      "nama": "Wooi",
+      "id_kec": "91.05.11"
     },
     {
       "id": "91.05.11.2002",
-      "name": "Woinap"
+      "nama": "Woinap",
+      "id_kec": "91.05.11"
     },
     {
       "id": "91.05.11.2003",
-      "name": "Aibondeni"
+      "nama": "Aibondeni",
+      "id_kec": "91.05.11"
     },
     {
       "id": "91.05.11.2004",
-      "name": "Kanaki"
+      "nama": "Kanaki",
+      "id_kec": "91.05.11"
     },
     {
       "id": "91.05.11.2005",
-      "name": "Dumani"
+      "nama": "Dumani",
+      "id_kec": "91.05.11"
     },
     {
       "id": "91.05.11.2007",
-      "name": "Karemoni"
+      "nama": "Karemoni",
+      "id_kec": "91.05.11"
     },
     {
       "id": "91.05.11.2008",
-      "name": "Haihorei"
+      "nama": "Haihorei",
+      "id_kec": "91.05.11"
     },
     {
       "id": "91.05.11.2009",
-      "name": "Rembai"
+      "nama": "Rembai",
+      "id_kec": "91.05.11"
     },
     {
       "id": "91.05.11.2010",
-      "name": "Jaimaria"
+      "nama": "Jaimaria",
+      "id_kec": "91.05.11"
     },
     {
       "id": "91.05.11.2011",
-      "name": "Awado"
+      "nama": "Awado",
+      "id_kec": "91.05.11"
     },
     {
       "id": "91.05.12.2001",
-      "name": "Kaonda"
+      "nama": "Kaonda",
+      "id_kec": "91.05.12"
     },
     {
       "id": "91.05.12.2002",
-      "name": "Windesi"
+      "nama": "Windesi",
+      "id_kec": "91.05.12"
     },
     {
       "id": "91.05.12.2003",
-      "name": "Munggui"
+      "nama": "Munggui",
+      "id_kec": "91.05.12"
     },
     {
       "id": "91.05.12.2004",
-      "name": "Karawi"
+      "nama": "Karawi",
+      "id_kec": "91.05.12"
     },
     {
       "id": "91.05.12.2005",
-      "name": "Asai"
+      "nama": "Asai",
+      "id_kec": "91.05.12"
     },
     {
       "id": "91.05.12.2006",
-      "name": "Rosbori"
+      "nama": "Rosbori",
+      "id_kec": "91.05.12"
     },
     {
       "id": "91.05.12.2007",
-      "name": "Waisani"
+      "nama": "Waisani",
+      "id_kec": "91.05.12"
     },
     {
       "id": "91.05.12.2008",
-      "name": "Saruman"
+      "nama": "Saruman",
+      "id_kec": "91.05.12"
     },
     {
       "id": "91.05.12.2009",
-      "name": "Aryobu"
+      "nama": "Aryobu",
+      "id_kec": "91.05.12"
     },
     {
       "id": "91.05.13.2001",
-      "name": "Kaipuri"
+      "nama": "Kaipuri",
+      "id_kec": "91.05.13"
     },
     {
       "id": "91.05.13.2002",
-      "name": "Doreianmini"
+      "nama": "Doreianmini",
+      "id_kec": "91.05.13"
     },
     {
       "id": "91.05.13.2003",
-      "name": "Andersaria (Andesaria)"
+      "nama": "Andersaria (Andesaria)",
+      "id_kec": "91.05.13"
     },
     {
       "id": "91.05.13.2004",
-      "name": "Kurudu"
+      "nama": "Kurudu",
+      "id_kec": "91.05.13"
     },
     {
       "id": "91.05.13.2005",
-      "name": "Kirimbri"
+      "nama": "Kirimbri",
+      "id_kec": "91.05.13"
     },
     {
       "id": "91.05.13.2006",
-      "name": "Manusundu"
+      "nama": "Manusundu",
+      "id_kec": "91.05.13"
     },
     {
       "id": "91.05.13.2007",
-      "name": "Mnukwar"
+      "nama": "Mnukwar",
+      "id_kec": "91.05.13"
     },
     {
       "id": "91.05.13.2008",
-      "name": "Mansesi"
+      "nama": "Mansesi",
+      "id_kec": "91.05.13"
     },
     {
       "id": "91.05.14.2001",
-      "name": "Miosnum"
+      "nama": "Miosnum",
+      "id_kec": "91.05.14"
     },
     {
       "id": "91.05.14.2002",
-      "name": "Jeniari"
+      "nama": "Jeniari",
+      "id_kec": "91.05.14"
     },
     {
       "id": "91.05.14.2003",
-      "name": "Umpeki"
+      "nama": "Umpeki",
+      "id_kec": "91.05.14"
     },
     {
       "id": "91.05.14.2004",
-      "name": "Ausem"
+      "nama": "Ausem",
+      "id_kec": "91.05.14"
     },
     {
       "id": "91.05.14.2005",
-      "name": "Yeituarau"
+      "nama": "Yeituarau",
+      "id_kec": "91.05.14"
     },
     {
       "id": "91.05.15.1001",
-      "name": "Anatorei (Anotaurei)"
+      "nama": "Anatorei (Anotaurei)",
+      "id_kec": "91.05.15"
     },
     {
       "id": "91.05.15.2001",
-      "name": "Ketu Api"
+      "nama": "Ketu Api",
+      "id_kec": "91.05.15"
     },
     {
       "id": "91.05.15.2002",
-      "name": "Mariaderi"
+      "nama": "Mariaderi",
+      "id_kec": "91.05.15"
     },
     {
       "id": "91.05.15.2003",
-      "name": "Yapan"
+      "nama": "Yapan",
+      "id_kec": "91.05.15"
     },
     {
       "id": "91.05.15.2004",
-      "name": "Mantembu"
+      "nama": "Mantembu",
+      "id_kec": "91.05.15"
     },
     {
       "id": "91.05.15.2005",
-      "name": "Famboaman"
+      "nama": "Famboaman",
+      "id_kec": "91.05.15"
     },
     {
       "id": "91.05.15.2006",
-      "name": "Kandowarira"
+      "nama": "Kandowarira",
+      "id_kec": "91.05.15"
     },
     {
       "id": "91.05.15.2007",
-      "name": "Warari"
+      "nama": "Warari",
+      "id_kec": "91.05.15"
     },
     {
       "id": "91.05.16.2001",
-      "name": "Kontinuai"
+      "nama": "Kontinuai",
+      "id_kec": "91.05.16"
     },
     {
       "id": "91.05.16.2002",
-      "name": "Woniwon"
+      "nama": "Woniwon",
+      "id_kec": "91.05.16"
     },
     {
       "id": "91.05.16.2003",
-      "name": "Sanayoka"
+      "nama": "Sanayoka",
+      "id_kec": "91.05.16"
     },
     {
       "id": "91.05.16.2004",
-      "name": "Rambai"
+      "nama": "Rambai",
+      "id_kec": "91.05.16"
     },
     {
       "id": "91.05.16.2005",
-      "name": "Yafanani"
+      "nama": "Yafanani",
+      "id_kec": "91.05.16"
     },
     {
       "id": "91.05.16.2006",
-      "name": "Borai"
+      "nama": "Borai",
+      "id_kec": "91.05.16"
     },
     {
       "id": "91.05.16.2007",
-      "name": "Kabuaena"
+      "nama": "Kabuaena",
+      "id_kec": "91.05.16"
     },
     {
       "id": "91.05.17.2001",
-      "name": "Saweru"
+      "nama": "Saweru",
+      "id_kec": "91.05.17"
     },
     {
       "id": "91.05.17.2002",
-      "name": "Umani"
+      "nama": "Umani",
+      "id_kec": "91.05.17"
     },
     {
       "id": "91.05.17.2003",
-      "name": "Perea"
+      "nama": "Perea",
+      "id_kec": "91.05.17"
     },
     {
       "id": "91.05.17.2004",
-      "name": "Nuniandei"
+      "nama": "Nuniandei",
+      "id_kec": "91.05.17"
     },
     {
       "id": "91.05.17.2005",
-      "name": "Dorau"
+      "nama": "Dorau",
+      "id_kec": "91.05.17"
     },
     {
       "id": "91.06.01.1001",
-      "name": "Sorido"
+      "nama": "Sorido",
+      "id_kec": "91.06.01"
     },
     {
       "id": "91.06.01.1002",
-      "name": "Waupnor"
+      "nama": "Waupnor",
+      "id_kec": "91.06.01"
     },
     {
       "id": "91.06.01.1003",
-      "name": "Saramon (Saramom)"
+      "nama": "Saramon (Saramom)",
+      "id_kec": "91.06.01"
     },
     {
       "id": "91.06.01.1004",
-      "name": "Burokup (Burokub)"
+      "nama": "Burokup (Burokub)",
+      "id_kec": "91.06.01"
     },
     {
       "id": "91.06.01.1005",
-      "name": "Fandoi"
+      "nama": "Fandoi",
+      "id_kec": "91.06.01"
     },
     {
       "id": "91.06.01.1006",
-      "name": "Mandala"
+      "nama": "Mandala",
+      "id_kec": "91.06.01"
     },
     {
       "id": "91.06.01.1016",
-      "name": "Yenures"
+      "nama": "Yenures",
+      "id_kec": "91.06.01"
     },
     {
       "id": "91.06.01.2007",
-      "name": "Mnubabo (Ambroben)"
+      "nama": "Mnubabo (Ambroben)",
+      "id_kec": "91.06.01"
     },
     {
       "id": "91.06.01.2008",
-      "name": "Swapodibo"
+      "nama": "Swapodibo",
+      "id_kec": "91.06.01"
     },
     {
       "id": "91.06.01.2009",
-      "name": "Mokmer"
+      "nama": "Mokmer",
+      "id_kec": "91.06.01"
     },
     {
       "id": "91.06.01.2010",
-      "name": "Inggiri"
+      "nama": "Inggiri",
+      "id_kec": "91.06.01"
     },
     {
       "id": "91.06.01.2011",
-      "name": "Paray (Parai)"
+      "nama": "Paray (Parai)",
+      "id_kec": "91.06.01"
     },
     {
       "id": "91.06.01.2012",
-      "name": "Samau"
+      "nama": "Samau",
+      "id_kec": "91.06.01"
     },
     {
       "id": "91.06.01.2013",
-      "name": "Insrom"
+      "nama": "Insrom",
+      "id_kec": "91.06.01"
     },
     {
       "id": "91.06.01.2014",
-      "name": "Anggraidi"
+      "nama": "Anggraidi",
+      "id_kec": "91.06.01"
     },
     {
       "id": "91.06.01.2015",
-      "name": "Manswam (Manswan)"
+      "nama": "Manswam (Manswan)",
+      "id_kec": "91.06.01"
     },
     {
       "id": "91.06.01.2017",
-      "name": "Sanumi"
+      "nama": "Sanumi",
+      "id_kec": "91.06.01"
     },
     {
       "id": "91.06.01.2018",
-      "name": "Manggandisapi"
+      "nama": "Manggandisapi",
+      "id_kec": "91.06.01"
     },
     {
       "id": "91.06.01.2019",
-      "name": "Karyendi"
+      "nama": "Karyendi",
+      "id_kec": "91.06.01"
     },
     {
       "id": "91.06.01.2020",
-      "name": "Kababur"
+      "nama": "Kababur",
+      "id_kec": "91.06.01"
     },
     {
       "id": "91.06.01.2021",
-      "name": "Babrinbo"
+      "nama": "Babrinbo",
+      "id_kec": "91.06.01"
     },
     {
       "id": "91.06.01.2022",
-      "name": "Inggupi"
+      "nama": "Inggupi",
+      "id_kec": "91.06.01"
     },
     {
       "id": "91.06.02.2001",
-      "name": "Sarwom"
+      "nama": "Sarwom",
+      "id_kec": "91.06.02"
     },
     {
       "id": "91.06.02.2002",
-      "name": "Andei"
+      "nama": "Andei",
+      "id_kec": "91.06.02"
     },
     {
       "id": "91.06.02.2004",
-      "name": "Waromi"
+      "nama": "Waromi",
+      "id_kec": "91.06.02"
     },
     {
       "id": "91.06.02.2006",
-      "name": "Kobeoser"
+      "nama": "Kobeoser",
+      "id_kec": "91.06.02"
     },
     {
       "id": "91.06.02.2007",
-      "name": "Mambesak"
+      "nama": "Mambesak",
+      "id_kec": "91.06.02"
     },
     {
       "id": "91.06.02.2008",
-      "name": "Saukobye"
+      "nama": "Saukobye",
+      "id_kec": "91.06.02"
     },
     {
       "id": "91.06.02.2010",
-      "name": "Yobdi"
+      "nama": "Yobdi",
+      "id_kec": "91.06.02"
     },
     {
       "id": "91.06.02.2012",
-      "name": "Dernafi"
+      "nama": "Dernafi",
+      "id_kec": "91.06.02"
     },
     {
       "id": "91.06.02.2013",
-      "name": "Rosayendi (Rosayendo)"
+      "nama": "Rosayendi (Rosayendo)",
+      "id_kec": "91.06.02"
     },
     {
       "id": "91.06.02.2016",
-      "name": "Warsansan"
+      "nama": "Warsansan",
+      "id_kec": "91.06.02"
     },
     {
       "id": "91.06.02.2017",
-      "name": "Nermnu"
+      "nama": "Nermnu",
+      "id_kec": "91.06.02"
     },
     {
       "id": "91.06.02.2018",
-      "name": "Korem"
+      "nama": "Korem",
+      "id_kec": "91.06.02"
     },
     {
       "id": "91.06.02.2019",
-      "name": "Mnuswor"
+      "nama": "Mnuswor",
+      "id_kec": "91.06.02"
     },
     {
       "id": "91.06.02.2020",
-      "name": "Dofyo Wafor"
+      "nama": "Dofyo Wafor",
+      "id_kec": "91.06.02"
     },
     {
       "id": "91.06.02.2021",
-      "name": "Warbon"
+      "nama": "Warbon",
+      "id_kec": "91.06.02"
     },
     {
       "id": "91.06.02.2022",
-      "name": "Wari"
+      "nama": "Wari",
+      "id_kec": "91.06.02"
     },
     {
       "id": "91.06.03.2002",
-      "name": "Rimba Jaya"
+      "nama": "Rimba Jaya",
+      "id_kec": "91.06.03"
     },
     {
       "id": "91.06.03.2003",
-      "name": "Owi"
+      "nama": "Owi",
+      "id_kec": "91.06.03"
     },
     {
       "id": "91.06.03.2004",
-      "name": "Woniki"
+      "nama": "Woniki",
+      "id_kec": "91.06.03"
     },
     {
       "id": "91.06.03.2005",
-      "name": "Kajasi"
+      "nama": "Kajasi",
+      "id_kec": "91.06.03"
     },
     {
       "id": "91.06.03.2010",
-      "name": "Sunde"
+      "nama": "Sunde",
+      "id_kec": "91.06.03"
     },
     {
       "id": "91.06.03.2011",
-      "name": "Seepse (Sepse)"
+      "nama": "Seepse (Sepse)",
+      "id_kec": "91.06.03"
     },
     {
       "id": "91.06.03.2012",
-      "name": "Soon"
+      "nama": "Soon",
+      "id_kec": "91.06.03"
     },
     {
       "id": "91.06.03.2013",
-      "name": "Sareidi (Saraeidi)"
+      "nama": "Sareidi (Saraeidi)",
+      "id_kec": "91.06.03"
     },
     {
       "id": "91.06.03.2014",
-      "name": "Bindusi"
+      "nama": "Bindusi",
+      "id_kec": "91.06.03"
     },
     {
       "id": "91.06.03.2015",
-      "name": "Orwer"
+      "nama": "Orwer",
+      "id_kec": "91.06.03"
     },
     {
       "id": "91.06.03.2016",
-      "name": "Yenusi"
+      "nama": "Yenusi",
+      "id_kec": "91.06.03"
     },
     {
       "id": "91.06.03.2017",
-      "name": "Kajasbo"
+      "nama": "Kajasbo",
+      "id_kec": "91.06.03"
     },
     {
       "id": "91.06.03.2021",
-      "name": "Ruar"
+      "nama": "Ruar",
+      "id_kec": "91.06.03"
     },
     {
       "id": "91.06.03.2022",
-      "name": "Mandon"
+      "nama": "Mandon",
+      "id_kec": "91.06.03"
     },
     {
       "id": "91.06.03.2023",
-      "name": "Soryar"
+      "nama": "Soryar",
+      "id_kec": "91.06.03"
     },
     {
       "id": "91.06.03.2028",
-      "name": "Insumamires (Insumarires)"
+      "nama": "Insumamires (Insumarires)",
+      "id_kec": "91.06.03"
     },
     {
       "id": "91.06.03.2030",
-      "name": "Rim"
+      "nama": "Rim",
+      "id_kec": "91.06.03"
     },
     {
       "id": "91.06.03.2031",
-      "name": "Adorbari"
+      "nama": "Adorbari",
+      "id_kec": "91.06.03"
     },
     {
       "id": "91.06.03.2032",
-      "name": "Bosnik Sup"
+      "nama": "Bosnik Sup",
+      "id_kec": "91.06.03"
     },
     {
       "id": "91.06.03.2033",
-      "name": "Inofi"
+      "nama": "Inofi",
+      "id_kec": "91.06.03"
     },
     {
       "id": "91.06.03.2034",
-      "name": "Yenberok"
+      "nama": "Yenberok",
+      "id_kec": "91.06.03"
     },
     {
       "id": "91.06.03.2035",
-      "name": "Wasori"
+      "nama": "Wasori",
+      "id_kec": "91.06.03"
     },
     {
       "id": "91.06.03.2036",
-      "name": "Yendakem"
+      "nama": "Yendakem",
+      "id_kec": "91.06.03"
     },
     {
       "id": "91.06.03.2037",
-      "name": "Waderbo"
+      "nama": "Waderbo",
+      "id_kec": "91.06.03"
     },
     {
       "id": "91.06.03.2038",
-      "name": "Afefbo"
+      "nama": "Afefbo",
+      "id_kec": "91.06.03"
     },
     {
       "id": "91.06.03.2039",
-      "name": "Inmdi"
+      "nama": "Inmdi",
+      "id_kec": "91.06.03"
     },
     {
       "id": "91.06.04.2003",
-      "name": "Namber"
+      "nama": "Namber",
+      "id_kec": "91.06.04"
     },
     {
       "id": "91.06.04.2004",
-      "name": "Baruki"
+      "nama": "Baruki",
+      "id_kec": "91.06.04"
     },
     {
       "id": "91.06.04.2005",
-      "name": "Kameri"
+      "nama": "Kameri",
+      "id_kec": "91.06.04"
     },
     {
       "id": "91.06.04.2008",
-      "name": "Warido"
+      "nama": "Warido",
+      "id_kec": "91.06.04"
     },
     {
       "id": "91.06.04.2012",
-      "name": "Sub Manggunsi (Subangungsi / Submanggunsi)"
+      "nama": "Sub Manggunsi (Subangungsi / Submanggunsi)",
+      "id_kec": "91.06.04"
     },
     {
       "id": "91.06.04.2013",
-      "name": "Serbin"
+      "nama": "Serbin",
+      "id_kec": "91.06.04"
     },
     {
       "id": "91.06.04.2014",
-      "name": "Kansai"
+      "nama": "Kansai",
+      "id_kec": "91.06.04"
     },
     {
       "id": "91.06.04.2015",
-      "name": "Pondori (Pomdori)"
+      "nama": "Pondori (Pomdori)",
+      "id_kec": "91.06.04"
     },
     {
       "id": "91.06.04.2019",
-      "name": "Semayen"
+      "nama": "Semayen",
+      "id_kec": "91.06.04"
     },
     {
       "id": "91.06.04.2020",
-      "name": "Mambodo Sawai"
+      "nama": "Mambodo Sawai",
+      "id_kec": "91.06.04"
     },
     {
       "id": "91.06.04.2021",
-      "name": "Rimbaraya"
+      "nama": "Rimbaraya",
+      "id_kec": "91.06.04"
     },
     {
       "id": "91.06.04.2022",
-      "name": "Pomdori Sup"
+      "nama": "Pomdori Sup",
+      "id_kec": "91.06.04"
     },
     {
       "id": "91.06.05.2006",
-      "name": "Yenburwo"
+      "nama": "Yenburwo",
+      "id_kec": "91.06.05"
     },
     {
       "id": "91.06.05.2011",
-      "name": "Kornasoren"
+      "nama": "Kornasoren",
+      "id_kec": "91.06.05"
     },
     {
       "id": "91.06.05.2014",
-      "name": "Rarsibo"
+      "nama": "Rarsibo",
+      "id_kec": "91.06.05"
     },
     {
       "id": "91.06.05.2015",
-      "name": "Asaryendi"
+      "nama": "Asaryendi",
+      "id_kec": "91.06.05"
     },
     {
       "id": "91.06.05.2016",
-      "name": "Yenmaru"
+      "nama": "Yenmaru",
+      "id_kec": "91.06.05"
     },
     {
       "id": "91.06.05.2017",
-      "name": "Pyefuri"
+      "nama": "Pyefuri",
+      "id_kec": "91.06.05"
     },
     {
       "id": "91.06.05.2018",
-      "name": "Indaibori"
+      "nama": "Indaibori",
+      "id_kec": "91.06.05"
     },
     {
       "id": "91.06.05.2019",
-      "name": "Barkori"
+      "nama": "Barkori",
+      "id_kec": "91.06.05"
     },
     {
       "id": "91.06.05.2020",
-      "name": "Asaibori"
+      "nama": "Asaibori",
+      "id_kec": "91.06.05"
     },
     {
       "id": "91.06.08.2001",
-      "name": "Andei"
+      "nama": "Andei",
+      "id_kec": "91.06.08"
     },
     {
       "id": "91.06.08.2002",
-      "name": "Kanaan"
+      "nama": "Kanaan",
+      "id_kec": "91.06.08"
     },
     {
       "id": "91.06.08.2003",
-      "name": "Asaryendi"
+      "nama": "Asaryendi",
+      "id_kec": "91.06.08"
     },
     {
       "id": "91.06.08.2004",
-      "name": "Sopendo"
+      "nama": "Sopendo",
+      "id_kec": "91.06.08"
     },
     {
       "id": "91.06.08.2006",
-      "name": "Amponbukor"
+      "nama": "Amponbukor",
+      "id_kec": "91.06.08"
     },
     {
       "id": "91.06.08.2008",
-      "name": "Wasyai"
+      "nama": "Wasyai",
+      "id_kec": "91.06.08"
     },
     {
       "id": "91.06.08.2009",
-      "name": "Kababur"
+      "nama": "Kababur",
+      "id_kec": "91.06.08"
     },
     {
       "id": "91.06.08.2010",
-      "name": "Warberik (Waberik)"
+      "nama": "Warberik (Waberik)",
+      "id_kec": "91.06.08"
     },
     {
       "id": "91.06.08.2011",
-      "name": "Sosmay / Sosmai"
+      "nama": "Sosmay / Sosmai",
+      "id_kec": "91.06.08"
     },
     {
       "id": "91.06.08.2012",
-      "name": "Yomdori"
+      "nama": "Yomdori",
+      "id_kec": "91.06.08"
     },
     {
       "id": "91.06.08.2013",
-      "name": "Opuri"
+      "nama": "Opuri",
+      "id_kec": "91.06.08"
     },
     {
       "id": "91.06.08.2014",
-      "name": "Mamoribo"
+      "nama": "Mamoribo",
+      "id_kec": "91.06.08"
     },
     {
       "id": "91.06.08.2021",
-      "name": "Insiri"
+      "nama": "Insiri",
+      "id_kec": "91.06.08"
     },
     {
       "id": "91.06.08.2024",
-      "name": "Asarkir"
+      "nama": "Asarkir",
+      "id_kec": "91.06.08"
     },
     {
       "id": "91.06.08.2025",
-      "name": "Dousi"
+      "nama": "Dousi",
+      "id_kec": "91.06.08"
     },
     {
       "id": "91.06.08.2026",
-      "name": "Marisen"
+      "nama": "Marisen",
+      "id_kec": "91.06.08"
     },
     {
       "id": "91.06.08.2027",
-      "name": "Sumbinya (Sunbinya)"
+      "nama": "Sumbinya (Sunbinya)",
+      "id_kec": "91.06.08"
     },
     {
       "id": "91.06.08.2029",
-      "name": "Rarsbari"
+      "nama": "Rarsbari",
+      "id_kec": "91.06.08"
     },
     {
       "id": "91.06.08.2030",
-      "name": "Banasrares"
+      "nama": "Banasrares",
+      "id_kec": "91.06.08"
     },
     {
       "id": "91.06.08.2031",
-      "name": "Karnindi"
+      "nama": "Karnindi",
+      "id_kec": "91.06.08"
     },
     {
       "id": "91.06.08.2032",
-      "name": "Dedifu"
+      "nama": "Dedifu",
+      "id_kec": "91.06.08"
     },
     {
       "id": "91.06.08.2033",
-      "name": "Sopendo Sup Karkir"
+      "nama": "Sopendo Sup Karkir",
+      "id_kec": "91.06.08"
     },
     {
       "id": "91.06.09.2003",
-      "name": "Marur"
+      "nama": "Marur",
+      "id_kec": "91.06.09"
     },
     {
       "id": "91.06.09.2004",
-      "name": "Diano"
+      "nama": "Diano",
+      "id_kec": "91.06.09"
     },
     {
       "id": "91.06.09.2005",
-      "name": "Sawai (Saway)"
+      "nama": "Sawai (Saway)",
+      "id_kec": "91.06.09"
     },
     {
       "id": "91.06.09.2006",
-      "name": "Aman"
+      "nama": "Aman",
+      "id_kec": "91.06.09"
     },
     {
       "id": "91.06.09.2007",
-      "name": "Yeruboi (Yeruboy)"
+      "nama": "Yeruboi (Yeruboy)",
+      "id_kec": "91.06.09"
     },
     {
       "id": "91.06.09.2008",
-      "name": "Amoi (Ammoy)"
+      "nama": "Amoi (Ammoy)",
+      "id_kec": "91.06.09"
     },
     {
       "id": "91.06.09.2009",
-      "name": "Inswambesi (Inswanbesi)"
+      "nama": "Inswambesi (Inswanbesi)",
+      "id_kec": "91.06.09"
     },
     {
       "id": "91.06.09.2010",
-      "name": "Koyomi"
+      "nama": "Koyomi",
+      "id_kec": "91.06.09"
     },
     {
       "id": "91.06.09.2011",
-      "name": "Wasani"
+      "nama": "Wasani",
+      "id_kec": "91.06.09"
     },
     {
       "id": "91.06.09.2017",
-      "name": "Karuiberik"
+      "nama": "Karuiberik",
+      "id_kec": "91.06.09"
     },
     {
       "id": "91.06.09.2018",
-      "name": "Komboi (Komboy)"
+      "nama": "Komboi (Komboy)",
+      "id_kec": "91.06.09"
     },
     {
       "id": "91.06.09.2020",
-      "name": "Inswambesi Sup (Inswanbesi Sup)"
+      "nama": "Inswambesi Sup (Inswanbesi Sup)",
+      "id_kec": "91.06.09"
     },
     {
       "id": "91.06.09.2021",
-      "name": "Inyobi"
+      "nama": "Inyobi",
+      "id_kec": "91.06.09"
     },
     {
       "id": "91.06.09.2023",
-      "name": "Maniri"
+      "nama": "Maniri",
+      "id_kec": "91.06.09"
     },
     {
       "id": "91.06.09.2024",
-      "name": "Imbari"
+      "nama": "Imbari",
+      "id_kec": "91.06.09"
     },
     {
       "id": "91.06.09.2025",
-      "name": "Manbeori"
+      "nama": "Manbeori",
+      "id_kec": "91.06.09"
     },
     {
       "id": "91.06.09.2026",
-      "name": "Warawaf"
+      "nama": "Warawaf",
+      "id_kec": "91.06.09"
     },
     {
       "id": "91.06.09.2027",
-      "name": "Wir Insos"
+      "nama": "Wir Insos",
+      "id_kec": "91.06.09"
     },
     {
       "id": "91.06.09.2028",
-      "name": "Biawer"
+      "nama": "Biawer",
+      "id_kec": "91.06.09"
     },
     {
       "id": "91.06.09.2029",
-      "name": "Mamfias"
+      "nama": "Mamfias",
+      "id_kec": "91.06.09"
     },
     {
       "id": "91.06.10.2001",
-      "name": "Pai"
+      "nama": "Pai",
+      "id_kec": "91.06.10"
     },
     {
       "id": "91.06.10.2002",
-      "name": "Auki"
+      "nama": "Auki",
+      "id_kec": "91.06.10"
     },
     {
       "id": "91.06.10.2003",
-      "name": "Wundi"
+      "nama": "Wundi",
+      "id_kec": "91.06.10"
     },
     {
       "id": "91.06.10.2004",
-      "name": "Nusi Babaruk"
+      "nama": "Nusi Babaruk",
+      "id_kec": "91.06.10"
     },
     {
       "id": "91.06.10.2005",
-      "name": "Nusi"
+      "nama": "Nusi",
+      "id_kec": "91.06.10"
     },
     {
       "id": "91.06.10.2014",
-      "name": "Inyebomi (Inbeyomi)"
+      "nama": "Inyebomi (Inbeyomi)",
+      "id_kec": "91.06.10"
     },
     {
       "id": "91.06.10.2015",
-      "name": "Sorina"
+      "nama": "Sorina",
+      "id_kec": "91.06.10"
     },
     {
       "id": "91.06.10.2016",
-      "name": "Sandidori (Sandedori)"
+      "nama": "Sandidori (Sandedori)",
+      "id_kec": "91.06.10"
     },
     {
       "id": "91.06.10.2020",
-      "name": "Paidori"
+      "nama": "Paidori",
+      "id_kec": "91.06.10"
     },
     {
       "id": "91.06.10.2021",
-      "name": "Kanai"
+      "nama": "Kanai",
+      "id_kec": "91.06.10"
     },
     {
       "id": "91.06.10.2022",
-      "name": "Sokani"
+      "nama": "Sokani",
+      "id_kec": "91.06.10"
     },
     {
       "id": "91.06.11.2001",
-      "name": "Yendidori"
+      "nama": "Yendidori",
+      "id_kec": "91.06.11"
     },
     {
       "id": "91.06.11.2002",
-      "name": "Adoki"
+      "nama": "Adoki",
+      "id_kec": "91.06.11"
     },
     {
       "id": "91.06.11.2003",
-      "name": "Urfu"
+      "nama": "Urfu",
+      "id_kec": "91.06.11"
     },
     {
       "id": "91.06.11.2004",
-      "name": "Samber"
+      "nama": "Samber",
+      "id_kec": "91.06.11"
     },
     {
       "id": "91.06.11.2005",
-      "name": "Kabidon"
+      "nama": "Kabidon",
+      "id_kec": "91.06.11"
     },
     {
       "id": "91.06.11.2006",
-      "name": "Sunyar"
+      "nama": "Sunyar",
+      "id_kec": "91.06.11"
     },
     {
       "id": "91.06.11.2007",
-      "name": "Maibaken"
+      "nama": "Maibaken",
+      "id_kec": "91.06.11"
     },
     {
       "id": "91.06.11.2008",
-      "name": "Wirmaker"
+      "nama": "Wirmaker",
+      "id_kec": "91.06.11"
     },
     {
       "id": "91.06.11.2009",
-      "name": "Syabes"
+      "nama": "Syabes",
+      "id_kec": "91.06.11"
     },
     {
       "id": "91.06.11.2010",
-      "name": "Samber Sup"
+      "nama": "Samber Sup",
+      "id_kec": "91.06.11"
     },
     {
       "id": "91.06.11.2011",
-      "name": "Suneri"
+      "nama": "Suneri",
+      "id_kec": "91.06.11"
     },
     {
       "id": "91.06.11.2012",
-      "name": "Rarnpimbo"
+      "nama": "Rarnpimbo",
+      "id_kec": "91.06.11"
     },
     {
       "id": "91.06.11.2013",
-      "name": "Padwa"
+      "nama": "Padwa",
+      "id_kec": "91.06.11"
     },
     {
       "id": "91.06.11.2014",
-      "name": "Waroi (Waroy)"
+      "nama": "Waroi (Waroy)",
+      "id_kec": "91.06.11"
     },
     {
       "id": "91.06.11.2015",
-      "name": "Inpendi"
+      "nama": "Inpendi",
+      "id_kec": "91.06.11"
     },
     {
       "id": "91.06.11.2016",
-      "name": "Amyabenram"
+      "nama": "Amyabenram",
+      "id_kec": "91.06.11"
     },
     {
       "id": "91.06.11.2017",
-      "name": "Birubi (Birub)"
+      "nama": "Birubi (Birub)",
+      "id_kec": "91.06.11"
     },
     {
       "id": "91.06.11.2018",
-      "name": "Binyeri"
+      "nama": "Binyeri",
+      "id_kec": "91.06.11"
     },
     {
       "id": "91.06.11.2019",
-      "name": "Padwa Pantai"
+      "nama": "Padwa Pantai",
+      "id_kec": "91.06.11"
     },
     {
       "id": "91.06.12.1001",
-      "name": "Samofa"
+      "nama": "Samofa",
+      "id_kec": "91.06.12"
     },
     {
       "id": "91.06.12.1002",
-      "name": "Brambaken"
+      "nama": "Brambaken",
+      "id_kec": "91.06.12"
     },
     {
       "id": "91.06.12.1010",
-      "name": "Karang Mulia"
+      "nama": "Karang Mulia",
+      "id_kec": "91.06.12"
     },
     {
       "id": "91.06.12.1011",
-      "name": "Yafdas"
+      "nama": "Yafdas",
+      "id_kec": "91.06.12"
     },
     {
       "id": "91.06.12.1012",
-      "name": "Mansinyas"
+      "nama": "Mansinyas",
+      "id_kec": "91.06.12"
     },
     {
       "id": "91.06.12.1013",
-      "name": "Snerbo"
+      "nama": "Snerbo",
+      "id_kec": "91.06.12"
     },
     {
       "id": "91.06.12.1014",
-      "name": "Anjarew"
+      "nama": "Anjarew",
+      "id_kec": "91.06.12"
     },
     {
       "id": "91.06.12.2003",
-      "name": "Mandouw"
+      "nama": "Mandouw",
+      "id_kec": "91.06.12"
     },
     {
       "id": "91.06.12.2004",
-      "name": "Sumberker"
+      "nama": "Sumberker",
+      "id_kec": "91.06.12"
     },
     {
       "id": "91.06.12.2006",
-      "name": "Maryendi"
+      "nama": "Maryendi",
+      "id_kec": "91.06.12"
     },
     {
       "id": "91.06.12.2007",
-      "name": "Sambawofuar"
+      "nama": "Sambawofuar",
+      "id_kec": "91.06.12"
     },
     {
       "id": "91.06.12.2008",
-      "name": "Adainasnosen"
+      "nama": "Adainasnosen",
+      "id_kec": "91.06.12"
     },
     {
       "id": "91.06.12.2009",
-      "name": "Darmopis"
+      "nama": "Darmopis",
+      "id_kec": "91.06.12"
     },
     {
       "id": "91.06.12.2015",
-      "name": "Kamorfuar"
+      "nama": "Kamorfuar",
+      "id_kec": "91.06.12"
     },
     {
       "id": "91.06.12.2016",
-      "name": "Anjereuw"
+      "nama": "Anjereuw",
+      "id_kec": "91.06.12"
     },
     {
       "id": "91.06.12.2017",
-      "name": "Wisata Binsari"
+      "nama": "Wisata Binsari",
+      "id_kec": "91.06.12"
     },
     {
       "id": "91.06.12.2018",
-      "name": "Kinmom"
+      "nama": "Kinmom",
+      "id_kec": "91.06.12"
     },
     {
       "id": "91.06.13.2001",
-      "name": "Asur"
+      "nama": "Asur",
+      "id_kec": "91.06.13"
     },
     {
       "id": "91.06.13.2002",
-      "name": "Bosnabraidi"
+      "nama": "Bosnabraidi",
+      "id_kec": "91.06.13"
     },
     {
       "id": "91.06.13.2003",
-      "name": "Wasori"
+      "nama": "Wasori",
+      "id_kec": "91.06.13"
     },
     {
       "id": "91.06.13.2004",
-      "name": "Syor (Soor / Sor)"
+      "nama": "Syor (Soor / Sor)",
+      "id_kec": "91.06.13"
     },
     {
       "id": "91.06.13.2005",
-      "name": "Karmon"
+      "nama": "Karmon",
+      "id_kec": "91.06.13"
     },
     {
       "id": "91.06.13.2006",
-      "name": "Yawosi (Fanindi)"
+      "nama": "Yawosi (Fanindi)",
+      "id_kec": "91.06.13"
     },
     {
       "id": "91.06.13.2007",
-      "name": "Madirai"
+      "nama": "Madirai",
+      "id_kec": "91.06.13"
     },
     {
       "id": "91.06.13.2008",
-      "name": "Indawi"
+      "nama": "Indawi",
+      "id_kec": "91.06.13"
     },
     {
       "id": "91.06.14.2001",
-      "name": "Rumbin"
+      "nama": "Rumbin",
+      "id_kec": "91.06.14"
     },
     {
       "id": "91.06.14.2002",
-      "name": "Warbinsi"
+      "nama": "Warbinsi",
+      "id_kec": "91.06.14"
     },
     {
       "id": "91.06.14.2003",
-      "name": "Rodifu"
+      "nama": "Rodifu",
+      "id_kec": "91.06.14"
     },
     {
       "id": "91.06.14.2004",
-      "name": "Wonabraidi"
+      "nama": "Wonabraidi",
+      "id_kec": "91.06.14"
     },
     {
       "id": "91.06.14.2005",
-      "name": "Wouna"
+      "nama": "Wouna",
+      "id_kec": "91.06.14"
     },
     {
       "id": "91.06.14.2007",
-      "name": "Mamorbo"
+      "nama": "Mamorbo",
+      "id_kec": "91.06.14"
     },
     {
       "id": "91.06.14.2008",
-      "name": "Faknikdi"
+      "nama": "Faknikdi",
+      "id_kec": "91.06.14"
     },
     {
       "id": "91.06.14.2009",
-      "name": "Armnu"
+      "nama": "Armnu",
+      "id_kec": "91.06.14"
     },
     {
       "id": "91.06.14.2010",
-      "name": "Sup Mbrur"
+      "nama": "Sup Mbrur",
+      "id_kec": "91.06.14"
     },
     {
       "id": "91.06.14.2011",
-      "name": "Wodu"
+      "nama": "Wodu",
+      "id_kec": "91.06.14"
     },
     {
       "id": "91.06.14.2012",
-      "name": "Dasdo"
+      "nama": "Dasdo",
+      "id_kec": "91.06.14"
     },
     {
       "id": "91.06.15.2001",
-      "name": "Farusi"
+      "nama": "Farusi",
+      "id_kec": "91.06.15"
     },
     {
       "id": "91.06.15.2002",
-      "name": "Mendenderi (Mandenderi)"
+      "nama": "Mendenderi (Mandenderi)",
+      "id_kec": "91.06.15"
     },
     {
       "id": "91.06.15.2003",
-      "name": "Swainober"
+      "nama": "Swainober",
+      "id_kec": "91.06.15"
     },
     {
       "id": "91.06.15.2004",
-      "name": "Mardori"
+      "nama": "Mardori",
+      "id_kec": "91.06.15"
     },
     {
       "id": "91.06.15.2005",
-      "name": "Swaipak"
+      "nama": "Swaipak",
+      "id_kec": "91.06.15"
     },
     {
       "id": "91.06.15.2006",
-      "name": "Yenbepioper (Yembepioper)"
+      "nama": "Yenbepioper (Yembepioper)",
+      "id_kec": "91.06.15"
     },
     {
       "id": "91.06.15.2007",
-      "name": "Sarwa"
+      "nama": "Sarwa",
+      "id_kec": "91.06.15"
     },
     {
       "id": "91.06.15.2008",
-      "name": "Napdori"
+      "nama": "Napdori",
+      "id_kec": "91.06.15"
     },
     {
       "id": "91.06.15.2009",
-      "name": "Ramdori"
+      "nama": "Ramdori",
+      "id_kec": "91.06.15"
     },
     {
       "id": "91.06.15.2010",
-      "name": "Busdori"
+      "nama": "Busdori",
+      "id_kec": "91.06.15"
     },
     {
       "id": "91.06.15.2011",
-      "name": "Wombrisau (Wombrisauw)"
+      "nama": "Wombrisau (Wombrisauw)",
+      "id_kec": "91.06.15"
     },
     {
       "id": "91.06.15.2012",
-      "name": "Orkdori"
+      "nama": "Orkdori",
+      "id_kec": "91.06.15"
     },
     {
       "id": "91.06.15.2013",
-      "name": "Saswarbo"
+      "nama": "Saswarbo",
+      "id_kec": "91.06.15"
     },
     {
       "id": "91.06.15.2014",
-      "name": "Andoina"
+      "nama": "Andoina",
+      "id_kec": "91.06.15"
     },
     {
       "id": "91.06.15.2015",
-      "name": "Insusbari"
+      "nama": "Insusbari",
+      "id_kec": "91.06.15"
     },
     {
       "id": "91.06.16.2001",
-      "name": "Sandou (Sandau)"
+      "nama": "Sandou (Sandau)",
+      "id_kec": "91.06.16"
     },
     {
       "id": "91.06.16.2002",
-      "name": "Bruyadori"
+      "nama": "Bruyadori",
+      "id_kec": "91.06.16"
     },
     {
       "id": "91.06.16.2003",
-      "name": "Dafi"
+      "nama": "Dafi",
+      "id_kec": "91.06.16"
     },
     {
       "id": "91.06.16.2004",
-      "name": "Amberparem (Amperem)"
+      "nama": "Amberparem (Amperem)",
+      "id_kec": "91.06.16"
     },
     {
       "id": "91.06.16.2005",
-      "name": "Mandori"
+      "nama": "Mandori",
+      "id_kec": "91.06.16"
     },
     {
       "id": "91.06.16.2006",
-      "name": "Duai"
+      "nama": "Duai",
+      "id_kec": "91.06.16"
     },
     {
       "id": "91.06.16.2007",
-      "name": "Mandori Sup"
+      "nama": "Mandori Sup",
+      "id_kec": "91.06.16"
     },
     {
       "id": "91.06.16.2008",
-      "name": "Kamumi"
+      "nama": "Kamumi",
+      "id_kec": "91.06.16"
     },
     {
       "id": "91.06.16.2009",
-      "name": "Arimi Jaya"
+      "nama": "Arimi Jaya",
+      "id_kec": "91.06.16"
     },
     {
       "id": "91.06.16.2010",
-      "name": "Warbukor"
+      "nama": "Warbukor",
+      "id_kec": "91.06.16"
     },
     {
       "id": "91.06.17.2001",
-      "name": "Yenbeba"
+      "nama": "Yenbeba",
+      "id_kec": "91.06.17"
     },
     {
       "id": "91.06.17.2002",
-      "name": "Yenbebon (Yenbepon)"
+      "nama": "Yenbebon (Yenbepon)",
+      "id_kec": "91.06.17"
     },
     {
       "id": "91.06.17.2003",
-      "name": "Saribi"
+      "nama": "Saribi",
+      "id_kec": "91.06.17"
     },
     {
       "id": "91.06.17.2004",
-      "name": "Sub Mander (Supmander)"
+      "nama": "Sub Mander (Supmander)",
+      "id_kec": "91.06.17"
     },
     {
       "id": "91.06.17.2005",
-      "name": "Rawar"
+      "nama": "Rawar",
+      "id_kec": "91.06.17"
     },
     {
       "id": "91.06.17.2006",
-      "name": "Pakreki"
+      "nama": "Pakreki",
+      "id_kec": "91.06.17"
     },
     {
       "id": "91.06.17.2007",
-      "name": "Masyarah (Masyara)"
+      "nama": "Masyarah (Masyara)",
+      "id_kec": "91.06.17"
     },
     {
       "id": "91.06.17.2008",
-      "name": "Wansra"
+      "nama": "Wansra",
+      "id_kec": "91.06.17"
     },
     {
       "id": "91.06.17.2009",
-      "name": "Manwor Indah"
+      "nama": "Manwor Indah",
+      "id_kec": "91.06.17"
     },
     {
       "id": "91.06.18.2001",
-      "name": "Andei"
+      "nama": "Andei",
+      "id_kec": "91.06.18"
     },
     {
       "id": "91.06.18.2002",
-      "name": "Syoribu (Syoribo)"
+      "nama": "Syoribu (Syoribo)",
+      "id_kec": "91.06.18"
     },
     {
       "id": "91.06.18.2003",
-      "name": "Saunbri (Sauribru)"
+      "nama": "Saunbri (Sauribru)",
+      "id_kec": "91.06.18"
     },
     {
       "id": "91.06.18.2004",
-      "name": "Manggari"
+      "nama": "Manggari",
+      "id_kec": "91.06.18"
     },
     {
       "id": "91.06.18.2005",
-      "name": "Bawei"
+      "nama": "Bawei",
+      "id_kec": "91.06.18"
     },
     {
       "id": "91.06.18.2006",
-      "name": "Sauri"
+      "nama": "Sauri",
+      "id_kec": "91.06.18"
     },
     {
       "id": "91.06.18.2007",
-      "name": "Andei Sup"
+      "nama": "Andei Sup",
+      "id_kec": "91.06.18"
     },
     {
       "id": "91.06.18.2008",
-      "name": "Serdori"
+      "nama": "Serdori",
+      "id_kec": "91.06.18"
     },
     {
       "id": "91.06.18.2009",
-      "name": "Koryakam"
+      "nama": "Koryakam",
+      "id_kec": "91.06.18"
     },
     {
       "id": "91.06.19.2001",
-      "name": "Mios Mangguandi"
+      "nama": "Mios Mangguandi",
+      "id_kec": "91.06.19"
     },
     {
       "id": "91.06.19.2002",
-      "name": "Supraima"
+      "nama": "Supraima",
+      "id_kec": "91.06.19"
     },
     {
       "id": "91.06.19.2003",
-      "name": "Samber Pasi"
+      "nama": "Samber Pasi",
+      "id_kec": "91.06.19"
     },
     {
       "id": "91.06.19.2004",
-      "name": "Pasi"
+      "nama": "Pasi",
+      "id_kec": "91.06.19"
     },
     {
       "id": "91.06.19.2005",
-      "name": "Mbromsi"
+      "nama": "Mbromsi",
+      "id_kec": "91.06.19"
     },
     {
       "id": "91.06.19.2006",
-      "name": "Karabai"
+      "nama": "Karabai",
+      "id_kec": "91.06.19"
     },
     {
       "id": "91.06.19.2007",
-      "name": "Saribra"
+      "nama": "Saribra",
+      "id_kec": "91.06.19"
     },
     {
       "id": "91.06.19.2008",
-      "name": "Nyansoren"
+      "nama": "Nyansoren",
+      "id_kec": "91.06.19"
     },
     {
       "id": "91.06.19.2009",
-      "name": "Sasarari (Sasari)"
+      "nama": "Sasarari (Sasari)",
+      "id_kec": "91.06.19"
     },
     {
       "id": "91.06.19.2010",
-      "name": "Padaido"
+      "nama": "Padaido",
+      "id_kec": "91.06.19"
     },
     {
       "id": "91.06.19.2011",
-      "name": "Yeri"
+      "nama": "Yeri",
+      "id_kec": "91.06.19"
     },
     {
       "id": "91.06.19.2012",
-      "name": "Anobo"
+      "nama": "Anobo",
+      "id_kec": "91.06.19"
     },
     {
       "id": "91.06.19.2013",
-      "name": "Yen Manaina"
+      "nama": "Yen Manaina",
+      "id_kec": "91.06.19"
     },
     {
       "id": "91.06.20.2001",
-      "name": "Opiaref"
+      "nama": "Opiaref",
+      "id_kec": "91.06.20"
     },
     {
       "id": "91.06.20.2002",
-      "name": "Bakribo"
+      "nama": "Bakribo",
+      "id_kec": "91.06.20"
     },
     {
       "id": "91.06.20.2003",
-      "name": "Sawa"
+      "nama": "Sawa",
+      "id_kec": "91.06.20"
     },
     {
       "id": "91.06.20.2004",
-      "name": "Marauw (Marao)"
+      "nama": "Marauw (Marao)",
+      "id_kec": "91.06.20"
     },
     {
       "id": "91.06.20.2005",
-      "name": "Wadibu"
+      "nama": "Wadibu",
+      "id_kec": "91.06.20"
     },
     {
       "id": "91.06.20.2006",
-      "name": "Anggopi"
+      "nama": "Anggopi",
+      "id_kec": "91.06.20"
     },
     {
       "id": "91.06.20.2007",
-      "name": "Anggaduber"
+      "nama": "Anggaduber",
+      "id_kec": "91.06.20"
     },
     {
       "id": "91.06.20.2008",
-      "name": "Animi"
+      "nama": "Animi",
+      "id_kec": "91.06.20"
     },
     {
       "id": "91.06.20.2009",
-      "name": "Kakur"
+      "nama": "Kakur",
+      "id_kec": "91.06.20"
     },
     {
       "id": "91.06.20.2010",
-      "name": "Tanjung Barari"
+      "nama": "Tanjung Barari",
+      "id_kec": "91.06.20"
     },
     {
       "id": "91.06.20.2011",
-      "name": "Sawadori"
+      "nama": "Sawadori",
+      "id_kec": "91.06.20"
     },
     {
       "id": "91.06.20.2012",
-      "name": "Sauri"
+      "nama": "Sauri",
+      "id_kec": "91.06.20"
     },
     {
       "id": "91.06.20.2013",
-      "name": "Makmakerbo"
+      "nama": "Makmakerbo",
+      "id_kec": "91.06.20"
     },
     {
       "id": "91.06.20.2014",
-      "name": "Yensama"
+      "nama": "Yensama",
+      "id_kec": "91.06.20"
     },
     {
       "id": "91.06.21.2001",
-      "name": "Wopes"
+      "nama": "Wopes",
+      "id_kec": "91.06.21"
     },
     {
       "id": "91.06.21.2002",
-      "name": "Wandos"
+      "nama": "Wandos",
+      "id_kec": "91.06.21"
     },
     {
       "id": "91.06.21.2003",
-      "name": "Doubo"
+      "nama": "Doubo",
+      "id_kec": "91.06.21"
     },
     {
       "id": "91.06.21.2004",
-      "name": "Syurdori"
+      "nama": "Syurdori",
+      "id_kec": "91.06.21"
     },
     {
       "id": "91.06.21.2005",
-      "name": "Sansundi"
+      "nama": "Sansundi",
+      "id_kec": "91.06.21"
     },
     {
       "id": "91.10.01.1001",
-      "name": "Mararena"
+      "nama": "Mararena",
+      "id_kec": "91.10.01"
     },
     {
       "id": "91.10.01.1002",
-      "name": "Sarmi Kota (Sarmi)"
+      "nama": "Sarmi Kota (Sarmi)",
+      "id_kec": "91.10.01"
     },
     {
       "id": "91.10.01.2003",
-      "name": "Sarmo"
+      "nama": "Sarmo",
+      "id_kec": "91.10.01"
     },
     {
       "id": "91.10.01.2004",
-      "name": "Liki"
+      "nama": "Liki",
+      "id_kec": "91.10.01"
     },
     {
       "id": "91.10.01.2006",
-      "name": "Sawar"
+      "nama": "Sawar",
+      "id_kec": "91.10.01"
     },
     {
       "id": "91.10.01.2007",
-      "name": "Bagaiserwar"
+      "nama": "Bagaiserwar",
+      "id_kec": "91.10.01"
     },
     {
       "id": "91.10.01.2014",
-      "name": "Armo"
+      "nama": "Armo",
+      "id_kec": "91.10.01"
     },
     {
       "id": "91.10.01.2018",
-      "name": "Bagaisewar II"
+      "nama": "Bagaisewar II",
+      "id_kec": "91.10.01"
     },
     {
       "id": "91.10.01.2019",
-      "name": "Pulau Armo"
+      "nama": "Pulau Armo",
+      "id_kec": "91.10.01"
     },
     {
       "id": "91.10.01.2020",
-      "name": "Lembah Neidam"
+      "nama": "Lembah Neidam",
+      "id_kec": "91.10.01"
     },
     {
       "id": "91.10.01.2021",
-      "name": "Tefarewar"
+      "nama": "Tefarewar",
+      "id_kec": "91.10.01"
     },
     {
       "id": "91.10.02.2001",
-      "name": "Bota-Bora"
+      "nama": "Bota-Bora",
+      "id_kec": "91.10.02"
     },
     {
       "id": "91.10.02.2002",
-      "name": "Toganto"
+      "nama": "Toganto",
+      "id_kec": "91.10.02"
     },
     {
       "id": "91.10.02.2003",
-      "name": "Samanente"
+      "nama": "Samanente",
+      "id_kec": "91.10.02"
     },
     {
       "id": "91.10.02.2004",
-      "name": "Kanderjan"
+      "nama": "Kanderjan",
+      "id_kec": "91.10.02"
     },
     {
       "id": "91.10.02.2005",
-      "name": "Omte"
+      "nama": "Omte",
+      "id_kec": "91.10.02"
     },
     {
       "id": "91.10.02.2006",
-      "name": "Safrom Tane"
+      "nama": "Safrom Tane",
+      "id_kec": "91.10.02"
     },
     {
       "id": "91.10.02.2007",
-      "name": "Denender"
+      "nama": "Denender",
+      "id_kec": "91.10.02"
     },
     {
       "id": "91.10.02.2009",
-      "name": "Safron Tane"
+      "nama": "Safron Tane",
+      "id_kec": "91.10.02"
     },
     {
       "id": "91.10.02.2010",
-      "name": "Denander"
+      "nama": "Denander",
+      "id_kec": "91.10.02"
     },
     {
       "id": "91.10.02.2011",
-      "name": "Waaf"
+      "nama": "Waaf",
+      "id_kec": "91.10.02"
     },
     {
       "id": "91.10.03.2005",
-      "name": "Mertewar (Martewar)"
+      "nama": "Mertewar (Martewar)",
+      "id_kec": "91.10.03"
     },
     {
       "id": "91.10.03.2006",
-      "name": "Samorkena"
+      "nama": "Samorkena",
+      "id_kec": "91.10.03"
     },
     {
       "id": "91.10.03.2007",
-      "name": "Arbais"
+      "nama": "Arbais",
+      "id_kec": "91.10.03"
     },
     {
       "id": "91.10.03.2008",
-      "name": "Kapeso"
+      "nama": "Kapeso",
+      "id_kec": "91.10.03"
     },
     {
       "id": "91.10.03.2009",
-      "name": "Masep"
+      "nama": "Masep",
+      "id_kec": "91.10.03"
     },
     {
       "id": "91.10.03.2012",
-      "name": "Nisro"
+      "nama": "Nisro",
+      "id_kec": "91.10.03"
     },
     {
       "id": "91.10.03.2013",
-      "name": "Aruswar"
+      "nama": "Aruswar",
+      "id_kec": "91.10.03"
     },
     {
       "id": "91.10.03.2014",
-      "name": "Kamenawari"
+      "nama": "Kamenawari",
+      "id_kec": "91.10.03"
     },
     {
       "id": "91.10.03.2015",
-      "name": "Waim"
+      "nama": "Waim",
+      "id_kec": "91.10.03"
     },
     {
       "id": "91.10.03.2016",
-      "name": "Subu"
+      "nama": "Subu",
+      "id_kec": "91.10.03"
     },
     {
       "id": "91.10.03.2017",
-      "name": "Karfasia"
+      "nama": "Karfasia",
+      "id_kec": "91.10.03"
     },
     {
       "id": "91.10.03.2023",
-      "name": "Burgena"
+      "nama": "Burgena",
+      "id_kec": "91.10.03"
     },
     {
       "id": "91.10.03.2024",
-      "name": "Webro"
+      "nama": "Webro",
+      "id_kec": "91.10.03"
     },
     {
       "id": "91.10.03.2025",
-      "name": "Siantoa"
+      "nama": "Siantoa",
+      "id_kec": "91.10.03"
     },
     {
       "id": "91.10.03.2026",
-      "name": "Niwerawar"
+      "nama": "Niwerawar",
+      "id_kec": "91.10.03"
     },
     {
       "id": "91.10.03.2027",
-      "name": "Wari"
+      "nama": "Wari",
+      "id_kec": "91.10.03"
     },
     {
       "id": "91.10.04.2001",
-      "name": "Ansudu (Ansubi)"
+      "nama": "Ansudu (Ansubi)",
+      "id_kec": "91.10.04"
     },
     {
       "id": "91.10.04.2002",
-      "name": "Betaf"
+      "nama": "Betaf",
+      "id_kec": "91.10.04"
     },
     {
       "id": "91.10.04.2003",
-      "name": "Yamben (Jamber/Beneraf)"
+      "nama": "Yamben (Jamber/Beneraf)",
+      "id_kec": "91.10.04"
     },
     {
       "id": "91.10.04.2010",
-      "name": "Sunum (Yamna)"
+      "nama": "Sunum (Yamna)",
+      "id_kec": "91.10.04"
     },
     {
       "id": "91.10.04.2011",
-      "name": "Komra"
+      "nama": "Komra",
+      "id_kec": "91.10.04"
     },
     {
       "id": "91.10.04.2013",
-      "name": "Betaf Dua (Betaf II / Tamnir)"
+      "nama": "Betaf Dua (Betaf II / Tamnir)",
+      "id_kec": "91.10.04"
     },
     {
       "id": "91.10.04.2014",
-      "name": "Ansudu Dua (Ansudu II / Srem)"
+      "nama": "Ansudu Dua (Ansudu II / Srem)",
+      "id_kec": "91.10.04"
     },
     {
       "id": "91.10.05.2004",
-      "name": "Armopa"
+      "nama": "Armopa",
+      "id_kec": "91.10.05"
     },
     {
       "id": "91.10.05.2005",
-      "name": "Tarontha Srum (Taronta Srum)"
+      "nama": "Tarontha Srum (Taronta Srum)",
+      "id_kec": "91.10.05"
     },
     {
       "id": "91.10.05.2006",
-      "name": "Anus"
+      "nama": "Anus",
+      "id_kec": "91.10.05"
     },
     {
       "id": "91.10.05.2007",
-      "name": "Kiren"
+      "nama": "Kiren",
+      "id_kec": "91.10.05"
     },
     {
       "id": "91.10.05.2008",
-      "name": "Maweswares (Mawesres)"
+      "nama": "Maweswares (Mawesres)",
+      "id_kec": "91.10.05"
     },
     {
       "id": "91.10.05.2010",
-      "name": "Bebon Jaya"
+      "nama": "Bebon Jaya",
+      "id_kec": "91.10.05"
     },
     {
       "id": "91.10.05.2011",
-      "name": "Tetom"
+      "nama": "Tetom",
+      "id_kec": "91.10.05"
     },
     {
       "id": "91.10.05.2015",
-      "name": "Rimsersari (Rimser Sari)"
+      "nama": "Rimsersari (Rimser Sari)",
+      "id_kec": "91.10.05"
     },
     {
       "id": "91.10.05.2017",
-      "name": "Krim Podena"
+      "nama": "Krim Podena",
+      "id_kec": "91.10.05"
     },
     {
       "id": "91.10.05.2018",
-      "name": "Rotea"
+      "nama": "Rotea",
+      "id_kec": "91.10.05"
     },
     {
       "id": "91.10.09.2001",
-      "name": "Wamariri"
+      "nama": "Wamariri",
+      "id_kec": "91.10.09"
     },
     {
       "id": "91.10.09.2002",
-      "name": "Aurimi"
+      "nama": "Aurimi",
+      "id_kec": "91.10.09"
     },
     {
       "id": "91.10.09.2003",
-      "name": "Tamaja (Tamaya)"
+      "nama": "Tamaja (Tamaya)",
+      "id_kec": "91.10.09"
     },
     {
       "id": "91.10.09.2004",
-      "name": "Airoran"
+      "nama": "Airoran",
+      "id_kec": "91.10.09"
     },
     {
       "id": "91.10.09.2005",
-      "name": "Murara"
+      "nama": "Murara",
+      "id_kec": "91.10.09"
     },
     {
       "id": "91.10.09.2006",
-      "name": "Sasawapece"
+      "nama": "Sasawapece",
+      "id_kec": "91.10.09"
     },
     {
       "id": "91.10.09.2011",
-      "name": "Maniwa"
+      "nama": "Maniwa",
+      "id_kec": "91.10.09"
     },
     {
       "id": "91.10.09.2012",
-      "name": "Surimania (Syurimania)"
+      "nama": "Surimania (Syurimania)",
+      "id_kec": "91.10.09"
     },
     {
       "id": "91.10.09.2013",
-      "name": "Kwawitania"
+      "nama": "Kwawitania",
+      "id_kec": "91.10.09"
     },
     {
       "id": "91.10.09.2014",
-      "name": "Bina"
+      "nama": "Bina",
+      "id_kec": "91.10.09"
     },
     {
       "id": "91.10.12.2001",
-      "name": "Amsira"
+      "nama": "Amsira",
+      "id_kec": "91.10.12"
     },
     {
       "id": "91.10.12.2002",
-      "name": "Siaratesa"
+      "nama": "Siaratesa",
+      "id_kec": "91.10.12"
     },
     {
       "id": "91.10.12.2003",
-      "name": "Munukania (Manukania)"
+      "nama": "Munukania (Manukania)",
+      "id_kec": "91.10.12"
     },
     {
       "id": "91.10.12.2004",
-      "name": "Kasukwe"
+      "nama": "Kasukwe",
+      "id_kec": "91.10.12"
     },
     {
       "id": "91.10.12.2005",
-      "name": "Wapo"
+      "nama": "Wapo",
+      "id_kec": "91.10.12"
     },
     {
       "id": "91.10.12.2008",
-      "name": "Angkasa Dua"
+      "nama": "Angkasa Dua",
+      "id_kec": "91.10.12"
     },
     {
       "id": "91.10.13.2001",
-      "name": "Holmafen"
+      "nama": "Holmafen",
+      "id_kec": "91.10.13"
     },
     {
       "id": "91.10.13.2002",
-      "name": "Sewan"
+      "nama": "Sewan",
+      "id_kec": "91.10.13"
     },
     {
       "id": "91.10.13.2003",
-      "name": "Waskey / Tanjung Batu"
+      "nama": "Waskey / Tanjung Batu",
+      "id_kec": "91.10.13"
     },
     {
       "id": "91.10.13.2004",
-      "name": "Ebram"
+      "nama": "Ebram",
+      "id_kec": "91.10.13"
     },
     {
       "id": "91.10.13.2005",
-      "name": "Binyer"
+      "nama": "Binyer",
+      "id_kec": "91.10.13"
     },
     {
       "id": "91.10.13.2006",
-      "name": "Bagaiserwar Dua"
+      "nama": "Bagaiserwar Dua",
+      "id_kec": "91.10.13"
     },
     {
       "id": "91.10.13.2007",
-      "name": "Waskey"
+      "nama": "Waskey",
+      "id_kec": "91.10.13"
     },
     {
       "id": "91.10.13.2008",
-      "name": "Tanjung Batu"
+      "nama": "Tanjung Batu",
+      "id_kec": "91.10.13"
     },
     {
       "id": "91.10.14.2001",
-      "name": "Arare"
+      "nama": "Arare",
+      "id_kec": "91.10.14"
     },
     {
       "id": "91.10.14.2002",
-      "name": "Wakde"
+      "nama": "Wakde",
+      "id_kec": "91.10.14"
     },
     {
       "id": "91.10.14.2003",
-      "name": "Timron/Keder"
+      "nama": "Timron/Keder",
+      "id_kec": "91.10.14"
     },
     {
       "id": "91.10.14.2004",
-      "name": "Dabe"
+      "nama": "Dabe",
+      "id_kec": "91.10.14"
     },
     {
       "id": "91.10.14.2005",
-      "name": "Nengke"
+      "nama": "Nengke",
+      "id_kec": "91.10.14"
     },
     {
       "id": "91.10.14.2006",
-      "name": "Finyabor (Vinyabor)"
+      "nama": "Finyabor (Vinyabor)",
+      "id_kec": "91.10.14"
     },
     {
       "id": "91.10.14.2012",
-      "name": "Tambrawar (Tabrawar)"
+      "nama": "Tambrawar (Tabrawar)",
+      "id_kec": "91.10.14"
     },
     {
       "id": "91.10.14.2013",
-      "name": "Keder Lama"
+      "nama": "Keder Lama",
+      "id_kec": "91.10.14"
     },
     {
       "id": "91.10.14.2014",
-      "name": "Finyabor Dua"
+      "nama": "Finyabor Dua",
+      "id_kec": "91.10.14"
     },
     {
       "id": "91.10.14.2015",
-      "name": "Dabe Dua (Dabe II)"
+      "nama": "Dabe Dua (Dabe II)",
+      "id_kec": "91.10.14"
     },
     {
       "id": "91.10.14.2016",
-      "name": "Nengke Dua (Nengke II / Nengke Baru)"
+      "nama": "Nengke Dua (Nengke II / Nengke Baru)",
+      "id_kec": "91.10.14"
     },
     {
       "id": "91.10.15.2001",
-      "name": "Gwinjaya (Gwin Jaya)"
+      "nama": "Gwinjaya (Gwin Jaya)",
+      "id_kec": "91.10.15"
     },
     {
       "id": "91.10.15.2002",
-      "name": "Tamar Sari (Tamas Sari)"
+      "nama": "Tamar Sari (Tamas Sari)",
+      "id_kec": "91.10.15"
     },
     {
       "id": "91.10.15.2003",
-      "name": "Mawes Mukti"
+      "nama": "Mawes Mukti",
+      "id_kec": "91.10.15"
     },
     {
       "id": "91.10.15.2004",
-      "name": "Mawesday"
+      "nama": "Mawesday",
+      "id_kec": "91.10.15"
     },
     {
       "id": "91.10.15.2005",
-      "name": "Kapitiau (Kaptiau)"
+      "nama": "Kapitiau (Kaptiau)",
+      "id_kec": "91.10.15"
     },
     {
       "id": "91.11.01.2001",
-      "name": "Banda"
+      "nama": "Banda",
+      "id_kec": "91.11.01"
     },
     {
       "id": "91.11.01.2002",
-      "name": "Pund"
+      "nama": "Pund",
+      "id_kec": "91.11.01"
     },
     {
       "id": "91.11.01.2003",
-      "name": "Kalifam"
+      "nama": "Kalifam",
+      "id_kec": "91.11.01"
     },
     {
       "id": "91.11.01.2004",
-      "name": "Yuwainda"
+      "nama": "Yuwainda",
+      "id_kec": "91.11.01"
     },
     {
       "id": "91.11.01.2005",
-      "name": "Kalimala"
+      "nama": "Kalimala",
+      "id_kec": "91.11.01"
     },
     {
       "id": "91.11.01.2006",
-      "name": "Ampas"
+      "nama": "Ampas",
+      "id_kec": "91.11.01"
     },
     {
       "id": "91.11.01.2007",
-      "name": "Bompai"
+      "nama": "Bompai",
+      "id_kec": "91.11.01"
     },
     {
       "id": "91.11.01.2008",
-      "name": "Sack"
+      "nama": "Sack",
+      "id_kec": "91.11.01"
     },
     {
       "id": "91.11.02.2001",
-      "name": "Arso Kota"
+      "nama": "Arso Kota",
+      "id_kec": "91.11.02"
     },
     {
       "id": "91.11.02.2002",
-      "name": "Workwana"
+      "nama": "Workwana",
+      "id_kec": "91.11.02"
     },
     {
       "id": "91.11.02.2003",
-      "name": "Kwimi"
+      "nama": "Kwimi",
+      "id_kec": "91.11.02"
     },
     {
       "id": "91.11.02.2004",
-      "name": "Ubiyau"
+      "nama": "Ubiyau",
+      "id_kec": "91.11.02"
     },
     {
       "id": "91.11.02.2006",
-      "name": "Sawanawa"
+      "nama": "Sawanawa",
+      "id_kec": "91.11.02"
     },
     {
       "id": "91.11.02.2009",
-      "name": "Yuwanain"
+      "nama": "Yuwanain",
+      "id_kec": "91.11.02"
     },
     {
       "id": "91.11.02.2010",
-      "name": "Yanamaa"
+      "nama": "Yanamaa",
+      "id_kec": "91.11.02"
     },
     {
       "id": "91.11.02.2011",
-      "name": "Asyaman"
+      "nama": "Asyaman",
+      "id_kec": "91.11.02"
     },
     {
       "id": "91.11.02.2012",
-      "name": "Yamta"
+      "nama": "Yamta",
+      "id_kec": "91.11.02"
     },
     {
       "id": "91.11.02.2016",
-      "name": "Bagia"
+      "nama": "Bagia",
+      "id_kec": "91.11.02"
     },
     {
       "id": "91.11.02.2030",
-      "name": "Sawabuun"
+      "nama": "Sawabuun",
+      "id_kec": "91.11.02"
     },
     {
       "id": "91.11.02.2031",
-      "name": "Bibiosi"
+      "nama": "Bibiosi",
+      "id_kec": "91.11.02"
     },
     {
       "id": "91.11.03.2001",
-      "name": "Molof"
+      "nama": "Molof",
+      "id_kec": "91.11.03"
     },
     {
       "id": "91.11.03.2002",
-      "name": "Senggi"
+      "nama": "Senggi",
+      "id_kec": "91.11.03"
     },
     {
       "id": "91.11.03.2003",
-      "name": "Warlef"
+      "nama": "Warlef",
+      "id_kec": "91.11.03"
     },
     {
       "id": "91.11.03.2005",
-      "name": "Usku"
+      "nama": "Usku",
+      "id_kec": "91.11.03"
     },
     {
       "id": "91.11.03.2006",
-      "name": "Woslay"
+      "nama": "Woslay",
+      "id_kec": "91.11.03"
     },
     {
       "id": "91.11.03.2010",
-      "name": "Namla"
+      "nama": "Namla",
+      "id_kec": "91.11.03"
     },
     {
       "id": "91.11.03.2011",
-      "name": "Waley"
+      "nama": "Waley",
+      "id_kec": "91.11.03"
     },
     {
       "id": "91.11.04.2001",
-      "name": "Dubu"
+      "nama": "Dubu",
+      "id_kec": "91.11.04"
     },
     {
       "id": "91.11.04.2002",
-      "name": "Umuraf (Umuaf)"
+      "nama": "Umuraf (Umuaf)",
+      "id_kec": "91.11.04"
     },
     {
       "id": "91.11.04.2003",
-      "name": "Semografi"
+      "nama": "Semografi",
+      "id_kec": "91.11.04"
     },
     {
       "id": "91.11.04.2005",
-      "name": "Embi"
+      "nama": "Embi",
+      "id_kec": "91.11.04"
     },
     {
       "id": "91.11.04.2015",
-      "name": "Yamraf Dua"
+      "nama": "Yamraf Dua",
+      "id_kec": "91.11.04"
     },
     {
       "id": "91.11.04.2017",
-      "name": "Tatakra"
+      "nama": "Tatakra",
+      "id_kec": "91.11.04"
     },
     {
       "id": "91.11.05.2001",
-      "name": "Skanto"
+      "nama": "Skanto",
+      "id_kec": "91.11.05"
     },
     {
       "id": "91.11.05.2002",
-      "name": "Jaifuri"
+      "nama": "Jaifuri",
+      "id_kec": "91.11.05"
     },
     {
       "id": "91.11.05.2003",
-      "name": "Arsopura"
+      "nama": "Arsopura",
+      "id_kec": "91.11.05"
     },
     {
       "id": "91.11.05.2004",
-      "name": "Wiantre"
+      "nama": "Wiantre",
+      "id_kec": "91.11.05"
     },
     {
       "id": "91.11.05.2005",
-      "name": "Naramben"
+      "nama": "Naramben",
+      "id_kec": "91.11.05"
     },
     {
       "id": "91.11.05.2006",
-      "name": "Intaimelyan"
+      "nama": "Intaimelyan",
+      "id_kec": "91.11.05"
     },
     {
       "id": "91.11.05.2007",
-      "name": "Traimelyan"
+      "nama": "Traimelyan",
+      "id_kec": "91.11.05"
     },
     {
       "id": "91.11.05.2008",
-      "name": "Wulukubun"
+      "nama": "Wulukubun",
+      "id_kec": "91.11.05"
     },
     {
       "id": "91.11.05.2009",
-      "name": "Gudang Garam"
+      "nama": "Gudang Garam",
+      "id_kec": "91.11.05"
     },
     {
       "id": "91.11.05.2010",
-      "name": "Saefen Empat Dua"
+      "nama": "Saefen Empat Dua",
+      "id_kec": "91.11.05"
     },
     {
       "id": "91.11.05.2011",
-      "name": "Walma"
+      "nama": "Walma",
+      "id_kec": "91.11.05"
     },
     {
       "id": "91.11.05.2012",
-      "name": "Alang-alang Raya"
+      "nama": "Alang-alang Raya",
+      "id_kec": "91.11.05"
     },
     {
       "id": "91.11.06.2005",
-      "name": "Yetti"
+      "nama": "Yetti",
+      "id_kec": "91.11.06"
     },
     {
       "id": "91.11.06.2006",
-      "name": "Kriku"
+      "nama": "Kriku",
+      "id_kec": "91.11.06"
     },
     {
       "id": "91.11.06.2007",
-      "name": "Skofro"
+      "nama": "Skofro",
+      "id_kec": "91.11.06"
     },
     {
       "id": "91.11.06.2008",
-      "name": "Kibay"
+      "nama": "Kibay",
+      "id_kec": "91.11.06"
     },
     {
       "id": "91.11.06.2009",
-      "name": "Sangke"
+      "nama": "Sangke",
+      "id_kec": "91.11.06"
     },
     {
       "id": "91.11.06.2011",
-      "name": "Suskun"
+      "nama": "Suskun",
+      "id_kec": "91.11.06"
     },
     {
       "id": "91.11.06.2013",
-      "name": "Amyu"
+      "nama": "Amyu",
+      "id_kec": "91.11.06"
     },
     {
       "id": "91.11.06.2014",
-      "name": "Kikere (Pikere)"
+      "nama": "Kikere (Pikere)",
+      "id_kec": "91.11.06"
     },
     {
       "id": "91.11.06.2015",
-      "name": "Petewi"
+      "nama": "Petewi",
+      "id_kec": "91.11.06"
     },
     {
       "id": "91.11.07.2001",
-      "name": "Towe Hitam"
+      "nama": "Towe Hitam",
+      "id_kec": "91.11.07"
     },
     {
       "id": "91.11.07.2002",
-      "name": "Towe Atas"
+      "nama": "Towe Atas",
+      "id_kec": "91.11.07"
     },
     {
       "id": "91.11.07.2003",
-      "name": "Terfones"
+      "nama": "Terfones",
+      "id_kec": "91.11.07"
     },
     {
       "id": "91.11.07.2004",
-      "name": "Tefalma (Tefanma)"
+      "nama": "Tefalma (Tefanma)",
+      "id_kec": "91.11.07"
     },
     {
       "id": "91.11.07.2005",
-      "name": "Bias"
+      "nama": "Bias",
+      "id_kec": "91.11.07"
     },
     {
       "id": "91.11.07.2006",
-      "name": "Milki"
+      "nama": "Milki",
+      "id_kec": "91.11.07"
     },
     {
       "id": "91.11.07.2007",
-      "name": "Lules"
+      "nama": "Lules",
+      "id_kec": "91.11.07"
     },
     {
       "id": "91.11.07.2009",
-      "name": "Jember"
+      "nama": "Jember",
+      "id_kec": "91.11.07"
     },
     {
       "id": "91.11.07.2010",
-      "name": "Niliti"
+      "nama": "Niliti",
+      "id_kec": "91.11.07"
     },
     {
       "id": "91.11.07.2011",
-      "name": "Pris"
+      "nama": "Pris",
+      "id_kec": "91.11.07"
     },
     {
       "id": "91.11.08.2001",
-      "name": "Dukwia"
+      "nama": "Dukwia",
+      "id_kec": "91.11.08"
     },
     {
       "id": "91.11.08.2002",
-      "name": "Sanggaria"
+      "nama": "Sanggaria",
+      "id_kec": "91.11.08"
     },
     {
       "id": "91.11.08.2003",
-      "name": "Yatu Raharja"
+      "nama": "Yatu Raharja",
+      "id_kec": "91.11.08"
     },
     {
       "id": "91.11.08.2004",
-      "name": "Warbo"
+      "nama": "Warbo",
+      "id_kec": "91.11.08"
     },
     {
       "id": "91.11.08.2005",
-      "name": "Yammua"
+      "nama": "Yammua",
+      "id_kec": "91.11.08"
     },
     {
       "id": "91.11.08.2006",
-      "name": "Ifia-fia"
+      "nama": "Ifia-fia",
+      "id_kec": "91.11.08"
     },
     {
       "id": "91.11.08.2007",
-      "name": "Baburia"
+      "nama": "Baburia",
+      "id_kec": "91.11.08"
     },
     {
       "id": "91.11.08.2008",
-      "name": "Yowong"
+      "nama": "Yowong",
+      "id_kec": "91.11.08"
     },
     {
       "id": "91.11.09.2001",
-      "name": "Yamara"
+      "nama": "Yamara",
+      "id_kec": "91.11.09"
     },
     {
       "id": "91.11.09.2002",
-      "name": "Wembi"
+      "nama": "Wembi",
+      "id_kec": "91.11.09"
     },
     {
       "id": "91.11.09.2003",
-      "name": "Wonorejo"
+      "nama": "Wonorejo",
+      "id_kec": "91.11.09"
     },
     {
       "id": "91.11.09.2004",
-      "name": "Pyawi"
+      "nama": "Pyawi",
+      "id_kec": "91.11.09"
     },
     {
       "id": "91.11.09.2005",
-      "name": "Sawyatami"
+      "nama": "Sawyatami",
+      "id_kec": "91.11.09"
     },
     {
       "id": "91.11.09.2006",
-      "name": "Wambes"
+      "nama": "Wambes",
+      "id_kec": "91.11.09"
     },
     {
       "id": "91.11.09.2007",
-      "name": "Uskwar"
+      "nama": "Uskwar",
+      "id_kec": "91.11.09"
     },
     {
       "id": "91.11.10.2001",
-      "name": "Yabanda"
+      "nama": "Yabanda",
+      "id_kec": "91.11.10"
     },
     {
       "id": "91.11.10.2002",
-      "name": "Yuruf"
+      "nama": "Yuruf",
+      "id_kec": "91.11.10"
     },
     {
       "id": "91.11.10.2003",
-      "name": "Amgotro"
+      "nama": "Amgotro",
+      "id_kec": "91.11.10"
     },
     {
       "id": "91.11.10.2004",
-      "name": "Jifanggry"
+      "nama": "Jifanggry",
+      "id_kec": "91.11.10"
     },
     {
       "id": "91.11.10.2005",
-      "name": "Monggoafi"
+      "nama": "Monggoafi",
+      "id_kec": "91.11.10"
     },
     {
       "id": "91.11.10.2006",
-      "name": "Fafenumbu"
+      "nama": "Fafenumbu",
+      "id_kec": "91.11.10"
     },
     {
       "id": "91.11.10.2007",
-      "name": "Akarinda"
+      "nama": "Akarinda",
+      "id_kec": "91.11.10"
     },
     {
       "id": "91.11.11.2001",
-      "name": "Kaisenar"
+      "nama": "Kaisenar",
+      "id_kec": "91.11.11"
     },
     {
       "id": "91.11.11.2002",
-      "name": "Kiambra"
+      "nama": "Kiambra",
+      "id_kec": "91.11.11"
     },
     {
       "id": "91.11.11.2003",
-      "name": "Liket"
+      "nama": "Liket",
+      "id_kec": "91.11.11"
     },
     {
       "id": "91.11.11.2004",
-      "name": "Onam"
+      "nama": "Onam",
+      "id_kec": "91.11.11"
     },
     {
       "id": "91.11.11.2005",
-      "name": "Tefanma Satu"
+      "nama": "Tefanma Satu",
+      "id_kec": "91.11.11"
     },
     {
       "id": "91.15.01.2003",
-      "name": "Waren Satu (I)"
+      "nama": "Waren Satu (I)",
+      "id_kec": "91.15.01"
     },
     {
       "id": "91.15.01.2004",
-      "name": "Waren Dua (II)"
+      "nama": "Waren Dua (II)",
+      "id_kec": "91.15.01"
     },
     {
       "id": "91.15.01.2011",
-      "name": "Nonomi"
+      "nama": "Nonomi",
+      "id_kec": "91.15.01"
     },
     {
       "id": "91.15.01.2020",
-      "name": "Sarafambai"
+      "nama": "Sarafambai",
+      "id_kec": "91.15.01"
     },
     {
       "id": "91.15.01.2025",
-      "name": "Uri"
+      "nama": "Uri",
+      "id_kec": "91.15.01"
     },
     {
       "id": "91.15.01.2027",
-      "name": "Batu Zaman"
+      "nama": "Batu Zaman",
+      "id_kec": "91.15.01"
     },
     {
       "id": "91.15.01.2029",
-      "name": "Sawara Jaya"
+      "nama": "Sawara Jaya",
+      "id_kec": "91.15.01"
     },
     {
       "id": "91.15.03.2006",
-      "name": "Saurisirami"
+      "nama": "Saurisirami",
+      "id_kec": "91.15.03"
     },
     {
       "id": "91.15.03.2009",
-      "name": "Sinonde"
+      "nama": "Sinonde",
+      "id_kec": "91.15.03"
     },
     {
       "id": "91.15.03.2013",
-      "name": "Kali Baru"
+      "nama": "Kali Baru",
+      "id_kec": "91.15.03"
     },
     {
       "id": "91.15.03.2014",
-      "name": "Sirami"
+      "nama": "Sirami",
+      "id_kec": "91.15.03"
     },
     {
       "id": "91.15.03.2015",
-      "name": "Bunggu"
+      "nama": "Bunggu",
+      "id_kec": "91.15.03"
     },
     {
       "id": "91.15.03.2016",
-      "name": "Kowogi"
+      "nama": "Kowogi",
+      "id_kec": "91.15.03"
     },
     {
       "id": "91.15.03.2017",
-      "name": "Emauri"
+      "nama": "Emauri",
+      "id_kec": "91.15.03"
     },
     {
       "id": "91.15.03.2018",
-      "name": "Obutay"
+      "nama": "Obutay",
+      "id_kec": "91.15.03"
     },
     {
       "id": "91.15.03.2019",
-      "name": "Wairo"
+      "nama": "Wairo",
+      "id_kec": "91.15.03"
     },
     {
       "id": "91.15.07.2002",
-      "name": "Fafado"
+      "nama": "Fafado",
+      "id_kec": "91.15.07"
     },
     {
       "id": "91.15.07.2003",
-      "name": "Wobari"
+      "nama": "Wobari",
+      "id_kec": "91.15.07"
     },
     {
       "id": "91.15.07.2013",
-      "name": "Aimasi"
+      "nama": "Aimasi",
+      "id_kec": "91.15.07"
     },
     {
       "id": "91.15.07.2014",
-      "name": "Mui"
+      "nama": "Mui",
+      "id_kec": "91.15.07"
     },
     {
       "id": "91.15.07.2015",
-      "name": "Waghare"
+      "nama": "Waghare",
+      "id_kec": "91.15.07"
     },
     {
       "id": "91.15.07.2016",
-      "name": "Ghaiwando"
+      "nama": "Ghaiwando",
+      "id_kec": "91.15.07"
     },
     {
       "id": "91.15.07.2017",
-      "name": "Womorisi"
+      "nama": "Womorisi",
+      "id_kec": "91.15.07"
     },
     {
       "id": "91.15.07.2018",
-      "name": "Orambin"
+      "nama": "Orambin",
+      "id_kec": "91.15.07"
     },
     {
       "id": "91.15.07.2019",
-      "name": "Unareu"
+      "nama": "Unareu",
+      "id_kec": "91.15.07"
     },
     {
       "id": "91.15.07.2020",
-      "name": "Ghaiwaru"
+      "nama": "Ghaiwaru",
+      "id_kec": "91.15.07"
     },
     {
       "id": "91.15.08.2001",
-      "name": "Ureifaisei I/Sanggae"
+      "nama": "Ureifaisei I/Sanggae",
+      "id_kec": "91.15.08"
     },
     {
       "id": "91.15.08.2002",
-      "name": "Urfas II (Ureifasei Dua / II)"
+      "nama": "Urfas II (Ureifasei Dua / II)",
+      "id_kec": "91.15.08"
     },
     {
       "id": "91.15.08.2003",
-      "name": "Nubuai"
+      "nama": "Nubuai",
+      "id_kec": "91.15.08"
     },
     {
       "id": "91.15.08.2004",
-      "name": "Ureifaisei III/ Paradoi"
+      "nama": "Ureifaisei III/ Paradoi",
+      "id_kec": "91.15.08"
     },
     {
       "id": "91.15.08.2005",
-      "name": "Apainabo"
+      "nama": "Apainabo",
+      "id_kec": "91.15.08"
     },
     {
       "id": "91.15.08.2006",
-      "name": "Mambui"
+      "nama": "Mambui",
+      "id_kec": "91.15.08"
     },
     {
       "id": "91.15.08.2007",
-      "name": "Khemoon Jaya (Kemon Jaya)"
+      "nama": "Khemoon Jaya (Kemon Jaya)",
+      "id_kec": "91.15.08"
     },
     {
       "id": "91.15.08.2008",
-      "name": "Usaiwa"
+      "nama": "Usaiwa",
+      "id_kec": "91.15.08"
     },
     {
       "id": "91.15.08.2009",
-      "name": "Paradoi"
+      "nama": "Paradoi",
+      "id_kec": "91.15.08"
     },
     {
       "id": "91.15.08.2010",
-      "name": "Ghoyui"
+      "nama": "Ghoyui",
+      "id_kec": "91.15.08"
     },
     {
       "id": "91.15.08.2011",
-      "name": "Rorisi"
+      "nama": "Rorisi",
+      "id_kec": "91.15.08"
     },
     {
       "id": "91.15.08.2012",
-      "name": "Ronggaiwa"
+      "nama": "Ronggaiwa",
+      "id_kec": "91.15.08"
     },
     {
       "id": "91.15.09.2002",
-      "name": "Somiangga"
+      "nama": "Somiangga",
+      "id_kec": "91.15.09"
     },
     {
       "id": "91.15.09.2004",
-      "name": "Toire"
+      "nama": "Toire",
+      "id_kec": "91.15.09"
     },
     {
       "id": "91.15.09.2005",
-      "name": "Harapan Jaya"
+      "nama": "Harapan Jaya",
+      "id_kec": "91.15.09"
     },
     {
       "id": "91.15.09.2006",
-      "name": "Demisa"
+      "nama": "Demisa",
+      "id_kec": "91.15.09"
     },
     {
       "id": "91.15.09.2008",
-      "name": "Otodemo"
+      "nama": "Otodemo",
+      "id_kec": "91.15.09"
     },
     {
       "id": "91.15.09.2011",
-      "name": "Awaso"
+      "nama": "Awaso",
+      "id_kec": "91.15.09"
     },
     {
       "id": "91.15.09.2012",
-      "name": "Firo"
+      "nama": "Firo",
+      "id_kec": "91.15.09"
     },
     {
       "id": "91.15.10.2001",
-      "name": "Dairi"
+      "nama": "Dairi",
+      "id_kec": "91.15.10"
     },
     {
       "id": "91.15.10.2002",
-      "name": "Spoiri"
+      "nama": "Spoiri",
+      "id_kec": "91.15.10"
     },
     {
       "id": "91.15.10.2003",
-      "name": "Sooh"
+      "nama": "Sooh",
+      "id_kec": "91.15.10"
     },
     {
       "id": "91.15.10.2004",
-      "name": "Dirou"
+      "nama": "Dirou",
+      "id_kec": "91.15.10"
     },
     {
       "id": "91.15.10.2005",
-      "name": "Diwah (Diwa)"
+      "nama": "Diwah (Diwa)",
+      "id_kec": "91.15.10"
     },
     {
       "id": "91.15.10.2006",
-      "name": "Kuaisa"
+      "nama": "Kuaisa",
+      "id_kec": "91.15.10"
     },
     {
       "id": "91.15.10.2007",
-      "name": "Aru Antu (Antu Aru)"
+      "nama": "Aru Antu (Antu Aru)",
+      "id_kec": "91.15.10"
     },
     {
       "id": "91.15.10.2008",
-      "name": "Foira (Poira)"
+      "nama": "Foira (Poira)",
+      "id_kec": "91.15.10"
     },
     {
       "id": "91.15.10.2009",
-      "name": "Kawari"
+      "nama": "Kawari",
+      "id_kec": "91.15.10"
     },
     {
       "id": "91.15.10.2010",
-      "name": "Wafuka"
+      "nama": "Wafuka",
+      "id_kec": "91.15.10"
     },
     {
       "id": "91.15.11.2001",
-      "name": "Botawa"
+      "nama": "Botawa",
+      "id_kec": "91.15.11"
     },
     {
       "id": "91.15.11.2002",
-      "name": "Sowiwa"
+      "nama": "Sowiwa",
+      "id_kec": "91.15.11"
     },
     {
       "id": "91.15.11.2003",
-      "name": "Baino Jaya"
+      "nama": "Baino Jaya",
+      "id_kec": "91.15.11"
     },
     {
       "id": "91.15.11.2004",
-      "name": "Nau"
+      "nama": "Nau",
+      "id_kec": "91.15.11"
     },
     {
       "id": "91.15.11.2005",
-      "name": "Rasawa"
+      "nama": "Rasawa",
+      "id_kec": "91.15.11"
     },
     {
       "id": "91.15.11.2006",
-      "name": "Ruambak Jaya"
+      "nama": "Ruambak Jaya",
+      "id_kec": "91.15.11"
     },
     {
       "id": "91.15.11.2007",
-      "name": "Moroa"
+      "nama": "Moroa",
+      "id_kec": "91.15.11"
     },
     {
       "id": "91.15.11.2008",
-      "name": "Oiboa"
+      "nama": "Oiboa",
+      "id_kec": "91.15.11"
     },
     {
       "id": "91.15.12.2001",
-      "name": "Wapoga"
+      "nama": "Wapoga",
+      "id_kec": "91.15.12"
     },
     {
       "id": "91.15.12.2002",
-      "name": "Pirare"
+      "nama": "Pirare",
+      "id_kec": "91.15.12"
     },
     {
       "id": "91.15.12.2003",
-      "name": "Awera"
+      "nama": "Awera",
+      "id_kec": "91.15.12"
     },
     {
       "id": "91.15.12.2004",
-      "name": "Syewa Merare"
+      "nama": "Syewa Merare",
+      "id_kec": "91.15.12"
     },
     {
       "id": "91.15.12.2005",
-      "name": "Kamarisano"
+      "nama": "Kamarisano",
+      "id_kec": "91.15.12"
     },
     {
       "id": "91.15.12.2006",
-      "name": "Waweri"
+      "nama": "Waweri",
+      "id_kec": "91.15.12"
     },
     {
       "id": "91.15.12.2007",
-      "name": "Dokis"
+      "nama": "Dokis",
+      "id_kec": "91.15.12"
     },
     {
       "id": "91.15.13.2001",
-      "name": "Urato"
+      "nama": "Urato",
+      "id_kec": "91.15.13"
     },
     {
       "id": "91.15.13.2002",
-      "name": "Mayaghaido"
+      "nama": "Mayaghaido",
+      "id_kec": "91.15.13"
     },
     {
       "id": "91.15.13.2003",
-      "name": "Aniboi"
+      "nama": "Aniboi",
+      "id_kec": "91.15.13"
     },
     {
       "id": "91.15.13.2007",
-      "name": "Tetui"
+      "nama": "Tetui",
+      "id_kec": "91.15.13"
     },
     {
       "id": "91.15.13.2008",
-      "name": "Demba"
+      "nama": "Demba",
+      "id_kec": "91.15.13"
     },
     {
       "id": "91.15.13.2009",
-      "name": "Fafai"
+      "nama": "Fafai",
+      "id_kec": "91.15.13"
     },
     {
       "id": "91.15.13.2017",
-      "name": "Wudokuri"
+      "nama": "Wudokuri",
+      "id_kec": "91.15.13"
     },
     {
       "id": "91.15.13.2018",
-      "name": "Aiwa"
+      "nama": "Aiwa",
+      "id_kec": "91.15.13"
     },
     {
       "id": "91.15.13.2019",
-      "name": "Biati"
+      "nama": "Biati",
+      "id_kec": "91.15.13"
     },
     {
       "id": "91.15.13.2020",
-      "name": "Ronarai"
+      "nama": "Ronarai",
+      "id_kec": "91.15.13"
     },
     {
       "id": "91.15.14.2001",
-      "name": "Odase"
+      "nama": "Odase",
+      "id_kec": "91.15.14"
     },
     {
       "id": "91.15.14.2002",
-      "name": "Wanda"
+      "nama": "Wanda",
+      "id_kec": "91.15.14"
     },
     {
       "id": "91.15.14.2003",
-      "name": "Bakadaro"
+      "nama": "Bakadaro",
+      "id_kec": "91.15.14"
     },
     {
       "id": "91.15.14.2004",
-      "name": "Moyufuri"
+      "nama": "Moyufuri",
+      "id_kec": "91.15.14"
     },
     {
       "id": "91.15.14.2005",
-      "name": "Wonti Kai"
+      "nama": "Wonti Kai",
+      "id_kec": "91.15.14"
     },
     {
       "id": "91.15.14.2006",
-      "name": "Ghoiwi Samberi"
+      "nama": "Ghoiwi Samberi",
+      "id_kec": "91.15.14"
     },
     {
       "id": "91.15.14.2007",
-      "name": "Gheroi"
+      "nama": "Gheroi",
+      "id_kec": "91.15.14"
     },
     {
       "id": "91.15.14.2008",
-      "name": "Fimore"
+      "nama": "Fimore",
+      "id_kec": "91.15.14"
     },
     {
       "id": "91.15.14.2009",
-      "name": "Sifuisera"
+      "nama": "Sifuisera",
+      "id_kec": "91.15.14"
     },
     {
       "id": "91.15.14.2010",
-      "name": "Borumei"
+      "nama": "Borumei",
+      "id_kec": "91.15.14"
     },
     {
       "id": "91.15.15.2001",
-      "name": "Mambai"
+      "nama": "Mambai",
+      "id_kec": "91.15.15"
     },
     {
       "id": "91.15.15.2002",
-      "name": "Soyoi"
+      "nama": "Soyoi",
+      "id_kec": "91.15.15"
     },
     {
       "id": "91.15.15.2003",
-      "name": "Daimboa"
+      "nama": "Daimboa",
+      "id_kec": "91.15.15"
     },
     {
       "id": "91.15.15.2004",
-      "name": "Napani"
+      "nama": "Napani",
+      "id_kec": "91.15.15"
     },
     {
       "id": "91.15.15.2005",
-      "name": "Segha"
+      "nama": "Segha",
+      "id_kec": "91.15.15"
     },
     {
       "id": "91.15.15.2006",
-      "name": "Wainarisi"
+      "nama": "Wainarisi",
+      "id_kec": "91.15.15"
     },
     {
       "id": "91.15.15.2007",
-      "name": "Fafarui"
+      "nama": "Fafarui",
+      "id_kec": "91.15.15"
     },
     {
       "id": "91.15.15.2008",
-      "name": "Dawoa"
+      "nama": "Dawoa",
+      "id_kec": "91.15.15"
     },
     {
       "id": "91.15.15.2009",
-      "name": "Sinabo"
+      "nama": "Sinabo",
+      "id_kec": "91.15.15"
     },
     {
       "id": "91.15.15.2010",
-      "name": "Woinui"
+      "nama": "Woinui",
+      "id_kec": "91.15.15"
     },
     {
       "id": "91.19.01.2003",
-      "name": "Fanindi"
+      "nama": "Fanindi",
+      "id_kec": "91.19.01"
     },
     {
       "id": "91.19.01.2004",
-      "name": "Odori"
+      "nama": "Odori",
+      "id_kec": "91.19.01"
     },
     {
       "id": "91.19.01.2010",
-      "name": "Biniki"
+      "nama": "Biniki",
+      "id_kec": "91.19.01"
     },
     {
       "id": "91.19.01.2011",
-      "name": "Didiabolo"
+      "nama": "Didiabolo",
+      "id_kec": "91.19.01"
     },
     {
       "id": "91.19.01.2015",
-      "name": "Warbefondi (Waberfondi / Warbepondi)"
+      "nama": "Warbefondi (Waberfondi / Warbepondi)",
+      "id_kec": "91.19.01"
     },
     {
       "id": "91.19.01.2016",
-      "name": "Awaki"
+      "nama": "Awaki",
+      "id_kec": "91.19.01"
     },
     {
       "id": "91.19.01.2019",
-      "name": "Maryaidori"
+      "nama": "Maryaidori",
+      "id_kec": "91.19.01"
     },
     {
       "id": "91.19.02.2003",
-      "name": "Warsa"
+      "nama": "Warsa",
+      "id_kec": "91.19.02"
     },
     {
       "id": "91.19.02.2008",
-      "name": "Warbor"
+      "nama": "Warbor",
+      "id_kec": "91.19.02"
     },
     {
       "id": "91.19.02.2009",
-      "name": "Kobari Jaya"
+      "nama": "Kobari Jaya",
+      "id_kec": "91.19.02"
     },
     {
       "id": "91.19.02.2010",
-      "name": "Fanjur"
+      "nama": "Fanjur",
+      "id_kec": "91.19.02"
     },
     {
       "id": "91.19.02.2015",
-      "name": "Puweri"
+      "nama": "Puweri",
+      "id_kec": "91.19.02"
     },
     {
       "id": "91.19.03.2001",
-      "name": "Yawerma"
+      "nama": "Yawerma",
+      "id_kec": "91.19.03"
     },
     {
       "id": "91.19.03.2002",
-      "name": "Wombonda"
+      "nama": "Wombonda",
+      "id_kec": "91.19.03"
     },
     {
       "id": "91.19.03.2003",
-      "name": "Marsram"
+      "nama": "Marsram",
+      "id_kec": "91.19.03"
     },
     {
       "id": "91.19.03.2004",
-      "name": "Duber"
+      "nama": "Duber",
+      "id_kec": "91.19.03"
     },
     {
       "id": "91.19.03.2005",
-      "name": "Sauyas"
+      "nama": "Sauyas",
+      "id_kec": "91.19.03"
     },
     {
       "id": "91.19.03.2006",
-      "name": "Wafor"
+      "nama": "Wafor",
+      "id_kec": "91.19.03"
     },
     {
       "id": "91.19.03.2007",
-      "name": "Sorendidori (Sorendiweri)"
+      "nama": "Sorendidori (Sorendiweri)",
+      "id_kec": "91.19.03"
     },
     {
       "id": "91.19.03.2008",
-      "name": "Waryesi"
+      "nama": "Waryesi",
+      "id_kec": "91.19.03"
     },
     {
       "id": "91.19.03.2009",
-      "name": "Syurdori"
+      "nama": "Syurdori",
+      "id_kec": "91.19.03"
     },
     {
       "id": "91.19.03.2010",
-      "name": "Douwbo (Doubo)"
+      "nama": "Douwbo (Doubo)",
+      "id_kec": "91.19.03"
     },
     {
       "id": "91.19.04.2001",
-      "name": "Rayori"
+      "nama": "Rayori",
+      "id_kec": "91.19.04"
     },
     {
       "id": "91.19.04.2002",
-      "name": "Mbrurwandi (Mbruwandi / Bruwandi)"
+      "nama": "Mbrurwandi (Mbruwandi / Bruwandi)",
+      "id_kec": "91.19.04"
     },
     {
       "id": "91.19.04.2003",
-      "name": "Manggonswan (Mangoswan)"
+      "nama": "Manggonswan (Mangoswan)",
+      "id_kec": "91.19.04"
     },
     {
       "id": "91.19.04.2004",
-      "name": "Wonggeina (Wongkeina)"
+      "nama": "Wonggeina (Wongkeina)",
+      "id_kec": "91.19.04"
     },
     {
       "id": "91.19.04.2005",
-      "name": "Yamnaisu"
+      "nama": "Yamnaisu",
+      "id_kec": "91.19.04"
     },
     {
       "id": "91.19.04.2006",
-      "name": "Aruri"
+      "nama": "Aruri",
+      "id_kec": "91.19.04"
     },
     {
       "id": "91.19.04.2007",
-      "name": "Imbrisbari (Imbirsbari)"
+      "nama": "Imbrisbari (Imbirsbari)",
+      "id_kec": "91.19.04"
     },
     {
       "id": "91.19.04.2008",
-      "name": "Ineki"
+      "nama": "Ineki",
+      "id_kec": "91.19.04"
     },
     {
       "id": "91.19.04.2009",
-      "name": "Insumbrei"
+      "nama": "Insumbrei",
+      "id_kec": "91.19.04"
     },
     {
       "id": "91.19.05.2001",
-      "name": "Waryei (Wariyei)"
+      "nama": "Waryei (Wariyei)",
+      "id_kec": "91.19.05"
     },
     {
       "id": "91.19.05.2002",
-      "name": "Koryakam (Koiryakam)"
+      "nama": "Koryakam (Koiryakam)",
+      "id_kec": "91.19.05"
     },
     {
       "id": "91.19.05.2003",
-      "name": "Wayori (Mayori)"
+      "nama": "Wayori (Mayori)",
+      "id_kec": "91.19.05"
     },
     {
       "id": "91.19.05.2004",
-      "name": "Amyas"
+      "nama": "Amyas",
+      "id_kec": "91.19.05"
     },
     {
       "id": "91.19.05.2005",
-      "name": "Napisndi (Napisandi)"
+      "nama": "Napisndi (Napisandi)",
+      "id_kec": "91.19.05"
     },
     {
       "id": "91.19.05.2006",
-      "name": "Masyai"
+      "nama": "Masyai",
+      "id_kec": "91.19.05"
     },
     {
       "id": "91.19.05.2007",
-      "name": "Mapia"
+      "nama": "Mapia",
+      "id_kec": "91.19.05"
     },
     {
       "id": "91.20.01.2001",
-      "name": "Burmeso"
+      "nama": "Burmeso",
+      "id_kec": "91.20.01"
     },
     {
       "id": "91.20.01.2002",
-      "name": "Anggreso"
+      "nama": "Anggreso",
+      "id_kec": "91.20.01"
     },
     {
       "id": "91.20.01.2003",
-      "name": "Kasonaweja"
+      "nama": "Kasonaweja",
+      "id_kec": "91.20.01"
     },
     {
       "id": "91.20.01.2004",
-      "name": "Metaweja"
+      "nama": "Metaweja",
+      "id_kec": "91.20.01"
     },
     {
       "id": "91.20.01.2005",
-      "name": "Namunaweja"
+      "nama": "Namunaweja",
+      "id_kec": "91.20.01"
     },
     {
       "id": "91.20.01.2006",
-      "name": "Danau Bira"
+      "nama": "Danau Bira",
+      "id_kec": "91.20.01"
     },
     {
       "id": "91.20.01.2007",
-      "name": "Muru Mare"
+      "nama": "Muru Mare",
+      "id_kec": "91.20.01"
     },
     {
       "id": "91.20.01.2008",
-      "name": "Kwerba"
+      "nama": "Kwerba",
+      "id_kec": "91.20.01"
     },
     {
       "id": "91.20.01.2009",
-      "name": "Sosawakwesar"
+      "nama": "Sosawakwesar",
+      "id_kec": "91.20.01"
     },
     {
       "id": "91.20.01.2010",
-      "name": "Babija"
+      "nama": "Babija",
+      "id_kec": "91.20.01"
     },
     {
       "id": "91.20.01.2011",
-      "name": "Marina Valen"
+      "nama": "Marina Valen",
+      "id_kec": "91.20.01"
     },
     {
       "id": "91.20.02.2001",
-      "name": "Dabra"
+      "nama": "Dabra",
+      "id_kec": "91.20.02"
     },
     {
       "id": "91.20.02.2002",
-      "name": "Taiyeve"
+      "nama": "Taiyeve",
+      "id_kec": "91.20.02"
     },
     {
       "id": "91.20.02.2003",
-      "name": "Fuao"
+      "nama": "Fuao",
+      "id_kec": "91.20.02"
     },
     {
       "id": "91.20.02.2004",
-      "name": "Pepasena I"
+      "nama": "Pepasena I",
+      "id_kec": "91.20.02"
     },
     {
       "id": "91.20.02.2005",
-      "name": "Pepasena II"
+      "nama": "Pepasena II",
+      "id_kec": "91.20.02"
     },
     {
       "id": "91.20.02.2006",
-      "name": "Dou"
+      "nama": "Dou",
+      "id_kec": "91.20.02"
     },
     {
       "id": "91.20.02.2008",
-      "name": "Fokri"
+      "nama": "Fokri",
+      "id_kec": "91.20.02"
     },
     {
       "id": "91.20.02.2015",
-      "name": "Taria"
+      "nama": "Taria",
+      "id_kec": "91.20.02"
     },
     {
       "id": "91.20.03.2001",
-      "name": "Fona"
+      "nama": "Fona",
+      "id_kec": "91.20.03"
     },
     {
       "id": "91.20.03.2002",
-      "name": "Tayai"
+      "nama": "Tayai",
+      "id_kec": "91.20.03"
     },
     {
       "id": "91.20.03.2003",
-      "name": "Bareri"
+      "nama": "Bareri",
+      "id_kec": "91.20.03"
     },
     {
       "id": "91.20.03.2004",
-      "name": "Sikari"
+      "nama": "Sikari",
+      "id_kec": "91.20.03"
     },
     {
       "id": "91.20.03.2006",
-      "name": "Kai"
+      "nama": "Kai",
+      "id_kec": "91.20.03"
     },
     {
       "id": "91.20.03.2007",
-      "name": "Haya"
+      "nama": "Haya",
+      "id_kec": "91.20.03"
     },
     {
       "id": "91.20.04.2001",
-      "name": "Kustra"
+      "nama": "Kustra",
+      "id_kec": "91.20.04"
     },
     {
       "id": "91.20.04.2002",
-      "name": "Noyadi"
+      "nama": "Noyadi",
+      "id_kec": "91.20.04"
     },
     {
       "id": "91.20.04.2003",
-      "name": "Obogai"
+      "nama": "Obogai",
+      "id_kec": "91.20.04"
     },
     {
       "id": "91.20.04.2004",
-      "name": "Biri"
+      "nama": "Biri",
+      "id_kec": "91.20.04"
     },
     {
       "id": "91.20.04.2005",
-      "name": "Wakeyadi"
+      "nama": "Wakeyadi",
+      "id_kec": "91.20.04"
     },
     {
       "id": "91.20.04.2006",
-      "name": "Eri"
+      "nama": "Eri",
+      "id_kec": "91.20.04"
     },
     {
       "id": "91.20.04.2007",
-      "name": "Towae"
+      "nama": "Towae",
+      "id_kec": "91.20.04"
     },
     {
       "id": "91.20.05.2001",
-      "name": "Baudi"
+      "nama": "Baudi",
+      "id_kec": "91.20.05"
     },
     {
       "id": "91.20.05.2002",
-      "name": "Trimuris"
+      "nama": "Trimuris",
+      "id_kec": "91.20.05"
     },
     {
       "id": "91.20.05.2003",
-      "name": "Bagusa"
+      "nama": "Bagusa",
+      "id_kec": "91.20.05"
     },
     {
       "id": "91.20.05.2004",
-      "name": "Kapeso"
+      "nama": "Kapeso",
+      "id_kec": "91.20.05"
     },
     {
       "id": "91.20.05.2005",
-      "name": "Suaseso"
+      "nama": "Suaseso",
+      "id_kec": "91.20.05"
     },
     {
       "id": "91.20.05.2006",
-      "name": "Warembori"
+      "nama": "Warembori",
+      "id_kec": "91.20.05"
     },
     {
       "id": "91.20.05.2007",
-      "name": "Yoke"
+      "nama": "Yoke",
+      "id_kec": "91.20.05"
     },
     {
       "id": "91.20.05.2008",
-      "name": "Taya"
+      "nama": "Taya",
+      "id_kec": "91.20.05"
     },
     {
       "id": "91.20.06.2001",
-      "name": "Nadofoai"
+      "nama": "Nadofoai",
+      "id_kec": "91.20.06"
     },
     {
       "id": "91.20.06.2002",
-      "name": "Barapasi"
+      "nama": "Barapasi",
+      "id_kec": "91.20.06"
     },
     {
       "id": "91.20.06.2003",
-      "name": "Sipisi"
+      "nama": "Sipisi",
+      "id_kec": "91.20.06"
     },
     {
       "id": "91.20.06.2004",
-      "name": "Bariwaro"
+      "nama": "Bariwaro",
+      "id_kec": "91.20.06"
     },
     {
       "id": "91.20.06.2005",
-      "name": "Bensor"
+      "nama": "Bensor",
+      "id_kec": "91.20.06"
     },
     {
       "id": "91.20.06.2006",
-      "name": "Rawiwa"
+      "nama": "Rawiwa",
+      "id_kec": "91.20.06"
     },
     {
       "id": "91.20.06.2007",
-      "name": "Marikai"
+      "nama": "Marikai",
+      "id_kec": "91.20.06"
     },
     {
       "id": "91.20.07.2001",
-      "name": "Kamai"
+      "nama": "Kamai",
+      "id_kec": "91.20.07"
     },
     {
       "id": "91.20.07.2002",
-      "name": "Dadat"
+      "nama": "Dadat",
+      "id_kec": "91.20.07"
     },
     {
       "id": "91.20.07.2003",
-      "name": "Kerema"
+      "nama": "Kerema",
+      "id_kec": "91.20.07"
     },
     {
       "id": "91.20.07.2005",
-      "name": "Teuw* (Teuw)"
+      "nama": "Teuw* (Teuw)",
+      "id_kec": "91.20.07"
     },
     {
       "id": "91.20.07.2006",
-      "name": "Watiaro"
+      "nama": "Watiaro",
+      "id_kec": "91.20.07"
     },
     {
       "id": "91.20.07.2007",
-      "name": "Gesa Baru"
+      "nama": "Gesa Baru",
+      "id_kec": "91.20.07"
     },
     {
       "id": "91.20.07.2008",
-      "name": "Baitanasa"
+      "nama": "Baitanasa",
+      "id_kec": "91.20.07"
     },
     {
       "id": "91.20.08.2001",
-      "name": "Poiwai"
+      "nama": "Poiwai",
+      "id_kec": "91.20.08"
     },
     {
       "id": "91.20.08.2002",
-      "name": "Tamakuri"
+      "nama": "Tamakuri",
+      "id_kec": "91.20.08"
     },
     {
       "id": "91.20.08.2003",
-      "name": "Bonoi"
+      "nama": "Bonoi",
+      "id_kec": "91.20.08"
     },
     {
       "id": "91.20.08.2004",
-      "name": "Sorabi"
+      "nama": "Sorabi",
+      "id_kec": "91.20.08"
     },
     {
       "id": "91.20.08.2005",
-      "name": "Rapambrei"
+      "nama": "Rapambrei",
+      "id_kec": "91.20.08"
     },
     {
       "id": "91.20.08.2006",
-      "name": "Anasi"
+      "nama": "Anasi",
+      "id_kec": "91.20.08"
     },
     {
       "id": "91.71.01.1001",
-      "name": "Gurabesi"
+      "nama": "Gurabesi",
+      "id_kec": "91.71.01"
     },
     {
       "id": "91.71.01.1002",
-      "name": "Bayangkara (Bhayangkara)"
+      "nama": "Bayangkara (Bhayangkara)",
+      "id_kec": "91.71.01"
     },
     {
       "id": "91.71.01.1003",
-      "name": "Trikora"
+      "nama": "Trikora",
+      "id_kec": "91.71.01"
     },
     {
       "id": "91.71.01.1004",
-      "name": "Imbi"
+      "nama": "Imbi",
+      "id_kec": "91.71.01"
     },
     {
       "id": "91.71.01.1005",
-      "name": "Tanjung Ria"
+      "nama": "Tanjung Ria",
+      "id_kec": "91.71.01"
     },
     {
       "id": "91.71.01.1006",
-      "name": "Mandala"
+      "nama": "Mandala",
+      "id_kec": "91.71.01"
     },
     {
       "id": "91.71.01.1007",
-      "name": "Angkasapura"
+      "nama": "Angkasapura",
+      "id_kec": "91.71.01"
     },
     {
       "id": "91.71.01.2008",
-      "name": "Kayo Batu"
+      "nama": "Kayo Batu",
+      "id_kec": "91.71.01"
     },
     {
       "id": "91.71.02.1001",
-      "name": "Argapura"
+      "nama": "Argapura",
+      "id_kec": "91.71.02"
     },
     {
       "id": "91.71.02.1002",
-      "name": "Ardipura"
+      "nama": "Ardipura",
+      "id_kec": "91.71.02"
     },
     {
       "id": "91.71.02.1003",
-      "name": "Numbai (Numbay)"
+      "nama": "Numbai (Numbay)",
+      "id_kec": "91.71.02"
     },
     {
       "id": "91.71.02.1005",
-      "name": "Entrop"
+      "nama": "Entrop",
+      "id_kec": "91.71.02"
     },
     {
       "id": "91.71.02.1006",
-      "name": "Hamadi"
+      "nama": "Hamadi",
+      "id_kec": "91.71.02"
     },
     {
       "id": "91.71.02.2007",
-      "name": "Tahima Sorama"
+      "nama": "Tahima Sorama",
+      "id_kec": "91.71.02"
     },
     {
       "id": "91.71.02.2008",
-      "name": "Tobati"
+      "nama": "Tobati",
+      "id_kec": "91.71.02"
     },
     {
       "id": "91.71.03.1002",
-      "name": "Asano"
+      "nama": "Asano",
+      "id_kec": "91.71.03"
     },
     {
       "id": "91.71.03.1008",
-      "name": "Awiyo"
+      "nama": "Awiyo",
+      "id_kec": "91.71.03"
     },
     {
       "id": "91.71.03.1010",
-      "name": "Yobe"
+      "nama": "Yobe",
+      "id_kec": "91.71.03"
     },
     {
       "id": "91.71.03.1011",
-      "name": "Abepantai"
+      "nama": "Abepantai",
+      "id_kec": "91.71.03"
     },
     {
       "id": "91.71.03.1012",
-      "name": "Kota Baru"
+      "nama": "Kota Baru",
+      "id_kec": "91.71.03"
     },
     {
       "id": "91.71.03.1014",
-      "name": "Vim"
+      "nama": "Vim",
+      "id_kec": "91.71.03"
     },
     {
       "id": "91.71.03.1015",
-      "name": "Wahno"
+      "nama": "Wahno",
+      "id_kec": "91.71.03"
     },
     {
       "id": "91.71.03.1016",
-      "name": "Way Mhorock"
+      "nama": "Way Mhorock",
+      "id_kec": "91.71.03"
     },
     {
       "id": "91.71.03.2001",
-      "name": "Nafri"
+      "nama": "Nafri",
+      "id_kec": "91.71.03"
     },
     {
       "id": "91.71.03.2004",
-      "name": "Engros (Enggros)"
+      "nama": "Engros (Enggros)",
+      "id_kec": "91.71.03"
     },
     {
       "id": "91.71.03.2007",
-      "name": "Koya Koso"
+      "nama": "Koya Koso",
+      "id_kec": "91.71.03"
     },
     {
       "id": "91.71.04.1004",
-      "name": "Koya Barat"
+      "nama": "Koya Barat",
+      "id_kec": "91.71.04"
     },
     {
       "id": "91.71.04.1005",
-      "name": "Koya Timur"
+      "nama": "Koya Timur",
+      "id_kec": "91.71.04"
     },
     {
       "id": "91.71.04.2001",
-      "name": "Skow Mabo (Skouw Mabo )"
+      "nama": "Skow Mabo (Skouw Mabo )",
+      "id_kec": "91.71.04"
     },
     {
       "id": "91.71.04.2002",
-      "name": "Skow Yambe (Skouw Yambe)"
+      "nama": "Skow Yambe (Skouw Yambe)",
+      "id_kec": "91.71.04"
     },
     {
       "id": "91.71.04.2003",
-      "name": "Skow Sae (Skouw Sae)"
+      "nama": "Skow Sae (Skouw Sae)",
+      "id_kec": "91.71.04"
     },
     {
       "id": "91.71.04.2006",
-      "name": "Holtekamp"
+      "nama": "Holtekamp",
+      "id_kec": "91.71.04"
     },
     {
       "id": "91.71.04.2007",
-      "name": "Koya Tengah"
+      "nama": "Koya Tengah",
+      "id_kec": "91.71.04"
     },
     {
       "id": "91.71.04.2008",
-      "name": "Mosso"
+      "nama": "Mosso",
+      "id_kec": "91.71.04"
     },
     {
       "id": "91.71.05.1001",
-      "name": "Hedam"
+      "nama": "Hedam",
+      "id_kec": "91.71.05"
     },
     {
       "id": "91.71.05.1002",
-      "name": "Waena"
+      "nama": "Waena",
+      "id_kec": "91.71.05"
     },
     {
       "id": "91.71.05.1004",
-      "name": "Yabansai"
+      "nama": "Yabansai",
+      "id_kec": "91.71.05"
     },
     {
       "id": "91.71.05.2003",
-      "name": "Yoka"
+      "nama": "Yoka",
+      "id_kec": "91.71.05"
     },
     {
       "id": "91.71.05.2005",
-      "name": "Waena II"
+      "nama": "Waena II",
+      "id_kec": "91.71.05"
     }
   ]
 }
