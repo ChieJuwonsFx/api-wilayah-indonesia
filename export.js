@@ -46,9 +46,9 @@ const getDistrictCode = id => id.split('.').slice(0,3).join('.');
       villages: filteredVillages
     };
 
-    const filePath = path.join(outputDir, `${province.name}.json`);
+    const filePath = path.join(outputDir, `${provId}.json`);
     fs.writeFileSync(filePath, JSON.stringify(jsonData, null, 2), 'utf8');
-    console.log(`✅ ${province.name} → ${province.name}.json`);
+    console.log(`✅ ${province.name} → ${provId}.json`);
   }
 
   console.log('🎉 Selesai export semua provinsi ke json/provinces/');
