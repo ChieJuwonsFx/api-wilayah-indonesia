@@ -1,0 +1,3260 @@
+{
+  "province": {
+    "id": "75",
+    "name": "Gorontalo"
+  },
+  "cities": [
+    {
+      "id": "75.01",
+      "name": "Gorontalo"
+    },
+    {
+      "id": "75.02",
+      "name": "Boalemo"
+    },
+    {
+      "id": "75.03",
+      "name": "Bone Bolango"
+    },
+    {
+      "id": "75.04",
+      "name": "Pahuwato"
+    },
+    {
+      "id": "75.05",
+      "name": "Gorontalo Utara"
+    },
+    {
+      "id": "75.71",
+      "name": "Kota Gorontalo"
+    }
+  ],
+  "districts": [
+    {
+      "id": "75.01.01",
+      "name": "Limboto"
+    },
+    {
+      "id": "75.01.02",
+      "name": "Telaga"
+    },
+    {
+      "id": "75.01.03",
+      "name": "Batudaa"
+    },
+    {
+      "id": "75.01.04",
+      "name": "Tibawa"
+    },
+    {
+      "id": "75.01.05",
+      "name": "Batudaa Pantai"
+    },
+    {
+      "id": "75.01.09",
+      "name": "Boliyohuto (Boliohuto)"
+    },
+    {
+      "id": "75.01.10",
+      "name": "Telaga Biru"
+    },
+    {
+      "id": "75.01.11",
+      "name": "Bongomeme"
+    },
+    {
+      "id": "75.01.13",
+      "name": "Tolangohula"
+    },
+    {
+      "id": "75.01.14",
+      "name": "Mootilango"
+    },
+    {
+      "id": "75.01.16",
+      "name": "Pulubala"
+    },
+    {
+      "id": "75.01.17",
+      "name": "Limboto Barat"
+    },
+    {
+      "id": "75.01.18",
+      "name": "Tilango"
+    },
+    {
+      "id": "75.01.19",
+      "name": "Tabongo"
+    },
+    {
+      "id": "75.01.20",
+      "name": "Biluhu"
+    },
+    {
+      "id": "75.01.21",
+      "name": "Asparaga"
+    },
+    {
+      "id": "75.01.22",
+      "name": "Talaga Jaya (Telaga Jaya)"
+    },
+    {
+      "id": "75.01.23",
+      "name": "Bilato"
+    },
+    {
+      "id": "75.01.24",
+      "name": "Dungaliyo"
+    },
+    {
+      "id": "75.02.01",
+      "name": "Paguyaman"
+    },
+    {
+      "id": "75.02.02",
+      "name": "Wonosari"
+    },
+    {
+      "id": "75.02.03",
+      "name": "Dulupi"
+    },
+    {
+      "id": "75.02.04",
+      "name": "Tilamuta"
+    },
+    {
+      "id": "75.02.05",
+      "name": "Mananggu"
+    },
+    {
+      "id": "75.02.06",
+      "name": "Botumoito (Botumoita)"
+    },
+    {
+      "id": "75.02.07",
+      "name": "Paguyaman Pantai"
+    },
+    {
+      "id": "75.03.01",
+      "name": "Tapa"
+    },
+    {
+      "id": "75.03.02",
+      "name": "Kabila"
+    },
+    {
+      "id": "75.03.03",
+      "name": "Suwawa"
+    },
+    {
+      "id": "75.03.04",
+      "name": "Bonepantai"
+    },
+    {
+      "id": "75.03.05",
+      "name": "Bulango Utara"
+    },
+    {
+      "id": "75.03.06",
+      "name": "Tilongkabila"
+    },
+    {
+      "id": "75.03.07",
+      "name": "Botupingge (Botu Pingge)"
+    },
+    {
+      "id": "75.03.08",
+      "name": "Kabila Bone"
+    },
+    {
+      "id": "75.03.09",
+      "name": "Bone"
+    },
+    {
+      "id": "75.03.10",
+      "name": "Bone Raya"
+    },
+    {
+      "id": "75.03.11",
+      "name": "Suwawa Timur"
+    },
+    {
+      "id": "75.03.12",
+      "name": "Suwawa Selatan"
+    },
+    {
+      "id": "75.03.13",
+      "name": "Suwawa Tengah"
+    },
+    {
+      "id": "75.03.14",
+      "name": "Bulango Ulu"
+    },
+    {
+      "id": "75.03.15",
+      "name": "Bulango Selatan"
+    },
+    {
+      "id": "75.03.16",
+      "name": "Bulango Timur"
+    },
+    {
+      "id": "75.03.17",
+      "name": "Bulawa"
+    },
+    {
+      "id": "75.03.18",
+      "name": "Pinogu"
+    },
+    {
+      "id": "75.04.01",
+      "name": "Popayato"
+    },
+    {
+      "id": "75.04.02",
+      "name": "Lemito"
+    },
+    {
+      "id": "75.04.03",
+      "name": "Randangan"
+    },
+    {
+      "id": "75.04.04",
+      "name": "Marisa"
+    },
+    {
+      "id": "75.04.05",
+      "name": "Paguat"
+    },
+    {
+      "id": "75.04.06",
+      "name": "Patilanggio"
+    },
+    {
+      "id": "75.04.07",
+      "name": "Taluditi (Taluduti)"
+    },
+    {
+      "id": "75.04.08",
+      "name": "Dengilo"
+    },
+    {
+      "id": "75.04.09",
+      "name": "Buntulia"
+    },
+    {
+      "id": "75.04.10",
+      "name": "Duhiadaa"
+    },
+    {
+      "id": "75.04.11",
+      "name": "Wanggarasi"
+    },
+    {
+      "id": "75.04.12",
+      "name": "Popayato Timur"
+    },
+    {
+      "id": "75.04.13",
+      "name": "Popayato Barat"
+    },
+    {
+      "id": "75.05.01",
+      "name": "Atinggola"
+    },
+    {
+      "id": "75.05.02",
+      "name": "Kwandang"
+    },
+    {
+      "id": "75.05.03",
+      "name": "Anggrek"
+    },
+    {
+      "id": "75.05.04",
+      "name": "Sumalata"
+    },
+    {
+      "id": "75.05.05",
+      "name": "Tolinggula"
+    },
+    {
+      "id": "75.05.06",
+      "name": "Gentuma Raya"
+    },
+    {
+      "id": "75.05.07",
+      "name": "Tomilito (Tomolito)"
+    },
+    {
+      "id": "75.05.08",
+      "name": "Ponelo Kepulauan"
+    },
+    {
+      "id": "75.05.09",
+      "name": "Monano"
+    },
+    {
+      "id": "75.05.10",
+      "name": "Biau"
+    },
+    {
+      "id": "75.05.11",
+      "name": "Sumalata Timur"
+    },
+    {
+      "id": "75.71.01",
+      "name": "Kota Barat"
+    },
+    {
+      "id": "75.71.02",
+      "name": "Kota Selatan"
+    },
+    {
+      "id": "75.71.03",
+      "name": "Kota Utara"
+    },
+    {
+      "id": "75.71.04",
+      "name": "Dungingi"
+    },
+    {
+      "id": "75.71.05",
+      "name": "Kota Timur"
+    },
+    {
+      "id": "75.71.06",
+      "name": "Kota Tengah"
+    },
+    {
+      "id": "75.71.07",
+      "name": "Sipatana"
+    },
+    {
+      "id": "75.71.08",
+      "name": "Dumbo Raya"
+    },
+    {
+      "id": "75.71.09",
+      "name": "Hulonthalangi"
+    }
+  ],
+  "villages": [
+    {
+      "id": "75.01.01.1001",
+      "name": "Kayubulan"
+    },
+    {
+      "id": "75.01.01.1002",
+      "name": "Kayumerah"
+    },
+    {
+      "id": "75.01.01.1003",
+      "name": "Hunggaluwa"
+    },
+    {
+      "id": "75.01.01.1004",
+      "name": "Bolihuangga"
+    },
+    {
+      "id": "75.01.01.1005",
+      "name": "Hepuhulawa"
+    },
+    {
+      "id": "75.01.01.1006",
+      "name": "Hutuo"
+    },
+    {
+      "id": "75.01.01.1007",
+      "name": "Dutulanaa"
+    },
+    {
+      "id": "75.01.01.1008",
+      "name": "Tenilo"
+    },
+    {
+      "id": "75.01.01.1009",
+      "name": "Biyonga"
+    },
+    {
+      "id": "75.01.01.1010",
+      "name": "Bongohulawa"
+    },
+    {
+      "id": "75.01.01.1011",
+      "name": "Bulota"
+    },
+    {
+      "id": "75.01.01.1012",
+      "name": "Malahu"
+    },
+    {
+      "id": "75.01.01.1013",
+      "name": "Tilihuwa (Tilihua)"
+    },
+    {
+      "id": "75.01.01.1014",
+      "name": "Polohungo"
+    },
+    {
+      "id": "75.01.02.2011",
+      "name": "Bulila"
+    },
+    {
+      "id": "75.01.02.2014",
+      "name": "Mongolato"
+    },
+    {
+      "id": "75.01.02.2015",
+      "name": "Luhu"
+    },
+    {
+      "id": "75.01.02.2016",
+      "name": "Hulawa"
+    },
+    {
+      "id": "75.01.02.2017",
+      "name": "Pilohayanga"
+    },
+    {
+      "id": "75.01.02.2018",
+      "name": "Dulamayo Selatan"
+    },
+    {
+      "id": "75.01.02.2019",
+      "name": "Dulamayo Barat"
+    },
+    {
+      "id": "75.01.02.2020",
+      "name": "Dulohupa"
+    },
+    {
+      "id": "75.01.02.2021",
+      "name": "Pilohayanga Barat"
+    },
+    {
+      "id": "75.01.03.2001",
+      "name": "Iluta"
+    },
+    {
+      "id": "75.01.03.2002",
+      "name": "Bua"
+    },
+    {
+      "id": "75.01.03.2003",
+      "name": "Huntu"
+    },
+    {
+      "id": "75.01.03.2004",
+      "name": "Payunga"
+    },
+    {
+      "id": "75.01.03.2012",
+      "name": "Barakati"
+    },
+    {
+      "id": "75.01.03.2013",
+      "name": "Ilohungayo"
+    },
+    {
+      "id": "75.01.03.2014",
+      "name": "Dunggala"
+    },
+    {
+      "id": "75.01.03.2015",
+      "name": "Pilobuhuta"
+    },
+    {
+      "id": "75.01.04.2001",
+      "name": "Isimu Utara"
+    },
+    {
+      "id": "75.01.04.2002",
+      "name": "Isimu Selatan"
+    },
+    {
+      "id": "75.01.04.2003",
+      "name": "Datahu"
+    },
+    {
+      "id": "75.01.04.2004",
+      "name": "Tolotio"
+    },
+    {
+      "id": "75.01.04.2005",
+      "name": "Labanu"
+    },
+    {
+      "id": "75.01.04.2006",
+      "name": "Reksonegoro"
+    },
+    {
+      "id": "75.01.04.2007",
+      "name": "Buhu"
+    },
+    {
+      "id": "75.01.04.2008",
+      "name": "Dunggala"
+    },
+    {
+      "id": "75.01.04.2009",
+      "name": "Molowahu"
+    },
+    {
+      "id": "75.01.04.2010",
+      "name": "Iloponu"
+    },
+    {
+      "id": "75.01.04.2011",
+      "name": "Ilomata"
+    },
+    {
+      "id": "75.01.04.2012",
+      "name": "Motilango"
+    },
+    {
+      "id": "75.01.04.2013",
+      "name": "Isimu Raya"
+    },
+    {
+      "id": "75.01.04.2014",
+      "name": "Balahu"
+    },
+    {
+      "id": "75.01.04.2015",
+      "name": "Botumoputi"
+    },
+    {
+      "id": "75.01.04.2016",
+      "name": "Ulobua"
+    },
+    {
+      "id": "75.01.05.2004",
+      "name": "Tontayuo"
+    },
+    {
+      "id": "75.01.05.2005",
+      "name": "Biluhu Timur"
+    },
+    {
+      "id": "75.01.05.2006",
+      "name": "Kayubulan"
+    },
+    {
+      "id": "75.01.05.2007",
+      "name": "Bongo"
+    },
+    {
+      "id": "75.01.05.2008",
+      "name": "Lopo"
+    },
+    {
+      "id": "75.01.05.2009",
+      "name": "Lamu"
+    },
+    {
+      "id": "75.01.05.2012",
+      "name": "Olimoo'o (Olimoo)"
+    },
+    {
+      "id": "75.01.05.2014",
+      "name": "Buhudaa"
+    },
+    {
+      "id": "75.01.05.2015",
+      "name": "Langgula"
+    },
+    {
+      "id": "75.01.09.2001",
+      "name": "Sidomulyo"
+    },
+    {
+      "id": "75.01.09.2004",
+      "name": "Parungi"
+    },
+    {
+      "id": "75.01.09.2006",
+      "name": "Diloniyohu"
+    },
+    {
+      "id": "75.01.09.2007",
+      "name": "Sidodadi"
+    },
+    {
+      "id": "75.01.09.2010",
+      "name": "Potanga"
+    },
+    {
+      "id": "75.01.09.2011",
+      "name": "Motoduto"
+    },
+    {
+      "id": "75.01.09.2012",
+      "name": "Iloheluma"
+    },
+    {
+      "id": "75.01.09.2014",
+      "name": "Monggolito"
+    },
+    {
+      "id": "75.01.09.2015",
+      "name": "Bandung Rejo"
+    },
+    {
+      "id": "75.01.09.2018",
+      "name": "Dulohupa"
+    },
+    {
+      "id": "75.01.09.2019",
+      "name": "Sidomulya Selatan (Sidomulyo Selatan)"
+    },
+    {
+      "id": "75.01.09.2020",
+      "name": "Bongongoayu (Bongongayu)"
+    },
+    {
+      "id": "75.01.09.2021",
+      "name": "Tolite"
+    },
+    {
+      "id": "75.01.10.2001",
+      "name": "Dulamayo Utara"
+    },
+    {
+      "id": "75.01.10.2002",
+      "name": "Ulapato A"
+    },
+    {
+      "id": "75.01.10.2003",
+      "name": "Ulapato B"
+    },
+    {
+      "id": "75.01.10.2004",
+      "name": "Talumelito"
+    },
+    {
+      "id": "75.01.10.2005",
+      "name": "Tuladenggi"
+    },
+    {
+      "id": "75.01.10.2006",
+      "name": "Pantungo"
+    },
+    {
+      "id": "75.01.10.2007",
+      "name": "Lupoyo"
+    },
+    {
+      "id": "75.01.10.2008",
+      "name": "Pentadio Timur"
+    },
+    {
+      "id": "75.01.10.2009",
+      "name": "Pentadio Barat"
+    },
+    {
+      "id": "75.01.10.2010",
+      "name": "Dumati"
+    },
+    {
+      "id": "75.01.10.2011",
+      "name": "Modelidu (Modellidu)"
+    },
+    {
+      "id": "75.01.10.2012",
+      "name": "Tinelo"
+    },
+    {
+      "id": "75.01.10.2013",
+      "name": "Timuato"
+    },
+    {
+      "id": "75.01.10.2014",
+      "name": "Tapaluluo"
+    },
+    {
+      "id": "75.01.10.2015",
+      "name": "Tonala"
+    },
+    {
+      "id": "75.01.11.2001",
+      "name": "Dulamayo"
+    },
+    {
+      "id": "75.01.11.2008",
+      "name": "Upomela"
+    },
+    {
+      "id": "75.01.11.2009",
+      "name": "Tohupo"
+    },
+    {
+      "id": "75.01.11.2010",
+      "name": "Molanihu"
+    },
+    {
+      "id": "75.01.11.2011",
+      "name": "Molopatodu"
+    },
+    {
+      "id": "75.01.11.2012",
+      "name": "Molas"
+    },
+    {
+      "id": "75.01.11.2013",
+      "name": "Batulayar"
+    },
+    {
+      "id": "75.01.11.2014",
+      "name": "Batuloreng (Batu Loreng)"
+    },
+    {
+      "id": "75.01.11.2015",
+      "name": "Bongohulawa"
+    },
+    {
+      "id": "75.01.11.2016",
+      "name": "Otopade"
+    },
+    {
+      "id": "75.01.11.2018",
+      "name": "Huntulo Hulawa (Huntu Lo Hulawa)"
+    },
+    {
+      "id": "75.01.11.2022",
+      "name": "Owalanga"
+    },
+    {
+      "id": "75.01.11.2023",
+      "name": "Liyodu"
+    },
+    {
+      "id": "75.01.11.2024",
+      "name": "Liyoto"
+    },
+    {
+      "id": "75.01.11.2025",
+      "name": "Kayumerah"
+    },
+    {
+      "id": "75.01.13.2001",
+      "name": "Sukamakmur"
+    },
+    {
+      "id": "75.01.13.2002",
+      "name": "Lakeya"
+    },
+    {
+      "id": "75.01.13.2003",
+      "name": "Gandasari"
+    },
+    {
+      "id": "75.01.13.2004",
+      "name": "Molohu"
+    },
+    {
+      "id": "75.01.13.2007",
+      "name": "Polohungo"
+    },
+    {
+      "id": "75.01.13.2008",
+      "name": "Bina Jaya"
+    },
+    {
+      "id": "75.01.13.2009",
+      "name": "Tamaila"
+    },
+    {
+      "id": "75.01.13.2010",
+      "name": "Sidoharjo (Sidoarjo)"
+    },
+    {
+      "id": "75.01.13.2013",
+      "name": "Sukamakmur Utara"
+    },
+    {
+      "id": "75.01.13.2014",
+      "name": "Margomulya (Margomulyo)"
+    },
+    {
+      "id": "75.01.13.2015",
+      "name": "Makmur Abadi"
+    },
+    {
+      "id": "75.01.13.2016",
+      "name": "Gandaria"
+    },
+    {
+      "id": "75.01.13.2017",
+      "name": "Ombulo Tango"
+    },
+    {
+      "id": "75.01.13.2018",
+      "name": "Tamalia Utara"
+    },
+    {
+      "id": "75.01.13.2019",
+      "name": "Himalaya"
+    },
+    {
+      "id": "75.01.14.2001",
+      "name": "Paris"
+    },
+    {
+      "id": "75.01.14.2002",
+      "name": "Helumo"
+    },
+    {
+      "id": "75.01.14.2003",
+      "name": "Pilomonu"
+    },
+    {
+      "id": "75.01.14.2004",
+      "name": "Satria"
+    },
+    {
+      "id": "75.01.14.2005",
+      "name": "Karyamukti (Karya Mukti)"
+    },
+    {
+      "id": "75.01.14.2006",
+      "name": "Talumopatu"
+    },
+    {
+      "id": "75.01.14.2007",
+      "name": "Sidomukti (Sido Mukti)"
+    },
+    {
+      "id": "75.01.14.2008",
+      "name": "Payu"
+    },
+    {
+      "id": "75.01.14.2009",
+      "name": "Sukamaju (Suka Maju)"
+    },
+    {
+      "id": "75.01.14.2010",
+      "name": "Huyula"
+    },
+    {
+      "id": "75.01.16.2001",
+      "name": "Pongongaila"
+    },
+    {
+      "id": "75.01.16.2002",
+      "name": "Pulubala"
+    },
+    {
+      "id": "75.01.16.2003",
+      "name": "Molamahu"
+    },
+    {
+      "id": "75.01.16.2004",
+      "name": "Bakti"
+    },
+    {
+      "id": "75.01.16.2005",
+      "name": "Tridharma (Tridarma)"
+    },
+    {
+      "id": "75.01.16.2006",
+      "name": "Molalahu"
+    },
+    {
+      "id": "75.01.16.2007",
+      "name": "Mulyonegoro"
+    },
+    {
+      "id": "75.01.16.2008",
+      "name": "Puncak"
+    },
+    {
+      "id": "75.01.16.2009",
+      "name": "Toyidito (Toydito)"
+    },
+    {
+      "id": "75.01.16.2010",
+      "name": "Ayumolingo"
+    },
+    {
+      "id": "75.01.16.2011",
+      "name": "Bukit Aren"
+    },
+    {
+      "id": "75.01.17.2001",
+      "name": "Pone"
+    },
+    {
+      "id": "75.01.17.2002",
+      "name": "Huidu"
+    },
+    {
+      "id": "75.01.17.2003",
+      "name": "Ombulo"
+    },
+    {
+      "id": "75.01.17.2004",
+      "name": "Daenaa"
+    },
+    {
+      "id": "75.01.17.2005",
+      "name": "Yosonegoro (Yoosonegoro)"
+    },
+    {
+      "id": "75.01.17.2006",
+      "name": "Tunggulo"
+    },
+    {
+      "id": "75.01.17.2007",
+      "name": "Hutabohu"
+    },
+    {
+      "id": "75.01.17.2008",
+      "name": "Padengo"
+    },
+    {
+      "id": "75.01.17.2009",
+      "name": "Haya-Haya (Hayahaya)"
+    },
+    {
+      "id": "75.01.17.2010",
+      "name": "Huidu Utara"
+    },
+    {
+      "id": "75.01.18.2001",
+      "name": "Tualango"
+    },
+    {
+      "id": "75.01.18.2002",
+      "name": "Dulomo"
+    },
+    {
+      "id": "75.01.18.2003",
+      "name": "Tilote"
+    },
+    {
+      "id": "75.01.18.2004",
+      "name": "Tabumela"
+    },
+    {
+      "id": "75.01.18.2005",
+      "name": "Ilotidea (Ilotideaa)"
+    },
+    {
+      "id": "75.01.18.2006",
+      "name": "Lauwonu"
+    },
+    {
+      "id": "75.01.18.2007",
+      "name": "Tenggela"
+    },
+    {
+      "id": "75.01.18.2008",
+      "name": "Tinelo"
+    },
+    {
+      "id": "75.01.19.2001",
+      "name": "Tabongo Timur"
+    },
+    {
+      "id": "75.01.19.2002",
+      "name": "Tabongo Barat"
+    },
+    {
+      "id": "75.01.19.2003",
+      "name": "Limehe Barat"
+    },
+    {
+      "id": "75.01.19.2004",
+      "name": "Limehe Timur"
+    },
+    {
+      "id": "75.01.19.2005",
+      "name": "Ilomangga"
+    },
+    {
+      "id": "75.01.19.2006",
+      "name": "Motinelo"
+    },
+    {
+      "id": "75.01.19.2007",
+      "name": "Moahudu"
+    },
+    {
+      "id": "75.01.19.2008",
+      "name": "Teratai"
+    },
+    {
+      "id": "75.01.19.2009",
+      "name": "Limehu"
+    },
+    {
+      "id": "75.01.20.2001",
+      "name": "Biluhu Barat"
+    },
+    {
+      "id": "75.01.20.2002",
+      "name": "Lobuto"
+    },
+    {
+      "id": "75.01.20.2003",
+      "name": "Biluhu Tengah"
+    },
+    {
+      "id": "75.01.20.2004",
+      "name": "Luluo"
+    },
+    {
+      "id": "75.01.20.2005",
+      "name": "Huwongo"
+    },
+    {
+      "id": "75.01.20.2006",
+      "name": "Lobuto Timur"
+    },
+    {
+      "id": "75.01.20.2007",
+      "name": "Botu Boluo (Botubolu'o / Botuboluo)"
+    },
+    {
+      "id": "75.01.20.2008",
+      "name": "Olimeyala"
+    },
+    {
+      "id": "75.01.21.2001",
+      "name": "Bululi"
+    },
+    {
+      "id": "75.01.21.2002",
+      "name": "Mohiyolo"
+    },
+    {
+      "id": "75.01.21.2003",
+      "name": "Pangahu"
+    },
+    {
+      "id": "75.01.21.2004",
+      "name": "Karya Indah"
+    },
+    {
+      "id": "75.01.21.2005",
+      "name": "Prima"
+    },
+    {
+      "id": "75.01.21.2006",
+      "name": "Tiohu"
+    },
+    {
+      "id": "75.01.21.2007",
+      "name": "Olimohulo"
+    },
+    {
+      "id": "75.01.21.2008",
+      "name": "Karya Baru"
+    },
+    {
+      "id": "75.01.21.2009",
+      "name": "Bontula (Bontulo)"
+    },
+    {
+      "id": "75.01.21.2010",
+      "name": "Bihe"
+    },
+    {
+      "id": "75.01.22.2001",
+      "name": "Hutadaa"
+    },
+    {
+      "id": "75.01.22.2002",
+      "name": "Buhu"
+    },
+    {
+      "id": "75.01.22.2003",
+      "name": "Luwoo"
+    },
+    {
+      "id": "75.01.22.2004",
+      "name": "Bunggalo"
+    },
+    {
+      "id": "75.01.22.2005",
+      "name": "Bulota"
+    },
+    {
+      "id": "75.01.23.2001",
+      "name": "Totopo"
+    },
+    {
+      "id": "75.01.23.2002",
+      "name": "Bilato"
+    },
+    {
+      "id": "75.01.23.2003",
+      "name": "Ilomata"
+    },
+    {
+      "id": "75.01.23.2004",
+      "name": "Taula'a (Taulaa)"
+    },
+    {
+      "id": "75.01.23.2005",
+      "name": "Juriya"
+    },
+    {
+      "id": "75.01.23.2006",
+      "name": "Pelehu"
+    },
+    {
+      "id": "75.01.23.2007",
+      "name": "Bumela"
+    },
+    {
+      "id": "75.01.23.2008",
+      "name": "Lamahu"
+    },
+    {
+      "id": "75.01.23.2009",
+      "name": "Musyawarah"
+    },
+    {
+      "id": "75.01.23.2010",
+      "name": "Suka Damai"
+    },
+    {
+      "id": "75.01.24.2001",
+      "name": "Pilolalenga"
+    },
+    {
+      "id": "75.01.24.2002",
+      "name": "Kaliyoso"
+    },
+    {
+      "id": "75.01.24.2003",
+      "name": "Dungaliyo"
+    },
+    {
+      "id": "75.01.24.2004",
+      "name": "Ambara"
+    },
+    {
+      "id": "75.01.24.2005",
+      "name": "Bongomeme"
+    },
+    {
+      "id": "75.01.24.2006",
+      "name": "Duwanga"
+    },
+    {
+      "id": "75.01.24.2007",
+      "name": "Ayuhula"
+    },
+    {
+      "id": "75.01.24.2008",
+      "name": "Pangadaa"
+    },
+    {
+      "id": "75.01.24.2009",
+      "name": "Botubulowe (Botubu lowe)"
+    },
+    {
+      "id": "75.01.24.2010",
+      "name": "Momala"
+    },
+    {
+      "id": "75.02.01.2004",
+      "name": "Bongo Nol"
+    },
+    {
+      "id": "75.02.01.2005",
+      "name": "Bongo IV"
+    },
+    {
+      "id": "75.02.01.2006",
+      "name": "Molombulahe"
+    },
+    {
+      "id": "75.02.01.2007",
+      "name": "Mutiara"
+    },
+    {
+      "id": "75.02.01.2008",
+      "name": "Saripi"
+    },
+    {
+      "id": "75.02.01.2009",
+      "name": "Wonggahu"
+    },
+    {
+      "id": "75.02.01.2010",
+      "name": "Tangkobu"
+    },
+    {
+      "id": "75.02.01.2011",
+      "name": "Bongo Tua"
+    },
+    {
+      "id": "75.02.01.2012",
+      "name": "Kuala Lumpur (Kualalumpur)"
+    },
+    {
+      "id": "75.02.01.2013",
+      "name": "Mustika"
+    },
+    {
+      "id": "75.02.01.2014",
+      "name": "Tenilo"
+    },
+    {
+      "id": "75.02.01.2015",
+      "name": "Huwongo"
+    },
+    {
+      "id": "75.02.01.2016",
+      "name": "Karya Murni"
+    },
+    {
+      "id": "75.02.01.2019",
+      "name": "Girisa"
+    },
+    {
+      "id": "75.02.01.2020",
+      "name": "Batu Kramat"
+    },
+    {
+      "id": "75.02.01.2021",
+      "name": "Bualo"
+    },
+    {
+      "id": "75.02.01.2022",
+      "name": "Sosial"
+    },
+    {
+      "id": "75.02.01.2023",
+      "name": "Permata"
+    },
+    {
+      "id": "75.02.01.2024",
+      "name": "Hulawa"
+    },
+    {
+      "id": "75.02.01.2025",
+      "name": "Balate Jaya"
+    },
+    {
+      "id": "75.02.01.2026",
+      "name": "Rejonegoro"
+    },
+    {
+      "id": "75.02.01.2027",
+      "name": "Diloato"
+    },
+    {
+      "id": "75.02.02.2001",
+      "name": "Harapan"
+    },
+    {
+      "id": "75.02.02.2002",
+      "name": "Bongo II (Bongo Dua)"
+    },
+    {
+      "id": "75.02.02.2003",
+      "name": "Bongo III (Bongo Tiga)"
+    },
+    {
+      "id": "75.02.02.2004",
+      "name": "Mekarjaya (Mekar Jaya)"
+    },
+    {
+      "id": "75.02.02.2005",
+      "name": "Sukamaju"
+    },
+    {
+      "id": "75.02.02.2006",
+      "name": "Pangeya"
+    },
+    {
+      "id": "75.02.02.2007",
+      "name": "Jatimulya"
+    },
+    {
+      "id": "75.02.02.2008",
+      "name": "Suka Mulya (Sukamulya)"
+    },
+    {
+      "id": "75.02.02.2009",
+      "name": "Sari Tani"
+    },
+    {
+      "id": "75.02.02.2010",
+      "name": "Dimito"
+    },
+    {
+      "id": "75.02.02.2011",
+      "name": "Tanjung Harapan"
+    },
+    {
+      "id": "75.02.02.2012",
+      "name": "Raharja"
+    },
+    {
+      "id": "75.02.02.2013",
+      "name": "Trirukun (Tri Rukun)"
+    },
+    {
+      "id": "75.02.02.2014",
+      "name": "Dulohupa"
+    },
+    {
+      "id": "75.02.03.2001",
+      "name": "Dulupi"
+    },
+    {
+      "id": "75.02.03.2002",
+      "name": "Tabongo"
+    },
+    {
+      "id": "75.02.03.2003",
+      "name": "Kotaraja"
+    },
+    {
+      "id": "75.02.03.2004",
+      "name": "Polohungo"
+    },
+    {
+      "id": "75.02.03.2005",
+      "name": "Pangi"
+    },
+    {
+      "id": "75.02.03.2006",
+      "name": "Tangga Jaya"
+    },
+    {
+      "id": "75.02.03.2007",
+      "name": "Tanah Putih"
+    },
+    {
+      "id": "75.02.03.2008",
+      "name": "Tangga Barito"
+    },
+    {
+      "id": "75.02.04.2001",
+      "name": "Limbato"
+    },
+    {
+      "id": "75.02.04.2002",
+      "name": "Piloliyanga"
+    },
+    {
+      "id": "75.02.04.2003",
+      "name": "Ayuhulalo"
+    },
+    {
+      "id": "75.02.04.2004",
+      "name": "Hungayonaa"
+    },
+    {
+      "id": "75.02.04.2005",
+      "name": "Modelomo"
+    },
+    {
+      "id": "75.02.04.2006",
+      "name": "Pentadu Barat"
+    },
+    {
+      "id": "75.02.04.2007",
+      "name": "Pentadu Timur"
+    },
+    {
+      "id": "75.02.04.2008",
+      "name": "Bajo"
+    },
+    {
+      "id": "75.02.04.2009",
+      "name": "Mohungo"
+    },
+    {
+      "id": "75.02.04.2010",
+      "name": "Lahumbo"
+    },
+    {
+      "id": "75.02.04.2011",
+      "name": "Lamu"
+    },
+    {
+      "id": "75.02.04.2018",
+      "name": "Tenilo"
+    },
+    {
+      "id": "75.02.05.2001",
+      "name": "Tabulo"
+    },
+    {
+      "id": "75.02.05.2002",
+      "name": "Kaaruyan"
+    },
+    {
+      "id": "75.02.05.2003",
+      "name": "Salilama"
+    },
+    {
+      "id": "75.02.05.2004",
+      "name": "Bendungan"
+    },
+    {
+      "id": "75.02.05.2005",
+      "name": "Mananggu"
+    },
+    {
+      "id": "75.02.05.2006",
+      "name": "Buti"
+    },
+    {
+      "id": "75.02.05.2007",
+      "name": "Pontolo"
+    },
+    {
+      "id": "75.02.05.2008",
+      "name": "Kramat (Keramat)"
+    },
+    {
+      "id": "75.02.05.2009",
+      "name": "Tabulo Selatan"
+    },
+    {
+      "id": "75.02.06.2001",
+      "name": "Tutulo"
+    },
+    {
+      "id": "75.02.06.2002",
+      "name": "Hutamonu"
+    },
+    {
+      "id": "75.02.06.2003",
+      "name": "Patoameme"
+    },
+    {
+      "id": "75.02.06.2004",
+      "name": "Tapadaa"
+    },
+    {
+      "id": "75.02.06.2005",
+      "name": "Potanga"
+    },
+    {
+      "id": "75.02.06.2006",
+      "name": "Botumoito"
+    },
+    {
+      "id": "75.02.06.2007",
+      "name": "Bolihutuo"
+    },
+    {
+      "id": "75.02.06.2008",
+      "name": "Rumbia"
+    },
+    {
+      "id": "75.02.06.2009",
+      "name": "Dulangea (Dulangeya)"
+    },
+    {
+      "id": "75.02.07.2001",
+      "name": "Bubaa"
+    },
+    {
+      "id": "75.02.07.2002",
+      "name": "Lito"
+    },
+    {
+      "id": "75.02.07.2003",
+      "name": "Limbatihu"
+    },
+    {
+      "id": "75.02.07.2004",
+      "name": "Bukit Karya"
+    },
+    {
+      "id": "75.02.07.2005",
+      "name": "Apitalawu (Apitalawo)"
+    },
+    {
+      "id": "75.02.07.2006",
+      "name": "Bangga"
+    },
+    {
+      "id": "75.02.07.2007",
+      "name": "Towayu"
+    },
+    {
+      "id": "75.02.07.2008",
+      "name": "Olibu"
+    },
+    {
+      "id": "75.03.01.2004",
+      "name": "Talumopatu"
+    },
+    {
+      "id": "75.03.01.2005",
+      "name": "Talulobutu"
+    },
+    {
+      "id": "75.03.01.2006",
+      "name": "Dunggala"
+    },
+    {
+      "id": "75.03.01.2007",
+      "name": "Langge"
+    },
+    {
+      "id": "75.03.01.2027",
+      "name": "Talulobutu Selatan"
+    },
+    {
+      "id": "75.03.01.2028",
+      "name": "Keramat"
+    },
+    {
+      "id": "75.03.01.2029",
+      "name": "Meranti"
+    },
+    {
+      "id": "75.03.02.1008",
+      "name": "Padengo"
+    },
+    {
+      "id": "75.03.02.1009",
+      "name": "Olohuta (Oluhuta)"
+    },
+    {
+      "id": "75.03.02.1010",
+      "name": "Tumbihe"
+    },
+    {
+      "id": "75.03.02.1011",
+      "name": "Pauwo"
+    },
+    {
+      "id": "75.03.02.1028",
+      "name": "Olohuta Utara (Oluhuta Utara)"
+    },
+    {
+      "id": "75.03.02.2006",
+      "name": "Dutohe"
+    },
+    {
+      "id": "75.03.02.2007",
+      "name": "Tanggilingo"
+    },
+    {
+      "id": "75.03.02.2012",
+      "name": "Toto Selatan"
+    },
+    {
+      "id": "75.03.02.2013",
+      "name": "Poowo"
+    },
+    {
+      "id": "75.03.02.2024",
+      "name": "Talango"
+    },
+    {
+      "id": "75.03.02.2026",
+      "name": "Poowo Barat"
+    },
+    {
+      "id": "75.03.02.2029",
+      "name": "Dutohe Barat"
+    },
+    {
+      "id": "75.03.03.2011",
+      "name": "Tingkohubu"
+    },
+    {
+      "id": "75.03.03.2012",
+      "name": "Boludawa"
+    },
+    {
+      "id": "75.03.03.2013",
+      "name": "Bube"
+    },
+    {
+      "id": "75.03.03.2014",
+      "name": "Huluduotamo"
+    },
+    {
+      "id": "75.03.03.2020",
+      "name": "Ulanta"
+    },
+    {
+      "id": "75.03.03.2021",
+      "name": "Tinelo"
+    },
+    {
+      "id": "75.03.03.2022",
+      "name": "Bubeya"
+    },
+    {
+      "id": "75.03.03.2023",
+      "name": "Bube Baru"
+    },
+    {
+      "id": "75.03.03.2027",
+      "name": "Tingkohubu Timur"
+    },
+    {
+      "id": "75.03.03.2028",
+      "name": "Helumo"
+    },
+    {
+      "id": "75.03.04.2003",
+      "name": "Tamboo"
+    },
+    {
+      "id": "75.03.04.2004",
+      "name": "Bilungala"
+    },
+    {
+      "id": "75.03.04.2005",
+      "name": "Uabanga"
+    },
+    {
+      "id": "75.03.04.2008",
+      "name": "Tolotio"
+    },
+    {
+      "id": "75.03.04.2012",
+      "name": "Tongo"
+    },
+    {
+      "id": "75.03.04.2025",
+      "name": "Bilungala Utara"
+    },
+    {
+      "id": "75.03.04.2026",
+      "name": "Tihu"
+    },
+    {
+      "id": "75.03.04.2027",
+      "name": "Tunas Jaya"
+    },
+    {
+      "id": "75.03.04.2028",
+      "name": "Lembah Hijau"
+    },
+    {
+      "id": "75.03.04.2029",
+      "name": "Batu Hijau"
+    },
+    {
+      "id": "75.03.04.2031",
+      "name": "Ombulo Hijau"
+    },
+    {
+      "id": "75.03.04.2032",
+      "name": "Kemiri"
+    },
+    {
+      "id": "75.03.04.2033",
+      "name": "Pelita Hijau"
+    },
+    {
+      "id": "75.03.05.2001",
+      "name": "Boidu"
+    },
+    {
+      "id": "75.03.05.2002",
+      "name": "Bandungan"
+    },
+    {
+      "id": "75.03.05.2003",
+      "name": "Tupa"
+    },
+    {
+      "id": "75.03.05.2004",
+      "name": "Longalo"
+    },
+    {
+      "id": "75.03.05.2009",
+      "name": "Tuloa"
+    },
+    {
+      "id": "75.03.05.2010",
+      "name": "Kopi"
+    },
+    {
+      "id": "75.03.05.2011",
+      "name": "Lomaya"
+    },
+    {
+      "id": "75.03.05.2012",
+      "name": "Suka Damai"
+    },
+    {
+      "id": "75.03.05.2015",
+      "name": "Bunuo"
+    },
+    {
+      "id": "75.03.06.2001",
+      "name": "Bongoime"
+    },
+    {
+      "id": "75.03.06.2002",
+      "name": "Bongopini"
+    },
+    {
+      "id": "75.03.06.2003",
+      "name": "Toto Utara"
+    },
+    {
+      "id": "75.03.06.2004",
+      "name": "Moutong"
+    },
+    {
+      "id": "75.03.06.2005",
+      "name": "Tunggulo"
+    },
+    {
+      "id": "75.03.06.2006",
+      "name": "Lonuo"
+    },
+    {
+      "id": "75.03.06.2007",
+      "name": "Tamboo"
+    },
+    {
+      "id": "75.03.06.2008",
+      "name": "Iloheluma"
+    },
+    {
+      "id": "75.03.06.2009",
+      "name": "Motilango (Mootilango)"
+    },
+    {
+      "id": "75.03.06.2010",
+      "name": "Butu"
+    },
+    {
+      "id": "75.03.06.2011",
+      "name": "Permata"
+    },
+    {
+      "id": "75.03.06.2012",
+      "name": "Tunggulo Selatan"
+    },
+    {
+      "id": "75.03.06.2013",
+      "name": "Bongohulawa (Bongohulowa)"
+    },
+    {
+      "id": "75.03.06.2014",
+      "name": "Berlian"
+    },
+    {
+      "id": "75.03.07.2001",
+      "name": "Timbuolo"
+    },
+    {
+      "id": "75.03.07.2002",
+      "name": "Panggulo"
+    },
+    {
+      "id": "75.03.07.2003",
+      "name": "Luwohu"
+    },
+    {
+      "id": "75.03.07.2004",
+      "name": "Buata"
+    },
+    {
+      "id": "75.03.07.2005",
+      "name": "Timbuolo Timur"
+    },
+    {
+      "id": "75.03.07.2006",
+      "name": "Tanah Putih"
+    },
+    {
+      "id": "75.03.07.2007",
+      "name": "Panggula Barat (Panggulo Barat)"
+    },
+    {
+      "id": "75.03.07.2008",
+      "name": "Timbuolo Tengah"
+    },
+    {
+      "id": "75.03.07.2009",
+      "name": "Sukma"
+    },
+    {
+      "id": "75.03.08.2001",
+      "name": "Huangobotu"
+    },
+    {
+      "id": "75.03.08.2002",
+      "name": "Molotabu (Molutabu)"
+    },
+    {
+      "id": "75.03.08.2003",
+      "name": "Oluhuta"
+    },
+    {
+      "id": "75.03.08.2004",
+      "name": "Olele"
+    },
+    {
+      "id": "75.03.08.2005",
+      "name": "Botutonuo (Botutonua)"
+    },
+    {
+      "id": "75.03.08.2006",
+      "name": "Modelomo"
+    },
+    {
+      "id": "75.03.08.2007",
+      "name": "Biluango"
+    },
+    {
+      "id": "75.03.08.2008",
+      "name": "Botubarani"
+    },
+    {
+      "id": "75.03.08.2009",
+      "name": "Bintalahe"
+    },
+    {
+      "id": "75.03.09.2001",
+      "name": "Taludaa"
+    },
+    {
+      "id": "75.03.09.2002",
+      "name": "Sogitia"
+    },
+    {
+      "id": "75.03.09.2003",
+      "name": "Moodulio"
+    },
+    {
+      "id": "75.03.09.2004",
+      "name": "Bilonlantunga (Bilolantuna)"
+    },
+    {
+      "id": "75.03.09.2005",
+      "name": "Inogaluma"
+    },
+    {
+      "id": "75.03.09.2006",
+      "name": "Monano"
+    },
+    {
+      "id": "75.03.09.2007",
+      "name": "Tumbuh Mekar"
+    },
+    {
+      "id": "75.03.09.2008",
+      "name": "Molamahu"
+    },
+    {
+      "id": "75.03.09.2009",
+      "name": "Masiaga"
+    },
+    {
+      "id": "75.03.09.2010",
+      "name": "Ilohuuwa"
+    },
+    {
+      "id": "75.03.09.2011",
+      "name": "Muara Bone"
+    },
+    {
+      "id": "75.03.09.2012",
+      "name": "Cendana Putih"
+    },
+    {
+      "id": "75.03.09.2013",
+      "name": "Waluhu"
+    },
+    {
+      "id": "75.03.09.2014",
+      "name": "Permata"
+    },
+    {
+      "id": "75.03.10.2001",
+      "name": "Inomata"
+    },
+    {
+      "id": "75.03.10.2003",
+      "name": "Tumbulilato (Tombulilato)"
+    },
+    {
+      "id": "75.03.10.2004",
+      "name": "Mootayu"
+    },
+    {
+      "id": "75.03.10.2006",
+      "name": "Mootinelo"
+    },
+    {
+      "id": "75.03.10.2009",
+      "name": "Pelita Jaya"
+    },
+    {
+      "id": "75.03.10.2010",
+      "name": "Moopuya (Moopiya / Mopuya)"
+    },
+    {
+      "id": "75.03.10.2011",
+      "name": "Alo"
+    },
+    {
+      "id": "75.03.10.2012",
+      "name": "Laut Biru"
+    },
+    {
+      "id": "75.03.10.2014",
+      "name": "Bunga"
+    },
+    {
+      "id": "75.03.10.2015",
+      "name": "Mootawa"
+    },
+    {
+      "id": "75.03.11.2001",
+      "name": "Tulabolo"
+    },
+    {
+      "id": "75.03.11.2003",
+      "name": "Dumbaya Bulan (Dumbayabulan)"
+    },
+    {
+      "id": "75.03.11.2004",
+      "name": "Tulabolo Timur"
+    },
+    {
+      "id": "75.03.11.2005",
+      "name": "Tilangobula"
+    },
+    {
+      "id": "75.03.11.2007",
+      "name": "Poduwoma (Poduoma)"
+    },
+    {
+      "id": "75.03.11.2008",
+      "name": "Panggulo"
+    },
+    {
+      "id": "75.03.11.2009",
+      "name": "Tulabolo Barat"
+    },
+    {
+      "id": "75.03.11.2010",
+      "name": "Pangi"
+    },
+    {
+      "id": "75.03.11.2011",
+      "name": "Tinemba"
+    },
+    {
+      "id": "75.03.12.2001",
+      "name": "Bulontala"
+    },
+    {
+      "id": "75.03.12.2002",
+      "name": "Libungo"
+    },
+    {
+      "id": "75.03.12.2003",
+      "name": "Molintogupo"
+    },
+    {
+      "id": "75.03.12.2004",
+      "name": "Bonedaa"
+    },
+    {
+      "id": "75.03.12.2005",
+      "name": "Bondawuna"
+    },
+    {
+      "id": "75.03.12.2006",
+      "name": "Bulontala Timur"
+    },
+    {
+      "id": "75.03.12.2007",
+      "name": "Pancuran"
+    },
+    {
+      "id": "75.03.12.2008",
+      "name": "Bondaraya (Bonda Raya)"
+    },
+    {
+      "id": "75.03.13.2001",
+      "name": "Lompotoo"
+    },
+    {
+      "id": "75.03.13.2002",
+      "name": "Lombongo"
+    },
+    {
+      "id": "75.03.13.2003",
+      "name": "Duano"
+    },
+    {
+      "id": "75.03.13.2004",
+      "name": "Tolomato"
+    },
+    {
+      "id": "75.03.13.2005",
+      "name": "Alale (Alele)"
+    },
+    {
+      "id": "75.03.13.2006",
+      "name": "Tapadaa"
+    },
+    {
+      "id": "75.03.14.2001",
+      "name": "Mongiilo"
+    },
+    {
+      "id": "75.03.14.2002",
+      "name": "Owata"
+    },
+    {
+      "id": "75.03.14.2003",
+      "name": "Mongiilo Utara"
+    },
+    {
+      "id": "75.03.14.2004",
+      "name": "Pilolaheya"
+    },
+    {
+      "id": "75.03.14.2005",
+      "name": "Ilomata"
+    },
+    {
+      "id": "75.03.14.2006",
+      "name": "Suka Makmur"
+    },
+    {
+      "id": "75.03.15.2001",
+      "name": "Ayula Selatan"
+    },
+    {
+      "id": "75.03.15.2002",
+      "name": "Huntu Utara"
+    },
+    {
+      "id": "75.03.15.2003",
+      "name": "Ayula Utara"
+    },
+    {
+      "id": "75.03.15.2004",
+      "name": "Huntu Selatan"
+    },
+    {
+      "id": "75.03.15.2006",
+      "name": "Ayula Tilango"
+    },
+    {
+      "id": "75.03.15.2007",
+      "name": "Ayula Timur"
+    },
+    {
+      "id": "75.03.15.2008",
+      "name": "Lamahu"
+    },
+    {
+      "id": "75.03.15.2009",
+      "name": "Tinelo Ayula"
+    },
+    {
+      "id": "75.03.15.2010",
+      "name": "Sejahtera"
+    },
+    {
+      "id": "75.03.15.2011",
+      "name": "Huntu Barat (Mekar Jaya)"
+    },
+    {
+      "id": "75.03.16.2001",
+      "name": "Bulotalangi"
+    },
+    {
+      "id": "75.03.16.2002",
+      "name": "Toluwaya (Tuloa)"
+    },
+    {
+      "id": "75.03.16.2003",
+      "name": "Popodu"
+    },
+    {
+      "id": "75.03.16.2004",
+      "name": "Bulotalangi Timur"
+    },
+    {
+      "id": "75.03.16.2005",
+      "name": "Bulotalangi Barat"
+    },
+    {
+      "id": "75.03.17.2001",
+      "name": "Mamungaa"
+    },
+    {
+      "id": "75.03.17.2002",
+      "name": "Kaidundu Barat"
+    },
+    {
+      "id": "75.03.17.2003",
+      "name": "Mopuya"
+    },
+    {
+      "id": "75.03.17.2004",
+      "name": "Kaidundu"
+    },
+    {
+      "id": "75.03.17.2005",
+      "name": "Bukit Hijau"
+    },
+    {
+      "id": "75.03.17.2006",
+      "name": "Mamungaa Timur"
+    },
+    {
+      "id": "75.03.17.2007",
+      "name": "Dunggilata"
+    },
+    {
+      "id": "75.03.17.2008",
+      "name": "Pinomotiga"
+    },
+    {
+      "id": "75.03.17.2009",
+      "name": "Patoa"
+    },
+    {
+      "id": "75.03.18.2001",
+      "name": "Pinogu"
+    },
+    {
+      "id": "75.03.18.2002",
+      "name": "Bangio"
+    },
+    {
+      "id": "75.03.18.2003",
+      "name": "Dataran Hijau"
+    },
+    {
+      "id": "75.03.18.2004",
+      "name": "Pinogu Permai"
+    },
+    {
+      "id": "75.03.18.2005",
+      "name": "Tilonggibila"
+    },
+    {
+      "id": "75.04.01.2003",
+      "name": "Torosiaje Jaya"
+    },
+    {
+      "id": "75.04.01.2004",
+      "name": "Popayato"
+    },
+    {
+      "id": "75.04.01.2008",
+      "name": "Telaga"
+    },
+    {
+      "id": "75.04.01.2012",
+      "name": "Torosiaje"
+    },
+    {
+      "id": "75.04.01.2015",
+      "name": "Bukit Tingki"
+    },
+    {
+      "id": "75.04.01.2016",
+      "name": "Tunas Harapan"
+    },
+    {
+      "id": "75.04.01.2017",
+      "name": "Trikora"
+    },
+    {
+      "id": "75.04.01.2018",
+      "name": "Dambalo"
+    },
+    {
+      "id": "75.04.01.2019",
+      "name": "Telaga Biru"
+    },
+    {
+      "id": "75.04.01.2020",
+      "name": "Bumi Bahari"
+    },
+    {
+      "id": "75.04.02.2001",
+      "name": "Lemito"
+    },
+    {
+      "id": "75.04.02.2002",
+      "name": "Wonggarasi Barat"
+    },
+    {
+      "id": "75.04.02.2004",
+      "name": "Lomuli"
+    },
+    {
+      "id": "75.04.02.2008",
+      "name": "Lemito Utara"
+    },
+    {
+      "id": "75.04.02.2009",
+      "name": "Kenari"
+    },
+    {
+      "id": "75.04.02.2010",
+      "name": "Wonggarasi Tengah"
+    },
+    {
+      "id": "75.04.02.2011",
+      "name": "Suka Damai"
+    },
+    {
+      "id": "75.04.02.2012",
+      "name": "Babalonge"
+    },
+    {
+      "id": "75.04.03.2001",
+      "name": "Motolohu"
+    },
+    {
+      "id": "75.04.03.2002",
+      "name": "Imbodu"
+    },
+    {
+      "id": "75.04.03.2003",
+      "name": "Manunggal Karya"
+    },
+    {
+      "id": "75.04.03.2004",
+      "name": "Sidorukun"
+    },
+    {
+      "id": "75.04.03.2008",
+      "name": "Sarimurni (Sari Murni)"
+    },
+    {
+      "id": "75.04.03.2009",
+      "name": "Huyula"
+    },
+    {
+      "id": "75.04.03.2012",
+      "name": "Omayuwa"
+    },
+    {
+      "id": "75.04.03.2013",
+      "name": "Ayula"
+    },
+    {
+      "id": "75.04.03.2014",
+      "name": "Patuhu"
+    },
+    {
+      "id": "75.04.03.2015",
+      "name": "Banuroja"
+    },
+    {
+      "id": "75.04.03.2016",
+      "name": "Pelambane (Pelambane Perda)"
+    },
+    {
+      "id": "75.04.03.2017",
+      "name": "Motolohu Selatan"
+    },
+    {
+      "id": "75.04.03.2018",
+      "name": "Sidowonge (Siduwonge)"
+    },
+    {
+      "id": "75.04.04.2003",
+      "name": "Marisa Selatan"
+    },
+    {
+      "id": "75.04.04.2004",
+      "name": "Marisa Utara"
+    },
+    {
+      "id": "75.04.04.2007",
+      "name": "Teratai"
+    },
+    {
+      "id": "75.04.04.2008",
+      "name": "Pohuwato"
+    },
+    {
+      "id": "75.04.04.2015",
+      "name": "Batubilotahu (Batubilotahu Indah)"
+    },
+    {
+      "id": "75.04.04.2016",
+      "name": "Palopo"
+    },
+    {
+      "id": "75.04.04.2017",
+      "name": "Pohuwato Timur"
+    },
+    {
+      "id": "75.04.04.2018",
+      "name": "Bulangita"
+    },
+    {
+      "id": "75.04.05.1001",
+      "name": "Libuo"
+    },
+    {
+      "id": "75.04.05.1002",
+      "name": "Pentadu"
+    },
+    {
+      "id": "75.04.05.1003",
+      "name": "Siduan"
+    },
+    {
+      "id": "75.04.05.2004",
+      "name": "Bunuyo"
+    },
+    {
+      "id": "75.04.05.2005",
+      "name": "Sipayo"
+    },
+    {
+      "id": "75.04.05.2006",
+      "name": "Soginti"
+    },
+    {
+      "id": "75.04.05.2010",
+      "name": "Bumbulan"
+    },
+    {
+      "id": "75.04.05.2012",
+      "name": "Maleo"
+    },
+    {
+      "id": "75.04.05.2013",
+      "name": "Molamahu"
+    },
+    {
+      "id": "75.04.05.2014",
+      "name": "Buhu Jaya"
+    },
+    {
+      "id": "75.04.05.2015",
+      "name": "Kemiri (Kamiri)"
+    },
+    {
+      "id": "75.04.06.2001",
+      "name": "Iloheluma (Ilo Heluma)"
+    },
+    {
+      "id": "75.04.06.2002",
+      "name": "Balayo"
+    },
+    {
+      "id": "75.04.06.2003",
+      "name": "Suka Makmur"
+    },
+    {
+      "id": "75.04.06.2004",
+      "name": "Manawa"
+    },
+    {
+      "id": "75.04.06.2005",
+      "name": "Dulomo"
+    },
+    {
+      "id": "75.04.06.2006",
+      "name": "Dudepo"
+    },
+    {
+      "id": "75.04.07.2001",
+      "name": "Pancakarsa I (Panca Karsa I)"
+    },
+    {
+      "id": "75.04.07.2002",
+      "name": "Pancakarsa II (Panca Karsa II)"
+    },
+    {
+      "id": "75.04.07.2003",
+      "name": "Makarti Jaya"
+    },
+    {
+      "id": "75.04.07.2004",
+      "name": "Kalimas"
+    },
+    {
+      "id": "75.04.07.2005",
+      "name": "Malango"
+    },
+    {
+      "id": "75.04.07.2006",
+      "name": "Marisa IV"
+    },
+    {
+      "id": "75.04.07.2007",
+      "name": "Tirto Asri"
+    },
+    {
+      "id": "75.04.08.2001",
+      "name": "Popaya"
+    },
+    {
+      "id": "75.04.08.2002",
+      "name": "Karya Baru"
+    },
+    {
+      "id": "75.04.08.2003",
+      "name": "Karangetan (Karangetang)"
+    },
+    {
+      "id": "75.04.08.2004",
+      "name": "Padengo"
+    },
+    {
+      "id": "75.04.08.2005",
+      "name": "Hutamoputi (Huta Moputi)"
+    },
+    {
+      "id": "75.04.09.2001",
+      "name": "Hulawa"
+    },
+    {
+      "id": "75.04.09.2002",
+      "name": "Karya Indah"
+    },
+    {
+      "id": "75.04.09.2003",
+      "name": "Taluduyunu"
+    },
+    {
+      "id": "75.04.09.2004",
+      "name": "Buntulia Utara"
+    },
+    {
+      "id": "75.04.09.2005",
+      "name": "Buntulia Tengah"
+    },
+    {
+      "id": "75.04.09.2006",
+      "name": "Taluduyunu Utara"
+    },
+    {
+      "id": "75.04.09.2007",
+      "name": "Sipatana"
+    },
+    {
+      "id": "75.04.10.2001",
+      "name": "Bulili"
+    },
+    {
+      "id": "75.04.10.2002",
+      "name": "Buntulia Barat"
+    },
+    {
+      "id": "75.04.10.2003",
+      "name": "Buntulia Selatan"
+    },
+    {
+      "id": "75.04.10.2004",
+      "name": "Duhiadaa"
+    },
+    {
+      "id": "75.04.10.2005",
+      "name": "Mekar Jaya"
+    },
+    {
+      "id": "75.04.10.2006",
+      "name": "Buntulia Jaya"
+    },
+    {
+      "id": "75.04.10.2007",
+      "name": "Padengo (Padeng)"
+    },
+    {
+      "id": "75.04.10.2008",
+      "name": "Mootilango"
+    },
+    {
+      "id": "75.04.11.2001",
+      "name": "Wanggarasi (Wonggarasi Timur)"
+    },
+    {
+      "id": "75.04.11.2002",
+      "name": "Bukit Harapan"
+    },
+    {
+      "id": "75.04.11.2003",
+      "name": "Bohusami"
+    },
+    {
+      "id": "75.04.11.2004",
+      "name": "Lembah Permai (Lembah Malango II)"
+    },
+    {
+      "id": "75.04.11.2005",
+      "name": "Limbula"
+    },
+    {
+      "id": "75.04.11.2006",
+      "name": "Yipilo"
+    },
+    {
+      "id": "75.04.11.2007",
+      "name": "Tuweya"
+    },
+    {
+      "id": "75.04.12.2001",
+      "name": "Milangodaa"
+    },
+    {
+      "id": "75.04.12.2002",
+      "name": "Londoun (Londuun)"
+    },
+    {
+      "id": "75.04.12.2003",
+      "name": "Marisa"
+    },
+    {
+      "id": "75.04.12.2004",
+      "name": "Tahele"
+    },
+    {
+      "id": "75.04.12.2005",
+      "name": "Bunto"
+    },
+    {
+      "id": "75.04.12.2006",
+      "name": "Maleo"
+    },
+    {
+      "id": "75.04.12.2007",
+      "name": "Kelapa Lima"
+    },
+    {
+      "id": "75.04.13.2001",
+      "name": "Dudewulo"
+    },
+    {
+      "id": "75.04.13.2002",
+      "name": "Tunas Jaya"
+    },
+    {
+      "id": "75.04.13.2003",
+      "name": "Padengo"
+    },
+    {
+      "id": "75.04.13.2004",
+      "name": "Molosifat (Molosipat)"
+    },
+    {
+      "id": "75.04.13.2005",
+      "name": "Butungale"
+    },
+    {
+      "id": "75.04.13.2006",
+      "name": "Persatuan"
+    },
+    {
+      "id": "75.04.13.2007",
+      "name": "Molosifat Utara (Molosipat Utara)"
+    },
+    {
+      "id": "75.05.01.2003",
+      "name": "Imana"
+    },
+    {
+      "id": "75.05.01.2004",
+      "name": "Bintana"
+    },
+    {
+      "id": "75.05.01.2005",
+      "name": "Buata"
+    },
+    {
+      "id": "75.05.01.2006",
+      "name": "Pinontoyonga"
+    },
+    {
+      "id": "75.05.01.2007",
+      "name": "Monggupo"
+    },
+    {
+      "id": "75.05.01.2008",
+      "name": "Kotajin (Kota Jin)"
+    },
+    {
+      "id": "75.05.01.2011",
+      "name": "Inomata (Ilomata)"
+    },
+    {
+      "id": "75.05.01.2013",
+      "name": "Iloheluma"
+    },
+    {
+      "id": "75.05.01.2014",
+      "name": "Wapalo"
+    },
+    {
+      "id": "75.05.01.2015",
+      "name": "Posono"
+    },
+    {
+      "id": "75.05.01.2016",
+      "name": "Sigaso"
+    },
+    {
+      "id": "75.05.01.2017",
+      "name": "Tombulilato"
+    },
+    {
+      "id": "75.05.01.2018",
+      "name": "Kotajin Utara"
+    },
+    {
+      "id": "75.05.01.2019",
+      "name": "Oluhuta"
+    },
+    {
+      "id": "75.05.02.2001",
+      "name": "Pontolo"
+    },
+    {
+      "id": "75.05.02.2002",
+      "name": "Molingkapoto (Molinggapoto)"
+    },
+    {
+      "id": "75.05.02.2003",
+      "name": "Leboto"
+    },
+    {
+      "id": "75.05.02.2004",
+      "name": "Posso"
+    },
+    {
+      "id": "75.05.02.2005",
+      "name": "Titidu"
+    },
+    {
+      "id": "75.05.02.2006",
+      "name": "Moluo"
+    },
+    {
+      "id": "75.05.02.2010",
+      "name": "Mootinelo"
+    },
+    {
+      "id": "75.05.02.2011",
+      "name": "Bualemo"
+    },
+    {
+      "id": "75.05.02.2013",
+      "name": "Bulalo"
+    },
+    {
+      "id": "75.05.02.2017",
+      "name": "Katialada"
+    },
+    {
+      "id": "75.05.02.2019",
+      "name": "Ombulodata"
+    },
+    {
+      "id": "75.05.02.2021",
+      "name": "Alata Karya"
+    },
+    {
+      "id": "75.05.02.2023",
+      "name": "Cisadane"
+    },
+    {
+      "id": "75.05.02.2024",
+      "name": "Botuwombata"
+    },
+    {
+      "id": "75.05.02.2025",
+      "name": "Botungobungo"
+    },
+    {
+      "id": "75.05.02.2026",
+      "name": "Molingkapoto Selatan"
+    },
+    {
+      "id": "75.05.02.2030",
+      "name": "Pontolo Atas"
+    },
+    {
+      "id": "75.05.02.2032",
+      "name": "Masuru"
+    },
+    {
+      "id": "75.05.03.2001",
+      "name": "Ilangata"
+    },
+    {
+      "id": "75.05.03.2002",
+      "name": "Tolongio"
+    },
+    {
+      "id": "75.05.03.2006",
+      "name": "Tolango"
+    },
+    {
+      "id": "75.05.03.2007",
+      "name": "Popalo"
+    },
+    {
+      "id": "75.05.03.2008",
+      "name": "Dudepo"
+    },
+    {
+      "id": "75.05.03.2009",
+      "name": "Mootilango"
+    },
+    {
+      "id": "75.05.03.2011",
+      "name": "Langge"
+    },
+    {
+      "id": "75.05.03.2012",
+      "name": "Tutuwoto"
+    },
+    {
+      "id": "75.05.03.2013",
+      "name": "Hiyalooile"
+    },
+    {
+      "id": "75.05.03.2014",
+      "name": "Ibarat"
+    },
+    {
+      "id": "75.05.03.2017",
+      "name": "Iloheluma"
+    },
+    {
+      "id": "75.05.03.2021",
+      "name": "Ilodulunga"
+    },
+    {
+      "id": "75.05.03.2023",
+      "name": "Putiana"
+    },
+    {
+      "id": "75.05.03.2024",
+      "name": "Heluma (Helumo)"
+    },
+    {
+      "id": "75.05.03.2025",
+      "name": "Datahu"
+    },
+    {
+      "id": "75.05.04.2001",
+      "name": "Bulontiyo Timur (Bulontio Timur)"
+    },
+    {
+      "id": "75.05.04.2002",
+      "name": "Bulontiyo Barat (Bulontio Barat)"
+    },
+    {
+      "id": "75.05.04.2007",
+      "name": "Buloila"
+    },
+    {
+      "id": "75.05.04.2009",
+      "name": "Kasia"
+    },
+    {
+      "id": "75.05.04.2010",
+      "name": "Kikia"
+    },
+    {
+      "id": "75.05.04.2012",
+      "name": "Tumba"
+    },
+    {
+      "id": "75.05.04.2013",
+      "name": "Mebongo"
+    },
+    {
+      "id": "75.05.04.2014",
+      "name": "Lelato"
+    },
+    {
+      "id": "75.05.04.2016",
+      "name": "Pulohenti"
+    },
+    {
+      "id": "75.05.04.2019",
+      "name": "Puncak Mandiri"
+    },
+    {
+      "id": "75.05.04.2020",
+      "name": "Hutakalo"
+    },
+    {
+      "id": "75.05.05.2001",
+      "name": "Tolinggula Tengah"
+    },
+    {
+      "id": "75.05.05.2002",
+      "name": "Tolinggula Pantai"
+    },
+    {
+      "id": "75.05.05.2003",
+      "name": "Tolinggula Ulu"
+    },
+    {
+      "id": "75.05.05.2006",
+      "name": "Limbato"
+    },
+    {
+      "id": "75.05.05.2007",
+      "name": "Papulangi (Papualangi)"
+    },
+    {
+      "id": "75.05.05.2008",
+      "name": "Molangga"
+    },
+    {
+      "id": "75.05.05.2011",
+      "name": "Cempaka Putih"
+    },
+    {
+      "id": "75.05.05.2014",
+      "name": "Tolite Jaya"
+    },
+    {
+      "id": "75.05.05.2017",
+      "name": "Ilomangga"
+    },
+    {
+      "id": "75.05.05.2018",
+      "name": "Ilotunggulo"
+    },
+    {
+      "id": "75.05.06.2001",
+      "name": "Gentuma"
+    },
+    {
+      "id": "75.05.06.2002",
+      "name": "Dumolodo"
+    },
+    {
+      "id": "75.05.06.2003",
+      "name": "Molonggota"
+    },
+    {
+      "id": "75.05.06.2004",
+      "name": "Ipilo"
+    },
+    {
+      "id": "75.05.06.2005",
+      "name": "Langke"
+    },
+    {
+      "id": "75.05.06.2006",
+      "name": "Pasalae"
+    },
+    {
+      "id": "75.05.06.2007",
+      "name": "Nanati Jaya"
+    },
+    {
+      "id": "75.05.06.2008",
+      "name": "Ketapang"
+    },
+    {
+      "id": "75.05.06.2009",
+      "name": "Motomingo"
+    },
+    {
+      "id": "75.05.06.2010",
+      "name": "Durian"
+    },
+    {
+      "id": "75.05.06.2011",
+      "name": "Bohusami"
+    },
+    {
+      "id": "75.05.07.2001",
+      "name": "Dambalo"
+    },
+    {
+      "id": "75.05.07.2002",
+      "name": "Milango"
+    },
+    {
+      "id": "75.05.07.2003",
+      "name": "Jembatan Merah"
+    },
+    {
+      "id": "75.05.07.2004",
+      "name": "Bubode"
+    },
+    {
+      "id": "75.05.07.2005",
+      "name": "Leyao"
+    },
+    {
+      "id": "75.05.07.2006",
+      "name": "Molantadu"
+    },
+    {
+      "id": "75.05.07.2007",
+      "name": "Huidu Melito"
+    },
+    {
+      "id": "75.05.07.2008",
+      "name": "Bulango Raya"
+    },
+    {
+      "id": "75.05.07.2009",
+      "name": "Tanjung Karang"
+    },
+    {
+      "id": "75.05.07.2010",
+      "name": "Mutiara Laut"
+    },
+    {
+      "id": "75.05.08.2001",
+      "name": "Ponelo"
+    },
+    {
+      "id": "75.05.08.2002",
+      "name": "Malambe"
+    },
+    {
+      "id": "75.05.08.2003",
+      "name": "Otiola"
+    },
+    {
+      "id": "75.05.08.2004",
+      "name": "Tihengo"
+    },
+    {
+      "id": "75.05.09.2001",
+      "name": "Monano"
+    },
+    {
+      "id": "75.05.09.2002",
+      "name": "Tudi"
+    },
+    {
+      "id": "75.05.09.2003",
+      "name": "Monas"
+    },
+    {
+      "id": "75.05.09.2004",
+      "name": "Dunu"
+    },
+    {
+      "id": "75.05.09.2005",
+      "name": "Garapia"
+    },
+    {
+      "id": "75.05.09.2006",
+      "name": "Sogu"
+    },
+    {
+      "id": "75.05.09.2007",
+      "name": "Pilohulata"
+    },
+    {
+      "id": "75.05.09.2008",
+      "name": "Mokonowu"
+    },
+    {
+      "id": "75.05.09.2009",
+      "name": "Tolitehuyu"
+    },
+    {
+      "id": "75.05.09.2010",
+      "name": "Zuriyati"
+    },
+    {
+      "id": "75.05.10.2001",
+      "name": "Biawu (Biau)"
+    },
+    {
+      "id": "75.05.10.2002",
+      "name": "Omuto"
+    },
+    {
+      "id": "75.05.10.2003",
+      "name": "Luhuto"
+    },
+    {
+      "id": "75.05.10.2004",
+      "name": "Windu"
+    },
+    {
+      "id": "75.05.10.2005",
+      "name": "Topi"
+    },
+    {
+      "id": "75.05.10.2006",
+      "name": "Sembihinga (Sembihingan)"
+    },
+    {
+      "id": "75.05.10.2007",
+      "name": "Didingga"
+    },
+    {
+      "id": "75.05.10.2008",
+      "name": "Bualo"
+    },
+    {
+      "id": "75.05.10.2009",
+      "name": "Potanga (Potango)"
+    },
+    {
+      "id": "75.05.10.2010",
+      "name": "Bohulo"
+    },
+    {
+      "id": "75.05.11.2001",
+      "name": "Deme Satu (Deme I)"
+    },
+    {
+      "id": "75.05.11.2002",
+      "name": "Buluwatu"
+    },
+    {
+      "id": "75.05.11.2003",
+      "name": "Dulukapa"
+    },
+    {
+      "id": "75.05.11.2004",
+      "name": "Deme Dua (Deme II)"
+    },
+    {
+      "id": "75.05.11.2005",
+      "name": "Buladu"
+    },
+    {
+      "id": "75.05.11.2006",
+      "name": "Hulawa"
+    },
+    {
+      "id": "75.05.11.2007",
+      "name": "Wubudu"
+    },
+    {
+      "id": "75.05.11.2008",
+      "name": "Bubalango"
+    },
+    {
+      "id": "75.05.11.2009",
+      "name": "Motiheluma (Motihelumo)"
+    },
+    {
+      "id": "75.05.11.2010",
+      "name": "Koluwoka"
+    },
+    {
+      "id": "75.71.01.1001",
+      "name": "Dembe I"
+    },
+    {
+      "id": "75.71.01.1002",
+      "name": "Lekobalo"
+    },
+    {
+      "id": "75.71.01.1003",
+      "name": "Pilolodaa"
+    },
+    {
+      "id": "75.71.01.1004",
+      "name": "Buliide"
+    },
+    {
+      "id": "75.71.01.1005",
+      "name": "Tenilo"
+    },
+    {
+      "id": "75.71.01.1006",
+      "name": "Molosifat W (Molosipat W)"
+    },
+    {
+      "id": "75.71.01.1008",
+      "name": "Buladu"
+    },
+    {
+      "id": "75.71.02.1010",
+      "name": "Biawao"
+    },
+    {
+      "id": "75.71.02.1012",
+      "name": "Biawu"
+    },
+    {
+      "id": "75.71.02.1013",
+      "name": "Limba B"
+    },
+    {
+      "id": "75.71.02.1019",
+      "name": "Limba U Satu (Limba U I)"
+    },
+    {
+      "id": "75.71.02.1020",
+      "name": "Limba U Dua (Limba U II)"
+    },
+    {
+      "id": "75.71.03.1003",
+      "name": "Dembe II"
+    },
+    {
+      "id": "75.71.03.1004",
+      "name": "Wongkaditi Timur"
+    },
+    {
+      "id": "75.71.03.1005",
+      "name": "Wongkaditi Barat"
+    },
+    {
+      "id": "75.71.03.1010",
+      "name": "Dulomo Selatan"
+    },
+    {
+      "id": "75.71.03.1014",
+      "name": "Dulomo Utara"
+    },
+    {
+      "id": "75.71.03.1015",
+      "name": "Dembe Jaya"
+    },
+    {
+      "id": "75.71.04.1001",
+      "name": "Huangobotu"
+    },
+    {
+      "id": "75.71.04.1002",
+      "name": "Libuo"
+    },
+    {
+      "id": "75.71.04.1003",
+      "name": "Tomulabutao"
+    },
+    {
+      "id": "75.71.04.1004",
+      "name": "Tuladengi (Tuladenggi)"
+    },
+    {
+      "id": "75.71.04.1005",
+      "name": "Tomulabutao Selatan"
+    },
+    {
+      "id": "75.71.05.1003",
+      "name": "Heledulaa Utara"
+    },
+    {
+      "id": "75.71.05.1004",
+      "name": "Heledulaa Selatan"
+    },
+    {
+      "id": "75.71.05.1005",
+      "name": "Ipilo"
+    },
+    {
+      "id": "75.71.05.1008",
+      "name": "Moodu"
+    },
+    {
+      "id": "75.71.05.1009",
+      "name": "Padebuolo"
+    },
+    {
+      "id": "75.71.05.1011",
+      "name": "Tamalate"
+    },
+    {
+      "id": "75.71.06.1001",
+      "name": "Wumialo"
+    },
+    {
+      "id": "75.71.06.1002",
+      "name": "Dulalowo"
+    },
+    {
+      "id": "75.71.06.1003",
+      "name": "Liluwo"
+    },
+    {
+      "id": "75.71.06.1004",
+      "name": "Pulubala"
+    },
+    {
+      "id": "75.71.06.1005",
+      "name": "Paguyaman"
+    },
+    {
+      "id": "75.71.06.1006",
+      "name": "Dulalowo Timur"
+    },
+    {
+      "id": "75.71.07.1001",
+      "name": "Tanggikiki"
+    },
+    {
+      "id": "75.71.07.1002",
+      "name": "Tapa"
+    },
+    {
+      "id": "75.71.07.1003",
+      "name": "Bulotadaa Barat"
+    },
+    {
+      "id": "75.71.07.1004",
+      "name": "Bulotadaa Timur"
+    },
+    {
+      "id": "75.71.07.1005",
+      "name": "Molosifat U (Molosipat U)"
+    },
+    {
+      "id": "75.71.08.1001",
+      "name": "Leato Utara"
+    },
+    {
+      "id": "75.71.08.1002",
+      "name": "Leato Selatan"
+    },
+    {
+      "id": "75.71.08.1003",
+      "name": "Talumolo"
+    },
+    {
+      "id": "75.71.08.1004",
+      "name": "Botu"
+    },
+    {
+      "id": "75.71.08.1005",
+      "name": "Bugis"
+    },
+    {
+      "id": "75.71.09.1001",
+      "name": "Tanjung Kramat"
+    },
+    {
+      "id": "75.71.09.1002",
+      "name": "Pohe"
+    },
+    {
+      "id": "75.71.09.1003",
+      "name": "Tenda"
+    },
+    {
+      "id": "75.71.09.1004",
+      "name": "Donggala"
+    },
+    {
+      "id": "75.71.09.1005",
+      "name": "Siendeng"
+    }
+  ]
+}

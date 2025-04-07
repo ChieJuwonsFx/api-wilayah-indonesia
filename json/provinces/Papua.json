@@ -1,0 +1,4464 @@
+{
+  "province": {
+    "id": "91",
+    "name": "Papua"
+  },
+  "cities": [
+    {
+      "id": "91.03",
+      "name": "Jayapura"
+    },
+    {
+      "id": "91.05",
+      "name": "Kepulauan Yapen"
+    },
+    {
+      "id": "91.06",
+      "name": "Biak Numfor"
+    },
+    {
+      "id": "91.10",
+      "name": "Sarmi"
+    },
+    {
+      "id": "91.11",
+      "name": "Keerom"
+    },
+    {
+      "id": "91.15",
+      "name": "Waropen"
+    },
+    {
+      "id": "91.19",
+      "name": "Supiori"
+    },
+    {
+      "id": "91.20",
+      "name": "Mamberamo Raya"
+    },
+    {
+      "id": "91.71",
+      "name": "Kota Jayapura"
+    }
+  ],
+  "districts": [
+    {
+      "id": "91.03.01",
+      "name": "Sentani"
+    },
+    {
+      "id": "91.03.02",
+      "name": "Sentani Timur"
+    },
+    {
+      "id": "91.03.03",
+      "name": "Depapre"
+    },
+    {
+      "id": "91.03.04",
+      "name": "Sentani Barat"
+    },
+    {
+      "id": "91.03.05",
+      "name": "Kemtuk"
+    },
+    {
+      "id": "91.03.06",
+      "name": "Kemtuk Gresi"
+    },
+    {
+      "id": "91.03.07",
+      "name": "Nimboran"
+    },
+    {
+      "id": "91.03.08",
+      "name": "Nimbokrang"
+    },
+    {
+      "id": "91.03.09",
+      "name": "Unurum Guay"
+    },
+    {
+      "id": "91.03.10",
+      "name": "Demta"
+    },
+    {
+      "id": "91.03.11",
+      "name": "Kaureh"
+    },
+    {
+      "id": "91.03.12",
+      "name": "Ebungfao (Ebungfau / Ebungfa)"
+    },
+    {
+      "id": "91.03.13",
+      "name": "Waibu"
+    },
+    {
+      "id": "91.03.14",
+      "name": "Nambluong"
+    },
+    {
+      "id": "91.03.15",
+      "name": "Yapsi"
+    },
+    {
+      "id": "91.03.16",
+      "name": "Airu"
+    },
+    {
+      "id": "91.03.17",
+      "name": "Raveni Rara (Ravenirara)"
+    },
+    {
+      "id": "91.03.18",
+      "name": "Gresi Selatan"
+    },
+    {
+      "id": "91.03.19",
+      "name": "Yokari"
+    },
+    {
+      "id": "91.05.01",
+      "name": "Yapen Selatan"
+    },
+    {
+      "id": "91.05.02",
+      "name": "Yapen Barat"
+    },
+    {
+      "id": "91.05.03",
+      "name": "Yapen Timur"
+    },
+    {
+      "id": "91.05.04",
+      "name": "Angkaisera"
+    },
+    {
+      "id": "91.05.05",
+      "name": "Poom"
+    },
+    {
+      "id": "91.05.06",
+      "name": "Kosiwo"
+    },
+    {
+      "id": "91.05.07",
+      "name": "Yapen Utara"
+    },
+    {
+      "id": "91.05.08",
+      "name": "Raimbawi"
+    },
+    {
+      "id": "91.05.09",
+      "name": "Teluk Ampimoi"
+    },
+    {
+      "id": "91.05.10",
+      "name": "Kepulauan Ambai"
+    },
+    {
+      "id": "91.05.11",
+      "name": "Wonawa"
+    },
+    {
+      "id": "91.05.12",
+      "name": "Windesi"
+    },
+    {
+      "id": "91.05.13",
+      "name": "Pulau Kurudu"
+    },
+    {
+      "id": "91.05.14",
+      "name": "Pulau Yerui"
+    },
+    {
+      "id": "91.05.15",
+      "name": "Anotaurei"
+    },
+    {
+      "id": "91.05.16",
+      "name": "Yawakukat"
+    },
+    {
+      "id": "91.05.17",
+      "name": "Nusawani"
+    },
+    {
+      "id": "91.06.01",
+      "name": "Biak Kota"
+    },
+    {
+      "id": "91.06.02",
+      "name": "Biak Utara"
+    },
+    {
+      "id": "91.06.03",
+      "name": "Biak Timur"
+    },
+    {
+      "id": "91.06.04",
+      "name": "Numfor Barat"
+    },
+    {
+      "id": "91.06.05",
+      "name": "Numfor Timur"
+    },
+    {
+      "id": "91.06.08",
+      "name": "Biak Barat"
+    },
+    {
+      "id": "91.06.09",
+      "name": "Warsa"
+    },
+    {
+      "id": "91.06.10",
+      "name": "Padaido"
+    },
+    {
+      "id": "91.06.11",
+      "name": "Yendidori"
+    },
+    {
+      "id": "91.06.12",
+      "name": "Samofa"
+    },
+    {
+      "id": "91.06.13",
+      "name": "Yawosi"
+    },
+    {
+      "id": "91.06.14",
+      "name": "Andey"
+    },
+    {
+      "id": "91.06.15",
+      "name": "Swandiwe"
+    },
+    {
+      "id": "91.06.16",
+      "name": "Bruyadori"
+    },
+    {
+      "id": "91.06.17",
+      "name": "Orkeri"
+    },
+    {
+      "id": "91.06.18",
+      "name": "Poiru"
+    },
+    {
+      "id": "91.06.19",
+      "name": "Aimando Padaido"
+    },
+    {
+      "id": "91.06.20",
+      "name": "Oridek"
+    },
+    {
+      "id": "91.06.21",
+      "name": "Bondifuar"
+    },
+    {
+      "id": "91.10.01",
+      "name": "Sarmi"
+    },
+    {
+      "id": "91.10.02",
+      "name": "Tor Atas"
+    },
+    {
+      "id": "91.10.03",
+      "name": "Pantai Barat"
+    },
+    {
+      "id": "91.10.04",
+      "name": "Pantai Timur"
+    },
+    {
+      "id": "91.10.05",
+      "name": "Bonggo"
+    },
+    {
+      "id": "91.10.09",
+      "name": "Apawer Hulu"
+    },
+    {
+      "id": "91.10.12",
+      "name": "Sarmi Selatan"
+    },
+    {
+      "id": "91.10.13",
+      "name": "Sarmi Timur"
+    },
+    {
+      "id": "91.10.14",
+      "name": "Pantai Timur Bagian Barat"
+    },
+    {
+      "id": "91.10.15",
+      "name": "Bonggo Timur"
+    },
+    {
+      "id": "91.11.01",
+      "name": "Waris"
+    },
+    {
+      "id": "91.11.02",
+      "name": "Arso"
+    },
+    {
+      "id": "91.11.03",
+      "name": "Senggi"
+    },
+    {
+      "id": "91.11.04",
+      "name": "Web"
+    },
+    {
+      "id": "91.11.05",
+      "name": "Skanto"
+    },
+    {
+      "id": "91.11.06",
+      "name": "Arso Timur"
+    },
+    {
+      "id": "91.11.07",
+      "name": "Towe"
+    },
+    {
+      "id": "91.11.08",
+      "name": "Arso Barat"
+    },
+    {
+      "id": "91.11.09",
+      "name": "Mannem"
+    },
+    {
+      "id": "91.11.10",
+      "name": "Yaffi"
+    },
+    {
+      "id": "91.11.11",
+      "name": "Kaisenar"
+    },
+    {
+      "id": "91.15.01",
+      "name": "Waropen Bawah"
+    },
+    {
+      "id": "91.15.03",
+      "name": "Masirei"
+    },
+    {
+      "id": "91.15.07",
+      "name": "Risei Sayati"
+    },
+    {
+      "id": "91.15.08",
+      "name": "Urei Faisei"
+    },
+    {
+      "id": "91.15.09",
+      "name": "Inggerus"
+    },
+    {
+      "id": "91.15.10",
+      "name": "Kirihi"
+    },
+    {
+      "id": "91.15.11",
+      "name": "Oudate"
+    },
+    {
+      "id": "91.15.12",
+      "name": "Wapoga"
+    },
+    {
+      "id": "91.15.13",
+      "name": "Demba"
+    },
+    {
+      "id": "91.15.14",
+      "name": "Wonti"
+    },
+    {
+      "id": "91.15.15",
+      "name": "Soyoi Mambai"
+    },
+    {
+      "id": "91.19.01",
+      "name": "Supiori Selatan"
+    },
+    {
+      "id": "91.19.02",
+      "name": "Supiori Utara"
+    },
+    {
+      "id": "91.19.03",
+      "name": "Supiori Timur"
+    },
+    {
+      "id": "91.19.04",
+      "name": "Kepulauan Aruri"
+    },
+    {
+      "id": "91.19.05",
+      "name": "Supiori Barat"
+    },
+    {
+      "id": "91.20.01",
+      "name": "Mamberamo Tengah"
+    },
+    {
+      "id": "91.20.02",
+      "name": "Mamberamo Hulu"
+    },
+    {
+      "id": "91.20.03",
+      "name": "Rufaer"
+    },
+    {
+      "id": "91.20.04",
+      "name": "Mamberamo Tengah Timur"
+    },
+    {
+      "id": "91.20.05",
+      "name": "Mamberamo Hilir"
+    },
+    {
+      "id": "91.20.06",
+      "name": "Waropen Atas"
+    },
+    {
+      "id": "91.20.07",
+      "name": "Benuki"
+    },
+    {
+      "id": "91.20.08",
+      "name": "Sawai"
+    },
+    {
+      "id": "91.71.01",
+      "name": "Jayapura Utara"
+    },
+    {
+      "id": "91.71.02",
+      "name": "Jayapura Selatan"
+    },
+    {
+      "id": "91.71.03",
+      "name": "Abepura"
+    },
+    {
+      "id": "91.71.04",
+      "name": "Muara Tami"
+    },
+    {
+      "id": "91.71.05",
+      "name": "Heram"
+    }
+  ],
+  "villages": [
+    {
+      "id": "91.03.01.1001",
+      "name": "Sentani Kota"
+    },
+    {
+      "id": "91.03.01.1002",
+      "name": "Dobonsolo"
+    },
+    {
+      "id": "91.03.01.1003",
+      "name": "Hinekombe"
+    },
+    {
+      "id": "91.03.01.2004",
+      "name": "Sereh"
+    },
+    {
+      "id": "91.03.01.2005",
+      "name": "Yobeh"
+    },
+    {
+      "id": "91.03.01.2006",
+      "name": "Ifale (Ilfele)"
+    },
+    {
+      "id": "91.03.01.2007",
+      "name": "Keheran (Kehiran)"
+    },
+    {
+      "id": "91.03.01.2010",
+      "name": "Ifar Besar"
+    },
+    {
+      "id": "91.03.01.2011",
+      "name": "Hobong"
+    },
+    {
+      "id": "91.03.01.2017",
+      "name": "Yahim"
+    },
+    {
+      "id": "91.03.02.2001",
+      "name": "Nolokla"
+    },
+    {
+      "id": "91.03.02.2002",
+      "name": "Puay (Puai)"
+    },
+    {
+      "id": "91.03.02.2003",
+      "name": "Ayapo (Itakiwa)"
+    },
+    {
+      "id": "91.03.02.2004",
+      "name": "Asei Besar"
+    },
+    {
+      "id": "91.03.02.2005",
+      "name": "Asei Kecil"
+    },
+    {
+      "id": "91.03.02.2006",
+      "name": "Nendali"
+    },
+    {
+      "id": "91.03.02.2007",
+      "name": "Yokiwa"
+    },
+    {
+      "id": "91.03.03.2001",
+      "name": "Waiya"
+    },
+    {
+      "id": "91.03.03.2002",
+      "name": "Entiyebo"
+    },
+    {
+      "id": "91.03.03.2003",
+      "name": "Kendate"
+    },
+    {
+      "id": "91.03.03.2004",
+      "name": "Tablasupa"
+    },
+    {
+      "id": "91.03.03.2005",
+      "name": "Yefase (Yepase)"
+    },
+    {
+      "id": "91.03.03.2006",
+      "name": "Wambena"
+    },
+    {
+      "id": "91.03.03.2007",
+      "name": "Yewena"
+    },
+    {
+      "id": "91.03.03.2012",
+      "name": "Doromena"
+    },
+    {
+      "id": "91.03.04.2001",
+      "name": "Dosay (Dosai)"
+    },
+    {
+      "id": "91.03.04.2005",
+      "name": "Maribu"
+    },
+    {
+      "id": "91.03.04.2006",
+      "name": "Waibron"
+    },
+    {
+      "id": "91.03.04.2008",
+      "name": "Sabron Sari"
+    },
+    {
+      "id": "91.03.04.2011",
+      "name": "Sabron Yaru (Sabro Yaru)"
+    },
+    {
+      "id": "91.03.05.2001",
+      "name": "Sama"
+    },
+    {
+      "id": "91.03.05.2002",
+      "name": "Manda Yawan (Mandayawan)"
+    },
+    {
+      "id": "91.03.05.2003",
+      "name": "Mamda"
+    },
+    {
+      "id": "91.03.05.2004",
+      "name": "Mamei (Namei)"
+    },
+    {
+      "id": "91.03.05.2005",
+      "name": "Nambom (Nambon)"
+    },
+    {
+      "id": "91.03.05.2006",
+      "name": "Kwansu"
+    },
+    {
+      "id": "91.03.05.2007",
+      "name": "Soaib"
+    },
+    {
+      "id": "91.03.05.2008",
+      "name": "Sabeab Kecil"
+    },
+    {
+      "id": "91.03.05.2009",
+      "name": "Sekori"
+    },
+    {
+      "id": "91.03.05.2010",
+      "name": "Skoaim"
+    },
+    {
+      "id": "91.03.05.2011",
+      "name": "Benggwin Progo (Bengguin Progo)"
+    },
+    {
+      "id": "91.03.05.2012",
+      "name": "Aib"
+    },
+    {
+      "id": "91.03.06.1015",
+      "name": "Hatib"
+    },
+    {
+      "id": "91.03.06.2001",
+      "name": "Domoikati (Damoi Kati)"
+    },
+    {
+      "id": "91.03.06.2002",
+      "name": "Dementin (Demetin)"
+    },
+    {
+      "id": "91.03.06.2003",
+      "name": "Yanbra (Yanim)"
+    },
+    {
+      "id": "91.03.06.2004",
+      "name": "Braso"
+    },
+    {
+      "id": "91.03.06.2005",
+      "name": "Pupehabu"
+    },
+    {
+      "id": "91.03.06.2006",
+      "name": "Bring"
+    },
+    {
+      "id": "91.03.06.2007",
+      "name": "Nembu Gresi"
+    },
+    {
+      "id": "91.03.06.2009",
+      "name": "Ibub"
+    },
+    {
+      "id": "91.03.06.2013",
+      "name": "Swentab"
+    },
+    {
+      "id": "91.03.06.2014",
+      "name": "Jagrang"
+    },
+    {
+      "id": "91.03.06.2016",
+      "name": "Hyansip"
+    },
+    {
+      "id": "91.03.07.1021",
+      "name": "Tabri"
+    },
+    {
+      "id": "91.03.07.2001",
+      "name": "Gemebs"
+    },
+    {
+      "id": "91.03.07.2002",
+      "name": "Singgri"
+    },
+    {
+      "id": "91.03.07.2003",
+      "name": "Meyu"
+    },
+    {
+      "id": "91.03.07.2004",
+      "name": "Benyom"
+    },
+    {
+      "id": "91.03.07.2005",
+      "name": "Oyengsi"
+    },
+    {
+      "id": "91.03.07.2006",
+      "name": "Singgriway (Singgriwai)"
+    },
+    {
+      "id": "91.03.07.2009",
+      "name": "Imsar"
+    },
+    {
+      "id": "91.03.07.2010",
+      "name": "Kuipon (Kuipons)"
+    },
+    {
+      "id": "91.03.07.2014",
+      "name": "Yenggu Baru"
+    },
+    {
+      "id": "91.03.07.2015",
+      "name": "Yenggu (Yenggu Lama)"
+    },
+    {
+      "id": "91.03.07.2017",
+      "name": "Kuwase"
+    },
+    {
+      "id": "91.03.07.2018",
+      "name": "Kaitemung (Kautemung)"
+    },
+    {
+      "id": "91.03.07.2019",
+      "name": "Pobaim"
+    },
+    {
+      "id": "91.03.08.2001",
+      "name": "Nembukrang (Nimbokrang)"
+    },
+    {
+      "id": "91.03.08.2002",
+      "name": "Benyom Jaya I"
+    },
+    {
+      "id": "91.03.08.2003",
+      "name": "Benyom Jaya II"
+    },
+    {
+      "id": "91.03.08.2004",
+      "name": "Berab"
+    },
+    {
+      "id": "91.03.08.2005",
+      "name": "Hamonggrang (Hamongkrang)"
+    },
+    {
+      "id": "91.03.08.2006",
+      "name": "Wahab"
+    },
+    {
+      "id": "91.03.08.2007",
+      "name": "Nombukrang Sari (Nembukrang / Nimbokrang Sari)"
+    },
+    {
+      "id": "91.03.08.2008",
+      "name": "Rhepang Muaf (Rhepang Muaif / Muaib)"
+    },
+    {
+      "id": "91.03.08.2009",
+      "name": "Bunyom"
+    },
+    {
+      "id": "91.03.09.2001",
+      "name": "Beneik"
+    },
+    {
+      "id": "91.03.09.2002",
+      "name": "Ganusa (Garusa)"
+    },
+    {
+      "id": "91.03.09.2003",
+      "name": "Guriyad (Guryard)"
+    },
+    {
+      "id": "91.03.09.2004",
+      "name": "Sentosa (Santosa)"
+    },
+    {
+      "id": "91.03.09.2005",
+      "name": "Sawesuma (Sawa Suma)"
+    },
+    {
+      "id": "91.03.09.2006",
+      "name": "Nandalzi (Nandaizi)"
+    },
+    {
+      "id": "91.03.10.2001",
+      "name": "Demta (Demta Kota)"
+    },
+    {
+      "id": "91.03.10.2002",
+      "name": "Ambora"
+    },
+    {
+      "id": "91.03.10.2003",
+      "name": "Yaugapsa (Yougapsa)"
+    },
+    {
+      "id": "91.03.10.2004",
+      "name": "Muris Kecil"
+    },
+    {
+      "id": "91.03.10.2005",
+      "name": "Yakore"
+    },
+    {
+      "id": "91.03.10.2006",
+      "name": "Kamdera"
+    },
+    {
+      "id": "91.03.10.2007",
+      "name": "Muaif"
+    },
+    {
+      "id": "91.03.11.2001",
+      "name": "Lapua"
+    },
+    {
+      "id": "91.03.11.2002",
+      "name": "Sebum"
+    },
+    {
+      "id": "91.03.11.2003",
+      "name": "Soskotek"
+    },
+    {
+      "id": "91.03.11.2004",
+      "name": "Yadouw (Yadauw)"
+    },
+    {
+      "id": "91.03.11.2006",
+      "name": "Umbron"
+    },
+    {
+      "id": "91.03.12.2001",
+      "name": "Ebungfa"
+    },
+    {
+      "id": "91.03.12.2002",
+      "name": "Abar (Atabar)"
+    },
+    {
+      "id": "91.03.12.2003",
+      "name": "Babrongko (Ifar Bobrongko)"
+    },
+    {
+      "id": "91.03.12.2004",
+      "name": "Khameyoka (Khameyaka / Kameyoka / Khamaeka)"
+    },
+    {
+      "id": "91.03.12.2005",
+      "name": "Simporo (Babo/Yosiba/Homf)"
+    },
+    {
+      "id": "91.03.13.2001",
+      "name": "Dondai (Donday)"
+    },
+    {
+      "id": "91.03.13.2002",
+      "name": "Doyo Lama"
+    },
+    {
+      "id": "91.03.13.2003",
+      "name": "Kwadeware (Kanda)"
+    },
+    {
+      "id": "91.03.13.2004",
+      "name": "Yakonde"
+    },
+    {
+      "id": "91.03.13.2005",
+      "name": "Sosiri"
+    },
+    {
+      "id": "91.03.13.2006",
+      "name": "Doyo Baru"
+    },
+    {
+      "id": "91.03.13.2007",
+      "name": "Bambar"
+    },
+    {
+      "id": "91.03.14.2001",
+      "name": "Sarmai Atas"
+    },
+    {
+      "id": "91.03.14.2002",
+      "name": "Sarmai Bawah"
+    },
+    {
+      "id": "91.03.14.2003",
+      "name": "Sanggai"
+    },
+    {
+      "id": "91.03.14.2004",
+      "name": "Yakasib (Yakasip/Yokasib)"
+    },
+    {
+      "id": "91.03.14.2005",
+      "name": "Besum"
+    },
+    {
+      "id": "91.03.14.2007",
+      "name": "Imestum (Imustum)"
+    },
+    {
+      "id": "91.03.14.2008",
+      "name": "Karya Bumi"
+    },
+    {
+      "id": "91.03.14.2009",
+      "name": "Hanggaiy Hamong"
+    },
+    {
+      "id": "91.03.14.2010",
+      "name": "Sumbe"
+    },
+    {
+      "id": "91.03.15.2001",
+      "name": "Tabbeyan (Tabeyan)"
+    },
+    {
+      "id": "91.03.15.2002",
+      "name": "Kwarja (Kwaja)"
+    },
+    {
+      "id": "91.03.15.2003",
+      "name": "Ongan Jaya"
+    },
+    {
+      "id": "91.03.15.2004",
+      "name": "Bumi Sahaja"
+    },
+    {
+      "id": "91.03.15.2005",
+      "name": "Nawa Mulya"
+    },
+    {
+      "id": "91.03.15.2006",
+      "name": "Nawa Mukti"
+    },
+    {
+      "id": "91.03.15.2007",
+      "name": "Taqwa/Takwa Bangun"
+    },
+    {
+      "id": "91.03.15.2008",
+      "name": "Purnawajati (Purnama Jati)"
+    },
+    {
+      "id": "91.03.15.2009",
+      "name": "Bundru"
+    },
+    {
+      "id": "91.03.16.2001",
+      "name": "Hulu Atas"
+    },
+    {
+      "id": "91.03.16.2002",
+      "name": "Pagai"
+    },
+    {
+      "id": "91.03.16.2003",
+      "name": "Aurina"
+    },
+    {
+      "id": "91.03.16.2004",
+      "name": "Muara Nawa (Muarah Mawa)"
+    },
+    {
+      "id": "91.03.16.2005",
+      "name": "Kamikaru"
+    },
+    {
+      "id": "91.03.16.2006",
+      "name": "Naira"
+    },
+    {
+      "id": "91.03.17.2001",
+      "name": "Yongsu Sapari"
+    },
+    {
+      "id": "91.03.17.2002",
+      "name": "Yongsu Besar (Dosoyo)"
+    },
+    {
+      "id": "91.03.17.2003",
+      "name": "Ormuwari (Newa)"
+    },
+    {
+      "id": "91.03.17.2004",
+      "name": "Nehibe (Nacha Tawa)"
+    },
+    {
+      "id": "91.03.18.2001",
+      "name": "Omon"
+    },
+    {
+      "id": "91.03.18.2002",
+      "name": "Iwon"
+    },
+    {
+      "id": "91.03.18.2003",
+      "name": "Klaisu"
+    },
+    {
+      "id": "91.03.18.2004",
+      "name": "Bangai"
+    },
+    {
+      "id": "91.03.19.2001",
+      "name": "Maruwai (Maruway)"
+    },
+    {
+      "id": "91.03.19.2002",
+      "name": "Meukisi"
+    },
+    {
+      "id": "91.03.19.2003",
+      "name": "Endokisi"
+    },
+    {
+      "id": "91.03.19.2005",
+      "name": "Buseryo"
+    },
+    {
+      "id": "91.03.19.2006",
+      "name": "Senamay (Snamay)"
+    },
+    {
+      "id": "91.05.01.1004",
+      "name": "Tarau"
+    },
+    {
+      "id": "91.05.01.1005",
+      "name": "Serui Kota"
+    },
+    {
+      "id": "91.05.01.1006",
+      "name": "Serui Jaya"
+    },
+    {
+      "id": "91.05.01.2014",
+      "name": "Serui Laut"
+    },
+    {
+      "id": "91.05.01.2015",
+      "name": "Banawa"
+    },
+    {
+      "id": "91.05.01.2017",
+      "name": "Turu"
+    },
+    {
+      "id": "91.05.01.2019",
+      "name": "Pasir Hitam"
+    },
+    {
+      "id": "91.05.01.2020",
+      "name": "Pasir Putih"
+    },
+    {
+      "id": "91.05.01.2023",
+      "name": "Manaini"
+    },
+    {
+      "id": "91.05.01.2024",
+      "name": "Imandoa"
+    },
+    {
+      "id": "91.05.01.2026",
+      "name": "Barawaikap"
+    },
+    {
+      "id": "91.05.01.2027",
+      "name": "Bawai"
+    },
+    {
+      "id": "91.05.01.2028",
+      "name": "Nundawipi"
+    },
+    {
+      "id": "91.05.02.1003",
+      "name": "Ansus"
+    },
+    {
+      "id": "91.05.02.2002",
+      "name": "Webi"
+    },
+    {
+      "id": "91.05.02.2004",
+      "name": "Papuama"
+    },
+    {
+      "id": "91.05.02.2007",
+      "name": "Kairawi"
+    },
+    {
+      "id": "91.05.02.2008",
+      "name": "Natabui"
+    },
+    {
+      "id": "91.05.02.2010",
+      "name": "Warabori"
+    },
+    {
+      "id": "91.05.02.2012",
+      "name": "Wimoni"
+    },
+    {
+      "id": "91.05.02.2013",
+      "name": "Sasawa"
+    },
+    {
+      "id": "91.05.02.2015",
+      "name": "Inowa"
+    },
+    {
+      "id": "91.05.02.2016",
+      "name": "Maniri"
+    },
+    {
+      "id": "91.05.02.2017",
+      "name": "Nuiwiora"
+    },
+    {
+      "id": "91.05.02.2018",
+      "name": "Yenusi Marau"
+    },
+    {
+      "id": "91.05.02.2019",
+      "name": "Marau"
+    },
+    {
+      "id": "91.05.02.2020",
+      "name": "Toweta"
+    },
+    {
+      "id": "91.05.02.2021",
+      "name": "Woiwani"
+    },
+    {
+      "id": "91.05.02.2022",
+      "name": "Yarori"
+    },
+    {
+      "id": "91.05.02.2023",
+      "name": "Narei"
+    },
+    {
+      "id": "91.05.03.2004",
+      "name": "Korombobi (Karombobi)"
+    },
+    {
+      "id": "91.05.03.2005",
+      "name": "Dawai"
+    },
+    {
+      "id": "91.05.03.2010",
+      "name": "Wabo"
+    },
+    {
+      "id": "91.05.03.2014",
+      "name": "Nunsembai (Hunsembai)"
+    },
+    {
+      "id": "91.05.03.2015",
+      "name": "Nunsiari"
+    },
+    {
+      "id": "91.05.03.2023",
+      "name": "Woinsupi (Waisopi)"
+    },
+    {
+      "id": "91.05.03.2024",
+      "name": "Awunawai"
+    },
+    {
+      "id": "91.05.03.2025",
+      "name": "Mareruni (Mereruni / Maseruni)"
+    },
+    {
+      "id": "91.05.03.2031",
+      "name": "Wabompi"
+    },
+    {
+      "id": "91.05.03.2036",
+      "name": "Duai"
+    },
+    {
+      "id": "91.05.03.2037",
+      "name": "Sere Sere"
+    },
+    {
+      "id": "91.05.04.2003",
+      "name": "Menawi"
+    },
+    {
+      "id": "91.05.04.2004",
+      "name": "Wadapi"
+    },
+    {
+      "id": "91.05.04.2009",
+      "name": "Kainui I"
+    },
+    {
+      "id": "91.05.04.2010",
+      "name": "Aitiri"
+    },
+    {
+      "id": "91.05.04.2011",
+      "name": "Wawuti"
+    },
+    {
+      "id": "91.05.04.2015",
+      "name": "Roipi"
+    },
+    {
+      "id": "91.05.04.2016",
+      "name": "Ransarnoni"
+    },
+    {
+      "id": "91.05.04.2021",
+      "name": "Kainui II"
+    },
+    {
+      "id": "91.05.04.2024",
+      "name": "Wanampompi"
+    },
+    {
+      "id": "91.05.04.2028",
+      "name": "Mananayam"
+    },
+    {
+      "id": "91.05.04.2030",
+      "name": "Roipi Dua"
+    },
+    {
+      "id": "91.05.05.2001",
+      "name": "Poom I"
+    },
+    {
+      "id": "91.05.05.2003",
+      "name": "Serewen"
+    },
+    {
+      "id": "91.05.05.2006",
+      "name": "Poom II"
+    },
+    {
+      "id": "91.05.05.2007",
+      "name": "Mokiroan"
+    },
+    {
+      "id": "91.05.05.2011",
+      "name": "Rasiri (Woisiri)"
+    },
+    {
+      "id": "91.05.05.2012",
+      "name": "Warioi"
+    },
+    {
+      "id": "91.05.05.2015",
+      "name": "Humbe Awai"
+    },
+    {
+      "id": "91.05.05.2016",
+      "name": "Nurawi"
+    },
+    {
+      "id": "91.05.06.2001",
+      "name": "Kamanap"
+    },
+    {
+      "id": "91.05.06.2002",
+      "name": "Aromarea"
+    },
+    {
+      "id": "91.05.06.2003",
+      "name": "Maria Rotu (Mariarotu / Mariar Rotu)"
+    },
+    {
+      "id": "91.05.06.2004",
+      "name": "Kanawa"
+    },
+    {
+      "id": "91.05.06.2005",
+      "name": "Tatui"
+    },
+    {
+      "id": "91.05.06.2006",
+      "name": "Ariepi"
+    },
+    {
+      "id": "91.05.06.2007",
+      "name": "Sarawandori"
+    },
+    {
+      "id": "91.05.06.2008",
+      "name": "Ambaidiru"
+    },
+    {
+      "id": "91.05.06.2009",
+      "name": "Mambo"
+    },
+    {
+      "id": "91.05.06.2010",
+      "name": "Manainin"
+    },
+    {
+      "id": "91.05.06.2011",
+      "name": "Numaman"
+    },
+    {
+      "id": "91.05.06.2012",
+      "name": "Ramangkurani"
+    },
+    {
+      "id": "91.05.06.2013",
+      "name": "Sarawandori Dua"
+    },
+    {
+      "id": "91.05.06.2014",
+      "name": "Ariepi Dua"
+    },
+    {
+      "id": "91.05.06.2015",
+      "name": "Panduami (Pandoami/Panduani)"
+    },
+    {
+      "id": "91.05.07.2001",
+      "name": "Tindaret"
+    },
+    {
+      "id": "91.05.07.2002",
+      "name": "Yobi"
+    },
+    {
+      "id": "91.05.07.2003",
+      "name": "Sambrawai (Samrawai)"
+    },
+    {
+      "id": "91.05.07.2006",
+      "name": "Kiriyou (Kiriyow)"
+    },
+    {
+      "id": "91.05.07.2007",
+      "name": "Soromasen (Soromasem)"
+    },
+    {
+      "id": "91.05.07.2009",
+      "name": "Roswari (Artaneng)"
+    },
+    {
+      "id": "91.05.07.2010",
+      "name": "Doreimanona"
+    },
+    {
+      "id": "91.05.08.2001",
+      "name": "Waindu"
+    },
+    {
+      "id": "91.05.08.2008",
+      "name": "Barawai"
+    },
+    {
+      "id": "91.05.08.2009",
+      "name": "Woda"
+    },
+    {
+      "id": "91.05.08.2010",
+      "name": "Kororompui"
+    },
+    {
+      "id": "91.05.08.2011",
+      "name": "Aisau"
+    },
+    {
+      "id": "91.05.08.2012",
+      "name": "Sewenui"
+    },
+    {
+      "id": "91.05.08.2013",
+      "name": "Sawendui"
+    },
+    {
+      "id": "91.05.09.2001",
+      "name": "Randawaya"
+    },
+    {
+      "id": "91.05.09.2002",
+      "name": "Warironi"
+    },
+    {
+      "id": "91.05.09.2003",
+      "name": "Ampimoi"
+    },
+    {
+      "id": "91.05.09.2004",
+      "name": "Waita"
+    },
+    {
+      "id": "91.05.09.2005",
+      "name": "Ayari"
+    },
+    {
+      "id": "91.05.09.2006",
+      "name": "Koroapi"
+    },
+    {
+      "id": "91.05.09.2007",
+      "name": "Wabuayar (Wabuayer)"
+    },
+    {
+      "id": "91.05.09.2008",
+      "name": "Tarei"
+    },
+    {
+      "id": "91.05.09.2009",
+      "name": "Bareraif"
+    },
+    {
+      "id": "91.05.09.2010",
+      "name": "Arareni"
+    },
+    {
+      "id": "91.05.09.2011",
+      "name": "Siromi"
+    },
+    {
+      "id": "91.05.10.2001",
+      "name": "Ambai I"
+    },
+    {
+      "id": "91.05.10.2004",
+      "name": "Kawipi"
+    },
+    {
+      "id": "91.05.10.2005",
+      "name": "Wamori"
+    },
+    {
+      "id": "91.05.10.2006",
+      "name": "Adiwipi"
+    },
+    {
+      "id": "91.05.10.2008",
+      "name": "Ambai II"
+    },
+    {
+      "id": "91.05.10.2009",
+      "name": "Mambawi"
+    },
+    {
+      "id": "91.05.10.2010",
+      "name": "Baisore"
+    },
+    {
+      "id": "91.05.10.2011",
+      "name": "Rondepi"
+    },
+    {
+      "id": "91.05.10.2014",
+      "name": "Imboriawa"
+    },
+    {
+      "id": "91.05.10.2015",
+      "name": "Bairei"
+    },
+    {
+      "id": "91.05.10.2016",
+      "name": "Aiwaraggani"
+    },
+    {
+      "id": "91.05.10.2017",
+      "name": "Toroa"
+    },
+    {
+      "id": "91.05.10.2019",
+      "name": "Marawi"
+    },
+    {
+      "id": "91.05.11.2001",
+      "name": "Wooi"
+    },
+    {
+      "id": "91.05.11.2002",
+      "name": "Woinap"
+    },
+    {
+      "id": "91.05.11.2003",
+      "name": "Aibondeni"
+    },
+    {
+      "id": "91.05.11.2004",
+      "name": "Kanaki"
+    },
+    {
+      "id": "91.05.11.2005",
+      "name": "Dumani"
+    },
+    {
+      "id": "91.05.11.2007",
+      "name": "Karemoni"
+    },
+    {
+      "id": "91.05.11.2008",
+      "name": "Haihorei"
+    },
+    {
+      "id": "91.05.11.2009",
+      "name": "Rembai"
+    },
+    {
+      "id": "91.05.11.2010",
+      "name": "Jaimaria"
+    },
+    {
+      "id": "91.05.11.2011",
+      "name": "Awado"
+    },
+    {
+      "id": "91.05.12.2001",
+      "name": "Kaonda"
+    },
+    {
+      "id": "91.05.12.2002",
+      "name": "Windesi"
+    },
+    {
+      "id": "91.05.12.2003",
+      "name": "Munggui"
+    },
+    {
+      "id": "91.05.12.2004",
+      "name": "Karawi"
+    },
+    {
+      "id": "91.05.12.2005",
+      "name": "Asai"
+    },
+    {
+      "id": "91.05.12.2006",
+      "name": "Rosbori"
+    },
+    {
+      "id": "91.05.12.2007",
+      "name": "Waisani"
+    },
+    {
+      "id": "91.05.12.2008",
+      "name": "Saruman"
+    },
+    {
+      "id": "91.05.12.2009",
+      "name": "Aryobu"
+    },
+    {
+      "id": "91.05.13.2001",
+      "name": "Kaipuri"
+    },
+    {
+      "id": "91.05.13.2002",
+      "name": "Doreianmini"
+    },
+    {
+      "id": "91.05.13.2003",
+      "name": "Andersaria (Andesaria)"
+    },
+    {
+      "id": "91.05.13.2004",
+      "name": "Kurudu"
+    },
+    {
+      "id": "91.05.13.2005",
+      "name": "Kirimbri"
+    },
+    {
+      "id": "91.05.13.2006",
+      "name": "Manusundu"
+    },
+    {
+      "id": "91.05.13.2007",
+      "name": "Mnukwar"
+    },
+    {
+      "id": "91.05.13.2008",
+      "name": "Mansesi"
+    },
+    {
+      "id": "91.05.14.2001",
+      "name": "Miosnum"
+    },
+    {
+      "id": "91.05.14.2002",
+      "name": "Jeniari"
+    },
+    {
+      "id": "91.05.14.2003",
+      "name": "Umpeki"
+    },
+    {
+      "id": "91.05.14.2004",
+      "name": "Ausem"
+    },
+    {
+      "id": "91.05.14.2005",
+      "name": "Yeituarau"
+    },
+    {
+      "id": "91.05.15.1001",
+      "name": "Anatorei (Anotaurei)"
+    },
+    {
+      "id": "91.05.15.2001",
+      "name": "Ketu Api"
+    },
+    {
+      "id": "91.05.15.2002",
+      "name": "Mariaderi"
+    },
+    {
+      "id": "91.05.15.2003",
+      "name": "Yapan"
+    },
+    {
+      "id": "91.05.15.2004",
+      "name": "Mantembu"
+    },
+    {
+      "id": "91.05.15.2005",
+      "name": "Famboaman"
+    },
+    {
+      "id": "91.05.15.2006",
+      "name": "Kandowarira"
+    },
+    {
+      "id": "91.05.15.2007",
+      "name": "Warari"
+    },
+    {
+      "id": "91.05.16.2001",
+      "name": "Kontinuai"
+    },
+    {
+      "id": "91.05.16.2002",
+      "name": "Woniwon"
+    },
+    {
+      "id": "91.05.16.2003",
+      "name": "Sanayoka"
+    },
+    {
+      "id": "91.05.16.2004",
+      "name": "Rambai"
+    },
+    {
+      "id": "91.05.16.2005",
+      "name": "Yafanani"
+    },
+    {
+      "id": "91.05.16.2006",
+      "name": "Borai"
+    },
+    {
+      "id": "91.05.16.2007",
+      "name": "Kabuaena"
+    },
+    {
+      "id": "91.05.17.2001",
+      "name": "Saweru"
+    },
+    {
+      "id": "91.05.17.2002",
+      "name": "Umani"
+    },
+    {
+      "id": "91.05.17.2003",
+      "name": "Perea"
+    },
+    {
+      "id": "91.05.17.2004",
+      "name": "Nuniandei"
+    },
+    {
+      "id": "91.05.17.2005",
+      "name": "Dorau"
+    },
+    {
+      "id": "91.06.01.1001",
+      "name": "Sorido"
+    },
+    {
+      "id": "91.06.01.1002",
+      "name": "Waupnor"
+    },
+    {
+      "id": "91.06.01.1003",
+      "name": "Saramon (Saramom)"
+    },
+    {
+      "id": "91.06.01.1004",
+      "name": "Burokup (Burokub)"
+    },
+    {
+      "id": "91.06.01.1005",
+      "name": "Fandoi"
+    },
+    {
+      "id": "91.06.01.1006",
+      "name": "Mandala"
+    },
+    {
+      "id": "91.06.01.1016",
+      "name": "Yenures"
+    },
+    {
+      "id": "91.06.01.2007",
+      "name": "Mnubabo (Ambroben)"
+    },
+    {
+      "id": "91.06.01.2008",
+      "name": "Swapodibo"
+    },
+    {
+      "id": "91.06.01.2009",
+      "name": "Mokmer"
+    },
+    {
+      "id": "91.06.01.2010",
+      "name": "Inggiri"
+    },
+    {
+      "id": "91.06.01.2011",
+      "name": "Paray (Parai)"
+    },
+    {
+      "id": "91.06.01.2012",
+      "name": "Samau"
+    },
+    {
+      "id": "91.06.01.2013",
+      "name": "Insrom"
+    },
+    {
+      "id": "91.06.01.2014",
+      "name": "Anggraidi"
+    },
+    {
+      "id": "91.06.01.2015",
+      "name": "Manswam (Manswan)"
+    },
+    {
+      "id": "91.06.01.2017",
+      "name": "Sanumi"
+    },
+    {
+      "id": "91.06.01.2018",
+      "name": "Manggandisapi"
+    },
+    {
+      "id": "91.06.01.2019",
+      "name": "Karyendi"
+    },
+    {
+      "id": "91.06.01.2020",
+      "name": "Kababur"
+    },
+    {
+      "id": "91.06.01.2021",
+      "name": "Babrinbo"
+    },
+    {
+      "id": "91.06.01.2022",
+      "name": "Inggupi"
+    },
+    {
+      "id": "91.06.02.2001",
+      "name": "Sarwom"
+    },
+    {
+      "id": "91.06.02.2002",
+      "name": "Andei"
+    },
+    {
+      "id": "91.06.02.2004",
+      "name": "Waromi"
+    },
+    {
+      "id": "91.06.02.2006",
+      "name": "Kobeoser"
+    },
+    {
+      "id": "91.06.02.2007",
+      "name": "Mambesak"
+    },
+    {
+      "id": "91.06.02.2008",
+      "name": "Saukobye"
+    },
+    {
+      "id": "91.06.02.2010",
+      "name": "Yobdi"
+    },
+    {
+      "id": "91.06.02.2012",
+      "name": "Dernafi"
+    },
+    {
+      "id": "91.06.02.2013",
+      "name": "Rosayendi (Rosayendo)"
+    },
+    {
+      "id": "91.06.02.2016",
+      "name": "Warsansan"
+    },
+    {
+      "id": "91.06.02.2017",
+      "name": "Nermnu"
+    },
+    {
+      "id": "91.06.02.2018",
+      "name": "Korem"
+    },
+    {
+      "id": "91.06.02.2019",
+      "name": "Mnuswor"
+    },
+    {
+      "id": "91.06.02.2020",
+      "name": "Dofyo Wafor"
+    },
+    {
+      "id": "91.06.02.2021",
+      "name": "Warbon"
+    },
+    {
+      "id": "91.06.02.2022",
+      "name": "Wari"
+    },
+    {
+      "id": "91.06.03.2002",
+      "name": "Rimba Jaya"
+    },
+    {
+      "id": "91.06.03.2003",
+      "name": "Owi"
+    },
+    {
+      "id": "91.06.03.2004",
+      "name": "Woniki"
+    },
+    {
+      "id": "91.06.03.2005",
+      "name": "Kajasi"
+    },
+    {
+      "id": "91.06.03.2010",
+      "name": "Sunde"
+    },
+    {
+      "id": "91.06.03.2011",
+      "name": "Seepse (Sepse)"
+    },
+    {
+      "id": "91.06.03.2012",
+      "name": "Soon"
+    },
+    {
+      "id": "91.06.03.2013",
+      "name": "Sareidi (Saraeidi)"
+    },
+    {
+      "id": "91.06.03.2014",
+      "name": "Bindusi"
+    },
+    {
+      "id": "91.06.03.2015",
+      "name": "Orwer"
+    },
+    {
+      "id": "91.06.03.2016",
+      "name": "Yenusi"
+    },
+    {
+      "id": "91.06.03.2017",
+      "name": "Kajasbo"
+    },
+    {
+      "id": "91.06.03.2021",
+      "name": "Ruar"
+    },
+    {
+      "id": "91.06.03.2022",
+      "name": "Mandon"
+    },
+    {
+      "id": "91.06.03.2023",
+      "name": "Soryar"
+    },
+    {
+      "id": "91.06.03.2028",
+      "name": "Insumamires (Insumarires)"
+    },
+    {
+      "id": "91.06.03.2030",
+      "name": "Rim"
+    },
+    {
+      "id": "91.06.03.2031",
+      "name": "Adorbari"
+    },
+    {
+      "id": "91.06.03.2032",
+      "name": "Bosnik Sup"
+    },
+    {
+      "id": "91.06.03.2033",
+      "name": "Inofi"
+    },
+    {
+      "id": "91.06.03.2034",
+      "name": "Yenberok"
+    },
+    {
+      "id": "91.06.03.2035",
+      "name": "Wasori"
+    },
+    {
+      "id": "91.06.03.2036",
+      "name": "Yendakem"
+    },
+    {
+      "id": "91.06.03.2037",
+      "name": "Waderbo"
+    },
+    {
+      "id": "91.06.03.2038",
+      "name": "Afefbo"
+    },
+    {
+      "id": "91.06.03.2039",
+      "name": "Inmdi"
+    },
+    {
+      "id": "91.06.04.2003",
+      "name": "Namber"
+    },
+    {
+      "id": "91.06.04.2004",
+      "name": "Baruki"
+    },
+    {
+      "id": "91.06.04.2005",
+      "name": "Kameri"
+    },
+    {
+      "id": "91.06.04.2008",
+      "name": "Warido"
+    },
+    {
+      "id": "91.06.04.2012",
+      "name": "Sub Manggunsi (Subangungsi / Submanggunsi)"
+    },
+    {
+      "id": "91.06.04.2013",
+      "name": "Serbin"
+    },
+    {
+      "id": "91.06.04.2014",
+      "name": "Kansai"
+    },
+    {
+      "id": "91.06.04.2015",
+      "name": "Pondori (Pomdori)"
+    },
+    {
+      "id": "91.06.04.2019",
+      "name": "Semayen"
+    },
+    {
+      "id": "91.06.04.2020",
+      "name": "Mambodo Sawai"
+    },
+    {
+      "id": "91.06.04.2021",
+      "name": "Rimbaraya"
+    },
+    {
+      "id": "91.06.04.2022",
+      "name": "Pomdori Sup"
+    },
+    {
+      "id": "91.06.05.2006",
+      "name": "Yenburwo"
+    },
+    {
+      "id": "91.06.05.2011",
+      "name": "Kornasoren"
+    },
+    {
+      "id": "91.06.05.2014",
+      "name": "Rarsibo"
+    },
+    {
+      "id": "91.06.05.2015",
+      "name": "Asaryendi"
+    },
+    {
+      "id": "91.06.05.2016",
+      "name": "Yenmaru"
+    },
+    {
+      "id": "91.06.05.2017",
+      "name": "Pyefuri"
+    },
+    {
+      "id": "91.06.05.2018",
+      "name": "Indaibori"
+    },
+    {
+      "id": "91.06.05.2019",
+      "name": "Barkori"
+    },
+    {
+      "id": "91.06.05.2020",
+      "name": "Asaibori"
+    },
+    {
+      "id": "91.06.08.2001",
+      "name": "Andei"
+    },
+    {
+      "id": "91.06.08.2002",
+      "name": "Kanaan"
+    },
+    {
+      "id": "91.06.08.2003",
+      "name": "Asaryendi"
+    },
+    {
+      "id": "91.06.08.2004",
+      "name": "Sopendo"
+    },
+    {
+      "id": "91.06.08.2006",
+      "name": "Amponbukor"
+    },
+    {
+      "id": "91.06.08.2008",
+      "name": "Wasyai"
+    },
+    {
+      "id": "91.06.08.2009",
+      "name": "Kababur"
+    },
+    {
+      "id": "91.06.08.2010",
+      "name": "Warberik (Waberik)"
+    },
+    {
+      "id": "91.06.08.2011",
+      "name": "Sosmay / Sosmai"
+    },
+    {
+      "id": "91.06.08.2012",
+      "name": "Yomdori"
+    },
+    {
+      "id": "91.06.08.2013",
+      "name": "Opuri"
+    },
+    {
+      "id": "91.06.08.2014",
+      "name": "Mamoribo"
+    },
+    {
+      "id": "91.06.08.2021",
+      "name": "Insiri"
+    },
+    {
+      "id": "91.06.08.2024",
+      "name": "Asarkir"
+    },
+    {
+      "id": "91.06.08.2025",
+      "name": "Dousi"
+    },
+    {
+      "id": "91.06.08.2026",
+      "name": "Marisen"
+    },
+    {
+      "id": "91.06.08.2027",
+      "name": "Sumbinya (Sunbinya)"
+    },
+    {
+      "id": "91.06.08.2029",
+      "name": "Rarsbari"
+    },
+    {
+      "id": "91.06.08.2030",
+      "name": "Banasrares"
+    },
+    {
+      "id": "91.06.08.2031",
+      "name": "Karnindi"
+    },
+    {
+      "id": "91.06.08.2032",
+      "name": "Dedifu"
+    },
+    {
+      "id": "91.06.08.2033",
+      "name": "Sopendo Sup Karkir"
+    },
+    {
+      "id": "91.06.09.2003",
+      "name": "Marur"
+    },
+    {
+      "id": "91.06.09.2004",
+      "name": "Diano"
+    },
+    {
+      "id": "91.06.09.2005",
+      "name": "Sawai (Saway)"
+    },
+    {
+      "id": "91.06.09.2006",
+      "name": "Aman"
+    },
+    {
+      "id": "91.06.09.2007",
+      "name": "Yeruboi (Yeruboy)"
+    },
+    {
+      "id": "91.06.09.2008",
+      "name": "Amoi (Ammoy)"
+    },
+    {
+      "id": "91.06.09.2009",
+      "name": "Inswambesi (Inswanbesi)"
+    },
+    {
+      "id": "91.06.09.2010",
+      "name": "Koyomi"
+    },
+    {
+      "id": "91.06.09.2011",
+      "name": "Wasani"
+    },
+    {
+      "id": "91.06.09.2017",
+      "name": "Karuiberik"
+    },
+    {
+      "id": "91.06.09.2018",
+      "name": "Komboi (Komboy)"
+    },
+    {
+      "id": "91.06.09.2020",
+      "name": "Inswambesi Sup (Inswanbesi Sup)"
+    },
+    {
+      "id": "91.06.09.2021",
+      "name": "Inyobi"
+    },
+    {
+      "id": "91.06.09.2023",
+      "name": "Maniri"
+    },
+    {
+      "id": "91.06.09.2024",
+      "name": "Imbari"
+    },
+    {
+      "id": "91.06.09.2025",
+      "name": "Manbeori"
+    },
+    {
+      "id": "91.06.09.2026",
+      "name": "Warawaf"
+    },
+    {
+      "id": "91.06.09.2027",
+      "name": "Wir Insos"
+    },
+    {
+      "id": "91.06.09.2028",
+      "name": "Biawer"
+    },
+    {
+      "id": "91.06.09.2029",
+      "name": "Mamfias"
+    },
+    {
+      "id": "91.06.10.2001",
+      "name": "Pai"
+    },
+    {
+      "id": "91.06.10.2002",
+      "name": "Auki"
+    },
+    {
+      "id": "91.06.10.2003",
+      "name": "Wundi"
+    },
+    {
+      "id": "91.06.10.2004",
+      "name": "Nusi Babaruk"
+    },
+    {
+      "id": "91.06.10.2005",
+      "name": "Nusi"
+    },
+    {
+      "id": "91.06.10.2014",
+      "name": "Inyebomi (Inbeyomi)"
+    },
+    {
+      "id": "91.06.10.2015",
+      "name": "Sorina"
+    },
+    {
+      "id": "91.06.10.2016",
+      "name": "Sandidori (Sandedori)"
+    },
+    {
+      "id": "91.06.10.2020",
+      "name": "Paidori"
+    },
+    {
+      "id": "91.06.10.2021",
+      "name": "Kanai"
+    },
+    {
+      "id": "91.06.10.2022",
+      "name": "Sokani"
+    },
+    {
+      "id": "91.06.11.2001",
+      "name": "Yendidori"
+    },
+    {
+      "id": "91.06.11.2002",
+      "name": "Adoki"
+    },
+    {
+      "id": "91.06.11.2003",
+      "name": "Urfu"
+    },
+    {
+      "id": "91.06.11.2004",
+      "name": "Samber"
+    },
+    {
+      "id": "91.06.11.2005",
+      "name": "Kabidon"
+    },
+    {
+      "id": "91.06.11.2006",
+      "name": "Sunyar"
+    },
+    {
+      "id": "91.06.11.2007",
+      "name": "Maibaken"
+    },
+    {
+      "id": "91.06.11.2008",
+      "name": "Wirmaker"
+    },
+    {
+      "id": "91.06.11.2009",
+      "name": "Syabes"
+    },
+    {
+      "id": "91.06.11.2010",
+      "name": "Samber Sup"
+    },
+    {
+      "id": "91.06.11.2011",
+      "name": "Suneri"
+    },
+    {
+      "id": "91.06.11.2012",
+      "name": "Rarnpimbo"
+    },
+    {
+      "id": "91.06.11.2013",
+      "name": "Padwa"
+    },
+    {
+      "id": "91.06.11.2014",
+      "name": "Waroi (Waroy)"
+    },
+    {
+      "id": "91.06.11.2015",
+      "name": "Inpendi"
+    },
+    {
+      "id": "91.06.11.2016",
+      "name": "Amyabenram"
+    },
+    {
+      "id": "91.06.11.2017",
+      "name": "Birubi (Birub)"
+    },
+    {
+      "id": "91.06.11.2018",
+      "name": "Binyeri"
+    },
+    {
+      "id": "91.06.11.2019",
+      "name": "Padwa Pantai"
+    },
+    {
+      "id": "91.06.12.1001",
+      "name": "Samofa"
+    },
+    {
+      "id": "91.06.12.1002",
+      "name": "Brambaken"
+    },
+    {
+      "id": "91.06.12.1010",
+      "name": "Karang Mulia"
+    },
+    {
+      "id": "91.06.12.1011",
+      "name": "Yafdas"
+    },
+    {
+      "id": "91.06.12.1012",
+      "name": "Mansinyas"
+    },
+    {
+      "id": "91.06.12.1013",
+      "name": "Snerbo"
+    },
+    {
+      "id": "91.06.12.1014",
+      "name": "Anjarew"
+    },
+    {
+      "id": "91.06.12.2003",
+      "name": "Mandouw"
+    },
+    {
+      "id": "91.06.12.2004",
+      "name": "Sumberker"
+    },
+    {
+      "id": "91.06.12.2006",
+      "name": "Maryendi"
+    },
+    {
+      "id": "91.06.12.2007",
+      "name": "Sambawofuar"
+    },
+    {
+      "id": "91.06.12.2008",
+      "name": "Adainasnosen"
+    },
+    {
+      "id": "91.06.12.2009",
+      "name": "Darmopis"
+    },
+    {
+      "id": "91.06.12.2015",
+      "name": "Kamorfuar"
+    },
+    {
+      "id": "91.06.12.2016",
+      "name": "Anjereuw"
+    },
+    {
+      "id": "91.06.12.2017",
+      "name": "Wisata Binsari"
+    },
+    {
+      "id": "91.06.12.2018",
+      "name": "Kinmom"
+    },
+    {
+      "id": "91.06.13.2001",
+      "name": "Asur"
+    },
+    {
+      "id": "91.06.13.2002",
+      "name": "Bosnabraidi"
+    },
+    {
+      "id": "91.06.13.2003",
+      "name": "Wasori"
+    },
+    {
+      "id": "91.06.13.2004",
+      "name": "Syor (Soor / Sor)"
+    },
+    {
+      "id": "91.06.13.2005",
+      "name": "Karmon"
+    },
+    {
+      "id": "91.06.13.2006",
+      "name": "Yawosi (Fanindi)"
+    },
+    {
+      "id": "91.06.13.2007",
+      "name": "Madirai"
+    },
+    {
+      "id": "91.06.13.2008",
+      "name": "Indawi"
+    },
+    {
+      "id": "91.06.14.2001",
+      "name": "Rumbin"
+    },
+    {
+      "id": "91.06.14.2002",
+      "name": "Warbinsi"
+    },
+    {
+      "id": "91.06.14.2003",
+      "name": "Rodifu"
+    },
+    {
+      "id": "91.06.14.2004",
+      "name": "Wonabraidi"
+    },
+    {
+      "id": "91.06.14.2005",
+      "name": "Wouna"
+    },
+    {
+      "id": "91.06.14.2007",
+      "name": "Mamorbo"
+    },
+    {
+      "id": "91.06.14.2008",
+      "name": "Faknikdi"
+    },
+    {
+      "id": "91.06.14.2009",
+      "name": "Armnu"
+    },
+    {
+      "id": "91.06.14.2010",
+      "name": "Sup Mbrur"
+    },
+    {
+      "id": "91.06.14.2011",
+      "name": "Wodu"
+    },
+    {
+      "id": "91.06.14.2012",
+      "name": "Dasdo"
+    },
+    {
+      "id": "91.06.15.2001",
+      "name": "Farusi"
+    },
+    {
+      "id": "91.06.15.2002",
+      "name": "Mendenderi (Mandenderi)"
+    },
+    {
+      "id": "91.06.15.2003",
+      "name": "Swainober"
+    },
+    {
+      "id": "91.06.15.2004",
+      "name": "Mardori"
+    },
+    {
+      "id": "91.06.15.2005",
+      "name": "Swaipak"
+    },
+    {
+      "id": "91.06.15.2006",
+      "name": "Yenbepioper (Yembepioper)"
+    },
+    {
+      "id": "91.06.15.2007",
+      "name": "Sarwa"
+    },
+    {
+      "id": "91.06.15.2008",
+      "name": "Napdori"
+    },
+    {
+      "id": "91.06.15.2009",
+      "name": "Ramdori"
+    },
+    {
+      "id": "91.06.15.2010",
+      "name": "Busdori"
+    },
+    {
+      "id": "91.06.15.2011",
+      "name": "Wombrisau (Wombrisauw)"
+    },
+    {
+      "id": "91.06.15.2012",
+      "name": "Orkdori"
+    },
+    {
+      "id": "91.06.15.2013",
+      "name": "Saswarbo"
+    },
+    {
+      "id": "91.06.15.2014",
+      "name": "Andoina"
+    },
+    {
+      "id": "91.06.15.2015",
+      "name": "Insusbari"
+    },
+    {
+      "id": "91.06.16.2001",
+      "name": "Sandou (Sandau)"
+    },
+    {
+      "id": "91.06.16.2002",
+      "name": "Bruyadori"
+    },
+    {
+      "id": "91.06.16.2003",
+      "name": "Dafi"
+    },
+    {
+      "id": "91.06.16.2004",
+      "name": "Amberparem (Amperem)"
+    },
+    {
+      "id": "91.06.16.2005",
+      "name": "Mandori"
+    },
+    {
+      "id": "91.06.16.2006",
+      "name": "Duai"
+    },
+    {
+      "id": "91.06.16.2007",
+      "name": "Mandori Sup"
+    },
+    {
+      "id": "91.06.16.2008",
+      "name": "Kamumi"
+    },
+    {
+      "id": "91.06.16.2009",
+      "name": "Arimi Jaya"
+    },
+    {
+      "id": "91.06.16.2010",
+      "name": "Warbukor"
+    },
+    {
+      "id": "91.06.17.2001",
+      "name": "Yenbeba"
+    },
+    {
+      "id": "91.06.17.2002",
+      "name": "Yenbebon (Yenbepon)"
+    },
+    {
+      "id": "91.06.17.2003",
+      "name": "Saribi"
+    },
+    {
+      "id": "91.06.17.2004",
+      "name": "Sub Mander (Supmander)"
+    },
+    {
+      "id": "91.06.17.2005",
+      "name": "Rawar"
+    },
+    {
+      "id": "91.06.17.2006",
+      "name": "Pakreki"
+    },
+    {
+      "id": "91.06.17.2007",
+      "name": "Masyarah (Masyara)"
+    },
+    {
+      "id": "91.06.17.2008",
+      "name": "Wansra"
+    },
+    {
+      "id": "91.06.17.2009",
+      "name": "Manwor Indah"
+    },
+    {
+      "id": "91.06.18.2001",
+      "name": "Andei"
+    },
+    {
+      "id": "91.06.18.2002",
+      "name": "Syoribu (Syoribo)"
+    },
+    {
+      "id": "91.06.18.2003",
+      "name": "Saunbri (Sauribru)"
+    },
+    {
+      "id": "91.06.18.2004",
+      "name": "Manggari"
+    },
+    {
+      "id": "91.06.18.2005",
+      "name": "Bawei"
+    },
+    {
+      "id": "91.06.18.2006",
+      "name": "Sauri"
+    },
+    {
+      "id": "91.06.18.2007",
+      "name": "Andei Sup"
+    },
+    {
+      "id": "91.06.18.2008",
+      "name": "Serdori"
+    },
+    {
+      "id": "91.06.18.2009",
+      "name": "Koryakam"
+    },
+    {
+      "id": "91.06.19.2001",
+      "name": "Mios Mangguandi"
+    },
+    {
+      "id": "91.06.19.2002",
+      "name": "Supraima"
+    },
+    {
+      "id": "91.06.19.2003",
+      "name": "Samber Pasi"
+    },
+    {
+      "id": "91.06.19.2004",
+      "name": "Pasi"
+    },
+    {
+      "id": "91.06.19.2005",
+      "name": "Mbromsi"
+    },
+    {
+      "id": "91.06.19.2006",
+      "name": "Karabai"
+    },
+    {
+      "id": "91.06.19.2007",
+      "name": "Saribra"
+    },
+    {
+      "id": "91.06.19.2008",
+      "name": "Nyansoren"
+    },
+    {
+      "id": "91.06.19.2009",
+      "name": "Sasarari (Sasari)"
+    },
+    {
+      "id": "91.06.19.2010",
+      "name": "Padaido"
+    },
+    {
+      "id": "91.06.19.2011",
+      "name": "Yeri"
+    },
+    {
+      "id": "91.06.19.2012",
+      "name": "Anobo"
+    },
+    {
+      "id": "91.06.19.2013",
+      "name": "Yen Manaina"
+    },
+    {
+      "id": "91.06.20.2001",
+      "name": "Opiaref"
+    },
+    {
+      "id": "91.06.20.2002",
+      "name": "Bakribo"
+    },
+    {
+      "id": "91.06.20.2003",
+      "name": "Sawa"
+    },
+    {
+      "id": "91.06.20.2004",
+      "name": "Marauw (Marao)"
+    },
+    {
+      "id": "91.06.20.2005",
+      "name": "Wadibu"
+    },
+    {
+      "id": "91.06.20.2006",
+      "name": "Anggopi"
+    },
+    {
+      "id": "91.06.20.2007",
+      "name": "Anggaduber"
+    },
+    {
+      "id": "91.06.20.2008",
+      "name": "Animi"
+    },
+    {
+      "id": "91.06.20.2009",
+      "name": "Kakur"
+    },
+    {
+      "id": "91.06.20.2010",
+      "name": "Tanjung Barari"
+    },
+    {
+      "id": "91.06.20.2011",
+      "name": "Sawadori"
+    },
+    {
+      "id": "91.06.20.2012",
+      "name": "Sauri"
+    },
+    {
+      "id": "91.06.20.2013",
+      "name": "Makmakerbo"
+    },
+    {
+      "id": "91.06.20.2014",
+      "name": "Yensama"
+    },
+    {
+      "id": "91.06.21.2001",
+      "name": "Wopes"
+    },
+    {
+      "id": "91.06.21.2002",
+      "name": "Wandos"
+    },
+    {
+      "id": "91.06.21.2003",
+      "name": "Doubo"
+    },
+    {
+      "id": "91.06.21.2004",
+      "name": "Syurdori"
+    },
+    {
+      "id": "91.06.21.2005",
+      "name": "Sansundi"
+    },
+    {
+      "id": "91.10.01.1001",
+      "name": "Mararena"
+    },
+    {
+      "id": "91.10.01.1002",
+      "name": "Sarmi Kota (Sarmi)"
+    },
+    {
+      "id": "91.10.01.2003",
+      "name": "Sarmo"
+    },
+    {
+      "id": "91.10.01.2004",
+      "name": "Liki"
+    },
+    {
+      "id": "91.10.01.2006",
+      "name": "Sawar"
+    },
+    {
+      "id": "91.10.01.2007",
+      "name": "Bagaiserwar"
+    },
+    {
+      "id": "91.10.01.2014",
+      "name": "Armo"
+    },
+    {
+      "id": "91.10.01.2018",
+      "name": "Bagaisewar II"
+    },
+    {
+      "id": "91.10.01.2019",
+      "name": "Pulau Armo"
+    },
+    {
+      "id": "91.10.01.2020",
+      "name": "Lembah Neidam"
+    },
+    {
+      "id": "91.10.01.2021",
+      "name": "Tefarewar"
+    },
+    {
+      "id": "91.10.02.2001",
+      "name": "Bota-Bora"
+    },
+    {
+      "id": "91.10.02.2002",
+      "name": "Toganto"
+    },
+    {
+      "id": "91.10.02.2003",
+      "name": "Samanente"
+    },
+    {
+      "id": "91.10.02.2004",
+      "name": "Kanderjan"
+    },
+    {
+      "id": "91.10.02.2005",
+      "name": "Omte"
+    },
+    {
+      "id": "91.10.02.2006",
+      "name": "Safrom Tane"
+    },
+    {
+      "id": "91.10.02.2007",
+      "name": "Denender"
+    },
+    {
+      "id": "91.10.02.2009",
+      "name": "Safron Tane"
+    },
+    {
+      "id": "91.10.02.2010",
+      "name": "Denander"
+    },
+    {
+      "id": "91.10.02.2011",
+      "name": "Waaf"
+    },
+    {
+      "id": "91.10.03.2005",
+      "name": "Mertewar (Martewar)"
+    },
+    {
+      "id": "91.10.03.2006",
+      "name": "Samorkena"
+    },
+    {
+      "id": "91.10.03.2007",
+      "name": "Arbais"
+    },
+    {
+      "id": "91.10.03.2008",
+      "name": "Kapeso"
+    },
+    {
+      "id": "91.10.03.2009",
+      "name": "Masep"
+    },
+    {
+      "id": "91.10.03.2012",
+      "name": "Nisro"
+    },
+    {
+      "id": "91.10.03.2013",
+      "name": "Aruswar"
+    },
+    {
+      "id": "91.10.03.2014",
+      "name": "Kamenawari"
+    },
+    {
+      "id": "91.10.03.2015",
+      "name": "Waim"
+    },
+    {
+      "id": "91.10.03.2016",
+      "name": "Subu"
+    },
+    {
+      "id": "91.10.03.2017",
+      "name": "Karfasia"
+    },
+    {
+      "id": "91.10.03.2023",
+      "name": "Burgena"
+    },
+    {
+      "id": "91.10.03.2024",
+      "name": "Webro"
+    },
+    {
+      "id": "91.10.03.2025",
+      "name": "Siantoa"
+    },
+    {
+      "id": "91.10.03.2026",
+      "name": "Niwerawar"
+    },
+    {
+      "id": "91.10.03.2027",
+      "name": "Wari"
+    },
+    {
+      "id": "91.10.04.2001",
+      "name": "Ansudu (Ansubi)"
+    },
+    {
+      "id": "91.10.04.2002",
+      "name": "Betaf"
+    },
+    {
+      "id": "91.10.04.2003",
+      "name": "Yamben (Jamber/Beneraf)"
+    },
+    {
+      "id": "91.10.04.2010",
+      "name": "Sunum (Yamna)"
+    },
+    {
+      "id": "91.10.04.2011",
+      "name": "Komra"
+    },
+    {
+      "id": "91.10.04.2013",
+      "name": "Betaf Dua (Betaf II / Tamnir)"
+    },
+    {
+      "id": "91.10.04.2014",
+      "name": "Ansudu Dua (Ansudu II / Srem)"
+    },
+    {
+      "id": "91.10.05.2004",
+      "name": "Armopa"
+    },
+    {
+      "id": "91.10.05.2005",
+      "name": "Tarontha Srum (Taronta Srum)"
+    },
+    {
+      "id": "91.10.05.2006",
+      "name": "Anus"
+    },
+    {
+      "id": "91.10.05.2007",
+      "name": "Kiren"
+    },
+    {
+      "id": "91.10.05.2008",
+      "name": "Maweswares (Mawesres)"
+    },
+    {
+      "id": "91.10.05.2010",
+      "name": "Bebon Jaya"
+    },
+    {
+      "id": "91.10.05.2011",
+      "name": "Tetom"
+    },
+    {
+      "id": "91.10.05.2015",
+      "name": "Rimsersari (Rimser Sari)"
+    },
+    {
+      "id": "91.10.05.2017",
+      "name": "Krim Podena"
+    },
+    {
+      "id": "91.10.05.2018",
+      "name": "Rotea"
+    },
+    {
+      "id": "91.10.09.2001",
+      "name": "Wamariri"
+    },
+    {
+      "id": "91.10.09.2002",
+      "name": "Aurimi"
+    },
+    {
+      "id": "91.10.09.2003",
+      "name": "Tamaja (Tamaya)"
+    },
+    {
+      "id": "91.10.09.2004",
+      "name": "Airoran"
+    },
+    {
+      "id": "91.10.09.2005",
+      "name": "Murara"
+    },
+    {
+      "id": "91.10.09.2006",
+      "name": "Sasawapece"
+    },
+    {
+      "id": "91.10.09.2011",
+      "name": "Maniwa"
+    },
+    {
+      "id": "91.10.09.2012",
+      "name": "Surimania (Syurimania)"
+    },
+    {
+      "id": "91.10.09.2013",
+      "name": "Kwawitania"
+    },
+    {
+      "id": "91.10.09.2014",
+      "name": "Bina"
+    },
+    {
+      "id": "91.10.12.2001",
+      "name": "Amsira"
+    },
+    {
+      "id": "91.10.12.2002",
+      "name": "Siaratesa"
+    },
+    {
+      "id": "91.10.12.2003",
+      "name": "Munukania (Manukania)"
+    },
+    {
+      "id": "91.10.12.2004",
+      "name": "Kasukwe"
+    },
+    {
+      "id": "91.10.12.2005",
+      "name": "Wapo"
+    },
+    {
+      "id": "91.10.12.2008",
+      "name": "Angkasa Dua"
+    },
+    {
+      "id": "91.10.13.2001",
+      "name": "Holmafen"
+    },
+    {
+      "id": "91.10.13.2002",
+      "name": "Sewan"
+    },
+    {
+      "id": "91.10.13.2003",
+      "name": "Waskey / Tanjung Batu"
+    },
+    {
+      "id": "91.10.13.2004",
+      "name": "Ebram"
+    },
+    {
+      "id": "91.10.13.2005",
+      "name": "Binyer"
+    },
+    {
+      "id": "91.10.13.2006",
+      "name": "Bagaiserwar Dua"
+    },
+    {
+      "id": "91.10.13.2007",
+      "name": "Waskey"
+    },
+    {
+      "id": "91.10.13.2008",
+      "name": "Tanjung Batu"
+    },
+    {
+      "id": "91.10.14.2001",
+      "name": "Arare"
+    },
+    {
+      "id": "91.10.14.2002",
+      "name": "Wakde"
+    },
+    {
+      "id": "91.10.14.2003",
+      "name": "Timron/Keder"
+    },
+    {
+      "id": "91.10.14.2004",
+      "name": "Dabe"
+    },
+    {
+      "id": "91.10.14.2005",
+      "name": "Nengke"
+    },
+    {
+      "id": "91.10.14.2006",
+      "name": "Finyabor (Vinyabor)"
+    },
+    {
+      "id": "91.10.14.2012",
+      "name": "Tambrawar (Tabrawar)"
+    },
+    {
+      "id": "91.10.14.2013",
+      "name": "Keder Lama"
+    },
+    {
+      "id": "91.10.14.2014",
+      "name": "Finyabor Dua"
+    },
+    {
+      "id": "91.10.14.2015",
+      "name": "Dabe Dua (Dabe II)"
+    },
+    {
+      "id": "91.10.14.2016",
+      "name": "Nengke Dua (Nengke II / Nengke Baru)"
+    },
+    {
+      "id": "91.10.15.2001",
+      "name": "Gwinjaya (Gwin Jaya)"
+    },
+    {
+      "id": "91.10.15.2002",
+      "name": "Tamar Sari (Tamas Sari)"
+    },
+    {
+      "id": "91.10.15.2003",
+      "name": "Mawes Mukti"
+    },
+    {
+      "id": "91.10.15.2004",
+      "name": "Mawesday"
+    },
+    {
+      "id": "91.10.15.2005",
+      "name": "Kapitiau (Kaptiau)"
+    },
+    {
+      "id": "91.11.01.2001",
+      "name": "Banda"
+    },
+    {
+      "id": "91.11.01.2002",
+      "name": "Pund"
+    },
+    {
+      "id": "91.11.01.2003",
+      "name": "Kalifam"
+    },
+    {
+      "id": "91.11.01.2004",
+      "name": "Yuwainda"
+    },
+    {
+      "id": "91.11.01.2005",
+      "name": "Kalimala"
+    },
+    {
+      "id": "91.11.01.2006",
+      "name": "Ampas"
+    },
+    {
+      "id": "91.11.01.2007",
+      "name": "Bompai"
+    },
+    {
+      "id": "91.11.01.2008",
+      "name": "Sack"
+    },
+    {
+      "id": "91.11.02.2001",
+      "name": "Arso Kota"
+    },
+    {
+      "id": "91.11.02.2002",
+      "name": "Workwana"
+    },
+    {
+      "id": "91.11.02.2003",
+      "name": "Kwimi"
+    },
+    {
+      "id": "91.11.02.2004",
+      "name": "Ubiyau"
+    },
+    {
+      "id": "91.11.02.2006",
+      "name": "Sawanawa"
+    },
+    {
+      "id": "91.11.02.2009",
+      "name": "Yuwanain"
+    },
+    {
+      "id": "91.11.02.2010",
+      "name": "Yanamaa"
+    },
+    {
+      "id": "91.11.02.2011",
+      "name": "Asyaman"
+    },
+    {
+      "id": "91.11.02.2012",
+      "name": "Yamta"
+    },
+    {
+      "id": "91.11.02.2016",
+      "name": "Bagia"
+    },
+    {
+      "id": "91.11.02.2030",
+      "name": "Sawabuun"
+    },
+    {
+      "id": "91.11.02.2031",
+      "name": "Bibiosi"
+    },
+    {
+      "id": "91.11.03.2001",
+      "name": "Molof"
+    },
+    {
+      "id": "91.11.03.2002",
+      "name": "Senggi"
+    },
+    {
+      "id": "91.11.03.2003",
+      "name": "Warlef"
+    },
+    {
+      "id": "91.11.03.2005",
+      "name": "Usku"
+    },
+    {
+      "id": "91.11.03.2006",
+      "name": "Woslay"
+    },
+    {
+      "id": "91.11.03.2010",
+      "name": "Namla"
+    },
+    {
+      "id": "91.11.03.2011",
+      "name": "Waley"
+    },
+    {
+      "id": "91.11.04.2001",
+      "name": "Dubu"
+    },
+    {
+      "id": "91.11.04.2002",
+      "name": "Umuraf (Umuaf)"
+    },
+    {
+      "id": "91.11.04.2003",
+      "name": "Semografi"
+    },
+    {
+      "id": "91.11.04.2005",
+      "name": "Embi"
+    },
+    {
+      "id": "91.11.04.2015",
+      "name": "Yamraf Dua"
+    },
+    {
+      "id": "91.11.04.2017",
+      "name": "Tatakra"
+    },
+    {
+      "id": "91.11.05.2001",
+      "name": "Skanto"
+    },
+    {
+      "id": "91.11.05.2002",
+      "name": "Jaifuri"
+    },
+    {
+      "id": "91.11.05.2003",
+      "name": "Arsopura"
+    },
+    {
+      "id": "91.11.05.2004",
+      "name": "Wiantre"
+    },
+    {
+      "id": "91.11.05.2005",
+      "name": "Naramben"
+    },
+    {
+      "id": "91.11.05.2006",
+      "name": "Intaimelyan"
+    },
+    {
+      "id": "91.11.05.2007",
+      "name": "Traimelyan"
+    },
+    {
+      "id": "91.11.05.2008",
+      "name": "Wulukubun"
+    },
+    {
+      "id": "91.11.05.2009",
+      "name": "Gudang Garam"
+    },
+    {
+      "id": "91.11.05.2010",
+      "name": "Saefen Empat Dua"
+    },
+    {
+      "id": "91.11.05.2011",
+      "name": "Walma"
+    },
+    {
+      "id": "91.11.05.2012",
+      "name": "Alang-alang Raya"
+    },
+    {
+      "id": "91.11.06.2005",
+      "name": "Yetti"
+    },
+    {
+      "id": "91.11.06.2006",
+      "name": "Kriku"
+    },
+    {
+      "id": "91.11.06.2007",
+      "name": "Skofro"
+    },
+    {
+      "id": "91.11.06.2008",
+      "name": "Kibay"
+    },
+    {
+      "id": "91.11.06.2009",
+      "name": "Sangke"
+    },
+    {
+      "id": "91.11.06.2011",
+      "name": "Suskun"
+    },
+    {
+      "id": "91.11.06.2013",
+      "name": "Amyu"
+    },
+    {
+      "id": "91.11.06.2014",
+      "name": "Kikere (Pikere)"
+    },
+    {
+      "id": "91.11.06.2015",
+      "name": "Petewi"
+    },
+    {
+      "id": "91.11.07.2001",
+      "name": "Towe Hitam"
+    },
+    {
+      "id": "91.11.07.2002",
+      "name": "Towe Atas"
+    },
+    {
+      "id": "91.11.07.2003",
+      "name": "Terfones"
+    },
+    {
+      "id": "91.11.07.2004",
+      "name": "Tefalma (Tefanma)"
+    },
+    {
+      "id": "91.11.07.2005",
+      "name": "Bias"
+    },
+    {
+      "id": "91.11.07.2006",
+      "name": "Milki"
+    },
+    {
+      "id": "91.11.07.2007",
+      "name": "Lules"
+    },
+    {
+      "id": "91.11.07.2009",
+      "name": "Jember"
+    },
+    {
+      "id": "91.11.07.2010",
+      "name": "Niliti"
+    },
+    {
+      "id": "91.11.07.2011",
+      "name": "Pris"
+    },
+    {
+      "id": "91.11.08.2001",
+      "name": "Dukwia"
+    },
+    {
+      "id": "91.11.08.2002",
+      "name": "Sanggaria"
+    },
+    {
+      "id": "91.11.08.2003",
+      "name": "Yatu Raharja"
+    },
+    {
+      "id": "91.11.08.2004",
+      "name": "Warbo"
+    },
+    {
+      "id": "91.11.08.2005",
+      "name": "Yammua"
+    },
+    {
+      "id": "91.11.08.2006",
+      "name": "Ifia-fia"
+    },
+    {
+      "id": "91.11.08.2007",
+      "name": "Baburia"
+    },
+    {
+      "id": "91.11.08.2008",
+      "name": "Yowong"
+    },
+    {
+      "id": "91.11.09.2001",
+      "name": "Yamara"
+    },
+    {
+      "id": "91.11.09.2002",
+      "name": "Wembi"
+    },
+    {
+      "id": "91.11.09.2003",
+      "name": "Wonorejo"
+    },
+    {
+      "id": "91.11.09.2004",
+      "name": "Pyawi"
+    },
+    {
+      "id": "91.11.09.2005",
+      "name": "Sawyatami"
+    },
+    {
+      "id": "91.11.09.2006",
+      "name": "Wambes"
+    },
+    {
+      "id": "91.11.09.2007",
+      "name": "Uskwar"
+    },
+    {
+      "id": "91.11.10.2001",
+      "name": "Yabanda"
+    },
+    {
+      "id": "91.11.10.2002",
+      "name": "Yuruf"
+    },
+    {
+      "id": "91.11.10.2003",
+      "name": "Amgotro"
+    },
+    {
+      "id": "91.11.10.2004",
+      "name": "Jifanggry"
+    },
+    {
+      "id": "91.11.10.2005",
+      "name": "Monggoafi"
+    },
+    {
+      "id": "91.11.10.2006",
+      "name": "Fafenumbu"
+    },
+    {
+      "id": "91.11.10.2007",
+      "name": "Akarinda"
+    },
+    {
+      "id": "91.11.11.2001",
+      "name": "Kaisenar"
+    },
+    {
+      "id": "91.11.11.2002",
+      "name": "Kiambra"
+    },
+    {
+      "id": "91.11.11.2003",
+      "name": "Liket"
+    },
+    {
+      "id": "91.11.11.2004",
+      "name": "Onam"
+    },
+    {
+      "id": "91.11.11.2005",
+      "name": "Tefanma Satu"
+    },
+    {
+      "id": "91.15.01.2003",
+      "name": "Waren Satu (I)"
+    },
+    {
+      "id": "91.15.01.2004",
+      "name": "Waren Dua (II)"
+    },
+    {
+      "id": "91.15.01.2011",
+      "name": "Nonomi"
+    },
+    {
+      "id": "91.15.01.2020",
+      "name": "Sarafambai"
+    },
+    {
+      "id": "91.15.01.2025",
+      "name": "Uri"
+    },
+    {
+      "id": "91.15.01.2027",
+      "name": "Batu Zaman"
+    },
+    {
+      "id": "91.15.01.2029",
+      "name": "Sawara Jaya"
+    },
+    {
+      "id": "91.15.03.2006",
+      "name": "Saurisirami"
+    },
+    {
+      "id": "91.15.03.2009",
+      "name": "Sinonde"
+    },
+    {
+      "id": "91.15.03.2013",
+      "name": "Kali Baru"
+    },
+    {
+      "id": "91.15.03.2014",
+      "name": "Sirami"
+    },
+    {
+      "id": "91.15.03.2015",
+      "name": "Bunggu"
+    },
+    {
+      "id": "91.15.03.2016",
+      "name": "Kowogi"
+    },
+    {
+      "id": "91.15.03.2017",
+      "name": "Emauri"
+    },
+    {
+      "id": "91.15.03.2018",
+      "name": "Obutay"
+    },
+    {
+      "id": "91.15.03.2019",
+      "name": "Wairo"
+    },
+    {
+      "id": "91.15.07.2002",
+      "name": "Fafado"
+    },
+    {
+      "id": "91.15.07.2003",
+      "name": "Wobari"
+    },
+    {
+      "id": "91.15.07.2013",
+      "name": "Aimasi"
+    },
+    {
+      "id": "91.15.07.2014",
+      "name": "Mui"
+    },
+    {
+      "id": "91.15.07.2015",
+      "name": "Waghare"
+    },
+    {
+      "id": "91.15.07.2016",
+      "name": "Ghaiwando"
+    },
+    {
+      "id": "91.15.07.2017",
+      "name": "Womorisi"
+    },
+    {
+      "id": "91.15.07.2018",
+      "name": "Orambin"
+    },
+    {
+      "id": "91.15.07.2019",
+      "name": "Unareu"
+    },
+    {
+      "id": "91.15.07.2020",
+      "name": "Ghaiwaru"
+    },
+    {
+      "id": "91.15.08.2001",
+      "name": "Ureifaisei I/Sanggae"
+    },
+    {
+      "id": "91.15.08.2002",
+      "name": "Urfas II (Ureifasei Dua / II)"
+    },
+    {
+      "id": "91.15.08.2003",
+      "name": "Nubuai"
+    },
+    {
+      "id": "91.15.08.2004",
+      "name": "Ureifaisei III/ Paradoi"
+    },
+    {
+      "id": "91.15.08.2005",
+      "name": "Apainabo"
+    },
+    {
+      "id": "91.15.08.2006",
+      "name": "Mambui"
+    },
+    {
+      "id": "91.15.08.2007",
+      "name": "Khemoon Jaya (Kemon Jaya)"
+    },
+    {
+      "id": "91.15.08.2008",
+      "name": "Usaiwa"
+    },
+    {
+      "id": "91.15.08.2009",
+      "name": "Paradoi"
+    },
+    {
+      "id": "91.15.08.2010",
+      "name": "Ghoyui"
+    },
+    {
+      "id": "91.15.08.2011",
+      "name": "Rorisi"
+    },
+    {
+      "id": "91.15.08.2012",
+      "name": "Ronggaiwa"
+    },
+    {
+      "id": "91.15.09.2002",
+      "name": "Somiangga"
+    },
+    {
+      "id": "91.15.09.2004",
+      "name": "Toire"
+    },
+    {
+      "id": "91.15.09.2005",
+      "name": "Harapan Jaya"
+    },
+    {
+      "id": "91.15.09.2006",
+      "name": "Demisa"
+    },
+    {
+      "id": "91.15.09.2008",
+      "name": "Otodemo"
+    },
+    {
+      "id": "91.15.09.2011",
+      "name": "Awaso"
+    },
+    {
+      "id": "91.15.09.2012",
+      "name": "Firo"
+    },
+    {
+      "id": "91.15.10.2001",
+      "name": "Dairi"
+    },
+    {
+      "id": "91.15.10.2002",
+      "name": "Spoiri"
+    },
+    {
+      "id": "91.15.10.2003",
+      "name": "Sooh"
+    },
+    {
+      "id": "91.15.10.2004",
+      "name": "Dirou"
+    },
+    {
+      "id": "91.15.10.2005",
+      "name": "Diwah (Diwa)"
+    },
+    {
+      "id": "91.15.10.2006",
+      "name": "Kuaisa"
+    },
+    {
+      "id": "91.15.10.2007",
+      "name": "Aru Antu (Antu Aru)"
+    },
+    {
+      "id": "91.15.10.2008",
+      "name": "Foira (Poira)"
+    },
+    {
+      "id": "91.15.10.2009",
+      "name": "Kawari"
+    },
+    {
+      "id": "91.15.10.2010",
+      "name": "Wafuka"
+    },
+    {
+      "id": "91.15.11.2001",
+      "name": "Botawa"
+    },
+    {
+      "id": "91.15.11.2002",
+      "name": "Sowiwa"
+    },
+    {
+      "id": "91.15.11.2003",
+      "name": "Baino Jaya"
+    },
+    {
+      "id": "91.15.11.2004",
+      "name": "Nau"
+    },
+    {
+      "id": "91.15.11.2005",
+      "name": "Rasawa"
+    },
+    {
+      "id": "91.15.11.2006",
+      "name": "Ruambak Jaya"
+    },
+    {
+      "id": "91.15.11.2007",
+      "name": "Moroa"
+    },
+    {
+      "id": "91.15.11.2008",
+      "name": "Oiboa"
+    },
+    {
+      "id": "91.15.12.2001",
+      "name": "Wapoga"
+    },
+    {
+      "id": "91.15.12.2002",
+      "name": "Pirare"
+    },
+    {
+      "id": "91.15.12.2003",
+      "name": "Awera"
+    },
+    {
+      "id": "91.15.12.2004",
+      "name": "Syewa Merare"
+    },
+    {
+      "id": "91.15.12.2005",
+      "name": "Kamarisano"
+    },
+    {
+      "id": "91.15.12.2006",
+      "name": "Waweri"
+    },
+    {
+      "id": "91.15.12.2007",
+      "name": "Dokis"
+    },
+    {
+      "id": "91.15.13.2001",
+      "name": "Urato"
+    },
+    {
+      "id": "91.15.13.2002",
+      "name": "Mayaghaido"
+    },
+    {
+      "id": "91.15.13.2003",
+      "name": "Aniboi"
+    },
+    {
+      "id": "91.15.13.2007",
+      "name": "Tetui"
+    },
+    {
+      "id": "91.15.13.2008",
+      "name": "Demba"
+    },
+    {
+      "id": "91.15.13.2009",
+      "name": "Fafai"
+    },
+    {
+      "id": "91.15.13.2017",
+      "name": "Wudokuri"
+    },
+    {
+      "id": "91.15.13.2018",
+      "name": "Aiwa"
+    },
+    {
+      "id": "91.15.13.2019",
+      "name": "Biati"
+    },
+    {
+      "id": "91.15.13.2020",
+      "name": "Ronarai"
+    },
+    {
+      "id": "91.15.14.2001",
+      "name": "Odase"
+    },
+    {
+      "id": "91.15.14.2002",
+      "name": "Wanda"
+    },
+    {
+      "id": "91.15.14.2003",
+      "name": "Bakadaro"
+    },
+    {
+      "id": "91.15.14.2004",
+      "name": "Moyufuri"
+    },
+    {
+      "id": "91.15.14.2005",
+      "name": "Wonti Kai"
+    },
+    {
+      "id": "91.15.14.2006",
+      "name": "Ghoiwi Samberi"
+    },
+    {
+      "id": "91.15.14.2007",
+      "name": "Gheroi"
+    },
+    {
+      "id": "91.15.14.2008",
+      "name": "Fimore"
+    },
+    {
+      "id": "91.15.14.2009",
+      "name": "Sifuisera"
+    },
+    {
+      "id": "91.15.14.2010",
+      "name": "Borumei"
+    },
+    {
+      "id": "91.15.15.2001",
+      "name": "Mambai"
+    },
+    {
+      "id": "91.15.15.2002",
+      "name": "Soyoi"
+    },
+    {
+      "id": "91.15.15.2003",
+      "name": "Daimboa"
+    },
+    {
+      "id": "91.15.15.2004",
+      "name": "Napani"
+    },
+    {
+      "id": "91.15.15.2005",
+      "name": "Segha"
+    },
+    {
+      "id": "91.15.15.2006",
+      "name": "Wainarisi"
+    },
+    {
+      "id": "91.15.15.2007",
+      "name": "Fafarui"
+    },
+    {
+      "id": "91.15.15.2008",
+      "name": "Dawoa"
+    },
+    {
+      "id": "91.15.15.2009",
+      "name": "Sinabo"
+    },
+    {
+      "id": "91.15.15.2010",
+      "name": "Woinui"
+    },
+    {
+      "id": "91.19.01.2003",
+      "name": "Fanindi"
+    },
+    {
+      "id": "91.19.01.2004",
+      "name": "Odori"
+    },
+    {
+      "id": "91.19.01.2010",
+      "name": "Biniki"
+    },
+    {
+      "id": "91.19.01.2011",
+      "name": "Didiabolo"
+    },
+    {
+      "id": "91.19.01.2015",
+      "name": "Warbefondi (Waberfondi / Warbepondi)"
+    },
+    {
+      "id": "91.19.01.2016",
+      "name": "Awaki"
+    },
+    {
+      "id": "91.19.01.2019",
+      "name": "Maryaidori"
+    },
+    {
+      "id": "91.19.02.2003",
+      "name": "Warsa"
+    },
+    {
+      "id": "91.19.02.2008",
+      "name": "Warbor"
+    },
+    {
+      "id": "91.19.02.2009",
+      "name": "Kobari Jaya"
+    },
+    {
+      "id": "91.19.02.2010",
+      "name": "Fanjur"
+    },
+    {
+      "id": "91.19.02.2015",
+      "name": "Puweri"
+    },
+    {
+      "id": "91.19.03.2001",
+      "name": "Yawerma"
+    },
+    {
+      "id": "91.19.03.2002",
+      "name": "Wombonda"
+    },
+    {
+      "id": "91.19.03.2003",
+      "name": "Marsram"
+    },
+    {
+      "id": "91.19.03.2004",
+      "name": "Duber"
+    },
+    {
+      "id": "91.19.03.2005",
+      "name": "Sauyas"
+    },
+    {
+      "id": "91.19.03.2006",
+      "name": "Wafor"
+    },
+    {
+      "id": "91.19.03.2007",
+      "name": "Sorendidori (Sorendiweri)"
+    },
+    {
+      "id": "91.19.03.2008",
+      "name": "Waryesi"
+    },
+    {
+      "id": "91.19.03.2009",
+      "name": "Syurdori"
+    },
+    {
+      "id": "91.19.03.2010",
+      "name": "Douwbo (Doubo)"
+    },
+    {
+      "id": "91.19.04.2001",
+      "name": "Rayori"
+    },
+    {
+      "id": "91.19.04.2002",
+      "name": "Mbrurwandi (Mbruwandi / Bruwandi)"
+    },
+    {
+      "id": "91.19.04.2003",
+      "name": "Manggonswan (Mangoswan)"
+    },
+    {
+      "id": "91.19.04.2004",
+      "name": "Wonggeina (Wongkeina)"
+    },
+    {
+      "id": "91.19.04.2005",
+      "name": "Yamnaisu"
+    },
+    {
+      "id": "91.19.04.2006",
+      "name": "Aruri"
+    },
+    {
+      "id": "91.19.04.2007",
+      "name": "Imbrisbari (Imbirsbari)"
+    },
+    {
+      "id": "91.19.04.2008",
+      "name": "Ineki"
+    },
+    {
+      "id": "91.19.04.2009",
+      "name": "Insumbrei"
+    },
+    {
+      "id": "91.19.05.2001",
+      "name": "Waryei (Wariyei)"
+    },
+    {
+      "id": "91.19.05.2002",
+      "name": "Koryakam (Koiryakam)"
+    },
+    {
+      "id": "91.19.05.2003",
+      "name": "Wayori (Mayori)"
+    },
+    {
+      "id": "91.19.05.2004",
+      "name": "Amyas"
+    },
+    {
+      "id": "91.19.05.2005",
+      "name": "Napisndi (Napisandi)"
+    },
+    {
+      "id": "91.19.05.2006",
+      "name": "Masyai"
+    },
+    {
+      "id": "91.19.05.2007",
+      "name": "Mapia"
+    },
+    {
+      "id": "91.20.01.2001",
+      "name": "Burmeso"
+    },
+    {
+      "id": "91.20.01.2002",
+      "name": "Anggreso"
+    },
+    {
+      "id": "91.20.01.2003",
+      "name": "Kasonaweja"
+    },
+    {
+      "id": "91.20.01.2004",
+      "name": "Metaweja"
+    },
+    {
+      "id": "91.20.01.2005",
+      "name": "Namunaweja"
+    },
+    {
+      "id": "91.20.01.2006",
+      "name": "Danau Bira"
+    },
+    {
+      "id": "91.20.01.2007",
+      "name": "Muru Mare"
+    },
+    {
+      "id": "91.20.01.2008",
+      "name": "Kwerba"
+    },
+    {
+      "id": "91.20.01.2009",
+      "name": "Sosawakwesar"
+    },
+    {
+      "id": "91.20.01.2010",
+      "name": "Babija"
+    },
+    {
+      "id": "91.20.01.2011",
+      "name": "Marina Valen"
+    },
+    {
+      "id": "91.20.02.2001",
+      "name": "Dabra"
+    },
+    {
+      "id": "91.20.02.2002",
+      "name": "Taiyeve"
+    },
+    {
+      "id": "91.20.02.2003",
+      "name": "Fuao"
+    },
+    {
+      "id": "91.20.02.2004",
+      "name": "Pepasena I"
+    },
+    {
+      "id": "91.20.02.2005",
+      "name": "Pepasena II"
+    },
+    {
+      "id": "91.20.02.2006",
+      "name": "Dou"
+    },
+    {
+      "id": "91.20.02.2008",
+      "name": "Fokri"
+    },
+    {
+      "id": "91.20.02.2015",
+      "name": "Taria"
+    },
+    {
+      "id": "91.20.03.2001",
+      "name": "Fona"
+    },
+    {
+      "id": "91.20.03.2002",
+      "name": "Tayai"
+    },
+    {
+      "id": "91.20.03.2003",
+      "name": "Bareri"
+    },
+    {
+      "id": "91.20.03.2004",
+      "name": "Sikari"
+    },
+    {
+      "id": "91.20.03.2006",
+      "name": "Kai"
+    },
+    {
+      "id": "91.20.03.2007",
+      "name": "Haya"
+    },
+    {
+      "id": "91.20.04.2001",
+      "name": "Kustra"
+    },
+    {
+      "id": "91.20.04.2002",
+      "name": "Noyadi"
+    },
+    {
+      "id": "91.20.04.2003",
+      "name": "Obogai"
+    },
+    {
+      "id": "91.20.04.2004",
+      "name": "Biri"
+    },
+    {
+      "id": "91.20.04.2005",
+      "name": "Wakeyadi"
+    },
+    {
+      "id": "91.20.04.2006",
+      "name": "Eri"
+    },
+    {
+      "id": "91.20.04.2007",
+      "name": "Towae"
+    },
+    {
+      "id": "91.20.05.2001",
+      "name": "Baudi"
+    },
+    {
+      "id": "91.20.05.2002",
+      "name": "Trimuris"
+    },
+    {
+      "id": "91.20.05.2003",
+      "name": "Bagusa"
+    },
+    {
+      "id": "91.20.05.2004",
+      "name": "Kapeso"
+    },
+    {
+      "id": "91.20.05.2005",
+      "name": "Suaseso"
+    },
+    {
+      "id": "91.20.05.2006",
+      "name": "Warembori"
+    },
+    {
+      "id": "91.20.05.2007",
+      "name": "Yoke"
+    },
+    {
+      "id": "91.20.05.2008",
+      "name": "Taya"
+    },
+    {
+      "id": "91.20.06.2001",
+      "name": "Nadofoai"
+    },
+    {
+      "id": "91.20.06.2002",
+      "name": "Barapasi"
+    },
+    {
+      "id": "91.20.06.2003",
+      "name": "Sipisi"
+    },
+    {
+      "id": "91.20.06.2004",
+      "name": "Bariwaro"
+    },
+    {
+      "id": "91.20.06.2005",
+      "name": "Bensor"
+    },
+    {
+      "id": "91.20.06.2006",
+      "name": "Rawiwa"
+    },
+    {
+      "id": "91.20.06.2007",
+      "name": "Marikai"
+    },
+    {
+      "id": "91.20.07.2001",
+      "name": "Kamai"
+    },
+    {
+      "id": "91.20.07.2002",
+      "name": "Dadat"
+    },
+    {
+      "id": "91.20.07.2003",
+      "name": "Kerema"
+    },
+    {
+      "id": "91.20.07.2005",
+      "name": "Teuw* (Teuw)"
+    },
+    {
+      "id": "91.20.07.2006",
+      "name": "Watiaro"
+    },
+    {
+      "id": "91.20.07.2007",
+      "name": "Gesa Baru"
+    },
+    {
+      "id": "91.20.07.2008",
+      "name": "Baitanasa"
+    },
+    {
+      "id": "91.20.08.2001",
+      "name": "Poiwai"
+    },
+    {
+      "id": "91.20.08.2002",
+      "name": "Tamakuri"
+    },
+    {
+      "id": "91.20.08.2003",
+      "name": "Bonoi"
+    },
+    {
+      "id": "91.20.08.2004",
+      "name": "Sorabi"
+    },
+    {
+      "id": "91.20.08.2005",
+      "name": "Rapambrei"
+    },
+    {
+      "id": "91.20.08.2006",
+      "name": "Anasi"
+    },
+    {
+      "id": "91.71.01.1001",
+      "name": "Gurabesi"
+    },
+    {
+      "id": "91.71.01.1002",
+      "name": "Bayangkara (Bhayangkara)"
+    },
+    {
+      "id": "91.71.01.1003",
+      "name": "Trikora"
+    },
+    {
+      "id": "91.71.01.1004",
+      "name": "Imbi"
+    },
+    {
+      "id": "91.71.01.1005",
+      "name": "Tanjung Ria"
+    },
+    {
+      "id": "91.71.01.1006",
+      "name": "Mandala"
+    },
+    {
+      "id": "91.71.01.1007",
+      "name": "Angkasapura"
+    },
+    {
+      "id": "91.71.01.2008",
+      "name": "Kayo Batu"
+    },
+    {
+      "id": "91.71.02.1001",
+      "name": "Argapura"
+    },
+    {
+      "id": "91.71.02.1002",
+      "name": "Ardipura"
+    },
+    {
+      "id": "91.71.02.1003",
+      "name": "Numbai (Numbay)"
+    },
+    {
+      "id": "91.71.02.1005",
+      "name": "Entrop"
+    },
+    {
+      "id": "91.71.02.1006",
+      "name": "Hamadi"
+    },
+    {
+      "id": "91.71.02.2007",
+      "name": "Tahima Sorama"
+    },
+    {
+      "id": "91.71.02.2008",
+      "name": "Tobati"
+    },
+    {
+      "id": "91.71.03.1002",
+      "name": "Asano"
+    },
+    {
+      "id": "91.71.03.1008",
+      "name": "Awiyo"
+    },
+    {
+      "id": "91.71.03.1010",
+      "name": "Yobe"
+    },
+    {
+      "id": "91.71.03.1011",
+      "name": "Abepantai"
+    },
+    {
+      "id": "91.71.03.1012",
+      "name": "Kota Baru"
+    },
+    {
+      "id": "91.71.03.1014",
+      "name": "Vim"
+    },
+    {
+      "id": "91.71.03.1015",
+      "name": "Wahno"
+    },
+    {
+      "id": "91.71.03.1016",
+      "name": "Way Mhorock"
+    },
+    {
+      "id": "91.71.03.2001",
+      "name": "Nafri"
+    },
+    {
+      "id": "91.71.03.2004",
+      "name": "Engros (Enggros)"
+    },
+    {
+      "id": "91.71.03.2007",
+      "name": "Koya Koso"
+    },
+    {
+      "id": "91.71.04.1004",
+      "name": "Koya Barat"
+    },
+    {
+      "id": "91.71.04.1005",
+      "name": "Koya Timur"
+    },
+    {
+      "id": "91.71.04.2001",
+      "name": "Skow Mabo (Skouw Mabo )"
+    },
+    {
+      "id": "91.71.04.2002",
+      "name": "Skow Yambe (Skouw Yambe)"
+    },
+    {
+      "id": "91.71.04.2003",
+      "name": "Skow Sae (Skouw Sae)"
+    },
+    {
+      "id": "91.71.04.2006",
+      "name": "Holtekamp"
+    },
+    {
+      "id": "91.71.04.2007",
+      "name": "Koya Tengah"
+    },
+    {
+      "id": "91.71.04.2008",
+      "name": "Mosso"
+    },
+    {
+      "id": "91.71.05.1001",
+      "name": "Hedam"
+    },
+    {
+      "id": "91.71.05.1002",
+      "name": "Waena"
+    },
+    {
+      "id": "91.71.05.1004",
+      "name": "Yabansai"
+    },
+    {
+      "id": "91.71.05.2003",
+      "name": "Yoka"
+    },
+    {
+      "id": "91.71.05.2005",
+      "name": "Waena II"
+    }
+  ]
+}

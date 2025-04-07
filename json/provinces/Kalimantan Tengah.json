@@ -1,0 +1,6896 @@
+{
+  "province": {
+    "id": "62",
+    "name": "Kalimantan Tengah"
+  },
+  "cities": [
+    {
+      "id": "62.01",
+      "name": "Kotawaringin Barat"
+    },
+    {
+      "id": "62.02",
+      "name": "Kotawaringin Timur"
+    },
+    {
+      "id": "62.03",
+      "name": "Kapuas"
+    },
+    {
+      "id": "62.04",
+      "name": "Barito Selatan"
+    },
+    {
+      "id": "62.05",
+      "name": "Barito Utara"
+    },
+    {
+      "id": "62.06",
+      "name": "Katingan"
+    },
+    {
+      "id": "62.07",
+      "name": "Seruyan"
+    },
+    {
+      "id": "62.08",
+      "name": "Sukamara"
+    },
+    {
+      "id": "62.09",
+      "name": "Lamandau"
+    },
+    {
+      "id": "62.10",
+      "name": "Gunung Mas"
+    },
+    {
+      "id": "62.11",
+      "name": "Pulang Pisau"
+    },
+    {
+      "id": "62.12",
+      "name": "Murung Raya"
+    },
+    {
+      "id": "62.13",
+      "name": "Barito Timur"
+    },
+    {
+      "id": "62.71",
+      "name": "Kota Palangkaraya"
+    }
+  ],
+  "districts": [
+    {
+      "id": "62.01.01",
+      "name": "Kumai"
+    },
+    {
+      "id": "62.01.02",
+      "name": "Arut Selatan"
+    },
+    {
+      "id": "62.01.03",
+      "name": "Kotawaringin Lama"
+    },
+    {
+      "id": "62.01.04",
+      "name": "Arut Utara"
+    },
+    {
+      "id": "62.01.05",
+      "name": "Pangkalan Lada"
+    },
+    {
+      "id": "62.01.06",
+      "name": "Pangkalan Banteng"
+    },
+    {
+      "id": "62.02.01",
+      "name": "Kota Besi"
+    },
+    {
+      "id": "62.02.02",
+      "name": "Cempaga"
+    },
+    {
+      "id": "62.02.03",
+      "name": "Mentaya Hulu"
+    },
+    {
+      "id": "62.02.04",
+      "name": "Parenggean"
+    },
+    {
+      "id": "62.02.05",
+      "name": "Baamang"
+    },
+    {
+      "id": "62.02.06",
+      "name": "Mentawa Baru Ketapang"
+    },
+    {
+      "id": "62.02.07",
+      "name": "Mentaya Hilir Utara"
+    },
+    {
+      "id": "62.02.08",
+      "name": "Mentaya Hilir Selatan"
+    },
+    {
+      "id": "62.02.09",
+      "name": "Pulau Hanaut"
+    },
+    {
+      "id": "62.02.10",
+      "name": "Antang Kalang"
+    },
+    {
+      "id": "62.02.11",
+      "name": "Teluk Sampit"
+    },
+    {
+      "id": "62.02.12",
+      "name": "Seranau"
+    },
+    {
+      "id": "62.02.13",
+      "name": "Cempaga Hulu"
+    },
+    {
+      "id": "62.02.14",
+      "name": "Telawang"
+    },
+    {
+      "id": "62.02.15",
+      "name": "Bukit Santuai (Bukit Santuei)"
+    },
+    {
+      "id": "62.02.16",
+      "name": "Tualan Hulu"
+    },
+    {
+      "id": "62.02.17",
+      "name": "Telaga Antang"
+    },
+    {
+      "id": "62.03.01",
+      "name": "Selat"
+    },
+    {
+      "id": "62.03.02",
+      "name": "Kapuas Hilir"
+    },
+    {
+      "id": "62.03.03",
+      "name": "Kapuas Timur"
+    },
+    {
+      "id": "62.03.04",
+      "name": "Kapuas Kuala"
+    },
+    {
+      "id": "62.03.05",
+      "name": "Kapuas Barat"
+    },
+    {
+      "id": "62.03.06",
+      "name": "Pulau Petak"
+    },
+    {
+      "id": "62.03.07",
+      "name": "Kapuas Murung"
+    },
+    {
+      "id": "62.03.08",
+      "name": "Basarang"
+    },
+    {
+      "id": "62.03.09",
+      "name": "Mantangai"
+    },
+    {
+      "id": "62.03.10",
+      "name": "Timpah"
+    },
+    {
+      "id": "62.03.11",
+      "name": "Kapuas Tengah"
+    },
+    {
+      "id": "62.03.12",
+      "name": "Kapuas Hulu"
+    },
+    {
+      "id": "62.03.13",
+      "name": "Tamban Catur"
+    },
+    {
+      "id": "62.03.14",
+      "name": "Pasak Talawang"
+    },
+    {
+      "id": "62.03.15",
+      "name": "Mandau Talawang"
+    },
+    {
+      "id": "62.03.16",
+      "name": "Dadahup"
+    },
+    {
+      "id": "62.03.17",
+      "name": "Bataguh"
+    },
+    {
+      "id": "62.04.01",
+      "name": "Jenamas"
+    },
+    {
+      "id": "62.04.02",
+      "name": "Dusun Hilir"
+    },
+    {
+      "id": "62.04.03",
+      "name": "Karau Kuala"
+    },
+    {
+      "id": "62.04.04",
+      "name": "Dusun Utara"
+    },
+    {
+      "id": "62.04.05",
+      "name": "Gn. Bintang Awai (Gunung Bintang Awai)"
+    },
+    {
+      "id": "62.04.06",
+      "name": "Dusun Selatan"
+    },
+    {
+      "id": "62.05.01",
+      "name": "Montallat (Montalat)"
+    },
+    {
+      "id": "62.05.02",
+      "name": "Gunung Timang"
+    },
+    {
+      "id": "62.05.03",
+      "name": "Gunung Purei"
+    },
+    {
+      "id": "62.05.04",
+      "name": "Teweh Timur"
+    },
+    {
+      "id": "62.05.05",
+      "name": "Teweh Tengah"
+    },
+    {
+      "id": "62.05.06",
+      "name": "Lahei"
+    },
+    {
+      "id": "62.05.07",
+      "name": "Teweh Baru"
+    },
+    {
+      "id": "62.05.08",
+      "name": "Teweh Selatan"
+    },
+    {
+      "id": "62.05.09",
+      "name": "Lahei Barat"
+    },
+    {
+      "id": "62.06.01",
+      "name": "Kamipang"
+    },
+    {
+      "id": "62.06.02",
+      "name": "Katingan Hilir"
+    },
+    {
+      "id": "62.06.03",
+      "name": "Tewang Sangalang Garing"
+    },
+    {
+      "id": "62.06.04",
+      "name": "Pulau Malan"
+    },
+    {
+      "id": "62.06.05",
+      "name": "Katingan Tengah"
+    },
+    {
+      "id": "62.06.06",
+      "name": "Sanaman Mantikei (Senamang Mantikei)"
+    },
+    {
+      "id": "62.06.07",
+      "name": "Marikit"
+    },
+    {
+      "id": "62.06.08",
+      "name": "Katingan Hulu"
+    },
+    {
+      "id": "62.06.09",
+      "name": "Mendawai"
+    },
+    {
+      "id": "62.06.10",
+      "name": "Katingan Kuala"
+    },
+    {
+      "id": "62.06.11",
+      "name": "Tasik Payawan"
+    },
+    {
+      "id": "62.06.12",
+      "name": "Petak Malai"
+    },
+    {
+      "id": "62.06.13",
+      "name": "Bukit Raya"
+    },
+    {
+      "id": "62.07.01",
+      "name": "Seruyan Hilir"
+    },
+    {
+      "id": "62.07.02",
+      "name": "Seruyan Tengah"
+    },
+    {
+      "id": "62.07.03",
+      "name": "Danau Sembuluh"
+    },
+    {
+      "id": "62.07.04",
+      "name": "Hanau"
+    },
+    {
+      "id": "62.07.05",
+      "name": "Seruyan Hulu"
+    },
+    {
+      "id": "62.07.06",
+      "name": "Seruyan Hilir Timur"
+    },
+    {
+      "id": "62.07.07",
+      "name": "Seruyan Raya"
+    },
+    {
+      "id": "62.07.08",
+      "name": "Danau Seluluk"
+    },
+    {
+      "id": "62.07.09",
+      "name": "Batu Ampar"
+    },
+    {
+      "id": "62.07.10",
+      "name": "Suling Tambun"
+    },
+    {
+      "id": "62.08.01",
+      "name": "Sukamara"
+    },
+    {
+      "id": "62.08.02",
+      "name": "Jelai"
+    },
+    {
+      "id": "62.08.03",
+      "name": "Balai Riam"
+    },
+    {
+      "id": "62.08.04",
+      "name": "Pantai Lunci"
+    },
+    {
+      "id": "62.08.05",
+      "name": "Permata Kecubung"
+    },
+    {
+      "id": "62.09.01",
+      "name": "Lamandau"
+    },
+    {
+      "id": "62.09.02",
+      "name": "Delang"
+    },
+    {
+      "id": "62.09.03",
+      "name": "Bulik"
+    },
+    {
+      "id": "62.09.04",
+      "name": "Bulik Timur"
+    },
+    {
+      "id": "62.09.05",
+      "name": "Menthobi Raya"
+    },
+    {
+      "id": "62.09.06",
+      "name": "Sematu Jaya"
+    },
+    {
+      "id": "62.09.07",
+      "name": "Belantikan Raya"
+    },
+    {
+      "id": "62.09.08",
+      "name": "Batang Kawa"
+    },
+    {
+      "id": "62.10.01",
+      "name": "Sepang (Sepang Simin)"
+    },
+    {
+      "id": "62.10.02",
+      "name": "Kurun"
+    },
+    {
+      "id": "62.10.03",
+      "name": "Tewah"
+    },
+    {
+      "id": "62.10.04",
+      "name": "Kahayan Hulu Utara"
+    },
+    {
+      "id": "62.10.05",
+      "name": "Rungan"
+    },
+    {
+      "id": "62.10.06",
+      "name": "Manuhing"
+    },
+    {
+      "id": "62.10.07",
+      "name": "Mihing Raya"
+    },
+    {
+      "id": "62.10.08",
+      "name": "Damang Batu"
+    },
+    {
+      "id": "62.10.09",
+      "name": "Miri Manasa"
+    },
+    {
+      "id": "62.10.10",
+      "name": "Rungan Hulu"
+    },
+    {
+      "id": "62.10.11",
+      "name": "Manuhing Raya (Mahuning Raya)"
+    },
+    {
+      "id": "62.10.12",
+      "name": "Rungan Barat"
+    },
+    {
+      "id": "62.11.01",
+      "name": "Pandih Batu"
+    },
+    {
+      "id": "62.11.02",
+      "name": "Kahayan Kuala"
+    },
+    {
+      "id": "62.11.03",
+      "name": "Kahayan Tengah"
+    },
+    {
+      "id": "62.11.04",
+      "name": "Banama Tingang"
+    },
+    {
+      "id": "62.11.05",
+      "name": "Kahayan Hilir"
+    },
+    {
+      "id": "62.11.06",
+      "name": "Maliku"
+    },
+    {
+      "id": "62.11.07",
+      "name": "Jabiren Raya"
+    },
+    {
+      "id": "62.11.08",
+      "name": "Sebangau Kuala"
+    },
+    {
+      "id": "62.12.01",
+      "name": "Murung"
+    },
+    {
+      "id": "62.12.02",
+      "name": "Tanah Siang"
+    },
+    {
+      "id": "62.12.03",
+      "name": "Laung Tuhup"
+    },
+    {
+      "id": "62.12.04",
+      "name": "Permata Intan"
+    },
+    {
+      "id": "62.12.05",
+      "name": "Sumber Barito"
+    },
+    {
+      "id": "62.12.06",
+      "name": "Barito Tuhup Raya"
+    },
+    {
+      "id": "62.12.07",
+      "name": "Tanah Siang Selatan"
+    },
+    {
+      "id": "62.12.08",
+      "name": "Sungai Babuat"
+    },
+    {
+      "id": "62.12.09",
+      "name": "Seribu Riam"
+    },
+    {
+      "id": "62.12.10",
+      "name": "Uut Murung"
+    },
+    {
+      "id": "62.13.01",
+      "name": "Dusun Timur"
+    },
+    {
+      "id": "62.13.02",
+      "name": "Banua Lima"
+    },
+    {
+      "id": "62.13.03",
+      "name": "Patangkep Tutui"
+    },
+    {
+      "id": "62.13.04",
+      "name": "Awang"
+    },
+    {
+      "id": "62.13.05",
+      "name": "Dusun Tengah"
+    },
+    {
+      "id": "62.13.06",
+      "name": "Pematang Karau"
+    },
+    {
+      "id": "62.13.07",
+      "name": "Paju Epat"
+    },
+    {
+      "id": "62.13.08",
+      "name": "Raren Batuah"
+    },
+    {
+      "id": "62.13.09",
+      "name": "Paku"
+    },
+    {
+      "id": "62.13.10",
+      "name": "Karusen Janang"
+    },
+    {
+      "id": "62.71.01",
+      "name": "Pahandut"
+    },
+    {
+      "id": "62.71.02",
+      "name": "Bukit Batu"
+    },
+    {
+      "id": "62.71.03",
+      "name": "Jekan Raya"
+    },
+    {
+      "id": "62.71.04",
+      "name": "Sabangau (Sebangau)"
+    },
+    {
+      "id": "62.71.05",
+      "name": "Rakumpit"
+    }
+  ],
+  "villages": [
+    {
+      "id": "62.01.01.1011",
+      "name": "Candi"
+    },
+    {
+      "id": "62.01.01.1012",
+      "name": "Kumai Hulu"
+    },
+    {
+      "id": "62.01.01.1013",
+      "name": "Kumai Hilir"
+    },
+    {
+      "id": "62.01.01.2001",
+      "name": "Sei/Sungai Cabang"
+    },
+    {
+      "id": "62.01.01.2002",
+      "name": "Teluk Pulai"
+    },
+    {
+      "id": "62.01.01.2003",
+      "name": "Sabuai (Sebuai)"
+    },
+    {
+      "id": "62.01.01.2004",
+      "name": "Keraya"
+    },
+    {
+      "id": "62.01.01.2005",
+      "name": "Teluk Bogam"
+    },
+    {
+      "id": "62.01.01.2006",
+      "name": "Sei/Sungai Bakau"
+    },
+    {
+      "id": "62.01.01.2007",
+      "name": "Kubu"
+    },
+    {
+      "id": "62.01.01.2008",
+      "name": "Sei/Sungai Kapitan"
+    },
+    {
+      "id": "62.01.01.2009",
+      "name": "Batu Belaman"
+    },
+    {
+      "id": "62.01.01.2010",
+      "name": "Sei/Sungai Tendang"
+    },
+    {
+      "id": "62.01.01.2014",
+      "name": "Sei/Sungai Sekonyer"
+    },
+    {
+      "id": "62.01.01.2015",
+      "name": "Sei/Sungai Bedaun"
+    },
+    {
+      "id": "62.01.01.2017",
+      "name": "Bumi Harjo"
+    },
+    {
+      "id": "62.01.01.2032",
+      "name": "Pangkalan Satu"
+    },
+    {
+      "id": "62.01.01.2034",
+      "name": "Sebuai Timur (Sabuai Timur)"
+    },
+    {
+      "id": "62.01.02.1002",
+      "name": "Mendawai Seberang"
+    },
+    {
+      "id": "62.01.02.1003",
+      "name": "Mendawai"
+    },
+    {
+      "id": "62.01.02.1005",
+      "name": "Madurejo"
+    },
+    {
+      "id": "62.01.02.1006",
+      "name": "Sidorejo"
+    },
+    {
+      "id": "62.01.02.1007",
+      "name": "Raja"
+    },
+    {
+      "id": "62.01.02.1008",
+      "name": "Raja Seberang"
+    },
+    {
+      "id": "62.01.02.1009",
+      "name": "Baru"
+    },
+    {
+      "id": "62.01.02.2001",
+      "name": "Tanjung Putri"
+    },
+    {
+      "id": "62.01.02.2004",
+      "name": "Pasir Panjang"
+    },
+    {
+      "id": "62.01.02.2010",
+      "name": "Rangda"
+    },
+    {
+      "id": "62.01.02.2011",
+      "name": "Kenambui"
+    },
+    {
+      "id": "62.01.02.2012",
+      "name": "Runtu"
+    },
+    {
+      "id": "62.01.02.2013",
+      "name": "Umpang"
+    },
+    {
+      "id": "62.01.02.2014",
+      "name": "Kumpai Batu Bawah"
+    },
+    {
+      "id": "62.01.02.2015",
+      "name": "Kumpai Batu Atas"
+    },
+    {
+      "id": "62.01.02.2016",
+      "name": "Natai Raya"
+    },
+    {
+      "id": "62.01.02.2017",
+      "name": "Medang Sari (Medangsari)"
+    },
+    {
+      "id": "62.01.02.2018",
+      "name": "Natai Baru"
+    },
+    {
+      "id": "62.01.02.2019",
+      "name": "Tanjung Terantang"
+    },
+    {
+      "id": "62.01.02.2020",
+      "name": "Sulung (Sulung Kenambui / Kanam Bui)"
+    },
+    {
+      "id": "62.01.03.1007",
+      "name": "Kotawaringin Hulu"
+    },
+    {
+      "id": "62.01.03.1008",
+      "name": "Kotawaringin Hilir (Kota Waringin Hilir)"
+    },
+    {
+      "id": "62.01.03.2001",
+      "name": "Babual Baboti"
+    },
+    {
+      "id": "62.01.03.2002",
+      "name": "Tempayung"
+    },
+    {
+      "id": "62.01.03.2003",
+      "name": "Sakabulin"
+    },
+    {
+      "id": "62.01.03.2004",
+      "name": "Kinjil"
+    },
+    {
+      "id": "62.01.03.2005",
+      "name": "Dawak"
+    },
+    {
+      "id": "62.01.03.2006",
+      "name": "Riam Durian"
+    },
+    {
+      "id": "62.01.03.2009",
+      "name": "Lalang"
+    },
+    {
+      "id": "62.01.03.2010",
+      "name": "Rungun"
+    },
+    {
+      "id": "62.01.03.2011",
+      "name": "Kondang"
+    },
+    {
+      "id": "62.01.03.2012",
+      "name": "Suka Jaya (Sukajaya)"
+    },
+    {
+      "id": "62.01.03.2013",
+      "name": "Suka Makmur"
+    },
+    {
+      "id": "62.01.03.2014",
+      "name": "Sumber Mukti"
+    },
+    {
+      "id": "62.01.03.2015",
+      "name": "Palih Baru"
+    },
+    {
+      "id": "62.01.03.2016",
+      "name": "Ipuh Bangun Jaya"
+    },
+    {
+      "id": "62.01.03.2017",
+      "name": "Sagu Suka Mulya (Sagu / Dusun Sukamulya)"
+    },
+    {
+      "id": "62.01.04.1002",
+      "name": "Pangkut"
+    },
+    {
+      "id": "62.01.04.2001",
+      "name": "Nanga Mua"
+    },
+    {
+      "id": "62.01.04.2003",
+      "name": "Sukarami (Sukaramai)"
+    },
+    {
+      "id": "62.01.04.2004",
+      "name": "Gandis"
+    },
+    {
+      "id": "62.01.04.2005",
+      "name": "Kerabu"
+    },
+    {
+      "id": "62.01.04.2006",
+      "name": "Sambi"
+    },
+    {
+      "id": "62.01.04.2007",
+      "name": "Penyombaan (Penyobaan)"
+    },
+    {
+      "id": "62.01.04.2008",
+      "name": "Pandau"
+    },
+    {
+      "id": "62.01.04.2009",
+      "name": "Riam"
+    },
+    {
+      "id": "62.01.04.2010",
+      "name": "Panahan"
+    },
+    {
+      "id": "62.01.04.2011",
+      "name": "Sungai Dau"
+    },
+    {
+      "id": "62.01.05.2001",
+      "name": "Pangkalan Tiga"
+    },
+    {
+      "id": "62.01.05.2002",
+      "name": "Pandu Sanjaya"
+    },
+    {
+      "id": "62.01.05.2003",
+      "name": "Lada Mandala Jaya"
+    },
+    {
+      "id": "62.01.05.2004",
+      "name": "Makarti Jaya"
+    },
+    {
+      "id": "62.01.05.2005",
+      "name": "Sumber Agung"
+    },
+    {
+      "id": "62.01.05.2006",
+      "name": "Purbasari"
+    },
+    {
+      "id": "62.01.05.2007",
+      "name": "Sei/Sungai Rangit Jaya"
+    },
+    {
+      "id": "62.01.05.2008",
+      "name": "Pangkalan Dewa"
+    },
+    {
+      "id": "62.01.05.2009",
+      "name": "Kadipi Atas"
+    },
+    {
+      "id": "62.01.05.2010",
+      "name": "Sei/Sungai Melawen"
+    },
+    {
+      "id": "62.01.05.2011",
+      "name": "Pangkalan Durin"
+    },
+    {
+      "id": "62.01.06.2001",
+      "name": "Pangkalan Banteng"
+    },
+    {
+      "id": "62.01.06.2002",
+      "name": "Mulia/Mulya Jadi"
+    },
+    {
+      "id": "62.01.06.2003",
+      "name": "Karang Mulya (Karangmulya)"
+    },
+    {
+      "id": "62.01.06.2004",
+      "name": "Kebun Agung (Kebon Agung)"
+    },
+    {
+      "id": "62.01.06.2005",
+      "name": "Sido Mulyo/Ponco Mulyo"
+    },
+    {
+      "id": "62.01.06.2006",
+      "name": "Marga Mulya"
+    },
+    {
+      "id": "62.01.06.2007",
+      "name": "Amin Jaya"
+    },
+    {
+      "id": "62.01.06.2008",
+      "name": "Arga Mulya"
+    },
+    {
+      "id": "62.01.06.2009",
+      "name": "Natai Kerbau"
+    },
+    {
+      "id": "62.01.06.2010",
+      "name": "Simpang Berambai"
+    },
+    {
+      "id": "62.01.06.2011",
+      "name": "Sei/Sungai Hijau"
+    },
+    {
+      "id": "62.01.06.2012",
+      "name": "Sungai Pakit"
+    },
+    {
+      "id": "62.01.06.2013",
+      "name": "Berambai Makmur"
+    },
+    {
+      "id": "62.01.06.2014",
+      "name": "Karang Sari"
+    },
+    {
+      "id": "62.01.06.2015",
+      "name": "Sungai Pulau"
+    },
+    {
+      "id": "62.01.06.2016",
+      "name": "Sungai Bengkuang"
+    },
+    {
+      "id": "62.01.06.2017",
+      "name": "Sungai Kuning"
+    },
+    {
+      "id": "62.02.01.1009",
+      "name": "Kota Besi Hulu"
+    },
+    {
+      "id": "62.02.01.1010",
+      "name": "Kota Besi Hilir"
+    },
+    {
+      "id": "62.02.01.2003",
+      "name": "Palangan"
+    },
+    {
+      "id": "62.02.01.2004",
+      "name": "Hanjalipan"
+    },
+    {
+      "id": "62.02.01.2005",
+      "name": "Simpur"
+    },
+    {
+      "id": "62.02.01.2006",
+      "name": "Pamalian"
+    },
+    {
+      "id": "62.02.01.2007",
+      "name": "Camba"
+    },
+    {
+      "id": "62.02.01.2008",
+      "name": "Kandan"
+    },
+    {
+      "id": "62.02.01.2012",
+      "name": "Bajarum"
+    },
+    {
+      "id": "62.02.01.2015",
+      "name": "Rasau Tumbuh"
+    },
+    {
+      "id": "62.02.01.2017",
+      "name": "Soren"
+    },
+    {
+      "id": "62.02.02.2004",
+      "name": "Rubung Buyung"
+    },
+    {
+      "id": "62.02.02.2005",
+      "name": "Patai"
+    },
+    {
+      "id": "62.02.02.2006",
+      "name": "Luwuk Ranggan (Lubuk Ranggan)"
+    },
+    {
+      "id": "62.02.02.2007",
+      "name": "Jemaras"
+    },
+    {
+      "id": "62.02.02.2008",
+      "name": "Cempaka Mulia Timur"
+    },
+    {
+      "id": "62.02.02.2009",
+      "name": "Cempaka Mulia Barat"
+    },
+    {
+      "id": "62.02.02.2010",
+      "name": "Luwuk Bunter (Lubuk Bunter)"
+    },
+    {
+      "id": "62.02.02.2011",
+      "name": "Sei/Sungai Paring"
+    },
+    {
+      "id": "62.02.03.1012",
+      "name": "Kuala Kuayan"
+    },
+    {
+      "id": "62.02.03.2001",
+      "name": "Tangar"
+    },
+    {
+      "id": "62.02.03.2002",
+      "name": "Baampah"
+    },
+    {
+      "id": "62.02.03.2003",
+      "name": "Kawan Batu"
+    },
+    {
+      "id": "62.02.03.2004",
+      "name": "Tanjung Bantur (Tanjung Batur)"
+    },
+    {
+      "id": "62.02.03.2005",
+      "name": "Penda Durian"
+    },
+    {
+      "id": "62.02.03.2006",
+      "name": "Pahirangan"
+    },
+    {
+      "id": "62.02.03.2007",
+      "name": "Satiung (Sationg)"
+    },
+    {
+      "id": "62.02.03.2008",
+      "name": "Santilik"
+    },
+    {
+      "id": "62.02.03.2009",
+      "name": "Tangka Robah"
+    },
+    {
+      "id": "62.02.03.2010",
+      "name": "Pemantang"
+    },
+    {
+      "id": "62.02.03.2011",
+      "name": "Tumbang Sapiri"
+    },
+    {
+      "id": "62.02.03.2014",
+      "name": "Bawan"
+    },
+    {
+      "id": "62.02.03.2015",
+      "name": "Tanjung Jariangau"
+    },
+    {
+      "id": "62.02.03.2031",
+      "name": "Kapuk"
+    },
+    {
+      "id": "62.02.03.2032",
+      "name": "Pantap"
+    },
+    {
+      "id": "62.02.04.1004",
+      "name": "Parenggean"
+    },
+    {
+      "id": "62.02.04.2001",
+      "name": "Tehang"
+    },
+    {
+      "id": "62.02.04.2002",
+      "name": "Kabuau"
+    },
+    {
+      "id": "62.02.04.2007",
+      "name": "Barunang Miri"
+    },
+    {
+      "id": "62.02.04.2009",
+      "name": "Sumber Makmur"
+    },
+    {
+      "id": "62.02.04.2010",
+      "name": "Mekar Jaya"
+    },
+    {
+      "id": "62.02.04.2011",
+      "name": "Karang Tunggal"
+    },
+    {
+      "id": "62.02.04.2012",
+      "name": "Bandar Agung"
+    },
+    {
+      "id": "62.02.04.2013",
+      "name": "Beringin Tunggal Jaya"
+    },
+    {
+      "id": "62.02.04.2015",
+      "name": "Sari Harapan"
+    },
+    {
+      "id": "62.02.04.2016",
+      "name": "Karang Sari"
+    },
+    {
+      "id": "62.02.04.2019",
+      "name": "Bajarau"
+    },
+    {
+      "id": "62.02.04.2023",
+      "name": "Bukit Harapan"
+    },
+    {
+      "id": "62.02.04.2024",
+      "name": "Manjalin"
+    },
+    {
+      "id": "62.02.04.2025",
+      "name": "Karya Bersama"
+    },
+    {
+      "id": "62.02.05.1001",
+      "name": "Baamang Hilir"
+    },
+    {
+      "id": "62.02.05.1002",
+      "name": "Baamang Tengah"
+    },
+    {
+      "id": "62.02.05.1003",
+      "name": "Baamang Hulu"
+    },
+    {
+      "id": "62.02.05.1007",
+      "name": "Tanah Mas"
+    },
+    {
+      "id": "62.02.05.1008",
+      "name": "Baamang Barat"
+    },
+    {
+      "id": "62.02.05.2006",
+      "name": "Tinduk"
+    },
+    {
+      "id": "62.02.06.1001",
+      "name": "Mentawa Baru Hulu"
+    },
+    {
+      "id": "62.02.06.1002",
+      "name": "Mentawa Baru Hilir"
+    },
+    {
+      "id": "62.02.06.1003",
+      "name": "Ketapang"
+    },
+    {
+      "id": "62.02.06.1007",
+      "name": "Sawahan"
+    },
+    {
+      "id": "62.02.06.1009",
+      "name": "Pasir Putih"
+    },
+    {
+      "id": "62.02.06.2005",
+      "name": "Pelangsian"
+    },
+    {
+      "id": "62.02.06.2006",
+      "name": "Bapeang"
+    },
+    {
+      "id": "62.02.06.2008",
+      "name": "Eka Bahurui"
+    },
+    {
+      "id": "62.02.06.2010",
+      "name": "Telaga Baru"
+    },
+    {
+      "id": "62.02.06.2011",
+      "name": "Bangkuang Makmur (Bengkuang Makmur)"
+    },
+    {
+      "id": "62.02.06.2012",
+      "name": "Bapanggang Raya"
+    },
+    {
+      "id": "62.02.07.2001",
+      "name": "Pondok Damar"
+    },
+    {
+      "id": "62.02.07.2002",
+      "name": "Bagendang Hilir"
+    },
+    {
+      "id": "62.02.07.2003",
+      "name": "Bagendang Tengah"
+    },
+    {
+      "id": "62.02.07.2004",
+      "name": "Natai Baru"
+    },
+    {
+      "id": "62.02.07.2005",
+      "name": "Bagendang Hulu"
+    },
+    {
+      "id": "62.02.07.2006",
+      "name": "Sumber Makmur"
+    },
+    {
+      "id": "62.02.07.2007",
+      "name": "Bagendang Permai"
+    },
+    {
+      "id": "62.02.08.1008",
+      "name": "Samuda Kota"
+    },
+    {
+      "id": "62.02.08.1009",
+      "name": "Basirih Hilir"
+    },
+    {
+      "id": "62.02.08.2005",
+      "name": "Sebamban (Sabamban)"
+    },
+    {
+      "id": "62.02.08.2006",
+      "name": "Samuda Besar"
+    },
+    {
+      "id": "62.02.08.2007",
+      "name": "Samuda Kecil"
+    },
+    {
+      "id": "62.02.08.2010",
+      "name": "Jaya Kelapa"
+    },
+    {
+      "id": "62.02.08.2011",
+      "name": "Basirih Hulu"
+    },
+    {
+      "id": "62.02.08.2012",
+      "name": "Jaya Karet"
+    },
+    {
+      "id": "62.02.08.2013",
+      "name": "Handil Sohor"
+    },
+    {
+      "id": "62.02.08.2014",
+      "name": "Sei/Sungai Ijum Raya"
+    },
+    {
+      "id": "62.02.09.2001",
+      "name": "Bapinang Hulu"
+    },
+    {
+      "id": "62.02.09.2002",
+      "name": "Bapinang Hilir"
+    },
+    {
+      "id": "62.02.09.2003",
+      "name": "Bapinang Hilir Laut"
+    },
+    {
+      "id": "62.02.09.2004",
+      "name": "Satiruk"
+    },
+    {
+      "id": "62.02.09.2005",
+      "name": "Makarti Jaya"
+    },
+    {
+      "id": "62.02.09.2006",
+      "name": "Rawa Sari"
+    },
+    {
+      "id": "62.02.09.2007",
+      "name": "Hanaut"
+    },
+    {
+      "id": "62.02.09.2008",
+      "name": "Babirah (Babriah)"
+    },
+    {
+      "id": "62.02.09.2009",
+      "name": "Serambut"
+    },
+    {
+      "id": "62.02.09.2010",
+      "name": "Babaung"
+    },
+    {
+      "id": "62.02.09.2011",
+      "name": "Bamadu"
+    },
+    {
+      "id": "62.02.09.2012",
+      "name": "Penyaguan"
+    },
+    {
+      "id": "62.02.09.2013",
+      "name": "Hantipan"
+    },
+    {
+      "id": "62.02.09.2014",
+      "name": "Bantian"
+    },
+    {
+      "id": "62.02.10.2001",
+      "name": "Tumbang Kalang"
+    },
+    {
+      "id": "62.02.10.2002",
+      "name": "Kuluk Telawang"
+    },
+    {
+      "id": "62.02.10.2003",
+      "name": "Sungai Puring"
+    },
+    {
+      "id": "62.02.10.2004",
+      "name": "Tumbang Ngahan"
+    },
+    {
+      "id": "62.02.10.2005",
+      "name": "Tumbang Ramei (Tumbang Ramai)"
+    },
+    {
+      "id": "62.02.10.2006",
+      "name": "Tumbang Hejan"
+    },
+    {
+      "id": "62.02.10.2007",
+      "name": "Sungai Hanya"
+    },
+    {
+      "id": "62.02.10.2008",
+      "name": "Tumbang Sepayang (Tumbang Sepanyang)"
+    },
+    {
+      "id": "62.02.10.2016",
+      "name": "Buntut Nusa"
+    },
+    {
+      "id": "62.02.10.2017",
+      "name": "Tumbang Gagu"
+    },
+    {
+      "id": "62.02.10.2021",
+      "name": "Tumbang Manya"
+    },
+    {
+      "id": "62.02.10.2025",
+      "name": "Gunung Makmur"
+    },
+    {
+      "id": "62.02.10.2027",
+      "name": "Mulya Agung"
+    },
+    {
+      "id": "62.02.10.2028",
+      "name": "Bhakti Karya (Bakti Karya)"
+    },
+    {
+      "id": "62.02.10.2029",
+      "name": "Waringin Agung"
+    },
+    {
+      "id": "62.02.11.2001",
+      "name": "Parebok"
+    },
+    {
+      "id": "62.02.11.2002",
+      "name": "Basawang"
+    },
+    {
+      "id": "62.02.11.2003",
+      "name": "Lampuyang"
+    },
+    {
+      "id": "62.02.11.2004",
+      "name": "Ujung Pandaran"
+    },
+    {
+      "id": "62.02.11.2005",
+      "name": "Regei Lestari"
+    },
+    {
+      "id": "62.02.11.2006",
+      "name": "Kuin Permai"
+    },
+    {
+      "id": "62.02.12.1001",
+      "name": "Mentaya Seberang"
+    },
+    {
+      "id": "62.02.12.2002",
+      "name": "Terantang"
+    },
+    {
+      "id": "62.02.12.2003",
+      "name": "Batuah"
+    },
+    {
+      "id": "62.02.12.2004",
+      "name": "Terantang Hilir"
+    },
+    {
+      "id": "62.02.12.2005",
+      "name": "Ganepo"
+    },
+    {
+      "id": "62.02.12.2006",
+      "name": "Seragam Jaya"
+    },
+    {
+      "id": "62.02.13.2001",
+      "name": "Pundu"
+    },
+    {
+      "id": "62.02.13.2002",
+      "name": "Keruing"
+    },
+    {
+      "id": "62.02.13.2003",
+      "name": "Parit"
+    },
+    {
+      "id": "62.02.13.2004",
+      "name": "Pantai Harapan"
+    },
+    {
+      "id": "62.02.13.2005",
+      "name": "Pelantaran"
+    },
+    {
+      "id": "62.02.13.2006",
+      "name": "Tumbang Koling/Kuling"
+    },
+    {
+      "id": "62.02.13.2007",
+      "name": "Sudan"
+    },
+    {
+      "id": "62.02.13.2008",
+      "name": "Bukit Batu"
+    },
+    {
+      "id": "62.02.13.2009",
+      "name": "Bukit Raya"
+    },
+    {
+      "id": "62.02.13.2010",
+      "name": "Selucing"
+    },
+    {
+      "id": "62.02.13.2011",
+      "name": "Sungai Ubar Mandiri"
+    },
+    {
+      "id": "62.02.14.2001",
+      "name": "Sebabi"
+    },
+    {
+      "id": "62.02.14.2002",
+      "name": "Tanah Putih"
+    },
+    {
+      "id": "62.02.14.2003",
+      "name": "Sumber Makmur"
+    },
+    {
+      "id": "62.02.14.2004",
+      "name": "Kenyala"
+    },
+    {
+      "id": "62.02.14.2005",
+      "name": "Penyang (Peryang)"
+    },
+    {
+      "id": "62.02.14.2006",
+      "name": "Biru Maju"
+    },
+    {
+      "id": "62.02.15.2001",
+      "name": "Tumbang Tilap"
+    },
+    {
+      "id": "62.02.15.2002",
+      "name": "Tumbang Kamining/Kaminting"
+    },
+    {
+      "id": "62.02.15.2003",
+      "name": "Tanah Haluan"
+    },
+    {
+      "id": "62.02.15.2004",
+      "name": "Tumbang Penyahuan"
+    },
+    {
+      "id": "62.02.15.2005",
+      "name": "Tumbang Sapia"
+    },
+    {
+      "id": "62.02.15.2006",
+      "name": "Tumbang Getas"
+    },
+    {
+      "id": "62.02.15.2007",
+      "name": "Tewai Hara (Tewei Hara)"
+    },
+    {
+      "id": "62.02.15.2008",
+      "name": "Tumbang Payang"
+    },
+    {
+      "id": "62.02.15.2009",
+      "name": "Tumbang Kania"
+    },
+    {
+      "id": "62.02.15.2010",
+      "name": "Tumbang Tawan"
+    },
+    {
+      "id": "62.02.15.2011",
+      "name": "Lunuk Bagantung"
+    },
+    {
+      "id": "62.02.15.2012",
+      "name": "Tumbang Torung/Turung"
+    },
+    {
+      "id": "62.02.15.2013",
+      "name": "Tumbang Batu"
+    },
+    {
+      "id": "62.02.15.2014",
+      "name": "Tumbang Saluang"
+    },
+    {
+      "id": "62.02.16.2001",
+      "name": "Luwuk Sampun"
+    },
+    {
+      "id": "62.02.16.2002",
+      "name": "Tumbang Mujam"
+    },
+    {
+      "id": "62.02.16.2003",
+      "name": "Merah"
+    },
+    {
+      "id": "62.02.16.2004",
+      "name": "Tanjung Jorong"
+    },
+    {
+      "id": "62.02.16.2005",
+      "name": "Sebungsu"
+    },
+    {
+      "id": "62.02.16.2006",
+      "name": "Bukit Makmur"
+    },
+    {
+      "id": "62.02.16.2007",
+      "name": "Wonosari"
+    },
+    {
+      "id": "62.02.16.2008",
+      "name": "Mekar Sari"
+    },
+    {
+      "id": "62.02.16.2009",
+      "name": "Damar Makmur"
+    },
+    {
+      "id": "62.02.16.2010",
+      "name": "Cempaka Putih"
+    },
+    {
+      "id": "62.02.16.2011",
+      "name": "Jati Waringin"
+    },
+    {
+      "id": "62.02.17.2001",
+      "name": "Tumbang Boloi"
+    },
+    {
+      "id": "62.02.17.2002",
+      "name": "Luwuk Kowan (Luwuk Kuwan)"
+    },
+    {
+      "id": "62.02.17.2003",
+      "name": "Rantau Tampang"
+    },
+    {
+      "id": "62.02.17.2004",
+      "name": "Tumbang Mangkup"
+    },
+    {
+      "id": "62.02.17.2005",
+      "name": "Rantau Katang"
+    },
+    {
+      "id": "62.02.17.2006",
+      "name": "Tumbang Sangai"
+    },
+    {
+      "id": "62.02.17.2007",
+      "name": "Tukang Langit"
+    },
+    {
+      "id": "62.02.17.2008",
+      "name": "Beringin Agung"
+    },
+    {
+      "id": "62.02.17.2009",
+      "name": "Agung Mulya (Agung Muya)"
+    },
+    {
+      "id": "62.02.17.2010",
+      "name": "Batu Agung"
+    },
+    {
+      "id": "62.02.17.2011",
+      "name": "Bukit Indah"
+    },
+    {
+      "id": "62.02.17.2012",
+      "name": "Tumbang Puan"
+    },
+    {
+      "id": "62.02.17.2013",
+      "name": "Rantau Suang"
+    },
+    {
+      "id": "62.02.17.2014",
+      "name": "Rantau Sawang"
+    },
+    {
+      "id": "62.02.17.2015",
+      "name": "Tanjung Harapan"
+    },
+    {
+      "id": "62.02.17.2016",
+      "name": "Buana Mustika"
+    },
+    {
+      "id": "62.02.17.2017",
+      "name": "Tri Buana"
+    },
+    {
+      "id": "62.02.17.2018",
+      "name": "Tumbang Bajanei"
+    },
+    {
+      "id": "62.03.01.1006",
+      "name": "Murung Keramat"
+    },
+    {
+      "id": "62.03.01.1007",
+      "name": "Selat Hilir"
+    },
+    {
+      "id": "62.03.01.1008",
+      "name": "Selat Tengah"
+    },
+    {
+      "id": "62.03.01.1009",
+      "name": "Selat Hulu"
+    },
+    {
+      "id": "62.03.01.1010",
+      "name": "Selat Dalam"
+    },
+    {
+      "id": "62.03.01.1021",
+      "name": "Selat Utara"
+    },
+    {
+      "id": "62.03.01.1022",
+      "name": "Selat Barat"
+    },
+    {
+      "id": "62.03.01.1023",
+      "name": "Panamas"
+    },
+    {
+      "id": "62.03.01.2011",
+      "name": "Pulau Telo"
+    },
+    {
+      "id": "62.03.01.2020",
+      "name": "Pulau Telo Baru"
+    },
+    {
+      "id": "62.03.02.1001",
+      "name": "Mambulau"
+    },
+    {
+      "id": "62.03.02.1002",
+      "name": "Hampatung"
+    },
+    {
+      "id": "62.03.02.1003",
+      "name": "Dahirang"
+    },
+    {
+      "id": "62.03.02.1004",
+      "name": "Barimba"
+    },
+    {
+      "id": "62.03.02.1005",
+      "name": "Sei/Sungai Pasah"
+    },
+    {
+      "id": "62.03.02.2006",
+      "name": "Bakungin"
+    },
+    {
+      "id": "62.03.02.2007",
+      "name": "Sei/Sungai Asam"
+    },
+    {
+      "id": "62.03.02.2008",
+      "name": "Saka Batur"
+    },
+    {
+      "id": "62.03.03.2001",
+      "name": "Anjir Serapat Timur"
+    },
+    {
+      "id": "62.03.03.2002",
+      "name": "Anjir Serapat Tengah"
+    },
+    {
+      "id": "62.03.03.2003",
+      "name": "Anjir Serapat Barat"
+    },
+    {
+      "id": "62.03.03.2004",
+      "name": "Anjir Mambulau Timur"
+    },
+    {
+      "id": "62.03.03.2005",
+      "name": "Anjir Mambulau Tengah"
+    },
+    {
+      "id": "62.03.03.2006",
+      "name": "Anjir Mambulau Barat"
+    },
+    {
+      "id": "62.03.03.2007",
+      "name": "Anjir Serapat Baru"
+    },
+    {
+      "id": "62.03.04.2001",
+      "name": "Batanjung"
+    },
+    {
+      "id": "62.03.04.2002",
+      "name": "Cemara Labat"
+    },
+    {
+      "id": "62.03.04.2003",
+      "name": "Palampai"
+    },
+    {
+      "id": "62.03.04.2004",
+      "name": "Sei/Sungai Teras"
+    },
+    {
+      "id": "62.03.04.2005",
+      "name": "Lupak Dalam"
+    },
+    {
+      "id": "62.03.04.2008",
+      "name": "Tamban Baru Selatan (Tamban Baru Tengah)"
+    },
+    {
+      "id": "62.03.04.2011",
+      "name": "Tamban Lupak"
+    },
+    {
+      "id": "62.03.04.2014",
+      "name": "Lupak Timur"
+    },
+    {
+      "id": "62.03.04.2015",
+      "name": "Wargo Mulyo"
+    },
+    {
+      "id": "62.03.04.2016",
+      "name": "Sei Bakut"
+    },
+    {
+      "id": "62.03.04.2018",
+      "name": "Pematang"
+    },
+    {
+      "id": "62.03.04.2019",
+      "name": "Simpang Bunga Tanjung"
+    },
+    {
+      "id": "62.03.04.2020",
+      "name": "Baranggau"
+    },
+    {
+      "id": "62.03.05.1004",
+      "name": "Mandomai"
+    },
+    {
+      "id": "62.03.05.2001",
+      "name": "Sei/Sungai Kayu"
+    },
+    {
+      "id": "62.03.05.2002",
+      "name": "Saka Mangkahai"
+    },
+    {
+      "id": "62.03.05.2003",
+      "name": "Anjir Kalampan"
+    },
+    {
+      "id": "62.03.05.2005",
+      "name": "Pantai"
+    },
+    {
+      "id": "62.03.05.2006",
+      "name": "Saka Tamiang"
+    },
+    {
+      "id": "62.03.05.2007",
+      "name": "Penda Katapi (Penda Ketapi)"
+    },
+    {
+      "id": "62.03.05.2008",
+      "name": "Teluk Hiri"
+    },
+    {
+      "id": "62.03.05.2009",
+      "name": "Sei/Sungai Dusun"
+    },
+    {
+      "id": "62.03.05.2010",
+      "name": "Sei Pitung"
+    },
+    {
+      "id": "62.03.05.2011",
+      "name": "Maju Bersama"
+    },
+    {
+      "id": "62.03.05.2012",
+      "name": "Basuta Raya"
+    },
+    {
+      "id": "62.03.06.2001",
+      "name": "Saka Lagon (Sakalagun)"
+    },
+    {
+      "id": "62.03.06.2002",
+      "name": "Bunga Mawar"
+    },
+    {
+      "id": "62.03.06.2003",
+      "name": "Sei/Sungai Tatas"
+    },
+    {
+      "id": "62.03.06.2004",
+      "name": "Narahan"
+    },
+    {
+      "id": "62.03.06.2005",
+      "name": "Handiwung"
+    },
+    {
+      "id": "62.03.06.2006",
+      "name": "Anjir Palambang"
+    },
+    {
+      "id": "62.03.06.2007",
+      "name": "Palangkai"
+    },
+    {
+      "id": "62.03.06.2008",
+      "name": "Teluk Palinget"
+    },
+    {
+      "id": "62.03.06.2009",
+      "name": "Sei Tatas Hilir"
+    },
+    {
+      "id": "62.03.06.2010",
+      "name": "Mawar Mekar"
+    },
+    {
+      "id": "62.03.06.2011",
+      "name": "Banama"
+    },
+    {
+      "id": "62.03.06.2012",
+      "name": "Narahan Baru"
+    },
+    {
+      "id": "62.03.07.1001",
+      "name": "Palingkau Baru"
+    },
+    {
+      "id": "62.03.07.1002",
+      "name": "Palingkau Lama"
+    },
+    {
+      "id": "62.03.07.2003",
+      "name": "Tajepan"
+    },
+    {
+      "id": "62.03.07.2004",
+      "name": "Mampai"
+    },
+    {
+      "id": "62.03.07.2005",
+      "name": "Muara Dadahup"
+    },
+    {
+      "id": "62.03.07.2006",
+      "name": "Belawang"
+    },
+    {
+      "id": "62.03.07.2008",
+      "name": "Palangkau Lama"
+    },
+    {
+      "id": "62.03.07.2010",
+      "name": "Palangkau Baru"
+    },
+    {
+      "id": "62.03.07.2014",
+      "name": "Talekung Punei (Talekung Punai)"
+    },
+    {
+      "id": "62.03.07.2015",
+      "name": "Karya Bersama"
+    },
+    {
+      "id": "62.03.07.2016",
+      "name": "Palingkau Jaya"
+    },
+    {
+      "id": "62.03.07.2017",
+      "name": "Palingkau Asri"
+    },
+    {
+      "id": "62.03.07.2018",
+      "name": "Palingkau Sejahtera"
+    },
+    {
+      "id": "62.03.07.2019",
+      "name": "Saka Binjai"
+    },
+    {
+      "id": "62.03.07.2020",
+      "name": "Bina Sejahtera"
+    },
+    {
+      "id": "62.03.07.2021",
+      "name": "Suka Reja"
+    },
+    {
+      "id": "62.03.07.2022",
+      "name": "Suka Mukti"
+    },
+    {
+      "id": "62.03.07.2023",
+      "name": "Bina Karya"
+    },
+    {
+      "id": "62.03.07.2024",
+      "name": "Bina Mekar"
+    },
+    {
+      "id": "62.03.07.2025",
+      "name": "Rawa Subur"
+    },
+    {
+      "id": "62.03.07.2026",
+      "name": "Sumber Mulya (Sumber Mulia)"
+    },
+    {
+      "id": "62.03.07.2027",
+      "name": "Bumi Rahayu"
+    },
+    {
+      "id": "62.03.07.2028",
+      "name": "Manggala Permai (Mangala Permai)"
+    },
+    {
+      "id": "62.03.08.2001",
+      "name": "Pangkalan Rekan"
+    },
+    {
+      "id": "62.03.08.2002",
+      "name": "Batuah"
+    },
+    {
+      "id": "62.03.08.2003",
+      "name": "Basarang"
+    },
+    {
+      "id": "62.03.08.2004",
+      "name": "Basungkai"
+    },
+    {
+      "id": "62.03.08.2005",
+      "name": "Maluen"
+    },
+    {
+      "id": "62.03.08.2006",
+      "name": "Pangkalan Sari"
+    },
+    {
+      "id": "62.03.08.2007",
+      "name": "Lunuk Ramba"
+    },
+    {
+      "id": "62.03.08.2008",
+      "name": "Batu Nindan"
+    },
+    {
+      "id": "62.03.08.2009",
+      "name": "Basarang Jaya"
+    },
+    {
+      "id": "62.03.08.2010",
+      "name": "Bungai Jaya"
+    },
+    {
+      "id": "62.03.08.2011",
+      "name": "Panarung"
+    },
+    {
+      "id": "62.03.08.2012",
+      "name": "Tarung Manuah"
+    },
+    {
+      "id": "62.03.08.2013",
+      "name": "Tambun Raya"
+    },
+    {
+      "id": "62.03.08.2014",
+      "name": "Naning"
+    },
+    {
+      "id": "62.03.09.2001",
+      "name": "Manusup"
+    },
+    {
+      "id": "62.03.09.2002",
+      "name": "Sei/Sungai Kapar"
+    },
+    {
+      "id": "62.03.09.2003",
+      "name": "Tarantang"
+    },
+    {
+      "id": "62.03.09.2004",
+      "name": "Lamunti"
+    },
+    {
+      "id": "62.03.09.2005",
+      "name": "Pulau Kaladan"
+    },
+    {
+      "id": "62.03.09.2006",
+      "name": "Mantangai Hilir"
+    },
+    {
+      "id": "62.03.09.2007",
+      "name": "Mantangai Tengah"
+    },
+    {
+      "id": "62.03.09.2008",
+      "name": "Mantangai Hulu"
+    },
+    {
+      "id": "62.03.09.2009",
+      "name": "Kalumpang"
+    },
+    {
+      "id": "62.03.09.2010",
+      "name": "Sei/Sungai Ahas"
+    },
+    {
+      "id": "62.03.09.2011",
+      "name": "Katunjung"
+    },
+    {
+      "id": "62.03.09.2012",
+      "name": "Lahei Mangkutup"
+    },
+    {
+      "id": "62.03.09.2013",
+      "name": "Tumbang Muroi"
+    },
+    {
+      "id": "62.03.09.2014",
+      "name": "Danau Tawah/Rawah"
+    },
+    {
+      "id": "62.03.09.2015",
+      "name": "Muroi Raya"
+    },
+    {
+      "id": "62.03.09.2016",
+      "name": "Katimpun"
+    },
+    {
+      "id": "62.03.09.2017",
+      "name": "Manusup Hilir"
+    },
+    {
+      "id": "62.03.09.2018",
+      "name": "Sei Gita"
+    },
+    {
+      "id": "62.03.09.2019",
+      "name": "Bukit Batu (Bukit Baru)"
+    },
+    {
+      "id": "62.03.09.2020",
+      "name": "Sei Gawing"
+    },
+    {
+      "id": "62.03.09.2021",
+      "name": "Humbang Raya"
+    },
+    {
+      "id": "62.03.09.2022",
+      "name": "Tabore"
+    },
+    {
+      "id": "62.03.09.2023",
+      "name": "Tumbang Mangkutup (Tumbang Mangkurup)"
+    },
+    {
+      "id": "62.03.09.2024",
+      "name": "Lapetan (Lampetan)"
+    },
+    {
+      "id": "62.03.09.2025",
+      "name": "Lamunti Permai"
+    },
+    {
+      "id": "62.03.09.2026",
+      "name": "Manyahi"
+    },
+    {
+      "id": "62.03.09.2027",
+      "name": "Sekata Makmur"
+    },
+    {
+      "id": "62.03.09.2028",
+      "name": "Kaladan Jaya"
+    },
+    {
+      "id": "62.03.09.2029",
+      "name": "Rantau jaya"
+    },
+    {
+      "id": "62.03.09.2030",
+      "name": "Warga Mulya"
+    },
+    {
+      "id": "62.03.09.2031",
+      "name": "Lamunti Baru"
+    },
+    {
+      "id": "62.03.09.2032",
+      "name": "Sriwidadi (Sri Widadi)"
+    },
+    {
+      "id": "62.03.09.2033",
+      "name": "Sumber Makmur"
+    },
+    {
+      "id": "62.03.09.2034",
+      "name": "Sidomulyo (Sido Mulyo)"
+    },
+    {
+      "id": "62.03.09.2035",
+      "name": "Harapan Jaya"
+    },
+    {
+      "id": "62.03.09.2036",
+      "name": "Sekata Bangun"
+    },
+    {
+      "id": "62.03.09.2037",
+      "name": "Sari Makmur"
+    },
+    {
+      "id": "62.03.09.2038",
+      "name": "Suka Maju"
+    },
+    {
+      "id": "62.03.10.2001",
+      "name": "Petak Puti"
+    },
+    {
+      "id": "62.03.10.2002",
+      "name": "Aruk"
+    },
+    {
+      "id": "62.03.10.2003",
+      "name": "Lawang Kajang"
+    },
+    {
+      "id": "62.03.10.2004",
+      "name": "Timpah"
+    },
+    {
+      "id": "62.03.10.2005",
+      "name": "Lungkuh Layang (Lungku Layang)"
+    },
+    {
+      "id": "62.03.10.2006",
+      "name": "Lawang Kamah"
+    },
+    {
+      "id": "62.03.10.2007",
+      "name": "Tumbang Randang"
+    },
+    {
+      "id": "62.03.10.2008",
+      "name": "Batapah"
+    },
+    {
+      "id": "62.03.10.2009",
+      "name": "Danau Pantau"
+    },
+    {
+      "id": "62.03.11.2001",
+      "name": "Masaran"
+    },
+    {
+      "id": "62.03.11.2002",
+      "name": "Kayu Bulan"
+    },
+    {
+      "id": "62.03.11.2003",
+      "name": "Kota Baru"
+    },
+    {
+      "id": "62.03.11.2004",
+      "name": "Penda Muntei"
+    },
+    {
+      "id": "62.03.11.2005",
+      "name": "Tapen"
+    },
+    {
+      "id": "62.03.11.2006",
+      "name": "Pujon"
+    },
+    {
+      "id": "62.03.11.2007",
+      "name": "Marapit (Merapit)"
+    },
+    {
+      "id": "62.03.11.2008",
+      "name": "Manis"
+    },
+    {
+      "id": "62.03.11.2009",
+      "name": "Karukus"
+    },
+    {
+      "id": "62.03.11.2010",
+      "name": "Bajuh"
+    },
+    {
+      "id": "62.03.11.2011",
+      "name": "Barunang"
+    },
+    {
+      "id": "62.03.11.2019",
+      "name": "Buhut Jaya"
+    },
+    {
+      "id": "62.03.11.2021",
+      "name": "Hurung Pukung"
+    },
+    {
+      "id": "62.03.12.2001",
+      "name": "Sei/Sungai Hanyo/Hanyu"
+    },
+    {
+      "id": "62.03.12.2002",
+      "name": "Hurung Tabengan"
+    },
+    {
+      "id": "62.03.12.2003",
+      "name": "Rahung Bungai"
+    },
+    {
+      "id": "62.03.12.2005",
+      "name": "Bulau Ngandung"
+    },
+    {
+      "id": "62.03.12.2006",
+      "name": "Tumbang Puroh/Puruh"
+    },
+    {
+      "id": "62.03.12.2008",
+      "name": "Tangirang"
+    },
+    {
+      "id": "62.03.12.2013",
+      "name": "Barunang II (Baronang II)"
+    },
+    {
+      "id": "62.03.12.2014",
+      "name": "Hurung Tampang"
+    },
+    {
+      "id": "62.03.12.2015",
+      "name": "Supang"
+    },
+    {
+      "id": "62.03.12.2016",
+      "name": "Katanjung"
+    },
+    {
+      "id": "62.03.12.2018",
+      "name": "Jakatan Pari"
+    },
+    {
+      "id": "62.03.12.2019",
+      "name": "Tumbang Sirat"
+    },
+    {
+      "id": "62.03.12.2021",
+      "name": "Dirung Koram"
+    },
+    {
+      "id": "62.03.12.2022",
+      "name": "Mampai Jaya"
+    },
+    {
+      "id": "62.03.13.2001",
+      "name": "Tamban Baru Timur"
+    },
+    {
+      "id": "62.03.13.2002",
+      "name": "Tamban Baru Tengah"
+    },
+    {
+      "id": "62.03.13.2003",
+      "name": "Tamban Baru Mekar"
+    },
+    {
+      "id": "62.03.13.2004",
+      "name": "Bandaraya (Bandar Raya)"
+    },
+    {
+      "id": "62.03.13.2005",
+      "name": "Sidorejo"
+    },
+    {
+      "id": "62.03.13.2006",
+      "name": "Warna Sari"
+    },
+    {
+      "id": "62.03.13.2007",
+      "name": "Bandar Mekar"
+    },
+    {
+      "id": "62.03.13.2008",
+      "name": "Tamban Makmur (Tambun Makmur)"
+    },
+    {
+      "id": "62.03.13.2009",
+      "name": "Sidomulyo"
+    },
+    {
+      "id": "62.03.13.2010",
+      "name": "Tamban Jaya (Tambun Jaya)"
+    },
+    {
+      "id": "62.03.14.2001",
+      "name": "Jangkang"
+    },
+    {
+      "id": "62.03.14.2002",
+      "name": "Tumbang Tukun"
+    },
+    {
+      "id": "62.03.14.2003",
+      "name": "Sei/Sungai Ringin"
+    },
+    {
+      "id": "62.03.14.2004",
+      "name": "Kaburan"
+    },
+    {
+      "id": "62.03.14.2005",
+      "name": "Balai Banjang"
+    },
+    {
+      "id": "62.03.14.2006",
+      "name": "Tumbang Diring"
+    },
+    {
+      "id": "62.03.14.2007",
+      "name": "Dandang"
+    },
+    {
+      "id": "62.03.14.2008",
+      "name": "Hurung Kampin"
+    },
+    {
+      "id": "62.03.14.2009",
+      "name": "Batu Sambung"
+    },
+    {
+      "id": "62.03.14.2010",
+      "name": "Tumbang Nusa"
+    },
+    {
+      "id": "62.03.15.2001",
+      "name": "Masaha"
+    },
+    {
+      "id": "62.03.15.2002",
+      "name": "Sei/Sungai Pinang"
+    },
+    {
+      "id": "62.03.15.2003",
+      "name": "Lawang Tamang"
+    },
+    {
+      "id": "62.03.15.2004",
+      "name": "Karetau Manta'a (Karetau Mantaa)"
+    },
+    {
+      "id": "62.03.15.2005",
+      "name": "Tumbang Bukoi/Bokoi"
+    },
+    {
+      "id": "62.03.15.2006",
+      "name": "Tumbang Tihis"
+    },
+    {
+      "id": "62.03.15.2007",
+      "name": "Tumbang Manyarung"
+    },
+    {
+      "id": "62.03.15.2008",
+      "name": "Tanjung Rendan"
+    },
+    {
+      "id": "62.03.15.2009",
+      "name": "Jakatan Masaha"
+    },
+    {
+      "id": "62.03.15.2010",
+      "name": "Masupa Ria"
+    },
+    {
+      "id": "62.03.16.2001",
+      "name": "Dadahup"
+    },
+    {
+      "id": "62.03.16.2002",
+      "name": "Tambak Bajai"
+    },
+    {
+      "id": "62.03.16.2003",
+      "name": "Bina Jaya"
+    },
+    {
+      "id": "62.03.16.2004",
+      "name": "Harapan Baru"
+    },
+    {
+      "id": "62.03.16.2005",
+      "name": "Bentuk Jaya"
+    },
+    {
+      "id": "62.03.16.2006",
+      "name": "Sumber Agung"
+    },
+    {
+      "id": "62.03.16.2007",
+      "name": "Petak Batuah"
+    },
+    {
+      "id": "62.03.16.2008",
+      "name": "Manuntung"
+    },
+    {
+      "id": "62.03.16.2009",
+      "name": "Sumber Alaska"
+    },
+    {
+      "id": "62.03.16.2010",
+      "name": "Menteng Karya"
+    },
+    {
+      "id": "62.03.16.2011",
+      "name": "Tanjung Harapan"
+    },
+    {
+      "id": "62.03.16.2012",
+      "name": "Kahuripan Permai"
+    },
+    {
+      "id": "62.03.16.2013",
+      "name": "Dadahup Raya"
+    },
+    {
+      "id": "62.03.17.1001",
+      "name": "Pulau Kupang"
+    },
+    {
+      "id": "62.03.17.2002",
+      "name": "Pulau Mambulau"
+    },
+    {
+      "id": "62.03.17.2003",
+      "name": "Sei/Sungai Lunuk"
+    },
+    {
+      "id": "62.03.17.2004",
+      "name": "Sei Jangkit (Sei Jangkir)"
+    },
+    {
+      "id": "62.03.17.2005",
+      "name": "Tamban Luar"
+    },
+    {
+      "id": "62.03.17.2006",
+      "name": "Terusan Raya"
+    },
+    {
+      "id": "62.03.17.2007",
+      "name": "Terusan Karya"
+    },
+    {
+      "id": "62.03.17.2008",
+      "name": "Terusan Makmur"
+    },
+    {
+      "id": "62.03.17.2009",
+      "name": "Terusan Mulya"
+    },
+    {
+      "id": "62.03.17.2010",
+      "name": "Bamban Raya"
+    },
+    {
+      "id": "62.03.17.2011",
+      "name": "Bangun Harjo"
+    },
+    {
+      "id": "62.03.17.2012",
+      "name": "Terusan Baguntan Raya"
+    },
+    {
+      "id": "62.03.17.2013",
+      "name": "Terusan Raya Barat"
+    },
+    {
+      "id": "62.03.17.2014",
+      "name": "Terusan Raya Hulu (Terusan Raya Hilir)"
+    },
+    {
+      "id": "62.03.17.2015",
+      "name": "Budi Mufakat"
+    },
+    {
+      "id": "62.04.01.1003",
+      "name": "Rantau Kujang"
+    },
+    {
+      "id": "62.04.01.2001",
+      "name": "Tampulang"
+    },
+    {
+      "id": "62.04.01.2002",
+      "name": "Rantau Bahuang"
+    },
+    {
+      "id": "62.04.01.2004",
+      "name": "Rangga Ilung"
+    },
+    {
+      "id": "62.04.01.2005",
+      "name": "Tabatan"
+    },
+    {
+      "id": "62.04.02.1003",
+      "name": "Mengkatip"
+    },
+    {
+      "id": "62.04.02.2001",
+      "name": "Sei/Sungai Jaya"
+    },
+    {
+      "id": "62.04.02.2002",
+      "name": "Mahajandau/Mahanjau"
+    },
+    {
+      "id": "62.04.02.2004",
+      "name": "Kalanis"
+    },
+    {
+      "id": "62.04.02.2005",
+      "name": "Lehai"
+    },
+    {
+      "id": "62.04.02.2006",
+      "name": "Damparan"
+    },
+    {
+      "id": "62.04.02.2007",
+      "name": "Teluk Timbau"
+    },
+    {
+      "id": "62.04.02.2008",
+      "name": "Batilap"
+    },
+    {
+      "id": "62.04.02.2009",
+      "name": "Batampang"
+    },
+    {
+      "id": "62.04.02.2010",
+      "name": "Mangkatir"
+    },
+    {
+      "id": "62.04.03.1002",
+      "name": "Bangkuang"
+    },
+    {
+      "id": "62.04.03.2001",
+      "name": "Salat Baru (Selat Baru)"
+    },
+    {
+      "id": "62.04.03.2003",
+      "name": "Teluk Betung"
+    },
+    {
+      "id": "62.04.03.2004",
+      "name": "Babai"
+    },
+    {
+      "id": "62.04.03.2005",
+      "name": "Janggi"
+    },
+    {
+      "id": "62.04.03.2006",
+      "name": "Malitin"
+    },
+    {
+      "id": "62.04.03.2007",
+      "name": "Muara Arai"
+    },
+    {
+      "id": "62.04.03.2008",
+      "name": "Talio"
+    },
+    {
+      "id": "62.04.03.2009",
+      "name": "Tampijak"
+    },
+    {
+      "id": "62.04.03.2010",
+      "name": "Bintang Kurung"
+    },
+    {
+      "id": "62.04.03.2011",
+      "name": "Teluk Sampudau"
+    },
+    {
+      "id": "62.04.04.1005",
+      "name": "Pendang"
+    },
+    {
+      "id": "62.04.04.2001",
+      "name": "Sei/Sungai Telang"
+    },
+    {
+      "id": "62.04.04.2002",
+      "name": "Majundre"
+    },
+    {
+      "id": "62.04.04.2003",
+      "name": "Bundar"
+    },
+    {
+      "id": "62.04.04.2004",
+      "name": "Telekoi (Talekoi)"
+    },
+    {
+      "id": "62.04.04.2006",
+      "name": "Marawan Lama"
+    },
+    {
+      "id": "62.04.04.2007",
+      "name": "Marawan Baru"
+    },
+    {
+      "id": "62.04.04.2008",
+      "name": "Reong"
+    },
+    {
+      "id": "62.04.04.2009",
+      "name": "Tarusan"
+    },
+    {
+      "id": "62.04.04.2010",
+      "name": "Panarukan"
+    },
+    {
+      "id": "62.04.04.2011",
+      "name": "Maruga"
+    },
+    {
+      "id": "62.04.04.2012",
+      "name": "Hingan"
+    },
+    {
+      "id": "62.04.04.2013",
+      "name": "Danau Bambure"
+    },
+    {
+      "id": "62.04.04.2014",
+      "name": "Tamparak"
+    },
+    {
+      "id": "62.04.04.2015",
+      "name": "Hulu Tampang"
+    },
+    {
+      "id": "62.04.04.2016",
+      "name": "Bantai Bambure"
+    },
+    {
+      "id": "62.04.04.2017",
+      "name": "Rampa Mea"
+    },
+    {
+      "id": "62.04.04.2018",
+      "name": "Gunung Rantau"
+    },
+    {
+      "id": "62.04.04.2019",
+      "name": "Tamparak Layung"
+    },
+    {
+      "id": "62.04.05.2001",
+      "name": "Baruang/Ekeng"
+    },
+    {
+      "id": "62.04.05.2002",
+      "name": "Kayumban"
+    },
+    {
+      "id": "62.04.05.2003",
+      "name": "Tabak Kanilan"
+    },
+    {
+      "id": "62.04.05.2004",
+      "name": "Sarimbuah"
+    },
+    {
+      "id": "62.04.05.2005",
+      "name": "Gagutur"
+    },
+    {
+      "id": "62.04.05.2006",
+      "name": "Muka Haji"
+    },
+    {
+      "id": "62.04.05.2007",
+      "name": "Sire"
+    },
+    {
+      "id": "62.04.05.2008",
+      "name": "Muara Singan"
+    },
+    {
+      "id": "62.04.05.2009",
+      "name": "Patas I"
+    },
+    {
+      "id": "62.04.05.2010",
+      "name": "Patas II"
+    },
+    {
+      "id": "62.04.05.2011",
+      "name": "Bintang Ara"
+    },
+    {
+      "id": "62.04.05.2012",
+      "name": "Ugang Sayu"
+    },
+    {
+      "id": "62.04.05.2013",
+      "name": "Ngurit"
+    },
+    {
+      "id": "62.04.05.2014",
+      "name": "Wungkur Baru"
+    },
+    {
+      "id": "62.04.05.2015",
+      "name": "Bipak Kali"
+    },
+    {
+      "id": "62.04.05.2016",
+      "name": "Malungai Raya"
+    },
+    {
+      "id": "62.04.05.2017",
+      "name": "Sei/Sungai Paken"
+    },
+    {
+      "id": "62.04.05.2018",
+      "name": "Palo Rejo"
+    },
+    {
+      "id": "62.04.05.2019",
+      "name": "Wayun"
+    },
+    {
+      "id": "62.04.05.2020",
+      "name": "Marga Jaya"
+    },
+    {
+      "id": "62.04.05.2021",
+      "name": "Ruhing Raya"
+    },
+    {
+      "id": "62.04.06.1006",
+      "name": "Jelapat"
+    },
+    {
+      "id": "62.04.06.1007",
+      "name": "Hilir Seper (Hilir Sper)"
+    },
+    {
+      "id": "62.04.06.1008",
+      "name": "Buntok Kota"
+    },
+    {
+      "id": "62.04.06.2001",
+      "name": "Danau Ganting"
+    },
+    {
+      "id": "62.04.06.2002",
+      "name": "Muara Talang"
+    },
+    {
+      "id": "62.04.06.2003",
+      "name": "Teluk Telaga"
+    },
+    {
+      "id": "62.04.06.2004",
+      "name": "Baru"
+    },
+    {
+      "id": "62.04.06.2005",
+      "name": "Danau Sadar"
+    },
+    {
+      "id": "62.04.06.2009",
+      "name": "Pamait"
+    },
+    {
+      "id": "62.04.06.2010",
+      "name": "Sababilah"
+    },
+    {
+      "id": "62.04.06.2011",
+      "name": "Mangaris"
+    },
+    {
+      "id": "62.04.06.2012",
+      "name": "Tetei Lanan"
+    },
+    {
+      "id": "62.04.06.2013",
+      "name": "Pamangka"
+    },
+    {
+      "id": "62.04.06.2014",
+      "name": "Sanggu"
+    },
+    {
+      "id": "62.04.06.2015",
+      "name": "Lembeng"
+    },
+    {
+      "id": "62.04.06.2016",
+      "name": "Muara Ripung"
+    },
+    {
+      "id": "62.04.06.2017",
+      "name": "Madara"
+    },
+    {
+      "id": "62.04.06.2018",
+      "name": "Murung Paken"
+    },
+    {
+      "id": "62.04.06.2019",
+      "name": "Mabuan"
+    },
+    {
+      "id": "62.04.06.2020",
+      "name": "Kalahien"
+    },
+    {
+      "id": "62.04.06.2021",
+      "name": "Penda Asam"
+    },
+    {
+      "id": "62.04.06.2022",
+      "name": "Pararapak"
+    },
+    {
+      "id": "62.04.06.2023",
+      "name": "Teluk Mampun"
+    },
+    {
+      "id": "62.04.06.2024",
+      "name": "Tanjung Jawa"
+    },
+    {
+      "id": "62.04.06.2025",
+      "name": "Telang Andrau"
+    },
+    {
+      "id": "62.04.06.2026",
+      "name": "Dangka"
+    },
+    {
+      "id": "62.04.06.2027",
+      "name": "Danau Masura"
+    },
+    {
+      "id": "62.05.01.1001",
+      "name": "Montallat I"
+    },
+    {
+      "id": "62.05.01.1002",
+      "name": "Montallat II"
+    },
+    {
+      "id": "62.05.01.1003",
+      "name": "Tumpung Laung I"
+    },
+    {
+      "id": "62.05.01.1004",
+      "name": "Tumpung Laung II"
+    },
+    {
+      "id": "62.05.01.2005",
+      "name": "Sikan"
+    },
+    {
+      "id": "62.05.01.2006",
+      "name": "Rubei"
+    },
+    {
+      "id": "62.05.01.2007",
+      "name": "Pepas"
+    },
+    {
+      "id": "62.05.01.2008",
+      "name": "Ruji"
+    },
+    {
+      "id": "62.05.01.2009",
+      "name": "Paring Lahung"
+    },
+    {
+      "id": "62.05.01.2010",
+      "name": "Kamawen"
+    },
+    {
+      "id": "62.05.02.2001",
+      "name": "Malungai"
+    },
+    {
+      "id": "62.05.02.2002",
+      "name": "Rarawa"
+    },
+    {
+      "id": "62.05.02.2003",
+      "name": "Ketapang"
+    },
+    {
+      "id": "62.05.02.2004",
+      "name": "Walur"
+    },
+    {
+      "id": "62.05.02.2005",
+      "name": "Baliti"
+    },
+    {
+      "id": "62.05.02.2006",
+      "name": "Majangkan"
+    },
+    {
+      "id": "62.05.02.2007",
+      "name": "Kandui"
+    },
+    {
+      "id": "62.05.02.2008",
+      "name": "Payang Ara"
+    },
+    {
+      "id": "62.05.02.2009",
+      "name": "Jaman"
+    },
+    {
+      "id": "62.05.02.2010",
+      "name": "Pelari"
+    },
+    {
+      "id": "62.05.02.2011",
+      "name": "Sangkorang (Sangkurang)"
+    },
+    {
+      "id": "62.05.02.2012",
+      "name": "Siwau"
+    },
+    {
+      "id": "62.05.02.2013",
+      "name": "Tongka"
+    },
+    {
+      "id": "62.05.02.2014",
+      "name": "Batu Raya I (Baturaya I)"
+    },
+    {
+      "id": "62.05.02.2015",
+      "name": "Batu Raya II (Baturaya II)"
+    },
+    {
+      "id": "62.05.02.2016",
+      "name": "Tapen Raya"
+    },
+    {
+      "id": "62.05.03.2001",
+      "name": "Tanjung Harapan"
+    },
+    {
+      "id": "62.05.03.2002",
+      "name": "Linon Besi I"
+    },
+    {
+      "id": "62.05.03.2003",
+      "name": "Linon Besi II"
+    },
+    {
+      "id": "62.05.03.2004",
+      "name": "Muara Mea"
+    },
+    {
+      "id": "62.05.03.2005",
+      "name": "Lawarang"
+    },
+    {
+      "id": "62.05.03.2006",
+      "name": "Lampeong I"
+    },
+    {
+      "id": "62.05.03.2007",
+      "name": "Lampeong II"
+    },
+    {
+      "id": "62.05.03.2008",
+      "name": "Payang"
+    },
+    {
+      "id": "62.05.03.2009",
+      "name": "Berong"
+    },
+    {
+      "id": "62.05.03.2010",
+      "name": "Baok"
+    },
+    {
+      "id": "62.05.03.2011",
+      "name": "Tambaba"
+    },
+    {
+      "id": "62.05.04.2001",
+      "name": "Sampirang I"
+    },
+    {
+      "id": "62.05.04.2002",
+      "name": "Sampirang II"
+    },
+    {
+      "id": "62.05.04.2003",
+      "name": "Liju"
+    },
+    {
+      "id": "62.05.04.2004",
+      "name": "Benangin III / 3"
+    },
+    {
+      "id": "62.05.04.2005",
+      "name": "Benangin II / 2"
+    },
+    {
+      "id": "62.05.04.2006",
+      "name": "Benangin V / 5"
+    },
+    {
+      "id": "62.05.04.2007",
+      "name": "Benangin I / I"
+    },
+    {
+      "id": "62.05.04.2008",
+      "name": "Muara Wakat"
+    },
+    {
+      "id": "62.05.04.2012",
+      "name": "Mampuak I"
+    },
+    {
+      "id": "62.05.04.2013",
+      "name": "Jamut"
+    },
+    {
+      "id": "62.05.04.2014",
+      "name": "Sei/Sungai Liju"
+    },
+    {
+      "id": "62.05.04.2015",
+      "name": "Mampuak II (Pantung)"
+    },
+    {
+      "id": "62.05.05.1013",
+      "name": "Lanjas"
+    },
+    {
+      "id": "62.05.05.1014",
+      "name": "Melayu"
+    },
+    {
+      "id": "62.05.05.2010",
+      "name": "Lemo I"
+    },
+    {
+      "id": "62.05.05.2011",
+      "name": "Lemo II"
+    },
+    {
+      "id": "62.05.05.2012",
+      "name": "Pendreh/Pandreh"
+    },
+    {
+      "id": "62.05.05.2017",
+      "name": "Rimba Sari"
+    },
+    {
+      "id": "62.05.05.2018",
+      "name": "Sei/Sungai Rahayu I"
+    },
+    {
+      "id": "62.05.05.2022",
+      "name": "Sei/Sungai Rahayu II"
+    },
+    {
+      "id": "62.05.05.2024",
+      "name": "Beringin Raya"
+    },
+    {
+      "id": "62.05.05.2025",
+      "name": "Datai Nirui"
+    },
+    {
+      "id": "62.05.06.1015",
+      "name": "Lahei I"
+    },
+    {
+      "id": "62.05.06.1016",
+      "name": "Lahei II"
+    },
+    {
+      "id": "62.05.06.2001",
+      "name": "Ipu"
+    },
+    {
+      "id": "62.05.06.2002",
+      "name": "Mukut"
+    },
+    {
+      "id": "62.05.06.2014",
+      "name": "Muara Bakah"
+    },
+    {
+      "id": "62.05.06.2017",
+      "name": "Juju Baru"
+    },
+    {
+      "id": "62.05.06.2018",
+      "name": "Muara Inu"
+    },
+    {
+      "id": "62.05.06.2019",
+      "name": "Bengahon"
+    },
+    {
+      "id": "62.05.06.2020",
+      "name": "Rahaden"
+    },
+    {
+      "id": "62.05.06.2021",
+      "name": "Muara Pari"
+    },
+    {
+      "id": "62.05.06.2022",
+      "name": "Haragandang"
+    },
+    {
+      "id": "62.05.06.2023",
+      "name": "Karendan"
+    },
+    {
+      "id": "62.05.06.2024",
+      "name": "Hurung Enep"
+    },
+    {
+      "id": "62.05.07.1001",
+      "name": "Jingah"
+    },
+    {
+      "id": "62.05.07.1002",
+      "name": "Jambu"
+    },
+    {
+      "id": "62.05.07.2003",
+      "name": "Liang Naga"
+    },
+    {
+      "id": "62.05.07.2004",
+      "name": "Sabuh"
+    },
+    {
+      "id": "62.05.07.2005",
+      "name": "Hajak"
+    },
+    {
+      "id": "62.05.07.2006",
+      "name": "Malawaken"
+    },
+    {
+      "id": "62.05.07.2007",
+      "name": "Sikui"
+    },
+    {
+      "id": "62.05.07.2008",
+      "name": "Panaen"
+    },
+    {
+      "id": "62.05.07.2009",
+      "name": "Liang Buah (Liangbuah)"
+    },
+    {
+      "id": "62.05.07.2010",
+      "name": "Gandring"
+    },
+    {
+      "id": "62.05.08.2001",
+      "name": "Trahean"
+    },
+    {
+      "id": "62.05.08.2002",
+      "name": "Terinsing/Trinsing"
+    },
+    {
+      "id": "62.05.08.2003",
+      "name": "Bintang Ninggi I (Satu)"
+    },
+    {
+      "id": "62.05.08.2004",
+      "name": "Bintang Ninggi II (Dua)"
+    },
+    {
+      "id": "62.05.08.2005",
+      "name": "Butong"
+    },
+    {
+      "id": "62.05.08.2006",
+      "name": "Buntok Baru"
+    },
+    {
+      "id": "62.05.08.2007",
+      "name": "Bukit Sawit"
+    },
+    {
+      "id": "62.05.08.2008",
+      "name": "Tawan Jaya"
+    },
+    {
+      "id": "62.05.08.2009",
+      "name": "Pandran Raya"
+    },
+    {
+      "id": "62.05.08.2010",
+      "name": "Pandran Permai"
+    },
+    {
+      "id": "62.05.09.2001",
+      "name": "Nihan Hilir"
+    },
+    {
+      "id": "62.05.09.2002",
+      "name": "Nihan Hulu"
+    },
+    {
+      "id": "62.05.09.2003",
+      "name": "Luwe Hilir"
+    },
+    {
+      "id": "62.05.09.2004",
+      "name": "Luwe Hulu"
+    },
+    {
+      "id": "62.05.09.2005",
+      "name": "Jangkang Baru"
+    },
+    {
+      "id": "62.05.09.2006",
+      "name": "Jangkang Lama"
+    },
+    {
+      "id": "62.05.09.2007",
+      "name": "Papar Pujung"
+    },
+    {
+      "id": "62.05.09.2008",
+      "name": "Teluk Malewai"
+    },
+    {
+      "id": "62.05.09.2009",
+      "name": "Benao Hilir"
+    },
+    {
+      "id": "62.05.09.2010",
+      "name": "Benao Hulu"
+    },
+    {
+      "id": "62.05.09.2011",
+      "name": "Karamuan"
+    },
+    {
+      "id": "62.06.01.2001",
+      "name": "Galinggang"
+    },
+    {
+      "id": "62.06.01.2002",
+      "name": "Tampelas"
+    },
+    {
+      "id": "62.06.01.2003",
+      "name": "Telaga"
+    },
+    {
+      "id": "62.06.01.2004",
+      "name": "Parupuk"
+    },
+    {
+      "id": "62.06.01.2005",
+      "name": "Karuing"
+    },
+    {
+      "id": "62.06.01.2006",
+      "name": "Jahanjang"
+    },
+    {
+      "id": "62.06.01.2007",
+      "name": "Tumbang Runen"
+    },
+    {
+      "id": "62.06.01.2008",
+      "name": "Baun Bango"
+    },
+    {
+      "id": "62.06.01.2009",
+      "name": "Asem Kumbang"
+    },
+    {
+      "id": "62.06.02.1003",
+      "name": "Kasongan Baru"
+    },
+    {
+      "id": "62.06.02.1004",
+      "name": "Kasongan Lama"
+    },
+    {
+      "id": "62.06.02.2001",
+      "name": "Tewang Kadamba"
+    },
+    {
+      "id": "62.06.02.2002",
+      "name": "Tumbang Liting"
+    },
+    {
+      "id": "62.06.02.2005",
+      "name": "Talian Kereng"
+    },
+    {
+      "id": "62.06.02.2006",
+      "name": "Banut Kalanaman"
+    },
+    {
+      "id": "62.06.02.2007",
+      "name": "Talangkah (Telangkah)"
+    },
+    {
+      "id": "62.06.02.2008",
+      "name": "Hampalit"
+    },
+    {
+      "id": "62.06.03.1006",
+      "name": "Pendahara"
+    },
+    {
+      "id": "62.06.03.2001",
+      "name": "Tewang Baringin (Tewang Beringin)"
+    },
+    {
+      "id": "62.06.03.2002",
+      "name": "Hapalam"
+    },
+    {
+      "id": "62.06.03.2003",
+      "name": "Tewang Rangas"
+    },
+    {
+      "id": "62.06.03.2004",
+      "name": "Bangkuang"
+    },
+    {
+      "id": "62.06.03.2005",
+      "name": "Tarusan Danum"
+    },
+    {
+      "id": "62.06.03.2007",
+      "name": "Tumbang Tarusan (Tumbang Terusan)"
+    },
+    {
+      "id": "62.06.03.2008",
+      "name": "Tewang Rangkang"
+    },
+    {
+      "id": "62.06.03.2009",
+      "name": "Tewang Manyangen"
+    },
+    {
+      "id": "62.06.03.2010",
+      "name": "Karya Unggang"
+    },
+    {
+      "id": "62.06.04.2001",
+      "name": "Tewang Papari"
+    },
+    {
+      "id": "62.06.04.2002",
+      "name": "Tewang Darayu (Tewang Derayu)"
+    },
+    {
+      "id": "62.06.04.2003",
+      "name": "Buntut Bali"
+    },
+    {
+      "id": "62.06.04.2004",
+      "name": "Kuluk Bali"
+    },
+    {
+      "id": "62.06.04.2005",
+      "name": "Manduing Taheta"
+    },
+    {
+      "id": "62.06.04.2006",
+      "name": "Manduing Lama"
+    },
+    {
+      "id": "62.06.04.2007",
+      "name": "Tumbang Banjang"
+    },
+    {
+      "id": "62.06.04.2008",
+      "name": "Tumbang Lawang"
+    },
+    {
+      "id": "62.06.04.2009",
+      "name": "Dahian Tunggal"
+    },
+    {
+      "id": "62.06.04.2010",
+      "name": "Tewang Karangan"
+    },
+    {
+      "id": "62.06.04.2011",
+      "name": "Tumbang Tungku"
+    },
+    {
+      "id": "62.06.04.2012",
+      "name": "Geragu"
+    },
+    {
+      "id": "62.06.04.2013",
+      "name": "Tumbang Tanjung"
+    },
+    {
+      "id": "62.06.04.2014",
+      "name": "Tura"
+    },
+    {
+      "id": "62.06.05.1009",
+      "name": "Samba Kahayan"
+    },
+    {
+      "id": "62.06.05.2001",
+      "name": "Tumbang Lahang"
+    },
+    {
+      "id": "62.06.05.2002",
+      "name": "Tewang Panjang"
+    },
+    {
+      "id": "62.06.05.2003",
+      "name": "Petak Puti"
+    },
+    {
+      "id": "62.06.05.2004",
+      "name": "Telok"
+    },
+    {
+      "id": "62.06.05.2005",
+      "name": "Samba Danum"
+    },
+    {
+      "id": "62.06.05.2006",
+      "name": "Samba Bakumpai"
+    },
+    {
+      "id": "62.06.05.2007",
+      "name": "Samba Katung"
+    },
+    {
+      "id": "62.06.05.2008",
+      "name": "Napu Sahur"
+    },
+    {
+      "id": "62.06.05.2010",
+      "name": "Batu Badinding"
+    },
+    {
+      "id": "62.06.05.2011",
+      "name": "Rantau Asem"
+    },
+    {
+      "id": "62.06.05.2012",
+      "name": "Mirah Kalanaman"
+    },
+    {
+      "id": "62.06.05.2013",
+      "name": "Tumbang Kalemei (Tumbang Kalamei)"
+    },
+    {
+      "id": "62.06.05.2014",
+      "name": "Tumbang Marak"
+    },
+    {
+      "id": "62.06.05.2015",
+      "name": "Tumbang Hangei"
+    },
+    {
+      "id": "62.06.05.2016",
+      "name": "Tumbang Pariyei"
+    },
+    {
+      "id": "62.06.06.2001",
+      "name": "Dehes"
+    },
+    {
+      "id": "62.06.06.2002",
+      "name": "Tumbang Labehu"
+    },
+    {
+      "id": "62.06.06.2003",
+      "name": "Tumbang Kaman"
+    },
+    {
+      "id": "62.06.06.2004",
+      "name": "Tumbang Manggo"
+    },
+    {
+      "id": "62.06.06.2005",
+      "name": "Kamanto"
+    },
+    {
+      "id": "62.06.06.2006",
+      "name": "Kuluk Habuhus"
+    },
+    {
+      "id": "62.06.06.2007",
+      "name": "Tumbang Kanei/Kamei"
+    },
+    {
+      "id": "62.06.06.2008",
+      "name": "Tumbang Taranei/Karanei"
+    },
+    {
+      "id": "62.06.06.2009",
+      "name": "Tumbang Kawei"
+    },
+    {
+      "id": "62.06.06.2010",
+      "name": "Tumbang Mangara/Manggara"
+    },
+    {
+      "id": "62.06.06.2011",
+      "name": "Tumbang Pangka"
+    },
+    {
+      "id": "62.06.06.2012",
+      "name": "Tumbang Atei"
+    },
+    {
+      "id": "62.06.06.2020",
+      "name": "Daya Manunggal"
+    },
+    {
+      "id": "62.06.06.2021",
+      "name": "Rantau Bangkiang"
+    },
+    {
+      "id": "62.06.07.2001",
+      "name": "Tumbang Mandurei"
+    },
+    {
+      "id": "62.06.07.2002",
+      "name": "Tumbang Paku"
+    },
+    {
+      "id": "62.06.07.2003",
+      "name": "Buntut Leleng"
+    },
+    {
+      "id": "62.06.07.2004",
+      "name": "Kuluk Leleng"
+    },
+    {
+      "id": "62.06.07.2005",
+      "name": "Sabaung (Sebaung)"
+    },
+    {
+      "id": "62.06.07.2006",
+      "name": "Tumbang Malawan (Tumbang Susan - Malaman)"
+    },
+    {
+      "id": "62.06.07.2007",
+      "name": "Tumbang Taei"
+    },
+    {
+      "id": "62.06.07.2008",
+      "name": "Rangan Surai (Rangan Surei)"
+    },
+    {
+      "id": "62.06.07.2009",
+      "name": "Tumbang Hiran"
+    },
+    {
+      "id": "62.06.07.2010",
+      "name": "Tumbang Pahanei"
+    },
+    {
+      "id": "62.06.07.2011",
+      "name": "Tumbang Dakei"
+    },
+    {
+      "id": "62.06.07.2012",
+      "name": "Rangan Burih"
+    },
+    {
+      "id": "62.06.07.2013",
+      "name": "Tumbang Bemban"
+    },
+    {
+      "id": "62.06.07.2014",
+      "name": "Tumbang Lambi"
+    },
+    {
+      "id": "62.06.07.2015",
+      "name": "Rangan Tangko"
+    },
+    {
+      "id": "62.06.07.2016",
+      "name": "Tumbang Tundu"
+    },
+    {
+      "id": "62.06.07.2017",
+      "name": "Batu Panahan"
+    },
+    {
+      "id": "62.06.07.2018",
+      "name": "Tumbang Tabulus"
+    },
+    {
+      "id": "62.06.08.1014",
+      "name": "Tumbang Sanamang (Tumbang Senamang I)"
+    },
+    {
+      "id": "62.06.08.2001",
+      "name": "Kiham Batang"
+    },
+    {
+      "id": "62.06.08.2002",
+      "name": "Tumbang Kabayan/Kabayang"
+    },
+    {
+      "id": "62.06.08.2003",
+      "name": "Rangan Kawit"
+    },
+    {
+      "id": "62.06.08.2004",
+      "name": "Dehes Asem"
+    },
+    {
+      "id": "62.06.08.2005",
+      "name": "Kuluk Sepangi/Sapangi"
+    },
+    {
+      "id": "62.06.08.2006",
+      "name": "Tumbang Kuai"
+    },
+    {
+      "id": "62.06.08.2007",
+      "name": "Tumbang Salaman"
+    },
+    {
+      "id": "62.06.08.2008",
+      "name": "Rantau Puka"
+    },
+    {
+      "id": "62.06.08.2009",
+      "name": "Rantau Bahai"
+    },
+    {
+      "id": "62.06.08.2010",
+      "name": "Rangan Ranjing"
+    },
+    {
+      "id": "62.06.08.2011",
+      "name": "Tumbang Labaning"
+    },
+    {
+      "id": "62.06.08.2012",
+      "name": "Batu Bango"
+    },
+    {
+      "id": "62.06.08.2013",
+      "name": "Tumbang Hangei II"
+    },
+    {
+      "id": "62.06.08.2015",
+      "name": "Sei/Sungai Nanjan"
+    },
+    {
+      "id": "62.06.08.2016",
+      "name": "Tumbang Jiga"
+    },
+    {
+      "id": "62.06.08.2017",
+      "name": "Tumbang Mangketai"
+    },
+    {
+      "id": "62.06.08.2019",
+      "name": "Tumbang Mahop/Mahup"
+    },
+    {
+      "id": "62.06.08.2020",
+      "name": "Tumbang Sabetung"
+    },
+    {
+      "id": "62.06.08.2030",
+      "name": "Penda Tanggaring Lama (Penda Tangaring Lama)"
+    },
+    {
+      "id": "62.06.08.2031",
+      "name": "Penda Tanggaring Baru (Penda Tangaring Baru)"
+    },
+    {
+      "id": "62.06.08.2032",
+      "name": "Teluk Tampang (Telok Tampang)"
+    },
+    {
+      "id": "62.06.08.2033",
+      "name": "Tumbang Manangei"
+    },
+    {
+      "id": "62.06.09.2001",
+      "name": "Mendawai"
+    },
+    {
+      "id": "62.06.09.2002",
+      "name": "Teluk Sebulu"
+    },
+    {
+      "id": "62.06.09.2003",
+      "name": "Kampung Melayu"
+    },
+    {
+      "id": "62.06.09.2004",
+      "name": "Tewang/Tawang Kampung"
+    },
+    {
+      "id": "62.06.09.2005",
+      "name": "Perigi (Parigi)"
+    },
+    {
+      "id": "62.06.09.2006",
+      "name": "Mekar Tani"
+    },
+    {
+      "id": "62.06.09.2007",
+      "name": "Tumbang Bulan"
+    },
+    {
+      "id": "62.06.10.1001",
+      "name": "Pegatan/Pagatan Hilir"
+    },
+    {
+      "id": "62.06.10.1002",
+      "name": "Pegatan/Pagatan Hulu"
+    },
+    {
+      "id": "62.06.10.2003",
+      "name": "Kampung Keramat (Kampung Melayu)"
+    },
+    {
+      "id": "62.06.10.2004",
+      "name": "Kampung Tengah"
+    },
+    {
+      "id": "62.06.10.2005",
+      "name": "Jaya Makmur"
+    },
+    {
+      "id": "62.06.10.2006",
+      "name": "Subur Indah"
+    },
+    {
+      "id": "62.06.10.2007",
+      "name": "Kampung Baru"
+    },
+    {
+      "id": "62.06.10.2008",
+      "name": "Bangun Jaya (Mangun Jaya)"
+    },
+    {
+      "id": "62.06.10.2009",
+      "name": "Setia Mulia"
+    },
+    {
+      "id": "62.06.10.2010",
+      "name": "Singam Raya"
+    },
+    {
+      "id": "62.06.10.2011",
+      "name": "Sebangau Jaya"
+    },
+    {
+      "id": "62.06.10.2012",
+      "name": "Sungai Kaki"
+    },
+    {
+      "id": "62.06.10.2013",
+      "name": "Selat Baning"
+    },
+    {
+      "id": "62.06.10.2014",
+      "name": "Makmur Utama"
+    },
+    {
+      "id": "62.06.10.2015",
+      "name": "Bumi Subur"
+    },
+    {
+      "id": "62.06.10.2016",
+      "name": "Bakung Raya"
+    },
+    {
+      "id": "62.06.11.2001",
+      "name": "Talingke"
+    },
+    {
+      "id": "62.06.11.2002",
+      "name": "Hiang/Hiyang Bana"
+    },
+    {
+      "id": "62.06.11.2003",
+      "name": "Petak Bahandang"
+    },
+    {
+      "id": "62.06.11.2004",
+      "name": "Handiwung"
+    },
+    {
+      "id": "62.06.11.2005",
+      "name": "Tumbang Panggo"
+    },
+    {
+      "id": "62.06.11.2006",
+      "name": "Tewang Tampang"
+    },
+    {
+      "id": "62.06.11.2007",
+      "name": "Luwuk Kanan"
+    },
+    {
+      "id": "62.06.11.2008",
+      "name": "Luwuk Kiri"
+    },
+    {
+      "id": "62.06.12.2001",
+      "name": "Tumbang Baraoi"
+    },
+    {
+      "id": "62.06.12.2002",
+      "name": "Tumbang Jala"
+    },
+    {
+      "id": "62.06.12.2003",
+      "name": "Batu Badak"
+    },
+    {
+      "id": "62.06.12.2004",
+      "name": "Batu Tukan"
+    },
+    {
+      "id": "62.06.12.2005",
+      "name": "Tumbang Tangoi (Tumbang Tanggoi)"
+    },
+    {
+      "id": "62.06.12.2006",
+      "name": "Nusa Kutau"
+    },
+    {
+      "id": "62.06.12.2007",
+      "name": "Tumbang Habangoi/Habangei"
+    },
+    {
+      "id": "62.06.13.2001",
+      "name": "Tumbang Gaei"
+    },
+    {
+      "id": "62.06.13.2002",
+      "name": "Tumbang Kataei"
+    },
+    {
+      "id": "62.06.13.2003",
+      "name": "Tumbang Karuei"
+    },
+    {
+      "id": "62.06.13.2004",
+      "name": "Tumbang Dahuei"
+    },
+    {
+      "id": "62.06.13.2005",
+      "name": "Rantau Pandan"
+    },
+    {
+      "id": "62.06.13.2006",
+      "name": "Rangan Rondan (Rongan Rondan)"
+    },
+    {
+      "id": "62.06.13.2007",
+      "name": "Rangan Bahekang"
+    },
+    {
+      "id": "62.06.13.2008",
+      "name": "Tumbang Kajamei"
+    },
+    {
+      "id": "62.06.13.2009",
+      "name": "Tumbang Kaburai"
+    },
+    {
+      "id": "62.06.13.2010",
+      "name": "Tanjung Batik"
+    },
+    {
+      "id": "62.06.13.2011",
+      "name": "Penda Nange"
+    },
+    {
+      "id": "62.07.01.1001",
+      "name": "Kuala Pembuang Satu (I)"
+    },
+    {
+      "id": "62.07.01.1002",
+      "name": "Kuala Pembuang Dua (II)"
+    },
+    {
+      "id": "62.07.01.2005",
+      "name": "Pematang Limau"
+    },
+    {
+      "id": "62.07.01.2006",
+      "name": "Sei/Sungai Perlu"
+    },
+    {
+      "id": "62.07.01.2007",
+      "name": "Tanjung Rangas"
+    },
+    {
+      "id": "62.07.01.2008",
+      "name": "Muara Dua"
+    },
+    {
+      "id": "62.07.01.2009",
+      "name": "Jahitan"
+    },
+    {
+      "id": "62.07.01.2010",
+      "name": "Baung"
+    },
+    {
+      "id": "62.07.01.2015",
+      "name": "Persil Raya (Persit Raya)"
+    },
+    {
+      "id": "62.07.01.2016",
+      "name": "Sei/Sungai Urdang"
+    },
+    {
+      "id": "62.07.02.1016",
+      "name": "Rantau Pulut"
+    },
+    {
+      "id": "62.07.02.2008",
+      "name": "Gantung Pangayuh (Gantung Pengayuh)"
+    },
+    {
+      "id": "62.07.02.2009",
+      "name": "Teluk Bayur"
+    },
+    {
+      "id": "62.07.02.2010",
+      "name": "Suka Mandang"
+    },
+    {
+      "id": "62.07.02.2011",
+      "name": "Ayawan"
+    },
+    {
+      "id": "62.07.02.2012",
+      "name": "Mugi Panyuhu (Mugi Panyahu / Mugie Panyuhu)"
+    },
+    {
+      "id": "62.07.02.2013",
+      "name": "Bukit Buluh/Buluk"
+    },
+    {
+      "id": "62.07.02.2014",
+      "name": "Tumbang Bai/Bei"
+    },
+    {
+      "id": "62.07.02.2015",
+      "name": "Durian Tunggal"
+    },
+    {
+      "id": "62.07.02.2017",
+      "name": "Pangke"
+    },
+    {
+      "id": "62.07.02.2018",
+      "name": "Panyompa (Penyumpa)"
+    },
+    {
+      "id": "62.07.02.2022",
+      "name": "Sukorejo (Suku Rejo)"
+    },
+    {
+      "id": "62.07.02.2023",
+      "name": "Bumi Jaya (Bumi Ayu)"
+    },
+    {
+      "id": "62.07.02.2024",
+      "name": "Suka Jaya (Suka Ayu)"
+    },
+    {
+      "id": "62.07.02.2026",
+      "name": "Panca Jaya"
+    },
+    {
+      "id": "62.07.02.2029",
+      "name": "Tangga Batu"
+    },
+    {
+      "id": "62.07.02.2030",
+      "name": "Ringin Agung"
+    },
+    {
+      "id": "62.07.02.2031",
+      "name": "Batu Agung"
+    },
+    {
+      "id": "62.07.02.2032",
+      "name": "Suka Makmur"
+    },
+    {
+      "id": "62.07.02.2033",
+      "name": "Suka Maju"
+    },
+    {
+      "id": "62.07.03.2001",
+      "name": "Telaga Pulang"
+    },
+    {
+      "id": "62.07.03.2002",
+      "name": "Cempaka Baru"
+    },
+    {
+      "id": "62.07.03.2003",
+      "name": "Palingkau"
+    },
+    {
+      "id": "62.07.03.2004",
+      "name": "Ulak Batu"
+    },
+    {
+      "id": "62.07.03.2005",
+      "name": "Paren"
+    },
+    {
+      "id": "62.07.03.2006",
+      "name": "Banua Usang"
+    },
+    {
+      "id": "62.07.03.2013",
+      "name": "Sembuluh I (Satu)"
+    },
+    {
+      "id": "62.07.03.2014",
+      "name": "Sembuluh II (Dua)"
+    },
+    {
+      "id": "62.07.04.2001",
+      "name": "Tanjung Hanau/Hana"
+    },
+    {
+      "id": "62.07.04.2002",
+      "name": "Parang Batang"
+    },
+    {
+      "id": "62.07.04.2003",
+      "name": "Bahaur"
+    },
+    {
+      "id": "62.07.04.2004",
+      "name": "Pembuang Hulu I"
+    },
+    {
+      "id": "62.07.04.2005",
+      "name": "Pembuang Hulu II"
+    },
+    {
+      "id": "62.07.04.2006",
+      "name": "Derangga"
+    },
+    {
+      "id": "62.07.04.2011",
+      "name": "Paring Raya"
+    },
+    {
+      "id": "62.07.05.2020",
+      "name": "Tumbang Bahan"
+    },
+    {
+      "id": "62.07.05.2021",
+      "name": "Tumbang Kalam"
+    },
+    {
+      "id": "62.07.05.2022",
+      "name": "Tusuk Belawan"
+    },
+    {
+      "id": "62.07.05.2023",
+      "name": "Marandang"
+    },
+    {
+      "id": "62.07.05.2024",
+      "name": "Tumbang Suei"
+    },
+    {
+      "id": "62.07.05.2025",
+      "name": "Tumbang Manjul"
+    },
+    {
+      "id": "62.07.05.2026",
+      "name": "Majang/Mojang Baru"
+    },
+    {
+      "id": "62.07.05.2027",
+      "name": "Rantau Panjang"
+    },
+    {
+      "id": "62.07.05.2028",
+      "name": "Mongoh Juoi"
+    },
+    {
+      "id": "62.07.05.2030",
+      "name": "Sepundu Hantu"
+    },
+    {
+      "id": "62.07.05.2031",
+      "name": "Tumbang Kubang"
+    },
+    {
+      "id": "62.07.05.2032",
+      "name": "Tumbang Laku"
+    },
+    {
+      "id": "62.07.05.2033",
+      "name": "Tanjung Paku"
+    },
+    {
+      "id": "62.07.05.2034",
+      "name": "Buntut Sapau"
+    },
+    {
+      "id": "62.07.05.2035",
+      "name": "Tumbang Taberau"
+    },
+    {
+      "id": "62.07.05.2036",
+      "name": "Riam Batang"
+    },
+    {
+      "id": "62.07.05.2037",
+      "name": "Tumbang Sepan"
+    },
+    {
+      "id": "62.07.05.2038",
+      "name": "Tumbang Setawai"
+    },
+    {
+      "id": "62.07.05.2039",
+      "name": "Tumbang Kasai"
+    },
+    {
+      "id": "62.07.05.2040",
+      "name": "Tumbang Darap"
+    },
+    {
+      "id": "62.07.06.2001",
+      "name": "Mekar Indah"
+    },
+    {
+      "id": "62.07.06.2002",
+      "name": "Halimaung Jaya"
+    },
+    {
+      "id": "62.07.06.2003",
+      "name": "Bangun Harja/Harjo"
+    },
+    {
+      "id": "62.07.06.2004",
+      "name": "Kartika Bhakti/Bakti"
+    },
+    {
+      "id": "62.07.06.2005",
+      "name": "Pematang Panjang"
+    },
+    {
+      "id": "62.07.06.2006",
+      "name": "Sei/Sungai Bakau"
+    },
+    {
+      "id": "62.07.07.2001",
+      "name": "Terawan"
+    },
+    {
+      "id": "62.07.07.2002",
+      "name": "Salunuk (Selunuk)"
+    },
+    {
+      "id": "62.07.07.2003",
+      "name": "Lanpasa"
+    },
+    {
+      "id": "62.07.07.2005",
+      "name": "Bangkal"
+    },
+    {
+      "id": "62.07.07.2006",
+      "name": "Tabiku"
+    },
+    {
+      "id": "62.07.08.2001",
+      "name": "Asam Baru"
+    },
+    {
+      "id": "62.07.08.2002",
+      "name": "Tanjung Hara"
+    },
+    {
+      "id": "62.07.08.2003",
+      "name": "Tanjung Paring"
+    },
+    {
+      "id": "62.07.08.2004",
+      "name": "Tanjung Rangas II"
+    },
+    {
+      "id": "62.07.08.2005",
+      "name": "Panimba Raya"
+    },
+    {
+      "id": "62.07.08.2006",
+      "name": "Rungau Raya (Rangau Raya)"
+    },
+    {
+      "id": "62.07.09.2001",
+      "name": "Sebabi"
+    },
+    {
+      "id": "62.07.09.2002",
+      "name": "Sandul"
+    },
+    {
+      "id": "62.07.09.2003",
+      "name": "Kalang"
+    },
+    {
+      "id": "62.07.09.2004",
+      "name": "Derawa"
+    },
+    {
+      "id": "62.07.09.2005",
+      "name": "Wana Tirta"
+    },
+    {
+      "id": "62.07.09.2006",
+      "name": "Suka Mulya"
+    },
+    {
+      "id": "62.07.09.2007",
+      "name": "Durian Kait"
+    },
+    {
+      "id": "62.07.09.2008",
+      "name": "Sehabu (Sahabu/Sebabu)"
+    },
+    {
+      "id": "62.07.09.2009",
+      "name": "Batu Menangis (Batu Manangis)"
+    },
+    {
+      "id": "62.07.10.2001",
+      "name": "Tumbang Magin"
+    },
+    {
+      "id": "62.07.10.2002",
+      "name": "Tumbang Setoli"
+    },
+    {
+      "id": "62.07.10.2003",
+      "name": "Tumbang Hentas"
+    },
+    {
+      "id": "62.07.10.2004",
+      "name": "Tumbang Langkai"
+    },
+    {
+      "id": "62.07.10.2005",
+      "name": "Tumbang Salau"
+    },
+    {
+      "id": "62.07.10.2006",
+      "name": "Tumbang Gugup"
+    },
+    {
+      "id": "62.07.10.2007",
+      "name": "Rangkang Munduk"
+    },
+    {
+      "id": "62.07.10.2008",
+      "name": "Tanjung Tukal"
+    },
+    {
+      "id": "62.07.10.2009",
+      "name": "Rantau Betung"
+    },
+    {
+      "id": "62.08.01.1003",
+      "name": "Mendawai"
+    },
+    {
+      "id": "62.08.01.1004",
+      "name": "Padang"
+    },
+    {
+      "id": "62.08.01.2001",
+      "name": "Natai Sedawak"
+    },
+    {
+      "id": "62.08.01.2002",
+      "name": "Pudu"
+    },
+    {
+      "id": "62.08.01.2005",
+      "name": "Kartamulia (Karta Mulya / Mulia)"
+    },
+    {
+      "id": "62.08.01.2006",
+      "name": "Sukaraja"
+    },
+    {
+      "id": "62.08.01.2007",
+      "name": "Pangkalan Muntai"
+    },
+    {
+      "id": "62.08.01.2008",
+      "name": "Petarikan"
+    },
+    {
+      "id": "62.08.02.1001",
+      "name": "Kuala Jelai"
+    },
+    {
+      "id": "62.08.02.2002",
+      "name": "Pulau Nibung"
+    },
+    {
+      "id": "62.08.02.2003",
+      "name": "Sei/Sungai Baru"
+    },
+    {
+      "id": "62.08.02.2004",
+      "name": "Sei/Sungai Bundung"
+    },
+    {
+      "id": "62.08.02.2005",
+      "name": "Sei/Sungai Raja"
+    },
+    {
+      "id": "62.08.03.2001",
+      "name": "Jihing"
+    },
+    {
+      "id": "62.08.03.2002",
+      "name": "Air Dua"
+    },
+    {
+      "id": "62.08.03.2005",
+      "name": "Lupu Peruca"
+    },
+    {
+      "id": "62.08.03.2006",
+      "name": "Balai Riam"
+    },
+    {
+      "id": "62.08.03.2007",
+      "name": "Pempaning"
+    },
+    {
+      "id": "62.08.03.2011",
+      "name": "Sekuningan Baru"
+    },
+    {
+      "id": "62.08.03.2012",
+      "name": "Bangun Jaya"
+    },
+    {
+      "id": "62.08.03.2013",
+      "name": "Bukit Sungkai"
+    },
+    {
+      "id": "62.08.04.2001",
+      "name": "Sei/Sungai Damar"
+    },
+    {
+      "id": "62.08.04.2002",
+      "name": "Sei/Sungai Tabuk"
+    },
+    {
+      "id": "62.08.04.2003",
+      "name": "Sei/Sungai Cabang Barat"
+    },
+    {
+      "id": "62.08.04.2004",
+      "name": "Sei/Sungai Pasir"
+    },
+    {
+      "id": "62.08.05.2001",
+      "name": "Kenawan"
+    },
+    {
+      "id": "62.08.05.2002",
+      "name": "Laman Baru"
+    },
+    {
+      "id": "62.08.05.2003",
+      "name": "Ajang"
+    },
+    {
+      "id": "62.08.05.2004",
+      "name": "Semantun"
+    },
+    {
+      "id": "62.08.05.2005",
+      "name": "Nibung Terjun"
+    },
+    {
+      "id": "62.08.05.2006",
+      "name": "Natai Kondang"
+    },
+    {
+      "id": "62.08.05.2007",
+      "name": "Sembikuan (Sembi Kuan)"
+    },
+    {
+      "id": "62.09.01.1012",
+      "name": "Tapin Bini"
+    },
+    {
+      "id": "62.09.01.2001",
+      "name": "Sungai Tuat"
+    },
+    {
+      "id": "62.09.01.2002",
+      "name": "Tanjung Beringin"
+    },
+    {
+      "id": "62.09.01.2003",
+      "name": "Cuhai"
+    },
+    {
+      "id": "62.09.01.2004",
+      "name": "Kawa"
+    },
+    {
+      "id": "62.09.01.2005",
+      "name": "Karang Taba"
+    },
+    {
+      "id": "62.09.01.2006",
+      "name": "Penopa (Panopa)"
+    },
+    {
+      "id": "62.09.01.2007",
+      "name": "Suja"
+    },
+    {
+      "id": "62.09.01.2008",
+      "name": "Sekoban"
+    },
+    {
+      "id": "62.09.01.2009",
+      "name": "Bakonsu"
+    },
+    {
+      "id": "62.09.01.2022",
+      "name": "Samu Jaya"
+    },
+    {
+      "id": "62.09.02.1017",
+      "name": "Kudangan"
+    },
+    {
+      "id": "62.09.02.2004",
+      "name": "Riam Panahan (Riam Penahan)"
+    },
+    {
+      "id": "62.09.02.2005",
+      "name": "Sepoyu (Sepoyo)"
+    },
+    {
+      "id": "62.09.02.2010",
+      "name": "Nyalang"
+    },
+    {
+      "id": "62.09.02.2011",
+      "name": "Riam Tinggi"
+    },
+    {
+      "id": "62.09.02.2012",
+      "name": "Landau Kantu"
+    },
+    {
+      "id": "62.09.02.2013",
+      "name": "Lopus"
+    },
+    {
+      "id": "62.09.02.2014",
+      "name": "Kubung"
+    },
+    {
+      "id": "62.09.02.2015",
+      "name": "Sekombulan"
+    },
+    {
+      "id": "62.09.02.2016",
+      "name": "Penyombaan (Penyobaan)"
+    },
+    {
+      "id": "62.09.02.2020",
+      "name": "Hulu Jojabo"
+    },
+    {
+      "id": "62.09.03.1005",
+      "name": "Nanga Bulik"
+    },
+    {
+      "id": "62.09.03.2001",
+      "name": "Sungai Mentawa"
+    },
+    {
+      "id": "62.09.03.2002",
+      "name": "Guci"
+    },
+    {
+      "id": "62.09.03.2003",
+      "name": "Batu Kotam"
+    },
+    {
+      "id": "62.09.03.2004",
+      "name": "Kujan"
+    },
+    {
+      "id": "62.09.03.2006",
+      "name": "Bunut"
+    },
+    {
+      "id": "62.09.03.2007",
+      "name": "Beruta (Baruta)"
+    },
+    {
+      "id": "62.09.03.2008",
+      "name": "Tamiang"
+    },
+    {
+      "id": "62.09.03.2031",
+      "name": "Bumi Agung"
+    },
+    {
+      "id": "62.09.03.2032",
+      "name": "Sumber Mulya"
+    },
+    {
+      "id": "62.09.03.2036",
+      "name": "Bukit Indah"
+    },
+    {
+      "id": "62.09.03.2037",
+      "name": "Arga Mulya (Argo Mulyo)"
+    },
+    {
+      "id": "62.09.03.2043",
+      "name": "Perigi Raya"
+    },
+    {
+      "id": "62.09.03.2044",
+      "name": "Nanga Pamalontian"
+    },
+    {
+      "id": "62.09.04.2001",
+      "name": "Nanga Palikodan"
+    },
+    {
+      "id": "62.09.04.2002",
+      "name": "Sungkup"
+    },
+    {
+      "id": "62.09.04.2003",
+      "name": "Nuangan"
+    },
+    {
+      "id": "62.09.04.2004",
+      "name": "Nanga Koring"
+    },
+    {
+      "id": "62.09.04.2005",
+      "name": "Toka"
+    },
+    {
+      "id": "62.09.04.2006",
+      "name": "Sepondam"
+    },
+    {
+      "id": "62.09.04.2007",
+      "name": "Merambang"
+    },
+    {
+      "id": "62.09.04.2008",
+      "name": "Pedongatan"
+    },
+    {
+      "id": "62.09.04.2009",
+      "name": "Batu Tunggal"
+    },
+    {
+      "id": "62.09.04.2010",
+      "name": "Nanga Kemujan"
+    },
+    {
+      "id": "62.09.04.2011",
+      "name": "Bukit Jaya"
+    },
+    {
+      "id": "62.09.04.2012",
+      "name": "Suka Maju (Sukamaju)"
+    },
+    {
+      "id": "62.09.05.2001",
+      "name": "Melata"
+    },
+    {
+      "id": "62.09.05.2002",
+      "name": "Nanuah"
+    },
+    {
+      "id": "62.09.05.2003",
+      "name": "Batu Ampar"
+    },
+    {
+      "id": "62.09.05.2004",
+      "name": "Lubuk Hiju"
+    },
+    {
+      "id": "62.09.05.2005",
+      "name": "Topalan"
+    },
+    {
+      "id": "62.09.05.2006",
+      "name": "Bukit Makmur"
+    },
+    {
+      "id": "62.09.05.2007",
+      "name": "Modang Mas"
+    },
+    {
+      "id": "62.09.05.2008",
+      "name": "Bukit Raya"
+    },
+    {
+      "id": "62.09.05.2009",
+      "name": "Mukti Manunggal"
+    },
+    {
+      "id": "62.09.05.2010",
+      "name": "Sumber Jaya"
+    },
+    {
+      "id": "62.09.05.2011",
+      "name": "Bukit Harum"
+    },
+    {
+      "id": "62.09.06.2001",
+      "name": "Bina Bhakti"
+    },
+    {
+      "id": "62.09.06.2002",
+      "name": "Wonorejo"
+    },
+    {
+      "id": "62.09.06.2003",
+      "name": "Mekar Mulya"
+    },
+    {
+      "id": "62.09.06.2004",
+      "name": "Jangkar Prima"
+    },
+    {
+      "id": "62.09.06.2005",
+      "name": "Purwareja (Purworejo)"
+    },
+    {
+      "id": "62.09.06.2006",
+      "name": "Tri Tunggal"
+    },
+    {
+      "id": "62.09.06.2007",
+      "name": "Batu Hambawang"
+    },
+    {
+      "id": "62.09.06.2008",
+      "name": "Rimba Jaya"
+    },
+    {
+      "id": "62.09.07.2001",
+      "name": "Nanga Belantikan"
+    },
+    {
+      "id": "62.09.07.2002",
+      "name": "Sei/Sungai Buluh"
+    },
+    {
+      "id": "62.09.07.2003",
+      "name": "Tangga Batu"
+    },
+    {
+      "id": "62.09.07.2004",
+      "name": "Belibi (Balibi)"
+    },
+    {
+      "id": "62.09.07.2005",
+      "name": "Bayat"
+    },
+    {
+      "id": "62.09.07.2006",
+      "name": "Karang Besi"
+    },
+    {
+      "id": "62.09.07.2007",
+      "name": "Benuatan"
+    },
+    {
+      "id": "62.09.07.2008",
+      "name": "Kahingai"
+    },
+    {
+      "id": "62.09.07.2009",
+      "name": "Nanga Matu"
+    },
+    {
+      "id": "62.09.07.2010",
+      "name": "Bintang Mangalih (Bintang Mengalih)"
+    },
+    {
+      "id": "62.09.07.2011",
+      "name": "Petarikan"
+    },
+    {
+      "id": "62.09.07.2012",
+      "name": "Sumber Cahaya"
+    },
+    {
+      "id": "62.09.08.2001",
+      "name": "Batu Tambun"
+    },
+    {
+      "id": "62.09.08.2002",
+      "name": "Kinipan"
+    },
+    {
+      "id": "62.09.08.2003",
+      "name": "Ginih"
+    },
+    {
+      "id": "62.09.08.2004",
+      "name": "Benakitan"
+    },
+    {
+      "id": "62.09.08.2005",
+      "name": "Liku"
+    },
+    {
+      "id": "62.09.08.2006",
+      "name": "Mengkalang"
+    },
+    {
+      "id": "62.09.08.2007",
+      "name": "Karang Mas"
+    },
+    {
+      "id": "62.09.08.2008",
+      "name": "Kina"
+    },
+    {
+      "id": "62.09.08.2009",
+      "name": "Jamuat (Jemuat)"
+    },
+    {
+      "id": "62.10.01.1001",
+      "name": "Sepang Simin"
+    },
+    {
+      "id": "62.10.01.2002",
+      "name": "Sepang Kota"
+    },
+    {
+      "id": "62.10.01.2003",
+      "name": "Tewai Baru"
+    },
+    {
+      "id": "62.10.01.2004",
+      "name": "Tanjung Karitak"
+    },
+    {
+      "id": "62.10.01.2011",
+      "name": "Pamatang Limau (Pematang Limau)"
+    },
+    {
+      "id": "62.10.01.2012",
+      "name": "Tampelas"
+    },
+    {
+      "id": "62.10.01.2014",
+      "name": "Rabauh"
+    },
+    {
+      "id": "62.10.02.1001",
+      "name": "Tumbang Anjir"
+    },
+    {
+      "id": "62.10.02.1012",
+      "name": "Kurun (Kuala Kurun)"
+    },
+    {
+      "id": "62.10.02.2002",
+      "name": "Petak Bahandang"
+    },
+    {
+      "id": "62.10.02.2003",
+      "name": "Tanjung Riu"
+    },
+    {
+      "id": "62.10.02.2004",
+      "name": "Teluk Nyatu"
+    },
+    {
+      "id": "62.10.02.2005",
+      "name": "Tumbang Lampaung/Lampahung"
+    },
+    {
+      "id": "62.10.02.2006",
+      "name": "Tewang Pajangan"
+    },
+    {
+      "id": "62.10.02.2007",
+      "name": "Tumbang Tariak"
+    },
+    {
+      "id": "62.10.02.2008",
+      "name": "Tumbang Miwan"
+    },
+    {
+      "id": "62.10.02.2009",
+      "name": "Hurung Bunut"
+    },
+    {
+      "id": "62.10.02.2010",
+      "name": "Tumbang Hakau"
+    },
+    {
+      "id": "62.10.02.2011",
+      "name": "Pilang Munduk"
+    },
+    {
+      "id": "62.10.02.2013",
+      "name": "Tumbang Manyangan"
+    },
+    {
+      "id": "62.10.02.2014",
+      "name": "Penda Pilang"
+    },
+    {
+      "id": "62.10.02.2015",
+      "name": "Tumbang Tambirah"
+    },
+    {
+      "id": "62.10.03.1005",
+      "name": "Tewah"
+    },
+    {
+      "id": "62.10.03.2001",
+      "name": "Sarerangan"
+    },
+    {
+      "id": "62.10.03.2002",
+      "name": "Tumbang Pajangei"
+    },
+    {
+      "id": "62.10.03.2003",
+      "name": "Kasintu"
+    },
+    {
+      "id": "62.10.03.2004",
+      "name": "Batu Nyiwuh"
+    },
+    {
+      "id": "62.10.03.2006",
+      "name": "Tumbang Habaon"
+    },
+    {
+      "id": "62.10.03.2007",
+      "name": "Sei/Sungai Riang"
+    },
+    {
+      "id": "62.10.03.2008",
+      "name": "Sandung Tambun"
+    },
+    {
+      "id": "62.10.03.2009",
+      "name": "Tanjung Untung"
+    },
+    {
+      "id": "62.10.03.2010",
+      "name": "Upon Batu (Upun Batu)"
+    },
+    {
+      "id": "62.10.03.2011",
+      "name": "Sumur Mas"
+    },
+    {
+      "id": "62.10.03.2012",
+      "name": "Batu Nyapau"
+    },
+    {
+      "id": "62.10.03.2013",
+      "name": "Taja Urap (Tajau Urap)"
+    },
+    {
+      "id": "62.10.03.2014",
+      "name": "Teluk Lawah"
+    },
+    {
+      "id": "62.10.03.2015",
+      "name": "Karason Raya"
+    },
+    {
+      "id": "62.10.03.2016",
+      "name": "Rangan Mihing"
+    },
+    {
+      "id": "62.10.04.1001",
+      "name": "Tumbang Miri"
+    },
+    {
+      "id": "62.10.04.2002",
+      "name": "Batu Tangkoi (Batu Tangkui)"
+    },
+    {
+      "id": "62.10.04.2005",
+      "name": "Penda Rangas"
+    },
+    {
+      "id": "62.10.04.2006",
+      "name": "Tumbang Sian"
+    },
+    {
+      "id": "62.10.04.2008",
+      "name": "Tumbang Pasangon"
+    },
+    {
+      "id": "62.10.04.2012",
+      "name": "Tumbang Korik/Kurik"
+    },
+    {
+      "id": "62.10.04.2014",
+      "name": "Tumbang Ponyoi"
+    },
+    {
+      "id": "62.10.04.2019",
+      "name": "Dandang"
+    },
+    {
+      "id": "62.10.04.2020",
+      "name": "Tumbang Hamputung"
+    },
+    {
+      "id": "62.10.04.2021",
+      "name": "Tumbang Tajungan"
+    },
+    {
+      "id": "62.10.04.2028",
+      "name": "Tumbang Takaoi (Takaoi)"
+    },
+    {
+      "id": "62.10.04.2029",
+      "name": "Teluk Kanduri"
+    },
+    {
+      "id": "62.10.05.1021",
+      "name": "Jakatan Raya"
+    },
+    {
+      "id": "62.10.05.2001",
+      "name": "Tumbang Jatuh/Jutuh"
+    },
+    {
+      "id": "62.10.05.2002",
+      "name": "Tumbang Barengei/Baringei"
+    },
+    {
+      "id": "62.10.05.2009",
+      "name": "Tumbang Malahoi/Malahui"
+    },
+    {
+      "id": "62.10.05.2014",
+      "name": "Tumbang Bunut"
+    },
+    {
+      "id": "62.10.05.2015",
+      "name": "Tumbang Kajuei (Tumbang Jelemu Kajuei)"
+    },
+    {
+      "id": "62.10.05.2016",
+      "name": "Luwuk Kantor"
+    },
+    {
+      "id": "62.10.05.2017",
+      "name": "Luwuk Langkuas"
+    },
+    {
+      "id": "62.10.05.2018",
+      "name": "Talangkas (Talangkah)"
+    },
+    {
+      "id": "62.10.05.2019",
+      "name": "Parempei"
+    },
+    {
+      "id": "62.10.05.2020",
+      "name": "Linau"
+    },
+    {
+      "id": "62.10.05.2022",
+      "name": "Bereng Baru"
+    },
+    {
+      "id": "62.10.05.2023",
+      "name": "Bereng Malaka"
+    },
+    {
+      "id": "62.10.05.2027",
+      "name": "Karya Bhakti (Karya Bakti)"
+    },
+    {
+      "id": "62.10.06.1001",
+      "name": "Tumbang Talaken"
+    },
+    {
+      "id": "62.10.06.2002",
+      "name": "Tumbang Sepan (Tumbang Sepang)"
+    },
+    {
+      "id": "62.10.06.2003",
+      "name": "Tangki Dahuyan"
+    },
+    {
+      "id": "62.10.06.2004",
+      "name": "Bereng Balawan (Bereng Belawan)"
+    },
+    {
+      "id": "62.10.06.2005",
+      "name": "Bereng Jun"
+    },
+    {
+      "id": "62.10.06.2006",
+      "name": "Takaras"
+    },
+    {
+      "id": "62.10.06.2012",
+      "name": "Belawan Mulia (Belawan Mulya)"
+    },
+    {
+      "id": "62.10.06.2013",
+      "name": "Taringen"
+    },
+    {
+      "id": "62.10.06.2014",
+      "name": "Bangun Sari"
+    },
+    {
+      "id": "62.10.06.2015",
+      "name": "Fajar Harapan"
+    },
+    {
+      "id": "62.10.06.2017",
+      "name": "Gohong"
+    },
+    {
+      "id": "62.10.06.2018",
+      "name": "Tumbang Jalemu (Tumbang Jelemu)"
+    },
+    {
+      "id": "62.10.07.1005",
+      "name": "Kampuri"
+    },
+    {
+      "id": "62.10.07.2001",
+      "name": "Tuyun"
+    },
+    {
+      "id": "62.10.07.2002",
+      "name": "Tumbang Empas"
+    },
+    {
+      "id": "62.10.07.2003",
+      "name": "Rangan Tate"
+    },
+    {
+      "id": "62.10.07.2004",
+      "name": "Dahian Tambuk"
+    },
+    {
+      "id": "62.10.07.2006",
+      "name": "Tumbang Danau"
+    },
+    {
+      "id": "62.10.08.1008",
+      "name": "Tumbang Marikoi"
+    },
+    {
+      "id": "62.10.08.2001",
+      "name": "Lawang Kanji"
+    },
+    {
+      "id": "62.10.08.2002",
+      "name": "Tumbang Mahuroi"
+    },
+    {
+      "id": "62.10.08.2003",
+      "name": "Karetau Rambangun"
+    },
+    {
+      "id": "62.10.08.2004",
+      "name": "Karetau Sarian"
+    },
+    {
+      "id": "62.10.08.2005",
+      "name": "Tumbang Posu"
+    },
+    {
+      "id": "62.10.08.2006",
+      "name": "Tumbang Maraya"
+    },
+    {
+      "id": "62.10.08.2007",
+      "name": "Tumbang Anoi"
+    },
+    {
+      "id": "62.10.09.1003",
+      "name": "Tumbang Napoi"
+    },
+    {
+      "id": "62.10.09.2001",
+      "name": "Tumbang Siruk"
+    },
+    {
+      "id": "62.10.09.2002",
+      "name": "Mangkuhung"
+    },
+    {
+      "id": "62.10.09.2004",
+      "name": "Tumbang Masukih"
+    },
+    {
+      "id": "62.10.09.2005",
+      "name": "Rangan Hiran"
+    },
+    {
+      "id": "62.10.09.2006",
+      "name": "Harowo (Harowu)"
+    },
+    {
+      "id": "62.10.09.2007",
+      "name": "Tumbang Manyoi"
+    },
+    {
+      "id": "62.10.09.2008",
+      "name": "Tumbang Lapan"
+    },
+    {
+      "id": "62.10.09.2009",
+      "name": "Bontoi (Buntui / Buntoi)"
+    },
+    {
+      "id": "62.10.09.2010",
+      "name": "Tumbang Koroi"
+    },
+    {
+      "id": "62.10.09.2011",
+      "name": "Tumbang Hatung (Tumbang Hantung)"
+    },
+    {
+      "id": "62.10.10.1004",
+      "name": "Tumbang Rahuyan"
+    },
+    {
+      "id": "62.10.10.2001",
+      "name": "Jangkit"
+    },
+    {
+      "id": "62.10.10.2002",
+      "name": "Tumbang Lapan"
+    },
+    {
+      "id": "62.10.10.2003",
+      "name": "Batu Puter"
+    },
+    {
+      "id": "62.10.10.2005",
+      "name": "Sei/Sungai Antai"
+    },
+    {
+      "id": "62.10.10.2006",
+      "name": "Hantapang"
+    },
+    {
+      "id": "62.10.10.2007",
+      "name": "Sangal (Sanggal)"
+    },
+    {
+      "id": "62.10.10.2008",
+      "name": "Tumbang Tue / Tuwe"
+    },
+    {
+      "id": "62.10.10.2012",
+      "name": "Tumbang Mujai"
+    },
+    {
+      "id": "62.10.11.1005",
+      "name": "Tehang"
+    },
+    {
+      "id": "62.10.11.2002",
+      "name": "Tumbang Samui"
+    },
+    {
+      "id": "62.10.11.2003",
+      "name": "Tumbang Oroi"
+    },
+    {
+      "id": "62.10.11.2004",
+      "name": "Luwuk Tukau"
+    },
+    {
+      "id": "62.10.11.2006",
+      "name": "Putat Durei"
+    },
+    {
+      "id": "62.10.11.2007",
+      "name": "Tumbang Mantuhe"
+    },
+    {
+      "id": "62.10.12.1006",
+      "name": "Rabambang"
+    },
+    {
+      "id": "62.10.12.2001",
+      "name": "Hujung Pata"
+    },
+    {
+      "id": "62.10.12.2002",
+      "name": "Tumbang Jalemu Kajuei"
+    },
+    {
+      "id": "62.10.12.2003",
+      "name": "Jalemu Raya"
+    },
+    {
+      "id": "62.10.12.2004",
+      "name": "Jalemu Masulan"
+    },
+    {
+      "id": "62.10.12.2005",
+      "name": "Mangkawuk"
+    },
+    {
+      "id": "62.10.12.2007",
+      "name": "Tajah Antang Raya"
+    },
+    {
+      "id": "62.10.12.2008",
+      "name": "Tumbang Kuayan"
+    },
+    {
+      "id": "62.10.12.2009",
+      "name": "Tumbang Langgah"
+    },
+    {
+      "id": "62.10.12.2010",
+      "name": "Tusang Raya"
+    },
+    {
+      "id": "62.10.12.2011",
+      "name": "Tumbang Bahanei"
+    },
+    {
+      "id": "62.11.01.2001",
+      "name": "Dandang"
+    },
+    {
+      "id": "62.11.01.2002",
+      "name": "Talio"
+    },
+    {
+      "id": "62.11.01.2003",
+      "name": "Pangkoh Hilir"
+    },
+    {
+      "id": "62.11.01.2004",
+      "name": "Pangkoh Hulu"
+    },
+    {
+      "id": "62.11.01.2005",
+      "name": "Kantan Muara"
+    },
+    {
+      "id": "62.11.01.2006",
+      "name": "Talio Muara"
+    },
+    {
+      "id": "62.11.01.2007",
+      "name": "Talio Hulu"
+    },
+    {
+      "id": "62.11.01.2008",
+      "name": "Pangkoh Sari"
+    },
+    {
+      "id": "62.11.01.2009",
+      "name": "Sanggang"
+    },
+    {
+      "id": "62.11.01.2010",
+      "name": "Pantik"
+    },
+    {
+      "id": "62.11.01.2011",
+      "name": "Belanti Siam"
+    },
+    {
+      "id": "62.11.01.2012",
+      "name": "Gadabung"
+    },
+    {
+      "id": "62.11.01.2013",
+      "name": "Mulyasari (Mulia Sari)"
+    },
+    {
+      "id": "62.11.01.2014",
+      "name": "Kantan Dalam"
+    },
+    {
+      "id": "62.11.01.2015",
+      "name": "Kantan Atas"
+    },
+    {
+      "id": "62.11.01.2016",
+      "name": "Karya Bersama"
+    },
+    {
+      "id": "62.11.02.1018",
+      "name": "Bahaur Basantan"
+    },
+    {
+      "id": "62.11.02.2001",
+      "name": "Cemantan (Camatan / Cematan)"
+    },
+    {
+      "id": "62.11.02.2002",
+      "name": "Sei/Sungai Barunai (Papuyu II)"
+    },
+    {
+      "id": "62.11.02.2003",
+      "name": "Kiapak"
+    },
+    {
+      "id": "62.11.02.2005",
+      "name": "Sei/Sungai Pasanan (Papuyu I)"
+    },
+    {
+      "id": "62.11.02.2006",
+      "name": "Sei/Sungai Rungun"
+    },
+    {
+      "id": "62.11.02.2007",
+      "name": "Bahaur Hilir"
+    },
+    {
+      "id": "62.11.02.2008",
+      "name": "Bahaur Tengah"
+    },
+    {
+      "id": "62.11.02.2009",
+      "name": "Bahaur Hulu"
+    },
+    {
+      "id": "62.11.02.2014",
+      "name": "Sei/Sungai Pudak (Papuyu III)"
+    },
+    {
+      "id": "62.11.02.2015",
+      "name": "Tanjung Perawan"
+    },
+    {
+      "id": "62.11.02.2016",
+      "name": "Bahaur Hulu Permai"
+    },
+    {
+      "id": "62.11.02.2017",
+      "name": "Bahaur Batu Raya"
+    },
+    {
+      "id": "62.11.03.2001",
+      "name": "Tanjung Sangalang"
+    },
+    {
+      "id": "62.11.03.2002",
+      "name": "Penda Barania"
+    },
+    {
+      "id": "62.11.03.2003",
+      "name": "Bukit Rawi"
+    },
+    {
+      "id": "62.11.03.2004",
+      "name": "Tuwung"
+    },
+    {
+      "id": "62.11.03.2005",
+      "name": "Sigi"
+    },
+    {
+      "id": "62.11.03.2006",
+      "name": "Petuk Liti"
+    },
+    {
+      "id": "62.11.03.2007",
+      "name": "Bukit Liti"
+    },
+    {
+      "id": "62.11.03.2008",
+      "name": "Bahu Palawa"
+    },
+    {
+      "id": "62.11.03.2009",
+      "name": "Pamarunan"
+    },
+    {
+      "id": "62.11.03.2010",
+      "name": "Balukon (Balukun)"
+    },
+    {
+      "id": "62.11.03.2011",
+      "name": "Bukit Bamba"
+    },
+    {
+      "id": "62.11.03.2012",
+      "name": "Tahawa"
+    },
+    {
+      "id": "62.11.03.2013",
+      "name": "Parahangan"
+    },
+    {
+      "id": "62.11.03.2014",
+      "name": "Bereng Rambang (Bareng Rambang)"
+    },
+    {
+      "id": "62.11.04.2001",
+      "name": "Manen Paduran"
+    },
+    {
+      "id": "62.11.04.2002",
+      "name": "Manen Kaleka"
+    },
+    {
+      "id": "62.11.04.2003",
+      "name": "Lawang Uru"
+    },
+    {
+      "id": "62.11.04.2004",
+      "name": "Hurung"
+    },
+    {
+      "id": "62.11.04.2005",
+      "name": "Hanua"
+    },
+    {
+      "id": "62.11.04.2006",
+      "name": "Ramang"
+    },
+    {
+      "id": "62.11.04.2007",
+      "name": "Tambak"
+    },
+    {
+      "id": "62.11.04.2008",
+      "name": "Pahawan"
+    },
+    {
+      "id": "62.11.04.2009",
+      "name": "Goha (Guha)"
+    },
+    {
+      "id": "62.11.04.2010",
+      "name": "Bawan"
+    },
+    {
+      "id": "62.11.04.2011",
+      "name": "Tumbang Tarusan"
+    },
+    {
+      "id": "62.11.04.2012",
+      "name": "Pandawei"
+    },
+    {
+      "id": "62.11.04.2013",
+      "name": "Pangi"
+    },
+    {
+      "id": "62.11.04.2014",
+      "name": "Tangkahen"
+    },
+    {
+      "id": "62.11.04.2015",
+      "name": "Kasali Baru"
+    },
+    {
+      "id": "62.11.05.1005",
+      "name": "Kahayan Hilir"
+    },
+    {
+      "id": "62.11.05.1015",
+      "name": "Kalawa"
+    },
+    {
+      "id": "62.11.05.1016",
+      "name": "Bereng"
+    },
+    {
+      "id": "62.11.05.2001",
+      "name": "Buntoi"
+    },
+    {
+      "id": "62.11.05.2002",
+      "name": "Mintin"
+    },
+    {
+      "id": "62.11.05.2003",
+      "name": "Mantaren I"
+    },
+    {
+      "id": "62.11.05.2004",
+      "name": "Anjir Pulang Pisau"
+    },
+    {
+      "id": "62.11.05.2006",
+      "name": "Gohong"
+    },
+    {
+      "id": "62.11.05.2014",
+      "name": "Mantaren II"
+    },
+    {
+      "id": "62.11.05.2017",
+      "name": "Hanjak Maju"
+    },
+    {
+      "id": "62.11.06.2001",
+      "name": "Tahai Jaya"
+    },
+    {
+      "id": "62.11.06.2002",
+      "name": "Purwodadi"
+    },
+    {
+      "id": "62.11.06.2003",
+      "name": "Wono Agung (Wonoagung)"
+    },
+    {
+      "id": "62.11.06.2004",
+      "name": "Kanamit Barat"
+    },
+    {
+      "id": "62.11.06.2005",
+      "name": "Sei/Sungai Baru Tewu"
+    },
+    {
+      "id": "62.11.06.2006",
+      "name": "Kanamit"
+    },
+    {
+      "id": "62.11.06.2007",
+      "name": "Garantung"
+    },
+    {
+      "id": "62.11.06.2008",
+      "name": "Gandang"
+    },
+    {
+      "id": "62.11.06.2009",
+      "name": "Badirih"
+    },
+    {
+      "id": "62.11.06.2010",
+      "name": "Tahai Baru"
+    },
+    {
+      "id": "62.11.06.2011",
+      "name": "Maliku Baru"
+    },
+    {
+      "id": "62.11.06.2012",
+      "name": "Sidodadi"
+    },
+    {
+      "id": "62.11.06.2013",
+      "name": "Kanamit Jaya"
+    },
+    {
+      "id": "62.11.06.2014",
+      "name": "Gandang Barat"
+    },
+    {
+      "id": "62.11.06.2015",
+      "name": "Maliku Mulya"
+    },
+    {
+      "id": "62.11.07.2001",
+      "name": "Garung (Garong)"
+    },
+    {
+      "id": "62.11.07.2002",
+      "name": "Henda"
+    },
+    {
+      "id": "62.11.07.2003",
+      "name": "Simpur"
+    },
+    {
+      "id": "62.11.07.2004",
+      "name": "Sakakajang (Saka Kajang)"
+    },
+    {
+      "id": "62.11.07.2005",
+      "name": "Jabiren"
+    },
+    {
+      "id": "62.11.07.2006",
+      "name": "Pilang"
+    },
+    {
+      "id": "62.11.07.2007",
+      "name": "Tumbang Nusa"
+    },
+    {
+      "id": "62.11.07.2008",
+      "name": "Tanjung Taruna"
+    },
+    {
+      "id": "62.11.08.2001",
+      "name": "Paduran Sebangau (Paduran Sabangau)"
+    },
+    {
+      "id": "62.11.08.2002",
+      "name": "Paduran Mulya (Panduran Mulya)"
+    },
+    {
+      "id": "62.11.08.2003",
+      "name": "Sebangau Mulya"
+    },
+    {
+      "id": "62.11.08.2004",
+      "name": "Sebangau Permai"
+    },
+    {
+      "id": "62.11.08.2005",
+      "name": "Mekar Jaya"
+    },
+    {
+      "id": "62.11.08.2006",
+      "name": "Sebangau Jaya"
+    },
+    {
+      "id": "62.11.08.2007",
+      "name": "Sei/Sungai Hambawang"
+    },
+    {
+      "id": "62.11.08.2008",
+      "name": "Sei/Sungai Bakau"
+    },
+    {
+      "id": "62.12.01.1012",
+      "name": "Puruk Cahu"
+    },
+    {
+      "id": "62.12.01.1013",
+      "name": "Beriwit"
+    },
+    {
+      "id": "62.12.01.2001",
+      "name": "Dirung"
+    },
+    {
+      "id": "62.12.01.2002",
+      "name": "Malasan/Masalan"
+    },
+    {
+      "id": "62.12.01.2003",
+      "name": "Batu Putih"
+    },
+    {
+      "id": "62.12.01.2004",
+      "name": "Mangkahui"
+    },
+    {
+      "id": "62.12.01.2005",
+      "name": "Panu'ut (Panuut / Panaout)"
+    },
+    {
+      "id": "62.12.01.2006",
+      "name": "Muara Untu"
+    },
+    {
+      "id": "62.12.01.2007",
+      "name": "Muara Ja'an (Muara Jaan)"
+    },
+    {
+      "id": "62.12.01.2008",
+      "name": "Bahitom/Bahintom"
+    },
+    {
+      "id": "62.12.01.2009",
+      "name": "Danau Usung"
+    },
+    {
+      "id": "62.12.01.2010",
+      "name": "Jangin/Juking Pajang"
+    },
+    {
+      "id": "62.12.01.2011",
+      "name": "Muara Sumpoi"
+    },
+    {
+      "id": "62.12.01.2014",
+      "name": "Muara Bumban/Bamban"
+    },
+    {
+      "id": "62.12.01.2015",
+      "name": "Penyang"
+    },
+    {
+      "id": "62.12.02.1014",
+      "name": "Saripoi"
+    },
+    {
+      "id": "62.12.02.2007",
+      "name": "Sei/Sungai Lunuk"
+    },
+    {
+      "id": "62.12.02.2008",
+      "name": "Konut"
+    },
+    {
+      "id": "62.12.02.2009",
+      "name": "Belawan"
+    },
+    {
+      "id": "62.12.02.2010",
+      "name": "Mangkolisoi"
+    },
+    {
+      "id": "62.12.02.2011",
+      "name": "Kalang Kaluh"
+    },
+    {
+      "id": "62.12.02.2012",
+      "name": "Mantiat Pari"
+    },
+    {
+      "id": "62.12.02.2013",
+      "name": "Olung Ulu"
+    },
+    {
+      "id": "62.12.02.2015",
+      "name": "Puruk Batu"
+    },
+    {
+      "id": "62.12.02.2016",
+      "name": "Olung Siron"
+    },
+    {
+      "id": "62.12.02.2017",
+      "name": "Tino Talih"
+    },
+    {
+      "id": "62.12.02.2018",
+      "name": "Olung Nango"
+    },
+    {
+      "id": "62.12.02.2019",
+      "name": "Mahanyan"
+    },
+    {
+      "id": "62.12.02.2020",
+      "name": "Dirung Bakung"
+    },
+    {
+      "id": "62.12.02.2021",
+      "name": "Tabulang"
+    },
+    {
+      "id": "62.12.02.2022",
+      "name": "Cangkang"
+    },
+    {
+      "id": "62.12.02.2023",
+      "name": "Olung Dojou"
+    },
+    {
+      "id": "62.12.02.2024",
+      "name": "Doan Arung"
+    },
+    {
+      "id": "62.12.02.2025",
+      "name": "Muwun"
+    },
+    {
+      "id": "62.12.02.2026",
+      "name": "Nono Kliwon (Nonokaliwon)"
+    },
+    {
+      "id": "62.12.02.2027",
+      "name": "Kolam"
+    },
+    {
+      "id": "62.12.02.2028",
+      "name": "Saruhung"
+    },
+    {
+      "id": "62.12.02.2029",
+      "name": "Olung Soloi"
+    },
+    {
+      "id": "62.12.02.2030",
+      "name": "Tokung"
+    },
+    {
+      "id": "62.12.02.2031",
+      "name": "Olung Balo"
+    },
+    {
+      "id": "62.12.02.2032",
+      "name": "Karali"
+    },
+    {
+      "id": "62.12.02.2033",
+      "name": "Osom Tompok"
+    },
+    {
+      "id": "62.12.03.1003",
+      "name": "Muara Laung I"
+    },
+    {
+      "id": "62.12.03.1006",
+      "name": "Muara Tuhup"
+    },
+    {
+      "id": "62.12.03.1031",
+      "name": "Batu Bua I"
+    },
+    {
+      "id": "62.12.03.2001",
+      "name": "Batu Tuhup"
+    },
+    {
+      "id": "62.12.03.2002",
+      "name": "Tumbang Bahan"
+    },
+    {
+      "id": "62.12.03.2004",
+      "name": "Muara Laung II"
+    },
+    {
+      "id": "62.12.03.2005",
+      "name": "Beras Balange (Beras Belange)"
+    },
+    {
+      "id": "62.12.03.2010",
+      "name": "Pelaci"
+    },
+    {
+      "id": "62.12.03.2011",
+      "name": "Biha"
+    },
+    {
+      "id": "62.12.03.2012",
+      "name": "Dirung Pundu"
+    },
+    {
+      "id": "62.12.03.2013",
+      "name": "Dirung Pinang"
+    },
+    {
+      "id": "62.12.03.2014",
+      "name": "Muara Tupuh"
+    },
+    {
+      "id": "62.12.03.2015",
+      "name": "Narui"
+    },
+    {
+      "id": "62.12.03.2016",
+      "name": "Tumbang Bana"
+    },
+    {
+      "id": "62.12.03.2017",
+      "name": "Lakutan"
+    },
+    {
+      "id": "62.12.03.2018",
+      "name": "Tawai Haui"
+    },
+    {
+      "id": "62.12.03.2026",
+      "name": "Penda Siron"
+    },
+    {
+      "id": "62.12.03.2027",
+      "name": "Muara Maruwei I"
+    },
+    {
+      "id": "62.12.03.2028",
+      "name": "Muara Maruwei II"
+    },
+    {
+      "id": "62.12.03.2029",
+      "name": "Beralang"
+    },
+    {
+      "id": "62.12.03.2030",
+      "name": "Kalang Dohong (Kalang Duhung)"
+    },
+    {
+      "id": "62.12.03.2032",
+      "name": "Batu Bua II"
+    },
+    {
+      "id": "62.12.03.2033",
+      "name": "Tahujan Laung"
+    },
+    {
+      "id": "62.12.03.2034",
+      "name": "Tumbang Bondang"
+    },
+    {
+      "id": "62.12.03.2035",
+      "name": "Tumbang Tonduk"
+    },
+    {
+      "id": "62.12.03.2037",
+      "name": "Batu Karang"
+    },
+    {
+      "id": "62.12.04.1004",
+      "name": "Muara Bakanon"
+    },
+    {
+      "id": "62.12.04.1006",
+      "name": "Tumbang Lahung"
+    },
+    {
+      "id": "62.12.04.2001",
+      "name": "Sei/Sungai Gula"
+    },
+    {
+      "id": "62.12.04.2002",
+      "name": "Sei/Sungai Batang"
+    },
+    {
+      "id": "62.12.04.2003",
+      "name": "Tumbang Salio"
+    },
+    {
+      "id": "62.12.04.2005",
+      "name": "Purnama"
+    },
+    {
+      "id": "62.12.04.2007",
+      "name": "Sei/Sungai Lobang"
+    },
+    {
+      "id": "62.12.04.2008",
+      "name": "Pantai Laga"
+    },
+    {
+      "id": "62.12.04.2009",
+      "name": "Baratu (Beratu)"
+    },
+    {
+      "id": "62.12.04.2010",
+      "name": "Juking Sopan (Juking Supan)"
+    },
+    {
+      "id": "62.12.04.2011",
+      "name": "Muara Babuat"
+    },
+    {
+      "id": "62.12.04.2018",
+      "name": "Sei/Sungai Bakanon"
+    },
+    {
+      "id": "62.12.05.1004",
+      "name": "Tumbang Kunyi"
+    },
+    {
+      "id": "62.12.05.2001",
+      "name": "Kalapeh Baru"
+    },
+    {
+      "id": "62.12.05.2002",
+      "name": "Tumbang Masao"
+    },
+    {
+      "id": "62.12.05.2003",
+      "name": "Batu Makap"
+    },
+    {
+      "id": "62.12.05.2005",
+      "name": "Olong Liko"
+    },
+    {
+      "id": "62.12.05.2006",
+      "name": "Teluk/Telok Jolo"
+    },
+    {
+      "id": "62.12.05.2007",
+      "name": "Laas Baru"
+    },
+    {
+      "id": "62.12.05.2018",
+      "name": "Tumbang Molut (Tumbang Mulut)"
+    },
+    {
+      "id": "62.12.05.2020",
+      "name": "Tumbang Tuan"
+    },
+    {
+      "id": "62.12.06.2001",
+      "name": "Bumban Tuhup"
+    },
+    {
+      "id": "62.12.06.2002",
+      "name": "Makunjung"
+    },
+    {
+      "id": "62.12.06.2003",
+      "name": "Dirung Sararung/Sararong"
+    },
+    {
+      "id": "62.12.06.2004",
+      "name": "Kohong"
+    },
+    {
+      "id": "62.12.06.2005",
+      "name": "Hingan Tokung"
+    },
+    {
+      "id": "62.12.06.2006",
+      "name": "Liang Nyaling"
+    },
+    {
+      "id": "62.12.06.2007",
+      "name": "Tumbang Bauh"
+    },
+    {
+      "id": "62.12.06.2008",
+      "name": "Tumbang Masalo"
+    },
+    {
+      "id": "62.12.06.2009",
+      "name": "Batu Tojah"
+    },
+    {
+      "id": "62.12.06.2010",
+      "name": "Tumbang Baloi"
+    },
+    {
+      "id": "62.12.06.2011",
+      "name": "Cinta Budiman"
+    },
+    {
+      "id": "62.12.07.2001",
+      "name": "Oreng"
+    },
+    {
+      "id": "62.12.07.2002",
+      "name": "Olung Muro"
+    },
+    {
+      "id": "62.12.07.2003",
+      "name": "Olung Hanangan"
+    },
+    {
+      "id": "62.12.07.2004",
+      "name": "Dirung Lingkin"
+    },
+    {
+      "id": "62.12.07.2005",
+      "name": "Datah Kotou"
+    },
+    {
+      "id": "62.12.07.2006",
+      "name": "Tahujan Ontu"
+    },
+    {
+      "id": "62.12.07.2007",
+      "name": "Puruk Kambang"
+    },
+    {
+      "id": "62.12.08.2001",
+      "name": "Batu Mirau"
+    },
+    {
+      "id": "62.12.08.2002",
+      "name": "Tambelum"
+    },
+    {
+      "id": "62.12.08.2003",
+      "name": "Tumbang Bantian"
+    },
+    {
+      "id": "62.12.08.2004",
+      "name": "Tumbang Saan"
+    },
+    {
+      "id": "62.12.08.2005",
+      "name": "Tumbang Kolon"
+    },
+    {
+      "id": "62.12.08.2006",
+      "name": "Tumbang Apat"
+    },
+    {
+      "id": "62.12.09.2001",
+      "name": "Tumbang Tuhan/Tohan"
+    },
+    {
+      "id": "62.12.09.2002",
+      "name": "Tumbang Naan"
+    },
+    {
+      "id": "62.12.09.2003",
+      "name": "Muara Joloi I"
+    },
+    {
+      "id": "62.12.09.2004",
+      "name": "Muara Joloi II"
+    },
+    {
+      "id": "62.12.09.2005",
+      "name": "Parahau"
+    },
+    {
+      "id": "62.12.09.2006",
+      "name": "Tumbang Jojang"
+    },
+    {
+      "id": "62.12.09.2007",
+      "name": "Takajung"
+    },
+    {
+      "id": "62.12.10.2001",
+      "name": "Tumbang Tujang"
+    },
+    {
+      "id": "62.12.10.2002",
+      "name": "Tumbang Olong I (Tumbang Olong)"
+    },
+    {
+      "id": "62.12.10.2003",
+      "name": "Kalasin"
+    },
+    {
+      "id": "62.12.10.2004",
+      "name": "Tumbang Tupus/Topus"
+    },
+    {
+      "id": "62.12.10.2005",
+      "name": "Tumbang Olong II"
+    },
+    {
+      "id": "62.13.01.1012",
+      "name": "Tamianglayang (Tamiang Layang)"
+    },
+    {
+      "id": "62.13.01.2003",
+      "name": "Pulau Patai"
+    },
+    {
+      "id": "62.13.01.2004",
+      "name": "Sarapat (Ex. Harara)"
+    },
+    {
+      "id": "62.13.01.2005",
+      "name": "Magantis"
+    },
+    {
+      "id": "62.13.01.2006",
+      "name": "Jaar"
+    },
+    {
+      "id": "62.13.01.2007",
+      "name": "Matabu"
+    },
+    {
+      "id": "62.13.01.2008",
+      "name": "Dorong"
+    },
+    {
+      "id": "62.13.01.2009",
+      "name": "Didi"
+    },
+    {
+      "id": "62.13.01.2010",
+      "name": "Karang Langit"
+    },
+    {
+      "id": "62.13.01.2011",
+      "name": "Haringen"
+    },
+    {
+      "id": "62.13.01.2018",
+      "name": "Jaweten"
+    },
+    {
+      "id": "62.13.01.2019",
+      "name": "Matarah"
+    },
+    {
+      "id": "62.13.01.2020",
+      "name": "Maragut"
+    },
+    {
+      "id": "62.13.01.2021",
+      "name": "Mangkarap (angkarap)"
+    },
+    {
+      "id": "62.13.01.2022",
+      "name": "Gumpa"
+    },
+    {
+      "id": "62.13.01.2023",
+      "name": "Sumur"
+    },
+    {
+      "id": "62.13.01.2024",
+      "name": "Harara"
+    },
+    {
+      "id": "62.13.02.1001",
+      "name": "Pasar Panas/Taniran"
+    },
+    {
+      "id": "62.13.02.2002",
+      "name": "Kandris"
+    },
+    {
+      "id": "62.13.02.2003",
+      "name": "Banyu Landas"
+    },
+    {
+      "id": "62.13.02.2004",
+      "name": "Bagok"
+    },
+    {
+      "id": "62.13.02.2005",
+      "name": "Bamban"
+    },
+    {
+      "id": "62.13.02.2006",
+      "name": "Tewah Pupuh"
+    },
+    {
+      "id": "62.13.02.2007",
+      "name": "Gudang Seng"
+    },
+    {
+      "id": "62.13.03.2001",
+      "name": "Pulau Padang"
+    },
+    {
+      "id": "62.13.03.2002",
+      "name": "Kambitin"
+    },
+    {
+      "id": "62.13.03.2003",
+      "name": "Ramania"
+    },
+    {
+      "id": "62.13.03.2004",
+      "name": "Bentot"
+    },
+    {
+      "id": "62.13.03.2005",
+      "name": "Ampari Bura (Ampari Bora)"
+    },
+    {
+      "id": "62.13.03.2006",
+      "name": "Kotam"
+    },
+    {
+      "id": "62.13.03.2008",
+      "name": "Betang Nalong"
+    },
+    {
+      "id": "62.13.03.2009",
+      "name": "Mawani (Muani)"
+    },
+    {
+      "id": "62.13.03.2010",
+      "name": "Jango"
+    },
+    {
+      "id": "62.13.03.2011",
+      "name": "Lalap"
+    },
+    {
+      "id": "62.13.04.2001",
+      "name": "Janah Jari"
+    },
+    {
+      "id": "62.13.04.2002",
+      "name": "Bangkirayen"
+    },
+    {
+      "id": "62.13.04.2003",
+      "name": "Hayaping"
+    },
+    {
+      "id": "62.13.04.2004",
+      "name": "Tangkan"
+    },
+    {
+      "id": "62.13.04.2005",
+      "name": "Wungkur Nanakan"
+    },
+    {
+      "id": "62.13.04.2006",
+      "name": "Ampari"
+    },
+    {
+      "id": "62.13.04.2007",
+      "name": "Apar Batu"
+    },
+    {
+      "id": "62.13.04.2008",
+      "name": "Biwan"
+    },
+    {
+      "id": "62.13.04.2009",
+      "name": "Janah Mansiwui"
+    },
+    {
+      "id": "62.13.04.2010",
+      "name": "Danau"
+    },
+    {
+      "id": "62.13.04.2011",
+      "name": "Pianggu"
+    },
+    {
+      "id": "62.13.05.1011",
+      "name": "Ampah Kota"
+    },
+    {
+      "id": "62.13.05.2008",
+      "name": "Saing"
+    },
+    {
+      "id": "62.13.05.2009",
+      "name": "Rodok"
+    },
+    {
+      "id": "62.13.05.2010",
+      "name": "Ampah II (Ampah Dua)"
+    },
+    {
+      "id": "62.13.05.2012",
+      "name": "Putai"
+    },
+    {
+      "id": "62.13.05.2018",
+      "name": "Netampin (Netapin)"
+    },
+    {
+      "id": "62.13.05.2024",
+      "name": "Sumber Garunggung (Sumber Garonggong)"
+    },
+    {
+      "id": "62.13.05.2025",
+      "name": "Muara Awang"
+    },
+    {
+      "id": "62.13.06.2001",
+      "name": "Muara Palantau"
+    },
+    {
+      "id": "62.13.06.2002",
+      "name": "Ketab (Ketap)"
+    },
+    {
+      "id": "62.13.06.2003",
+      "name": "Kupang Bersih"
+    },
+    {
+      "id": "62.13.06.2004",
+      "name": "Tuyau"
+    },
+    {
+      "id": "62.13.06.2005",
+      "name": "Pinang Tunggal"
+    },
+    {
+      "id": "62.13.06.2006",
+      "name": "Nagaleah"
+    },
+    {
+      "id": "62.13.06.2007",
+      "name": "Lampeong"
+    },
+    {
+      "id": "62.13.06.2008",
+      "name": "Bararawa"
+    },
+    {
+      "id": "62.13.06.2009",
+      "name": "Bambulung"
+    },
+    {
+      "id": "62.13.06.2010",
+      "name": "Lebo"
+    },
+    {
+      "id": "62.13.06.2011",
+      "name": "Muru Duyung"
+    },
+    {
+      "id": "62.13.06.2012",
+      "name": "Tumpung Ulung"
+    },
+    {
+      "id": "62.13.06.2013",
+      "name": "Sumber Rejo (Sumberejo)"
+    },
+    {
+      "id": "62.13.07.2001",
+      "name": "Juru Banu"
+    },
+    {
+      "id": "62.13.07.2002",
+      "name": "Telang Baru"
+    },
+    {
+      "id": "62.13.07.2003",
+      "name": "Tampulangit"
+    },
+    {
+      "id": "62.13.07.2004",
+      "name": "Telang (Telang Siong)"
+    },
+    {
+      "id": "62.13.07.2005",
+      "name": "Maipe"
+    },
+    {
+      "id": "62.13.07.2006",
+      "name": "Murutuwu"
+    },
+    {
+      "id": "62.13.07.2007",
+      "name": "Balawa"
+    },
+    {
+      "id": "62.13.07.2008",
+      "name": "Kali Napu"
+    },
+    {
+      "id": "62.13.07.2009",
+      "name": "Siong"
+    },
+    {
+      "id": "62.13.08.2001",
+      "name": "Puri"
+    },
+    {
+      "id": "62.13.08.2002",
+      "name": "Lenggang"
+    },
+    {
+      "id": "62.13.08.2003",
+      "name": "Batuah"
+    },
+    {
+      "id": "62.13.08.2004",
+      "name": "Unsum"
+    },
+    {
+      "id": "62.13.08.2005",
+      "name": "Baruyan"
+    },
+    {
+      "id": "62.13.08.2006",
+      "name": "Turan Amis"
+    },
+    {
+      "id": "62.13.08.2007",
+      "name": "Malintut (Malintot)"
+    },
+    {
+      "id": "62.13.08.2008",
+      "name": "Tangkum"
+    },
+    {
+      "id": "62.13.08.2009",
+      "name": "Sibung"
+    },
+    {
+      "id": "62.13.09.2001",
+      "name": "Tampa"
+    },
+    {
+      "id": "62.13.09.2002",
+      "name": "Kalamus"
+    },
+    {
+      "id": "62.13.09.2003",
+      "name": "Simpang Bingkuang"
+    },
+    {
+      "id": "62.13.09.2004",
+      "name": "Patung"
+    },
+    {
+      "id": "62.13.09.2005",
+      "name": "Runggu Raya"
+    },
+    {
+      "id": "62.13.09.2006",
+      "name": "Bantai Napu"
+    },
+    {
+      "id": "62.13.09.2007",
+      "name": "Tarinsing (Taringsing)"
+    },
+    {
+      "id": "62.13.09.2008",
+      "name": "Paku Beto"
+    },
+    {
+      "id": "62.13.09.2009",
+      "name": "Gandrung"
+    },
+    {
+      "id": "62.13.09.2010",
+      "name": "Pangkan"
+    },
+    {
+      "id": "62.13.09.2011",
+      "name": "Kupang Baru"
+    },
+    {
+      "id": "62.13.09.2012",
+      "name": "Luau Jawuk"
+    },
+    {
+      "id": "62.13.10.2001",
+      "name": "Dayu"
+    },
+    {
+      "id": "62.13.10.2002",
+      "name": "Wuran"
+    },
+    {
+      "id": "62.13.10.2003",
+      "name": "Ipu Mea"
+    },
+    {
+      "id": "62.13.10.2004",
+      "name": "Lagan"
+    },
+    {
+      "id": "62.13.10.2005",
+      "name": "Putut Tawuluh"
+    },
+    {
+      "id": "62.13.10.2006",
+      "name": "Simpang Naneng"
+    },
+    {
+      "id": "62.13.10.2007",
+      "name": "Kandris"
+    },
+    {
+      "id": "62.71.01.1001",
+      "name": "Pahandut"
+    },
+    {
+      "id": "62.71.01.1002",
+      "name": "Panarung"
+    },
+    {
+      "id": "62.71.01.1003",
+      "name": "Langkai"
+    },
+    {
+      "id": "62.71.01.1004",
+      "name": "Tumbang Rungan"
+    },
+    {
+      "id": "62.71.01.1005",
+      "name": "Pahandut Seberang"
+    },
+    {
+      "id": "62.71.01.1006",
+      "name": "Tanjung Pinang"
+    },
+    {
+      "id": "62.71.02.1001",
+      "name": "Marang"
+    },
+    {
+      "id": "62.71.02.1002",
+      "name": "Tumbang Tahai"
+    },
+    {
+      "id": "62.71.02.1003",
+      "name": "Banturung"
+    },
+    {
+      "id": "62.71.02.1004",
+      "name": "Tangkiling"
+    },
+    {
+      "id": "62.71.02.1005",
+      "name": "Sei/Sungai Gohong"
+    },
+    {
+      "id": "62.71.02.1006",
+      "name": "Kanarakan"
+    },
+    {
+      "id": "62.71.02.1007",
+      "name": "Habaring Hurung"
+    },
+    {
+      "id": "62.71.03.1001",
+      "name": "Palangka"
+    },
+    {
+      "id": "62.71.03.1002",
+      "name": "Menteng"
+    },
+    {
+      "id": "62.71.03.1003",
+      "name": "Bukit Tunggal"
+    },
+    {
+      "id": "62.71.03.1004",
+      "name": "Petuk Katimpun"
+    },
+    {
+      "id": "62.71.04.1001",
+      "name": "Bereng Bengkel"
+    },
+    {
+      "id": "62.71.04.1002",
+      "name": "Kalampangan"
+    },
+    {
+      "id": "62.71.04.1003",
+      "name": "Kereng Bangkirai"
+    },
+    {
+      "id": "62.71.04.1004",
+      "name": "Kameloh Baru"
+    },
+    {
+      "id": "62.71.04.1005",
+      "name": "Danau Tundai"
+    },
+    {
+      "id": "62.71.04.1006",
+      "name": "Sabaru"
+    },
+    {
+      "id": "62.71.05.1001",
+      "name": "Petuk Bukit"
+    },
+    {
+      "id": "62.71.05.1002",
+      "name": "Panjehang"
+    },
+    {
+      "id": "62.71.05.1003",
+      "name": "Petuk Barunai (Petuk Berunai)"
+    },
+    {
+      "id": "62.71.05.1004",
+      "name": "Mungku Baru"
+    },
+    {
+      "id": "62.71.05.1005",
+      "name": "Pager"
+    },
+    {
+      "id": "62.71.05.1006",
+      "name": "Gaung Baru"
+    },
+    {
+      "id": "62.71.05.1007",
+      "name": "Bukit Sua"
+    }
+  ]
+}

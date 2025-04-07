@@ -1,0 +1,10112 @@
+{
+  "province": {
+    "id": "74",
+    "name": "Sulawesi Tenggara"
+  },
+  "cities": [
+    {
+      "id": "74.01",
+      "name": "Kolaka"
+    },
+    {
+      "id": "74.02",
+      "name": "Konawe"
+    },
+    {
+      "id": "74.03",
+      "name": "Muna"
+    },
+    {
+      "id": "74.04",
+      "name": "Buton"
+    },
+    {
+      "id": "74.05",
+      "name": "Konawe Selatan"
+    },
+    {
+      "id": "74.06",
+      "name": "Bombana"
+    },
+    {
+      "id": "74.07",
+      "name": "Wakatobi"
+    },
+    {
+      "id": "74.08",
+      "name": "Kolaka Utara"
+    },
+    {
+      "id": "74.09",
+      "name": "Konawe Utara"
+    },
+    {
+      "id": "74.10",
+      "name": "Buton Utara"
+    },
+    {
+      "id": "74.11",
+      "name": "Kolaka Timur"
+    },
+    {
+      "id": "74.12",
+      "name": "Konawe Kepulauan"
+    },
+    {
+      "id": "74.13",
+      "name": "Muna Barat"
+    },
+    {
+      "id": "74.14",
+      "name": "Buton Tengah"
+    },
+    {
+      "id": "74.15",
+      "name": "Buton Selatan"
+    },
+    {
+      "id": "74.71",
+      "name": "Kota Kendari"
+    },
+    {
+      "id": "74.72",
+      "name": "Kota Bau Bau"
+    }
+  ],
+  "districts": [
+    {
+      "id": "74.01.01",
+      "name": "Wundulako"
+    },
+    {
+      "id": "74.01.04",
+      "name": "Kolaka"
+    },
+    {
+      "id": "74.01.07",
+      "name": "Pomalaa"
+    },
+    {
+      "id": "74.01.08",
+      "name": "Watubangga"
+    },
+    {
+      "id": "74.01.10",
+      "name": "Wolo"
+    },
+    {
+      "id": "74.01.12",
+      "name": "Baula"
+    },
+    {
+      "id": "74.01.14",
+      "name": "Latambaga"
+    },
+    {
+      "id": "74.01.18",
+      "name": "Tanggetada"
+    },
+    {
+      "id": "74.01.20",
+      "name": "Samaturu"
+    },
+    {
+      "id": "74.01.24",
+      "name": "Toari"
+    },
+    {
+      "id": "74.01.25",
+      "name": "Polinggona"
+    },
+    {
+      "id": "74.01.27",
+      "name": "Iwoimendaa"
+    },
+    {
+      "id": "74.02.01",
+      "name": "Lambuya"
+    },
+    {
+      "id": "74.02.02",
+      "name": "Unaaha"
+    },
+    {
+      "id": "74.02.03",
+      "name": "Wawotobi"
+    },
+    {
+      "id": "74.02.04",
+      "name": "Pondidaha"
+    },
+    {
+      "id": "74.02.05",
+      "name": "Sampara"
+    },
+    {
+      "id": "74.02.10",
+      "name": "Abuki"
+    },
+    {
+      "id": "74.02.11",
+      "name": "Soropia"
+    },
+    {
+      "id": "74.02.15",
+      "name": "Tongauna"
+    },
+    {
+      "id": "74.02.16",
+      "name": "Latoma"
+    },
+    {
+      "id": "74.02.17",
+      "name": "Puriala"
+    },
+    {
+      "id": "74.02.18",
+      "name": "Uepai"
+    },
+    {
+      "id": "74.02.19",
+      "name": "Wonggeduku"
+    },
+    {
+      "id": "74.02.20",
+      "name": "Besulutu"
+    },
+    {
+      "id": "74.02.21",
+      "name": "Bondoala"
+    },
+    {
+      "id": "74.02.23",
+      "name": "Routa"
+    },
+    {
+      "id": "74.02.24",
+      "name": "Anggaberi"
+    },
+    {
+      "id": "74.02.25",
+      "name": "Meluhu"
+    },
+    {
+      "id": "74.02.28",
+      "name": "Amonggedo"
+    },
+    {
+      "id": "74.02.31",
+      "name": "Asinua"
+    },
+    {
+      "id": "74.02.32",
+      "name": "Konawe"
+    },
+    {
+      "id": "74.02.33",
+      "name": "Kapoiala"
+    },
+    {
+      "id": "74.02.36",
+      "name": "Lalonggasumeeto"
+    },
+    {
+      "id": "74.02.37",
+      "name": "Onembute"
+    },
+    {
+      "id": "74.02.38",
+      "name": "Padangguni"
+    },
+    {
+      "id": "74.02.39",
+      "name": "Morosi"
+    },
+    {
+      "id": "74.02.40",
+      "name": "Anggalomoare"
+    },
+    {
+      "id": "74.02.41",
+      "name": "Wonggeduku Barat"
+    },
+    {
+      "id": "74.02.42",
+      "name": "Tongauna Utara"
+    },
+    {
+      "id": "74.03.06",
+      "name": "Napabalano"
+    },
+    {
+      "id": "74.03.07",
+      "name": "Maligano"
+    },
+    {
+      "id": "74.03.13",
+      "name": "Wakorumba Selatan"
+    },
+    {
+      "id": "74.03.14",
+      "name": "Lasalepa"
+    },
+    {
+      "id": "74.03.15",
+      "name": "Batalaiworu (Batalaiwaru)"
+    },
+    {
+      "id": "74.03.16",
+      "name": "Katobu"
+    },
+    {
+      "id": "74.03.17",
+      "name": "Duruka"
+    },
+    {
+      "id": "74.03.18",
+      "name": "Lohia"
+    },
+    {
+      "id": "74.03.19",
+      "name": "Watopute"
+    },
+    {
+      "id": "74.03.20",
+      "name": "Kontunaga"
+    },
+    {
+      "id": "74.03.23",
+      "name": "Kabangka"
+    },
+    {
+      "id": "74.03.24",
+      "name": "Kabawo"
+    },
+    {
+      "id": "74.03.25",
+      "name": "Parigi"
+    },
+    {
+      "id": "74.03.26",
+      "name": "Bone (Bone Tondo)"
+    },
+    {
+      "id": "74.03.27",
+      "name": "Tongkuno"
+    },
+    {
+      "id": "74.03.28",
+      "name": "Pasir Putih"
+    },
+    {
+      "id": "74.03.30",
+      "name": "Kontu Kowuna"
+    },
+    {
+      "id": "74.03.31",
+      "name": "Marobo"
+    },
+    {
+      "id": "74.03.32",
+      "name": "Tongkuno Selatan"
+    },
+    {
+      "id": "74.03.33",
+      "name": "Pasi Kolaga"
+    },
+    {
+      "id": "74.03.34",
+      "name": "Batukara"
+    },
+    {
+      "id": "74.03.37",
+      "name": "Towea"
+    },
+    {
+      "id": "74.04.11",
+      "name": "Pasarwajo (Pasar Wajo)"
+    },
+    {
+      "id": "74.04.22",
+      "name": "Kapontori"
+    },
+    {
+      "id": "74.04.23",
+      "name": "Lasalimu"
+    },
+    {
+      "id": "74.04.24",
+      "name": "Lasalimu Selatan"
+    },
+    {
+      "id": "74.04.27",
+      "name": "Siotapina (Siontapia / Siontapina)"
+    },
+    {
+      "id": "74.04.28",
+      "name": "Wolowa"
+    },
+    {
+      "id": "74.04.29",
+      "name": "Wabula"
+    },
+    {
+      "id": "74.05.01",
+      "name": "Tinanggea"
+    },
+    {
+      "id": "74.05.02",
+      "name": "Angata"
+    },
+    {
+      "id": "74.05.03",
+      "name": "Andoolo"
+    },
+    {
+      "id": "74.05.04",
+      "name": "Palangga"
+    },
+    {
+      "id": "74.05.05",
+      "name": "Landono"
+    },
+    {
+      "id": "74.05.06",
+      "name": "Lainea"
+    },
+    {
+      "id": "74.05.07",
+      "name": "Konda"
+    },
+    {
+      "id": "74.05.08",
+      "name": "Ranomeeto"
+    },
+    {
+      "id": "74.05.09",
+      "name": "Kolono"
+    },
+    {
+      "id": "74.05.10",
+      "name": "Moramo"
+    },
+    {
+      "id": "74.05.11",
+      "name": "Laonti"
+    },
+    {
+      "id": "74.05.12",
+      "name": "Lalembuu"
+    },
+    {
+      "id": "74.05.13",
+      "name": "Benua"
+    },
+    {
+      "id": "74.05.14",
+      "name": "Palangga Selatan"
+    },
+    {
+      "id": "74.05.15",
+      "name": "Mowila"
+    },
+    {
+      "id": "74.05.16",
+      "name": "Moramo Utara"
+    },
+    {
+      "id": "74.05.17",
+      "name": "Buke"
+    },
+    {
+      "id": "74.05.18",
+      "name": "Wolasi"
+    },
+    {
+      "id": "74.05.19",
+      "name": "Laeya"
+    },
+    {
+      "id": "74.05.20",
+      "name": "Baito"
+    },
+    {
+      "id": "74.05.21",
+      "name": "Basala"
+    },
+    {
+      "id": "74.05.22",
+      "name": "Ranomeeto Barat"
+    },
+    {
+      "id": "74.05.23",
+      "name": "Kolono Timur"
+    },
+    {
+      "id": "74.05.24",
+      "name": "Sabulakoa"
+    },
+    {
+      "id": "74.05.25",
+      "name": "Andoolo Barat"
+    },
+    {
+      "id": "74.06.01",
+      "name": "Poleang"
+    },
+    {
+      "id": "74.06.02",
+      "name": "Poleang Timur"
+    },
+    {
+      "id": "74.06.03",
+      "name": "Rarowatu"
+    },
+    {
+      "id": "74.06.04",
+      "name": "Rumbia"
+    },
+    {
+      "id": "74.06.05",
+      "name": "Kabaena"
+    },
+    {
+      "id": "74.06.06",
+      "name": "Kabaena Timur"
+    },
+    {
+      "id": "74.06.07",
+      "name": "Poleang Barat"
+    },
+    {
+      "id": "74.06.08",
+      "name": "Mata Oleo"
+    },
+    {
+      "id": "74.06.09",
+      "name": "Rarowatu Utara"
+    },
+    {
+      "id": "74.06.10",
+      "name": "Poleang Utara"
+    },
+    {
+      "id": "74.06.11",
+      "name": "Poleang Selatan"
+    },
+    {
+      "id": "74.06.12",
+      "name": "Poleang Tenggara"
+    },
+    {
+      "id": "74.06.13",
+      "name": "Kabaena Selatan"
+    },
+    {
+      "id": "74.06.14",
+      "name": "Kabaena Barat"
+    },
+    {
+      "id": "74.06.15",
+      "name": "Kabaena Utara"
+    },
+    {
+      "id": "74.06.16",
+      "name": "Kabaena Tengah"
+    },
+    {
+      "id": "74.06.17",
+      "name": "Kepulauan Masaloka Raya"
+    },
+    {
+      "id": "74.06.18",
+      "name": "Rumbia Tengah"
+    },
+    {
+      "id": "74.06.19",
+      "name": "Poleang Tengah"
+    },
+    {
+      "id": "74.06.20",
+      "name": "Tontonunu"
+    },
+    {
+      "id": "74.06.21",
+      "name": "Lantari Jaya"
+    },
+    {
+      "id": "74.06.22",
+      "name": "Mata Usu"
+    },
+    {
+      "id": "74.07.01",
+      "name": "Wangi Wangi"
+    },
+    {
+      "id": "74.07.02",
+      "name": "Kaledupa"
+    },
+    {
+      "id": "74.07.03",
+      "name": "Tomia"
+    },
+    {
+      "id": "74.07.04",
+      "name": "Binongko"
+    },
+    {
+      "id": "74.07.05",
+      "name": "Wangi Wangi Selatan"
+    },
+    {
+      "id": "74.07.06",
+      "name": "Kaledupa Selatan"
+    },
+    {
+      "id": "74.07.07",
+      "name": "Tomia Timur"
+    },
+    {
+      "id": "74.07.08",
+      "name": "Togo Binongko"
+    },
+    {
+      "id": "74.08.01",
+      "name": "Lasusua"
+    },
+    {
+      "id": "74.08.02",
+      "name": "Pakue"
+    },
+    {
+      "id": "74.08.03",
+      "name": "Batu Putih"
+    },
+    {
+      "id": "74.08.04",
+      "name": "Rante Angin"
+    },
+    {
+      "id": "74.08.05",
+      "name": "Kodeoha"
+    },
+    {
+      "id": "74.08.06",
+      "name": "Ngapa"
+    },
+    {
+      "id": "74.08.07",
+      "name": "Wawo"
+    },
+    {
+      "id": "74.08.08",
+      "name": "Lambai"
+    },
+    {
+      "id": "74.08.09",
+      "name": "Watunohu"
+    },
+    {
+      "id": "74.08.10",
+      "name": "Pakue Tengah"
+    },
+    {
+      "id": "74.08.11",
+      "name": "Pakue Utara"
+    },
+    {
+      "id": "74.08.12",
+      "name": "Porehu"
+    },
+    {
+      "id": "74.08.13",
+      "name": "Katoi"
+    },
+    {
+      "id": "74.08.14",
+      "name": "Tiwu"
+    },
+    {
+      "id": "74.08.15",
+      "name": "Tolala"
+    },
+    {
+      "id": "74.09.01",
+      "name": "Asera"
+    },
+    {
+      "id": "74.09.02",
+      "name": "Wiwirano"
+    },
+    {
+      "id": "74.09.03",
+      "name": "Langgikima"
+    },
+    {
+      "id": "74.09.04",
+      "name": "Molawe"
+    },
+    {
+      "id": "74.09.05",
+      "name": "Lasolo"
+    },
+    {
+      "id": "74.09.06",
+      "name": "Lembo"
+    },
+    {
+      "id": "74.09.07",
+      "name": "Sawa"
+    },
+    {
+      "id": "74.09.08",
+      "name": "Oheo"
+    },
+    {
+      "id": "74.09.09",
+      "name": "Andowia"
+    },
+    {
+      "id": "74.09.10",
+      "name": "Motui"
+    },
+    {
+      "id": "74.09.11",
+      "name": "Wawolesea"
+    },
+    {
+      "id": "74.09.12",
+      "name": "Lasolo Kepulauan"
+    },
+    {
+      "id": "74.09.13",
+      "name": "Landawe"
+    },
+    {
+      "id": "74.10.01",
+      "name": "Kulisusu (Kalingsusu/Kalisusu)"
+    },
+    {
+      "id": "74.10.02",
+      "name": "Kambowa"
+    },
+    {
+      "id": "74.10.03",
+      "name": "Bonegunu"
+    },
+    {
+      "id": "74.10.04",
+      "name": "Kulisusu Barat"
+    },
+    {
+      "id": "74.10.05",
+      "name": "Kulisusu Utara"
+    },
+    {
+      "id": "74.10.06",
+      "name": "Wakorumba Utara"
+    },
+    {
+      "id": "74.11.01",
+      "name": "Tirawuta"
+    },
+    {
+      "id": "74.11.02",
+      "name": "Loea"
+    },
+    {
+      "id": "74.11.03",
+      "name": "Ladongi"
+    },
+    {
+      "id": "74.11.04",
+      "name": "Poli Polia"
+    },
+    {
+      "id": "74.11.05",
+      "name": "Lambandia"
+    },
+    {
+      "id": "74.11.06",
+      "name": "Lalolae"
+    },
+    {
+      "id": "74.11.07",
+      "name": "Mowewe"
+    },
+    {
+      "id": "74.11.08",
+      "name": "Uluiwoi"
+    },
+    {
+      "id": "74.11.09",
+      "name": "Tinondo"
+    },
+    {
+      "id": "74.11.10",
+      "name": "Aere"
+    },
+    {
+      "id": "74.11.11",
+      "name": "Ueesi"
+    },
+    {
+      "id": "74.11.12",
+      "name": "Dangia"
+    },
+    {
+      "id": "74.12.01",
+      "name": "Wawonii Barat"
+    },
+    {
+      "id": "74.12.02",
+      "name": "Wawonii Utara"
+    },
+    {
+      "id": "74.12.03",
+      "name": "Wawonii Timur Laut"
+    },
+    {
+      "id": "74.12.04",
+      "name": "Wawonii Timur"
+    },
+    {
+      "id": "74.12.05",
+      "name": "Wawonii Tenggara"
+    },
+    {
+      "id": "74.12.06",
+      "name": "Wawonii Selatan"
+    },
+    {
+      "id": "74.12.07",
+      "name": "Wawonii Tengah"
+    },
+    {
+      "id": "74.13.01",
+      "name": "Sawerigadi"
+    },
+    {
+      "id": "74.13.02",
+      "name": "Barangka"
+    },
+    {
+      "id": "74.13.03",
+      "name": "Lawa"
+    },
+    {
+      "id": "74.13.04",
+      "name": "Wadaga"
+    },
+    {
+      "id": "74.13.05",
+      "name": "Tiworo Selatan"
+    },
+    {
+      "id": "74.13.06",
+      "name": "Maginti"
+    },
+    {
+      "id": "74.13.07",
+      "name": "Tiworo Tengah"
+    },
+    {
+      "id": "74.13.08",
+      "name": "Tiworo Utara"
+    },
+    {
+      "id": "74.13.09",
+      "name": "Tiworo Kepulauan"
+    },
+    {
+      "id": "74.13.10",
+      "name": "Kusambi"
+    },
+    {
+      "id": "74.13.11",
+      "name": "Napano Kusambi"
+    },
+    {
+      "id": "74.14.01",
+      "name": "Lakudo"
+    },
+    {
+      "id": "74.14.02",
+      "name": "Mawasangka Timur"
+    },
+    {
+      "id": "74.14.03",
+      "name": "Mawasangka Tengah"
+    },
+    {
+      "id": "74.14.04",
+      "name": "Mawasangka"
+    },
+    {
+      "id": "74.14.05",
+      "name": "Talaga Raya"
+    },
+    {
+      "id": "74.14.06",
+      "name": "Gu"
+    },
+    {
+      "id": "74.14.07",
+      "name": "Sangia Wambulu"
+    },
+    {
+      "id": "74.15.01",
+      "name": "Batauga"
+    },
+    {
+      "id": "74.15.02",
+      "name": "Sampolawa"
+    },
+    {
+      "id": "74.15.03",
+      "name": "Lapandewa"
+    },
+    {
+      "id": "74.15.04",
+      "name": "Batu Atas"
+    },
+    {
+      "id": "74.15.05",
+      "name": "Siompu Barat"
+    },
+    {
+      "id": "74.15.06",
+      "name": "Siompu"
+    },
+    {
+      "id": "74.15.07",
+      "name": "Kadatua"
+    },
+    {
+      "id": "74.71.01",
+      "name": "Mandonga"
+    },
+    {
+      "id": "74.71.02",
+      "name": "Kendari"
+    },
+    {
+      "id": "74.71.03",
+      "name": "Baruga"
+    },
+    {
+      "id": "74.71.04",
+      "name": "Poasia"
+    },
+    {
+      "id": "74.71.05",
+      "name": "Kendari Barat"
+    },
+    {
+      "id": "74.71.06",
+      "name": "Abeli"
+    },
+    {
+      "id": "74.71.07",
+      "name": "Wua-Wua"
+    },
+    {
+      "id": "74.71.08",
+      "name": "Kadia"
+    },
+    {
+      "id": "74.71.09",
+      "name": "Puuwatu"
+    },
+    {
+      "id": "74.71.10",
+      "name": "Kambu"
+    },
+    {
+      "id": "74.71.11",
+      "name": "Nambo"
+    },
+    {
+      "id": "74.72.01",
+      "name": "Betoambari"
+    },
+    {
+      "id": "74.72.02",
+      "name": "Wolio"
+    },
+    {
+      "id": "74.72.03",
+      "name": "Sorawolio (Sora Walio / Sorowalio)"
+    },
+    {
+      "id": "74.72.04",
+      "name": "Bungi"
+    },
+    {
+      "id": "74.72.05",
+      "name": "Kokalukuna"
+    },
+    {
+      "id": "74.72.06",
+      "name": "Murhum"
+    },
+    {
+      "id": "74.72.07",
+      "name": "Lea-Lea"
+    },
+    {
+      "id": "74.72.08",
+      "name": "Batupoaro"
+    }
+  ],
+  "villages": [
+    {
+      "id": "74.01.01.1001",
+      "name": "19 Nopember"
+    },
+    {
+      "id": "74.01.01.1002",
+      "name": "Wundulako"
+    },
+    {
+      "id": "74.01.01.1003",
+      "name": "Lamekongga"
+    },
+    {
+      "id": "74.01.01.1004",
+      "name": "Kowioha"
+    },
+    {
+      "id": "74.01.01.1005",
+      "name": "Silea"
+    },
+    {
+      "id": "74.01.01.1011",
+      "name": "Ngapa"
+    },
+    {
+      "id": "74.01.01.2006",
+      "name": "Towua (Towua I)"
+    },
+    {
+      "id": "74.01.01.2007",
+      "name": "Bende"
+    },
+    {
+      "id": "74.01.01.2008",
+      "name": "Unamendaa (Una Mendaa)"
+    },
+    {
+      "id": "74.01.01.2009",
+      "name": "Tikonu"
+    },
+    {
+      "id": "74.01.01.2010",
+      "name": "Sabiona (Sabiano)"
+    },
+    {
+      "id": "74.01.04.1001",
+      "name": "Lamokato"
+    },
+    {
+      "id": "74.01.04.1002",
+      "name": "Watuliandu"
+    },
+    {
+      "id": "74.01.04.1003",
+      "name": "Balandete"
+    },
+    {
+      "id": "74.01.04.1004",
+      "name": "Lalombaa"
+    },
+    {
+      "id": "74.01.04.1005",
+      "name": "Sabilambo"
+    },
+    {
+      "id": "74.01.04.1006",
+      "name": "Laloeha"
+    },
+    {
+      "id": "74.01.04.1007",
+      "name": "Tahoa"
+    },
+    {
+      "id": "74.01.07.1001",
+      "name": "Dawi-Dawi"
+    },
+    {
+      "id": "74.01.07.1002",
+      "name": "Pomalaa"
+    },
+    {
+      "id": "74.01.07.1009",
+      "name": "Tonggoni"
+    },
+    {
+      "id": "74.01.07.1011",
+      "name": "Kumoro"
+    },
+    {
+      "id": "74.01.07.2003",
+      "name": "Huko Huko"
+    },
+    {
+      "id": "74.01.07.2004",
+      "name": "Pelambua"
+    },
+    {
+      "id": "74.01.07.2005",
+      "name": "Tambea"
+    },
+    {
+      "id": "74.01.07.2006",
+      "name": "Sopura"
+    },
+    {
+      "id": "74.01.07.2007",
+      "name": "Pesouha"
+    },
+    {
+      "id": "74.01.07.2008",
+      "name": "Totobo"
+    },
+    {
+      "id": "74.01.07.2010",
+      "name": "Oko Oko"
+    },
+    {
+      "id": "74.01.07.2012",
+      "name": "Hakatutobu"
+    },
+    {
+      "id": "74.01.08.1001",
+      "name": "Watubangga"
+    },
+    {
+      "id": "74.01.08.1006",
+      "name": "Tandebura"
+    },
+    {
+      "id": "74.01.08.1015",
+      "name": "Wolulu"
+    },
+    {
+      "id": "74.01.08.2002",
+      "name": "Lamundre"
+    },
+    {
+      "id": "74.01.08.2007",
+      "name": "Kukutio"
+    },
+    {
+      "id": "74.01.08.2011",
+      "name": "Langgosipi"
+    },
+    {
+      "id": "74.01.08.2012",
+      "name": "Sumber Rejeki"
+    },
+    {
+      "id": "74.01.08.2016",
+      "name": "Peoho"
+    },
+    {
+      "id": "74.01.08.2017",
+      "name": "Mataosu"
+    },
+    {
+      "id": "74.01.08.2018",
+      "name": "Polenga"
+    },
+    {
+      "id": "74.01.08.2020",
+      "name": "Kastura"
+    },
+    {
+      "id": "74.01.08.2023",
+      "name": "Gunung Sari"
+    },
+    {
+      "id": "74.01.08.2025",
+      "name": "Mataosu Ujung"
+    },
+    {
+      "id": "74.01.08.2026",
+      "name": "Ranoteta"
+    },
+    {
+      "id": "74.01.10.1001",
+      "name": "Wolo"
+    },
+    {
+      "id": "74.01.10.1007",
+      "name": "Ulu Wolo"
+    },
+    {
+      "id": "74.01.10.2002",
+      "name": "Donggala"
+    },
+    {
+      "id": "74.01.10.2003",
+      "name": "Ululapao-pao (Ulu Lapao-Pao)"
+    },
+    {
+      "id": "74.01.10.2008",
+      "name": "Tolowe Ponrewaru"
+    },
+    {
+      "id": "74.01.10.2009",
+      "name": "Lapao-Pao"
+    },
+    {
+      "id": "74.01.10.2010",
+      "name": "Langgomali"
+    },
+    {
+      "id": "74.01.10.2011",
+      "name": "Lalonaha"
+    },
+    {
+      "id": "74.01.10.2012",
+      "name": "Lana"
+    },
+    {
+      "id": "74.01.10.2015",
+      "name": "Lalonggopi"
+    },
+    {
+      "id": "74.01.10.2016",
+      "name": "Muara Lapao Pao"
+    },
+    {
+      "id": "74.01.10.2018",
+      "name": "Samaenre"
+    },
+    {
+      "id": "74.01.10.2019",
+      "name": "Iwoimopuro"
+    },
+    {
+      "id": "74.01.10.2021",
+      "name": "Ulu Rina"
+    },
+    {
+      "id": "74.01.12.1001",
+      "name": "Puundoho"
+    },
+    {
+      "id": "74.01.12.2002",
+      "name": "Longori"
+    },
+    {
+      "id": "74.01.12.2003",
+      "name": "Puubunga"
+    },
+    {
+      "id": "74.01.12.2004",
+      "name": "Puulemo"
+    },
+    {
+      "id": "74.01.12.2005",
+      "name": "Puubenua"
+    },
+    {
+      "id": "74.01.12.2006",
+      "name": "Baula"
+    },
+    {
+      "id": "74.01.12.2007",
+      "name": "Pewutaa"
+    },
+    {
+      "id": "74.01.12.2008",
+      "name": "Watalara"
+    },
+    {
+      "id": "74.01.12.2009",
+      "name": "Puuroda"
+    },
+    {
+      "id": "74.01.12.2010",
+      "name": "Ulu Baula"
+    },
+    {
+      "id": "74.01.14.1001",
+      "name": "Mangolo"
+    },
+    {
+      "id": "74.01.14.1002",
+      "name": "Kolakaasi (Kolakaasih)"
+    },
+    {
+      "id": "74.01.14.1003",
+      "name": "Sea"
+    },
+    {
+      "id": "74.01.14.1004",
+      "name": "Latambaga"
+    },
+    {
+      "id": "74.01.14.1005",
+      "name": "Sakuli"
+    },
+    {
+      "id": "74.01.14.1006",
+      "name": "Induha"
+    },
+    {
+      "id": "74.01.14.1007",
+      "name": "Ulunggolaka"
+    },
+    {
+      "id": "74.01.18.1003",
+      "name": "Anaiwoi"
+    },
+    {
+      "id": "74.01.18.2001",
+      "name": "Lamedai"
+    },
+    {
+      "id": "74.01.18.2002",
+      "name": "Tanggetada"
+    },
+    {
+      "id": "74.01.18.2004",
+      "name": "Pewisoa Jaya"
+    },
+    {
+      "id": "74.01.18.2005",
+      "name": "Tondowolio"
+    },
+    {
+      "id": "74.01.18.2006",
+      "name": "Popalia"
+    },
+    {
+      "id": "74.01.18.2007",
+      "name": "Lalonggolosua"
+    },
+    {
+      "id": "74.01.18.2008",
+      "name": "Petudua"
+    },
+    {
+      "id": "74.01.18.2009",
+      "name": "Rahanggada"
+    },
+    {
+      "id": "74.01.18.2010",
+      "name": "Palewai"
+    },
+    {
+      "id": "74.01.18.2011",
+      "name": "Puundaipa"
+    },
+    {
+      "id": "74.01.18.2012",
+      "name": "Oneeha"
+    },
+    {
+      "id": "74.01.18.2013",
+      "name": "Lamoiko"
+    },
+    {
+      "id": "74.01.18.2014",
+      "name": "Tinggo"
+    },
+    {
+      "id": "74.01.20.1001",
+      "name": "Tosiba"
+    },
+    {
+      "id": "74.01.20.1013",
+      "name": "Tonganapo"
+    },
+    {
+      "id": "74.01.20.2002",
+      "name": "Konaweha"
+    },
+    {
+      "id": "74.01.20.2003",
+      "name": "Kaloloa"
+    },
+    {
+      "id": "74.01.20.2004",
+      "name": "Tamboli"
+    },
+    {
+      "id": "74.01.20.2005",
+      "name": "Lambolemo"
+    },
+    {
+      "id": "74.01.20.2006",
+      "name": "Amamutu (Amomutu)"
+    },
+    {
+      "id": "74.01.20.2007",
+      "name": "Lawulo"
+    },
+    {
+      "id": "74.01.20.2008",
+      "name": "Awa"
+    },
+    {
+      "id": "74.01.20.2009",
+      "name": "Latuo"
+    },
+    {
+      "id": "74.01.20.2010",
+      "name": "Wawo Tambali"
+    },
+    {
+      "id": "74.01.20.2011",
+      "name": "Malaha"
+    },
+    {
+      "id": "74.01.20.2012",
+      "name": "Sani Sani"
+    },
+    {
+      "id": "74.01.20.2014",
+      "name": "Ulu Konaweha"
+    },
+    {
+      "id": "74.01.20.2015",
+      "name": "Puu Tamboli"
+    },
+    {
+      "id": "74.01.20.2016",
+      "name": "Ulaweng"
+    },
+    {
+      "id": "74.01.20.2017",
+      "name": "Puu Lawulo"
+    },
+    {
+      "id": "74.01.20.2018",
+      "name": "Liku"
+    },
+    {
+      "id": "74.01.20.2019",
+      "name": "Meura"
+    },
+    {
+      "id": "74.01.24.1003",
+      "name": "Ranomentaa"
+    },
+    {
+      "id": "74.01.24.2001",
+      "name": "Toari"
+    },
+    {
+      "id": "74.01.24.2002",
+      "name": "Lakito"
+    },
+    {
+      "id": "74.01.24.2004",
+      "name": "Anawua"
+    },
+    {
+      "id": "74.01.24.2005",
+      "name": "Wowoli"
+    },
+    {
+      "id": "74.01.24.2006",
+      "name": "Rano jaya"
+    },
+    {
+      "id": "74.01.24.2007",
+      "name": "Rahabite"
+    },
+    {
+      "id": "74.01.24.2008",
+      "name": "Wonua Raya"
+    },
+    {
+      "id": "74.01.24.2009",
+      "name": "Rano Sangia"
+    },
+    {
+      "id": "74.01.24.2010",
+      "name": "Horongkuli"
+    },
+    {
+      "id": "74.01.25.1001",
+      "name": "Polinggona"
+    },
+    {
+      "id": "74.01.25.2002",
+      "name": "Puudongi"
+    },
+    {
+      "id": "74.01.25.2003",
+      "name": "Plasma Jaya"
+    },
+    {
+      "id": "74.01.25.2004",
+      "name": "Tanggeau"
+    },
+    {
+      "id": "74.01.25.2005",
+      "name": "Wulonggere"
+    },
+    {
+      "id": "74.01.25.2006",
+      "name": "Pondowae (Pondouwaee)"
+    },
+    {
+      "id": "74.01.25.2007",
+      "name": "Lamondape"
+    },
+    {
+      "id": "74.01.27.2001",
+      "name": "Tamborasi"
+    },
+    {
+      "id": "74.01.27.2002",
+      "name": "Ladahai"
+    },
+    {
+      "id": "74.01.27.2003",
+      "name": "Lasiroku"
+    },
+    {
+      "id": "74.01.27.2004",
+      "name": "Iwoimendaa"
+    },
+    {
+      "id": "74.01.27.2005",
+      "name": "Lambopini"
+    },
+    {
+      "id": "74.01.27.2006",
+      "name": "Ulu Kalo"
+    },
+    {
+      "id": "74.01.27.2007",
+      "name": "Wonualaku"
+    },
+    {
+      "id": "74.01.27.2008",
+      "name": "Lawolia"
+    },
+    {
+      "id": "74.01.27.2009",
+      "name": "Watumelewe"
+    },
+    {
+      "id": "74.01.27.2010",
+      "name": "Landoula"
+    },
+    {
+      "id": "74.02.01.1001",
+      "name": "Lambuya"
+    },
+    {
+      "id": "74.02.01.2006",
+      "name": "Awuliti (Wawuliti)"
+    },
+    {
+      "id": "74.02.01.2007",
+      "name": "Asaki (Isaki)"
+    },
+    {
+      "id": "74.02.01.2011",
+      "name": "Amberi"
+    },
+    {
+      "id": "74.02.01.2012",
+      "name": "Waworaha"
+    },
+    {
+      "id": "74.02.01.2015",
+      "name": "Tanggobu"
+    },
+    {
+      "id": "74.02.01.2027",
+      "name": "Meraka"
+    },
+    {
+      "id": "74.02.01.2035",
+      "name": "Wanua Hoa (Wanuahoa)"
+    },
+    {
+      "id": "74.02.01.2036",
+      "name": "Watarema"
+    },
+    {
+      "id": "74.02.01.2037",
+      "name": "Tetembomua"
+    },
+    {
+      "id": "74.02.02.1001",
+      "name": "Puunaaha"
+    },
+    {
+      "id": "74.02.02.1002",
+      "name": "Tumpas"
+    },
+    {
+      "id": "74.02.02.1003",
+      "name": "Latoma"
+    },
+    {
+      "id": "74.02.02.1004",
+      "name": "Ambekairi"
+    },
+    {
+      "id": "74.02.02.1005",
+      "name": "Arombu"
+    },
+    {
+      "id": "74.02.02.1006",
+      "name": "Asinua"
+    },
+    {
+      "id": "74.02.02.1011",
+      "name": "Wawonggole"
+    },
+    {
+      "id": "74.02.02.1012",
+      "name": "Tuoy"
+    },
+    {
+      "id": "74.02.02.1013",
+      "name": "Unaaha"
+    },
+    {
+      "id": "74.02.02.1015",
+      "name": "Inolobunggadue"
+    },
+    {
+      "id": "74.02.02.1016",
+      "name": "Asambu"
+    },
+    {
+      "id": "74.02.02.1017",
+      "name": "Tobeu"
+    },
+    {
+      "id": "74.02.03.1001",
+      "name": "Wawotobi"
+    },
+    {
+      "id": "74.02.03.1002",
+      "name": "Inalahi"
+    },
+    {
+      "id": "74.02.03.1006",
+      "name": "Lalosabila"
+    },
+    {
+      "id": "74.02.03.1007",
+      "name": "Hopa-Hopa"
+    },
+    {
+      "id": "74.02.03.1008",
+      "name": "Kulahi"
+    },
+    {
+      "id": "74.02.03.1009",
+      "name": "Ranoeya"
+    },
+    {
+      "id": "74.02.03.1010",
+      "name": "Palarahi"
+    },
+    {
+      "id": "74.02.03.1011",
+      "name": "Kasupute"
+    },
+    {
+      "id": "74.02.03.1019",
+      "name": "Nohu Nohu"
+    },
+    {
+      "id": "74.02.03.1020",
+      "name": "Inolobu"
+    },
+    {
+      "id": "74.02.03.1027",
+      "name": "Bose Bose"
+    },
+    {
+      "id": "74.02.03.1028",
+      "name": "Puusinauwi"
+    },
+    {
+      "id": "74.02.03.2013",
+      "name": "Nario Indah"
+    },
+    {
+      "id": "74.02.03.2017",
+      "name": "Anggotoa"
+    },
+    {
+      "id": "74.02.03.2018",
+      "name": "Analahumbuti"
+    },
+    {
+      "id": "74.02.03.2025",
+      "name": "Karandu"
+    },
+    {
+      "id": "74.02.03.2026",
+      "name": "Korumba"
+    },
+    {
+      "id": "74.02.03.2031",
+      "name": "Kasumewuho"
+    },
+    {
+      "id": "74.02.03.2032",
+      "name": "Kukuluri"
+    },
+    {
+      "id": "74.02.04.1001",
+      "name": "Pondidaha"
+    },
+    {
+      "id": "74.02.04.2013",
+      "name": "Hongoa"
+    },
+    {
+      "id": "74.02.04.2016",
+      "name": "Mumundowu"
+    },
+    {
+      "id": "74.02.04.2019",
+      "name": "Ahuawatu"
+    },
+    {
+      "id": "74.02.04.2025",
+      "name": "Tirawuta"
+    },
+    {
+      "id": "74.02.04.2030",
+      "name": "Ambuulanu (Ambulanu)"
+    },
+    {
+      "id": "74.02.04.2031",
+      "name": "Belatu"
+    },
+    {
+      "id": "74.02.04.2034",
+      "name": "Amesiu"
+    },
+    {
+      "id": "74.02.04.2035",
+      "name": "Puumbinisi"
+    },
+    {
+      "id": "74.02.04.2039",
+      "name": "Wawolemo"
+    },
+    {
+      "id": "74.02.04.2045",
+      "name": "Sulemandara"
+    },
+    {
+      "id": "74.02.04.2046",
+      "name": "Lalodangge"
+    },
+    {
+      "id": "74.02.04.2047",
+      "name": "Wawolahumbuti"
+    },
+    {
+      "id": "74.02.04.2048",
+      "name": "Laloika"
+    },
+    {
+      "id": "74.02.04.2049",
+      "name": "Lalonggotomi"
+    },
+    {
+      "id": "74.02.04.2050",
+      "name": "Wonua Mandara"
+    },
+    {
+      "id": "74.02.04.2051",
+      "name": "Wonua Monapa"
+    },
+    {
+      "id": "74.02.04.2052",
+      "name": "Lahonggumbi"
+    },
+    {
+      "id": "74.02.05.1001",
+      "name": "Sampara"
+    },
+    {
+      "id": "74.02.05.1007",
+      "name": "Rawua"
+    },
+    {
+      "id": "74.02.05.2006",
+      "name": "Andepali"
+    },
+    {
+      "id": "74.02.05.2008",
+      "name": "Andaroa"
+    },
+    {
+      "id": "74.02.05.2009",
+      "name": "Puuloro"
+    },
+    {
+      "id": "74.02.05.2012",
+      "name": "Andadowi"
+    },
+    {
+      "id": "74.02.05.2027",
+      "name": "Totombe Jaya"
+    },
+    {
+      "id": "74.02.05.2028",
+      "name": "Bao-bao (Boa-Boa)"
+    },
+    {
+      "id": "74.02.05.2030",
+      "name": "Wawolimbue"
+    },
+    {
+      "id": "74.02.05.2036",
+      "name": "Baini (Baeni)"
+    },
+    {
+      "id": "74.02.05.2038",
+      "name": "Polua"
+    },
+    {
+      "id": "74.02.05.2041",
+      "name": "Pohara"
+    },
+    {
+      "id": "74.02.05.2048",
+      "name": "Bondoala"
+    },
+    {
+      "id": "74.02.05.2052",
+      "name": "Konggamea (Kongga Mea)"
+    },
+    {
+      "id": "74.02.05.2057",
+      "name": "Wowa Andaroa (Wawo Andaroa)"
+    },
+    {
+      "id": "74.02.10.1001",
+      "name": "Abuki"
+    },
+    {
+      "id": "74.02.10.2007",
+      "name": "Sambeani"
+    },
+    {
+      "id": "74.02.10.2008",
+      "name": "Asolu"
+    },
+    {
+      "id": "74.02.10.2009",
+      "name": "Punggaluku"
+    },
+    {
+      "id": "74.02.10.2012",
+      "name": "Walay"
+    },
+    {
+      "id": "74.02.10.2015",
+      "name": "Epeea (Epeeya)"
+    },
+    {
+      "id": "74.02.10.2024",
+      "name": "Kumapo"
+    },
+    {
+      "id": "74.02.10.2035",
+      "name": "Unaasi Jaya"
+    },
+    {
+      "id": "74.02.10.2038",
+      "name": "Kasuwura Indah"
+    },
+    {
+      "id": "74.02.10.2039",
+      "name": "Arubia Jaya"
+    },
+    {
+      "id": "74.02.10.2040",
+      "name": "Padangguni Utama"
+    },
+    {
+      "id": "74.02.10.2042",
+      "name": "Anggoro"
+    },
+    {
+      "id": "74.02.11.1001",
+      "name": "Toronipa"
+    },
+    {
+      "id": "74.02.11.2002",
+      "name": "Atowatu"
+    },
+    {
+      "id": "74.02.11.2004",
+      "name": "Waworaha"
+    },
+    {
+      "id": "74.02.11.2006",
+      "name": "Sorue Jaya"
+    },
+    {
+      "id": "74.02.11.2010",
+      "name": "Soropia"
+    },
+    {
+      "id": "74.02.11.2011",
+      "name": "Tapulaga"
+    },
+    {
+      "id": "74.02.11.2012",
+      "name": "Sawapudo"
+    },
+    {
+      "id": "74.02.11.2014",
+      "name": "Bokori"
+    },
+    {
+      "id": "74.02.11.2015",
+      "name": "Saponda"
+    },
+    {
+      "id": "74.02.11.2016",
+      "name": "Mekar"
+    },
+    {
+      "id": "74.02.11.2017",
+      "name": "Bajo Indah"
+    },
+    {
+      "id": "74.02.11.2022",
+      "name": "Telaga Biru"
+    },
+    {
+      "id": "74.02.11.2023",
+      "name": "Leppe"
+    },
+    {
+      "id": "74.02.11.2024",
+      "name": "Bajoe"
+    },
+    {
+      "id": "74.02.11.2025",
+      "name": "Saponda Laut"
+    },
+    {
+      "id": "74.02.15.1001",
+      "name": "Tongauna"
+    },
+    {
+      "id": "74.02.15.1002",
+      "name": "Mata Iwoi"
+    },
+    {
+      "id": "74.02.15.1003",
+      "name": "Puosu"
+    },
+    {
+      "id": "74.02.15.1004",
+      "name": "Sendang Mulya Sari"
+    },
+    {
+      "id": "74.02.15.1005",
+      "name": "Mekar Sari"
+    },
+    {
+      "id": "74.02.15.2006",
+      "name": "Lalonggowuna"
+    },
+    {
+      "id": "74.02.15.2007",
+      "name": "Asao"
+    },
+    {
+      "id": "74.02.15.2012",
+      "name": "Andeposandu (Andeposunde)"
+    },
+    {
+      "id": "74.02.15.2013",
+      "name": "Momea"
+    },
+    {
+      "id": "74.02.15.2018",
+      "name": "Ambepulu"
+    },
+    {
+      "id": "74.02.16.1003",
+      "name": "Waworaha"
+    },
+    {
+      "id": "74.02.16.2001",
+      "name": "Latoma Jaya"
+    },
+    {
+      "id": "74.02.16.2002",
+      "name": "Ambekaeri Utama"
+    },
+    {
+      "id": "74.02.16.2004",
+      "name": "Amboniki"
+    },
+    {
+      "id": "74.02.16.2005",
+      "name": "Pinole"
+    },
+    {
+      "id": "74.02.16.2006",
+      "name": "Nesowi"
+    },
+    {
+      "id": "74.02.16.2007",
+      "name": "Wawolatoma"
+    },
+    {
+      "id": "74.02.16.2008",
+      "name": "Andoluto"
+    },
+    {
+      "id": "74.02.16.2009",
+      "name": "Lalowata"
+    },
+    {
+      "id": "74.02.16.2010",
+      "name": "Titiowa (Titioa)"
+    },
+    {
+      "id": "74.02.16.2012",
+      "name": "Angonga"
+    },
+    {
+      "id": "74.02.17.1002",
+      "name": "Watundehoa (Watandehoa)"
+    },
+    {
+      "id": "74.02.17.2001",
+      "name": "Puriala"
+    },
+    {
+      "id": "74.02.17.2003",
+      "name": "Sonai"
+    },
+    {
+      "id": "74.02.17.2004",
+      "name": "Lalonggatu"
+    },
+    {
+      "id": "74.02.17.2005",
+      "name": "Poanaha (Puanaha)"
+    },
+    {
+      "id": "74.02.17.2006",
+      "name": "Wonua Morome"
+    },
+    {
+      "id": "74.02.17.2007",
+      "name": "Ahuawali"
+    },
+    {
+      "id": "74.02.17.2008",
+      "name": "Watusa"
+    },
+    {
+      "id": "74.02.17.2009",
+      "name": "Puusangi"
+    },
+    {
+      "id": "74.02.17.2010",
+      "name": "Mokaleleo"
+    },
+    {
+      "id": "74.02.17.2011",
+      "name": "Unggulino"
+    },
+    {
+      "id": "74.02.17.2012",
+      "name": "Tetewatu (Tetewaru)"
+    },
+    {
+      "id": "74.02.17.2013",
+      "name": "Tetehaka"
+    },
+    {
+      "id": "74.02.17.2014",
+      "name": "Puuhopa"
+    },
+    {
+      "id": "74.02.17.2015",
+      "name": "Laloonaha"
+    },
+    {
+      "id": "74.02.17.2016",
+      "name": "Wawosanggula"
+    },
+    {
+      "id": "74.02.18.1001",
+      "name": "Uepai"
+    },
+    {
+      "id": "74.02.18.2002",
+      "name": "Ameroro"
+    },
+    {
+      "id": "74.02.18.2003",
+      "name": "Tawarotebota"
+    },
+    {
+      "id": "74.02.18.2004",
+      "name": "Olo-Oloho (Alo-Oloho)"
+    },
+    {
+      "id": "74.02.18.2005",
+      "name": "Matahoalu"
+    },
+    {
+      "id": "74.02.18.2006",
+      "name": "Langgomea"
+    },
+    {
+      "id": "74.02.18.2007",
+      "name": "Rawua"
+    },
+    {
+      "id": "74.02.18.2008",
+      "name": "Baruga"
+    },
+    {
+      "id": "74.02.18.2009",
+      "name": "Amaroa"
+    },
+    {
+      "id": "74.02.18.2010",
+      "name": "Tawamelewe"
+    },
+    {
+      "id": "74.02.18.2011",
+      "name": "Anggopiu"
+    },
+    {
+      "id": "74.02.18.2012",
+      "name": "Tamesandi"
+    },
+    {
+      "id": "74.02.18.2013",
+      "name": "Humboto"
+    },
+    {
+      "id": "74.02.18.2015",
+      "name": "Anggawo"
+    },
+    {
+      "id": "74.02.18.2016",
+      "name": "Kasaeda"
+    },
+    {
+      "id": "74.02.18.2017",
+      "name": "Tanggondipo (Tanggodipo)"
+    },
+    {
+      "id": "74.02.18.2018",
+      "name": "Panggulawu"
+    },
+    {
+      "id": "74.02.18.2019",
+      "name": "Puuroda Jaya"
+    },
+    {
+      "id": "74.02.19.1009",
+      "name": "Puuduria"
+    },
+    {
+      "id": "74.02.19.2004",
+      "name": "Duriaasi"
+    },
+    {
+      "id": "74.02.19.2006",
+      "name": "Lalousu"
+    },
+    {
+      "id": "74.02.19.2008",
+      "name": "Wawoone"
+    },
+    {
+      "id": "74.02.19.2010",
+      "name": "Wawosolo"
+    },
+    {
+      "id": "74.02.19.2012",
+      "name": "Wawonggole"
+    },
+    {
+      "id": "74.02.19.2015",
+      "name": "Tetemotaha"
+    },
+    {
+      "id": "74.02.19.2016",
+      "name": "Dawi-dawi"
+    },
+    {
+      "id": "74.02.19.2017",
+      "name": "Bendewuta"
+    },
+    {
+      "id": "74.02.19.2018",
+      "name": "Langgonawe"
+    },
+    {
+      "id": "74.02.19.2019",
+      "name": "Lalohao"
+    },
+    {
+      "id": "74.02.19.2020",
+      "name": "Wakusao (Wukusao / Tomulipu)"
+    },
+    {
+      "id": "74.02.19.2026",
+      "name": "Tawarolondo"
+    },
+    {
+      "id": "74.02.19.2027",
+      "name": "Polandangi"
+    },
+    {
+      "id": "74.02.19.2028",
+      "name": "Anggoro"
+    },
+    {
+      "id": "74.02.19.2029",
+      "name": "Tetewonua (Teteona)"
+    },
+    {
+      "id": "74.02.20.1003",
+      "name": "Besulutu"
+    },
+    {
+      "id": "74.02.20.2001",
+      "name": "Lawonua"
+    },
+    {
+      "id": "74.02.20.2002",
+      "name": "Amosilu"
+    },
+    {
+      "id": "74.02.20.2004",
+      "name": "Laloumera"
+    },
+    {
+      "id": "74.02.20.2005",
+      "name": "Asunde (Asunda)"
+    },
+    {
+      "id": "74.02.20.2006",
+      "name": "Ulupohara"
+    },
+    {
+      "id": "74.02.20.2007",
+      "name": "Labela"
+    },
+    {
+      "id": "74.02.20.2008",
+      "name": "Ranomolua"
+    },
+    {
+      "id": "74.02.20.2009",
+      "name": "Silea"
+    },
+    {
+      "id": "74.02.20.2010",
+      "name": "Onembute"
+    },
+    {
+      "id": "74.02.20.2011",
+      "name": "Andomesinggo"
+    },
+    {
+      "id": "74.02.20.2012",
+      "name": "Puulowaru"
+    },
+    {
+      "id": "74.02.20.2013",
+      "name": "Puundoho"
+    },
+    {
+      "id": "74.02.20.2014",
+      "name": "Punggaluku"
+    },
+    {
+      "id": "74.02.20.2015",
+      "name": "Waworaha"
+    },
+    {
+      "id": "74.02.20.2016",
+      "name": "Lalowulo"
+    },
+    {
+      "id": "74.02.21.1003",
+      "name": "Laosu"
+    },
+    {
+      "id": "74.02.21.2002",
+      "name": "Pebunooha"
+    },
+    {
+      "id": "74.02.21.2004",
+      "name": "Lalonggalaku (Lalonggaluku)"
+    },
+    {
+      "id": "74.02.21.2009",
+      "name": "Diolo"
+    },
+    {
+      "id": "74.02.21.2018",
+      "name": "Pebunooha Dalam"
+    },
+    {
+      "id": "74.02.21.2023",
+      "name": "Rumbia"
+    },
+    {
+      "id": "74.02.21.2028",
+      "name": "Rambu Kongga"
+    },
+    {
+      "id": "74.02.21.2029",
+      "name": "Laosu Jaya"
+    },
+    {
+      "id": "74.02.21.2031",
+      "name": "Langgaluku Timur (Lalonggaluku Timur)"
+    },
+    {
+      "id": "74.02.23.1001",
+      "name": "Ruota"
+    },
+    {
+      "id": "74.02.23.2002",
+      "name": "Tirawonua (Tira Wonua)"
+    },
+    {
+      "id": "74.02.23.2003",
+      "name": "Parudongka"
+    },
+    {
+      "id": "74.02.23.2004",
+      "name": "Walandawe"
+    },
+    {
+      "id": "74.02.23.2005",
+      "name": "Puuwiwirano"
+    },
+    {
+      "id": "74.02.23.2006",
+      "name": "Tanggola"
+    },
+    {
+      "id": "74.02.23.2007",
+      "name": "Lalomerui"
+    },
+    {
+      "id": "74.02.24.1001",
+      "name": "Parauna"
+    },
+    {
+      "id": "74.02.24.1002",
+      "name": "Anggaberi"
+    },
+    {
+      "id": "74.02.24.1003",
+      "name": "Lawulo"
+    },
+    {
+      "id": "74.02.24.1004",
+      "name": "Andabia"
+    },
+    {
+      "id": "74.02.24.1005",
+      "name": "Unaasi"
+    },
+    {
+      "id": "74.02.24.1006",
+      "name": "Toriki"
+    },
+    {
+      "id": "74.02.24.2007",
+      "name": "Lerehoma"
+    },
+    {
+      "id": "74.02.24.2008",
+      "name": "Wunduongohi"
+    },
+    {
+      "id": "74.02.25.1003",
+      "name": "Meluhu"
+    },
+    {
+      "id": "74.02.25.2001",
+      "name": "Woerahi (Weorahi)"
+    },
+    {
+      "id": "74.02.25.2002",
+      "name": "Lamelai (Lamelay)"
+    },
+    {
+      "id": "74.02.25.2004",
+      "name": "Ahuhu (Abuhu)"
+    },
+    {
+      "id": "74.02.25.2005",
+      "name": "Tudameaso"
+    },
+    {
+      "id": "74.02.25.2006",
+      "name": "Larowiu"
+    },
+    {
+      "id": "74.02.25.2007",
+      "name": "Ahuloa"
+    },
+    {
+      "id": "74.02.25.2008",
+      "name": "Sambasule"
+    },
+    {
+      "id": "74.02.25.2009",
+      "name": "Lalopisi"
+    },
+    {
+      "id": "74.02.28.1013",
+      "name": "Amunggedo Baru"
+    },
+    {
+      "id": "74.02.28.2001",
+      "name": "Anahinunu"
+    },
+    {
+      "id": "74.02.28.2002",
+      "name": "Ulu Benua"
+    },
+    {
+      "id": "74.02.28.2003",
+      "name": "Puuasana (Puasana)"
+    },
+    {
+      "id": "74.02.28.2004",
+      "name": "Watulawu"
+    },
+    {
+      "id": "74.02.28.2005",
+      "name": "Lalonona"
+    },
+    {
+      "id": "74.02.28.2006",
+      "name": "Amonggedo"
+    },
+    {
+      "id": "74.02.28.2007",
+      "name": "Dunggua"
+    },
+    {
+      "id": "74.02.28.2008",
+      "name": "Benua"
+    },
+    {
+      "id": "74.02.28.2009",
+      "name": "Matabura"
+    },
+    {
+      "id": "74.02.28.2010",
+      "name": "Wawohine"
+    },
+    {
+      "id": "74.02.28.2011",
+      "name": "Mendikonu"
+    },
+    {
+      "id": "74.02.28.2012",
+      "name": "Amandete (Warandete)"
+    },
+    {
+      "id": "74.02.28.2014",
+      "name": "Mataiwoi"
+    },
+    {
+      "id": "74.02.28.2015",
+      "name": "Lalombonda"
+    },
+    {
+      "id": "74.02.31.1004",
+      "name": "Ambodiaa"
+    },
+    {
+      "id": "74.02.31.2001",
+      "name": "Nekudu"
+    },
+    {
+      "id": "74.02.31.2002",
+      "name": "Lasada"
+    },
+    {
+      "id": "74.02.31.2003",
+      "name": "Asinua Jaya"
+    },
+    {
+      "id": "74.02.31.2005",
+      "name": "Angohi"
+    },
+    {
+      "id": "74.02.31.2006",
+      "name": "Awua Jaya"
+    },
+    {
+      "id": "74.02.31.2007",
+      "name": "Awua Sari"
+    },
+    {
+      "id": "74.02.31.2008",
+      "name": "Asipako"
+    },
+    {
+      "id": "74.02.32.1001",
+      "name": "Bungguosu"
+    },
+    {
+      "id": "74.02.32.1002",
+      "name": "Tudaone"
+    },
+    {
+      "id": "74.02.32.1003",
+      "name": "Konawe"
+    },
+    {
+      "id": "74.02.32.1004",
+      "name": "Tawanga"
+    },
+    {
+      "id": "74.02.32.2005",
+      "name": "Sanggona"
+    },
+    {
+      "id": "74.02.32.2006",
+      "name": "Uelawu"
+    },
+    {
+      "id": "74.02.32.2007",
+      "name": "Mokowu (Mekowu)"
+    },
+    {
+      "id": "74.02.32.2008",
+      "name": "Uete"
+    },
+    {
+      "id": "74.02.32.2009",
+      "name": "Hudoa"
+    },
+    {
+      "id": "74.02.32.2010",
+      "name": "Wonua Mbae"
+    },
+    {
+      "id": "74.02.32.2011",
+      "name": "Asinowowo"
+    },
+    {
+      "id": "74.02.32.2012",
+      "name": "Puuwonua"
+    },
+    {
+      "id": "74.02.33.1001",
+      "name": "Kapoiala"
+    },
+    {
+      "id": "74.02.33.2002",
+      "name": "Lalimbue Jaya"
+    },
+    {
+      "id": "74.02.33.2003",
+      "name": "Labotoy"
+    },
+    {
+      "id": "74.02.33.2004",
+      "name": "Muara Sampara"
+    },
+    {
+      "id": "74.02.33.2005",
+      "name": "Sambaraasi"
+    },
+    {
+      "id": "74.02.33.2006",
+      "name": "Lamendora"
+    },
+    {
+      "id": "74.02.33.2007",
+      "name": "Tani Indah"
+    },
+    {
+      "id": "74.02.33.2008",
+      "name": "Pereoa (Pereoe)"
+    },
+    {
+      "id": "74.02.33.2009",
+      "name": "Ulu Lalimbue"
+    },
+    {
+      "id": "74.02.33.2010",
+      "name": "Lalimbue"
+    },
+    {
+      "id": "74.02.33.2011",
+      "name": "Tombawatu"
+    },
+    {
+      "id": "74.02.33.2012",
+      "name": "Lalonggombuno"
+    },
+    {
+      "id": "74.02.33.2013",
+      "name": "Kapoiala Baru"
+    },
+    {
+      "id": "74.02.33.2014",
+      "name": "Labotoy Jaya"
+    },
+    {
+      "id": "74.02.36.1009",
+      "name": "Watunggarandu"
+    },
+    {
+      "id": "74.02.36.2001",
+      "name": "Toli Toli"
+    },
+    {
+      "id": "74.02.36.2002",
+      "name": "Nii Tanasa"
+    },
+    {
+      "id": "74.02.36.2003",
+      "name": "Rapambinopaka"
+    },
+    {
+      "id": "74.02.36.2004",
+      "name": "Lalombonda"
+    },
+    {
+      "id": "74.02.36.2005",
+      "name": "Puuwonua"
+    },
+    {
+      "id": "74.02.36.2006",
+      "name": "Bumi Indah"
+    },
+    {
+      "id": "74.02.36.2007",
+      "name": "Lolanggasumeeto"
+    },
+    {
+      "id": "74.02.36.2008",
+      "name": "Toolawawo"
+    },
+    {
+      "id": "74.02.36.2010",
+      "name": "Wawobungi"
+    },
+    {
+      "id": "74.02.36.2011",
+      "name": "Batu Gong"
+    },
+    {
+      "id": "74.02.36.2012",
+      "name": "Watunggarandu (Watunggarandu II)"
+    },
+    {
+      "id": "74.02.37.1001",
+      "name": "Onembute"
+    },
+    {
+      "id": "74.02.37.2002",
+      "name": "Trimulya"
+    },
+    {
+      "id": "74.02.37.2003",
+      "name": "Napoosi (Nopoosi)"
+    },
+    {
+      "id": "74.02.37.2004",
+      "name": "Silea"
+    },
+    {
+      "id": "74.02.37.2005",
+      "name": "Ulumeraka"
+    },
+    {
+      "id": "74.02.37.2006",
+      "name": "Mataiwoi"
+    },
+    {
+      "id": "74.02.37.2007",
+      "name": "Kumapo"
+    },
+    {
+      "id": "74.02.37.2008",
+      "name": "Kasumeia"
+    },
+    {
+      "id": "74.02.37.2009",
+      "name": "Ulu Onembute"
+    },
+    {
+      "id": "74.02.37.2010",
+      "name": "Tawapandere"
+    },
+    {
+      "id": "74.02.37.2011",
+      "name": "Anggaloosi"
+    },
+    {
+      "id": "74.02.37.2012",
+      "name": "Ana Onembute"
+    },
+    {
+      "id": "74.02.38.2001",
+      "name": "Atodopi"
+    },
+    {
+      "id": "74.02.38.2002",
+      "name": "Matahori"
+    },
+    {
+      "id": "74.02.38.2003",
+      "name": "Sambaosu"
+    },
+    {
+      "id": "74.02.38.2004",
+      "name": "Matanggorai"
+    },
+    {
+      "id": "74.02.38.2005",
+      "name": "Alosika"
+    },
+    {
+      "id": "74.02.38.2006",
+      "name": "Mekar Jaya"
+    },
+    {
+      "id": "74.02.38.2007",
+      "name": "Langgea"
+    },
+    {
+      "id": "74.02.38.2008",
+      "name": "Aleuti"
+    },
+    {
+      "id": "74.02.38.2009",
+      "name": "Garuda"
+    },
+    {
+      "id": "74.02.38.2010",
+      "name": "Padangguni"
+    },
+    {
+      "id": "74.02.38.2011",
+      "name": "Padang Mekar"
+    },
+    {
+      "id": "74.02.39.2001",
+      "name": "Mendikonu"
+    },
+    {
+      "id": "74.02.39.2002",
+      "name": "Wonua Morini"
+    },
+    {
+      "id": "74.02.39.2003",
+      "name": "Besu"
+    },
+    {
+      "id": "74.02.39.2004",
+      "name": "Paku"
+    },
+    {
+      "id": "74.02.39.2005",
+      "name": "Puuruy"
+    },
+    {
+      "id": "74.02.39.2006",
+      "name": "Morosi"
+    },
+    {
+      "id": "74.02.39.2007",
+      "name": "Tanggobu"
+    },
+    {
+      "id": "74.02.39.2008",
+      "name": "Paku Jaya"
+    },
+    {
+      "id": "74.02.39.2009",
+      "name": "Tondowatu"
+    },
+    {
+      "id": "74.02.39.2010",
+      "name": "Porara"
+    },
+    {
+      "id": "74.02.40.2001",
+      "name": "Anggalomoare"
+    },
+    {
+      "id": "74.02.40.2002",
+      "name": "Lasoso"
+    },
+    {
+      "id": "74.02.40.2003",
+      "name": "Lakomea (Lakome)"
+    },
+    {
+      "id": "74.02.40.2004",
+      "name": "Abelisawah"
+    },
+    {
+      "id": "74.02.40.2005",
+      "name": "Galu"
+    },
+    {
+      "id": "74.02.40.2006",
+      "name": "Tabanggele"
+    },
+    {
+      "id": "74.02.40.2007",
+      "name": "Puusangi"
+    },
+    {
+      "id": "74.02.40.2008",
+      "name": "Andobeu Jaya"
+    },
+    {
+      "id": "74.02.40.2009",
+      "name": "Anggalomoare Jaya"
+    },
+    {
+      "id": "74.02.40.2010",
+      "name": "Pusawah Jaya (Pusawa Jaya)"
+    },
+    {
+      "id": "74.02.41.2001",
+      "name": "Wonggeduku"
+    },
+    {
+      "id": "74.02.41.2002",
+      "name": "Puday"
+    },
+    {
+      "id": "74.02.41.2003",
+      "name": "Waturay"
+    },
+    {
+      "id": "74.02.41.2004",
+      "name": "Tobimeita"
+    },
+    {
+      "id": "74.02.41.2005",
+      "name": "Kasukia"
+    },
+    {
+      "id": "74.02.41.2006",
+      "name": "Baruga"
+    },
+    {
+      "id": "74.02.41.2007",
+      "name": "Teteona"
+    },
+    {
+      "id": "74.02.41.2008",
+      "name": "Ambuuwiu (Ambuwiu)"
+    },
+    {
+      "id": "74.02.41.2009",
+      "name": "Linonggasai (Linonggasay)"
+    },
+    {
+      "id": "74.02.41.2010",
+      "name": "Lambangi"
+    },
+    {
+      "id": "74.02.41.2011",
+      "name": "Lahotutu"
+    },
+    {
+      "id": "74.02.41.2012",
+      "name": "Lamokuni"
+    },
+    {
+      "id": "74.02.41.2013",
+      "name": "Ranotundobu"
+    },
+    {
+      "id": "74.02.41.2014",
+      "name": "Anggadola"
+    },
+    {
+      "id": "74.02.42.2001",
+      "name": "Waworoda Jaya"
+    },
+    {
+      "id": "74.02.42.2002",
+      "name": "Uluao"
+    },
+    {
+      "id": "74.02.42.2003",
+      "name": "Sanuanggamo"
+    },
+    {
+      "id": "74.02.42.2004",
+      "name": "Anggohu"
+    },
+    {
+      "id": "74.02.42.2005",
+      "name": "Ambopi"
+    },
+    {
+      "id": "74.02.42.2006",
+      "name": "Nambeaboru"
+    },
+    {
+      "id": "74.02.42.2007",
+      "name": "Puundombi (Puundopi)"
+    },
+    {
+      "id": "74.02.42.2008",
+      "name": "Olo Onua"
+    },
+    {
+      "id": "74.02.42.2009",
+      "name": "Barowila"
+    },
+    {
+      "id": "74.02.42.2010",
+      "name": "Andalambe"
+    },
+    {
+      "id": "74.03.06.1004",
+      "name": "Napabalano"
+    },
+    {
+      "id": "74.03.06.1005",
+      "name": "Tampo"
+    },
+    {
+      "id": "74.03.06.2003",
+      "name": "Napalakura"
+    },
+    {
+      "id": "74.03.06.2006",
+      "name": "Pentiro"
+    },
+    {
+      "id": "74.03.06.2007",
+      "name": "Langkumapo"
+    },
+    {
+      "id": "74.03.06.2009",
+      "name": "Lambiku"
+    },
+    {
+      "id": "74.03.07.2001",
+      "name": "Langkoroni"
+    },
+    {
+      "id": "74.03.07.2002",
+      "name": "Latompa"
+    },
+    {
+      "id": "74.03.07.2003",
+      "name": "Raimuna"
+    },
+    {
+      "id": "74.03.07.2004",
+      "name": "Maligano"
+    },
+    {
+      "id": "74.03.07.2005",
+      "name": "Lapole"
+    },
+    {
+      "id": "74.03.07.2007",
+      "name": "Poharua (Pohorua)"
+    },
+    {
+      "id": "74.03.13.1003",
+      "name": "Labunia"
+    },
+    {
+      "id": "74.03.13.2001",
+      "name": "Wambona"
+    },
+    {
+      "id": "74.03.13.2004",
+      "name": "Bhakealu (Bakealu)"
+    },
+    {
+      "id": "74.03.13.2005",
+      "name": "Pure"
+    },
+    {
+      "id": "74.03.13.2006",
+      "name": "Wakorumba"
+    },
+    {
+      "id": "74.03.14.2001",
+      "name": "Bangun Sari"
+    },
+    {
+      "id": "74.03.14.2002",
+      "name": "Labone"
+    },
+    {
+      "id": "74.03.14.2003",
+      "name": "Bonea"
+    },
+    {
+      "id": "74.03.14.2004",
+      "name": "Kombungo"
+    },
+    {
+      "id": "74.03.14.2005",
+      "name": "Labunti"
+    },
+    {
+      "id": "74.03.14.2006",
+      "name": "Parida"
+    },
+    {
+      "id": "74.03.14.2007",
+      "name": "Lasalepa"
+    },
+    {
+      "id": "74.03.15.1003",
+      "name": "Sidodadi"
+    },
+    {
+      "id": "74.03.15.1004",
+      "name": "Laiworu"
+    },
+    {
+      "id": "74.03.15.2001",
+      "name": "Wawesa"
+    },
+    {
+      "id": "74.03.15.2002",
+      "name": "Wakorambu"
+    },
+    {
+      "id": "74.03.16.1001",
+      "name": "Watonea"
+    },
+    {
+      "id": "74.03.16.1002",
+      "name": "Raha III"
+    },
+    {
+      "id": "74.03.16.1003",
+      "name": "Wamponiki"
+    },
+    {
+      "id": "74.03.16.1004",
+      "name": "Butung-Butung"
+    },
+    {
+      "id": "74.03.16.1005",
+      "name": "Raha II"
+    },
+    {
+      "id": "74.03.16.1006",
+      "name": "Foo Kuni (Mangga Kuning)"
+    },
+    {
+      "id": "74.03.16.1007",
+      "name": "Laende"
+    },
+    {
+      "id": "74.03.16.1008",
+      "name": "Raha I"
+    },
+    {
+      "id": "74.03.17.1002",
+      "name": "Palangga"
+    },
+    {
+      "id": "74.03.17.1005",
+      "name": "Wapunto"
+    },
+    {
+      "id": "74.03.17.2001",
+      "name": "Ghonsuma (Ghonsume)"
+    },
+    {
+      "id": "74.03.17.2003",
+      "name": "Lagasa"
+    },
+    {
+      "id": "74.03.17.2004",
+      "name": "Ghone Bhalano"
+    },
+    {
+      "id": "74.03.17.2006",
+      "name": "Lasunapa"
+    },
+    {
+      "id": "74.03.17.2007",
+      "name": "Banggai"
+    },
+    {
+      "id": "74.03.18.2001",
+      "name": "Liangkobori"
+    },
+    {
+      "id": "74.03.18.2002",
+      "name": "Maabholu"
+    },
+    {
+      "id": "74.03.18.2003",
+      "name": "Kondongia"
+    },
+    {
+      "id": "74.03.18.2004",
+      "name": "Waara (Waarah)"
+    },
+    {
+      "id": "74.03.18.2005",
+      "name": "Mantobua"
+    },
+    {
+      "id": "74.03.18.2006",
+      "name": "Loghiya"
+    },
+    {
+      "id": "74.03.18.2007",
+      "name": "Lohia"
+    },
+    {
+      "id": "74.03.18.2008",
+      "name": "Korihi"
+    },
+    {
+      "id": "74.03.18.2009",
+      "name": "Lakarinta"
+    },
+    {
+      "id": "74.03.19.1004",
+      "name": "Dana"
+    },
+    {
+      "id": "74.03.19.1007",
+      "name": "Wali"
+    },
+    {
+      "id": "74.03.19.2001",
+      "name": "Lakapodo"
+    },
+    {
+      "id": "74.03.19.2002",
+      "name": "Wakadia"
+    },
+    {
+      "id": "74.03.19.2003",
+      "name": "Matarawa"
+    },
+    {
+      "id": "74.03.19.2005",
+      "name": "Bhangkali Barat"
+    },
+    {
+      "id": "74.03.19.2006",
+      "name": "Bangkali"
+    },
+    {
+      "id": "74.03.19.2008",
+      "name": "Labaha"
+    },
+    {
+      "id": "74.03.20.2001",
+      "name": "Liabalano (Labalano)"
+    },
+    {
+      "id": "74.03.20.2002",
+      "name": "Lapodidi"
+    },
+    {
+      "id": "74.03.20.2003",
+      "name": "Bungi"
+    },
+    {
+      "id": "74.03.20.2004",
+      "name": "Kontunaga"
+    },
+    {
+      "id": "74.03.20.2005",
+      "name": "Maabhodo (Mabodo)"
+    },
+    {
+      "id": "74.03.20.2006",
+      "name": "Masalili"
+    },
+    {
+      "id": "74.03.23.2001",
+      "name": "Komba-Komba"
+    },
+    {
+      "id": "74.03.23.2002",
+      "name": "Kabangka"
+    },
+    {
+      "id": "74.03.23.2003",
+      "name": "Wakobulu Agung (Wakobalu Agung)"
+    },
+    {
+      "id": "74.03.23.2004",
+      "name": "Lupia"
+    },
+    {
+      "id": "74.03.23.2007",
+      "name": "Sarimulyo"
+    },
+    {
+      "id": "74.03.23.2008",
+      "name": "Oensuli"
+    },
+    {
+      "id": "74.03.23.2009",
+      "name": "Wansugi"
+    },
+    {
+      "id": "74.03.23.2010",
+      "name": "Wataliku"
+    },
+    {
+      "id": "74.03.23.2011",
+      "name": "Lakandito"
+    },
+    {
+      "id": "74.03.24.1009",
+      "name": "Laimpi"
+    },
+    {
+      "id": "74.03.24.2001",
+      "name": "Lamunu"
+    },
+    {
+      "id": "74.03.24.2002",
+      "name": "Kawite Wite"
+    },
+    {
+      "id": "74.03.24.2003",
+      "name": "Bente"
+    },
+    {
+      "id": "74.03.24.2004",
+      "name": "Bea"
+    },
+    {
+      "id": "74.03.24.2006",
+      "name": "Rangka"
+    },
+    {
+      "id": "74.03.24.2010",
+      "name": "Kambawuna"
+    },
+    {
+      "id": "74.03.24.2011",
+      "name": "Kontumere"
+    },
+    {
+      "id": "74.03.24.2012",
+      "name": "Lamaeo"
+    },
+    {
+      "id": "74.03.24.2013",
+      "name": "Wantiworo"
+    },
+    {
+      "id": "74.03.24.2014",
+      "name": "Kasaka"
+    },
+    {
+      "id": "74.03.25.1005",
+      "name": "Wakumoro"
+    },
+    {
+      "id": "74.03.25.1006",
+      "name": "Walambeno Wite"
+    },
+    {
+      "id": "74.03.25.1007",
+      "name": "Kolasa"
+    },
+    {
+      "id": "74.03.25.1009",
+      "name": "Wasolangka"
+    },
+    {
+      "id": "74.03.25.2001",
+      "name": "Labulu-Bulu"
+    },
+    {
+      "id": "74.03.25.2002",
+      "name": "Latumpu (Latampu / Tampu)"
+    },
+    {
+      "id": "74.03.25.2003",
+      "name": "Laiba"
+    },
+    {
+      "id": "74.03.25.2004",
+      "name": "Warambe"
+    },
+    {
+      "id": "74.03.25.2008",
+      "name": "Parigi"
+    },
+    {
+      "id": "74.03.25.2010",
+      "name": "Wapuale"
+    },
+    {
+      "id": "74.03.25.2012",
+      "name": "Kosundano"
+    },
+    {
+      "id": "74.03.26.2006",
+      "name": "Bone Tondo"
+    },
+    {
+      "id": "74.03.26.2007",
+      "name": "Bhone Kainsetala (Bone Kancitala)"
+    },
+    {
+      "id": "74.03.26.2008",
+      "name": "Bone Lolibu"
+    },
+    {
+      "id": "74.03.26.2009",
+      "name": "Oelongko"
+    },
+    {
+      "id": "74.03.26.2010",
+      "name": "Matombura"
+    },
+    {
+      "id": "74.03.27.1005",
+      "name": "Danagoa"
+    },
+    {
+      "id": "74.03.27.1007",
+      "name": "Kontumolepe"
+    },
+    {
+      "id": "74.03.27.1008",
+      "name": "Tombula"
+    },
+    {
+      "id": "74.03.27.2003",
+      "name": "Lamorende"
+    },
+    {
+      "id": "74.03.27.2004",
+      "name": "Laghontoghe / Lahontohe"
+    },
+    {
+      "id": "74.03.27.2006",
+      "name": "Lakologou"
+    },
+    {
+      "id": "74.03.27.2009",
+      "name": "Laano Sandana"
+    },
+    {
+      "id": "74.03.27.2014",
+      "name": "Oeno Kandoli"
+    },
+    {
+      "id": "74.03.27.2015",
+      "name": "Walengkabhola"
+    },
+    {
+      "id": "74.03.27.2016",
+      "name": "Fongkaniwa"
+    },
+    {
+      "id": "74.03.27.2017",
+      "name": "Matanooe (Matano Oe)"
+    },
+    {
+      "id": "74.03.27.2019",
+      "name": "Kotano Wuna"
+    },
+    {
+      "id": "74.03.28.2001",
+      "name": "Kogholifano (Koholifano)"
+    },
+    {
+      "id": "74.03.28.2002",
+      "name": "Pola"
+    },
+    {
+      "id": "74.03.28.2007",
+      "name": "Kamosope"
+    },
+    {
+      "id": "74.03.28.2008",
+      "name": "Liwumetingki"
+    },
+    {
+      "id": "74.03.28.2009",
+      "name": "Labulawa"
+    },
+    {
+      "id": "74.03.28.2010",
+      "name": "Bumbu"
+    },
+    {
+      "id": "74.03.30.2001",
+      "name": "Kafo Foo"
+    },
+    {
+      "id": "74.03.30.2002",
+      "name": "Karoo"
+    },
+    {
+      "id": "74.03.30.2003",
+      "name": "Kilambibito"
+    },
+    {
+      "id": "74.03.30.2004",
+      "name": "Bahutara"
+    },
+    {
+      "id": "74.03.30.2005",
+      "name": "Kontu Kowuna"
+    },
+    {
+      "id": "74.03.30.2006",
+      "name": "Laghorio (Lahorio)"
+    },
+    {
+      "id": "74.03.31.2001",
+      "name": "Marobo"
+    },
+    {
+      "id": "74.03.31.2002",
+      "name": "Wadolao / Wadolau"
+    },
+    {
+      "id": "74.03.31.2003",
+      "name": "Pasikuta"
+    },
+    {
+      "id": "74.03.31.2004",
+      "name": "Tapitapi"
+    },
+    {
+      "id": "74.03.31.2005",
+      "name": "Poaroha"
+    },
+    {
+      "id": "74.03.32.1001",
+      "name": "Katumpu"
+    },
+    {
+      "id": "74.03.32.2002",
+      "name": "Waale-ale (Waleale)"
+    },
+    {
+      "id": "74.03.32.2003",
+      "name": "Kulidawa (Kalidawa)"
+    },
+    {
+      "id": "74.03.32.2004",
+      "name": "Labasa"
+    },
+    {
+      "id": "74.03.32.2005",
+      "name": "Owe Waungka"
+    },
+    {
+      "id": "74.03.32.2006",
+      "name": "Lianosa"
+    },
+    {
+      "id": "74.03.33.2001",
+      "name": "Kolese"
+    },
+    {
+      "id": "74.03.33.2002",
+      "name": "Tampunabale"
+    },
+    {
+      "id": "74.03.33.2003",
+      "name": "Mata Indaha / Indah"
+    },
+    {
+      "id": "74.03.33.2004",
+      "name": "Lambelu"
+    },
+    {
+      "id": "74.03.34.2001",
+      "name": "Bone Bone"
+    },
+    {
+      "id": "74.03.34.2002",
+      "name": "Lanobake (Laano Bake)"
+    },
+    {
+      "id": "74.03.34.2003",
+      "name": "Moolo"
+    },
+    {
+      "id": "74.03.34.2004",
+      "name": "Baluara"
+    },
+    {
+      "id": "74.03.37.2001",
+      "name": "Wangkolabu"
+    },
+    {
+      "id": "74.03.37.2002",
+      "name": "Lakarama"
+    },
+    {
+      "id": "74.03.37.2003",
+      "name": "Moasi"
+    },
+    {
+      "id": "74.03.37.2004",
+      "name": "Renda"
+    },
+    {
+      "id": "74.03.37.2005",
+      "name": "Bhontu-Bhontu"
+    },
+    {
+      "id": "74.04.11.1005",
+      "name": "Wakoko"
+    },
+    {
+      "id": "74.04.11.1006",
+      "name": "Wasaga"
+    },
+    {
+      "id": "74.04.11.1020",
+      "name": "Holimombo"
+    },
+    {
+      "id": "74.04.11.1021",
+      "name": "Kombeli"
+    },
+    {
+      "id": "74.04.11.1022",
+      "name": "Takimpo"
+    },
+    {
+      "id": "74.04.11.1023",
+      "name": "Awainulu"
+    },
+    {
+      "id": "74.04.11.1026",
+      "name": "Kambulabulana"
+    },
+    {
+      "id": "74.04.11.1027",
+      "name": "Pasarwajo"
+    },
+    {
+      "id": "74.04.11.1028",
+      "name": "Saragi"
+    },
+    {
+      "id": "74.04.11.2002",
+      "name": "Waangu-angu (Wangu Angu)"
+    },
+    {
+      "id": "74.04.11.2003",
+      "name": "Warinta"
+    },
+    {
+      "id": "74.04.11.2004",
+      "name": "Lapodi"
+    },
+    {
+      "id": "74.04.11.2007",
+      "name": "Kancinaa"
+    },
+    {
+      "id": "74.04.11.2008",
+      "name": "Winning"
+    },
+    {
+      "id": "74.04.11.2017",
+      "name": "Holimombo Jaya"
+    },
+    {
+      "id": "74.04.11.2018",
+      "name": "Kondowa"
+    },
+    {
+      "id": "74.04.11.2019",
+      "name": "Dongkala"
+    },
+    {
+      "id": "74.04.11.2024",
+      "name": "Laburunci"
+    },
+    {
+      "id": "74.04.11.2025",
+      "name": "Banabungi"
+    },
+    {
+      "id": "74.04.11.2029",
+      "name": "Kabawakole"
+    },
+    {
+      "id": "74.04.11.2030",
+      "name": "Mantowu"
+    },
+    {
+      "id": "74.04.11.2031",
+      "name": "Kaongkeongkea"
+    },
+    {
+      "id": "74.04.22.1005",
+      "name": "Watumotobe"
+    },
+    {
+      "id": "74.04.22.1006",
+      "name": "Wakangka"
+    },
+    {
+      "id": "74.04.22.2001",
+      "name": "Barangka"
+    },
+    {
+      "id": "74.04.22.2002",
+      "name": "Wakalambe"
+    },
+    {
+      "id": "74.04.22.2003",
+      "name": "Boneatiro"
+    },
+    {
+      "id": "74.04.22.2004",
+      "name": "Lambusango"
+    },
+    {
+      "id": "74.04.22.2007",
+      "name": "Todanga"
+    },
+    {
+      "id": "74.04.22.2008",
+      "name": "Tuangila"
+    },
+    {
+      "id": "74.04.22.2009",
+      "name": "Waondo Wolio"
+    },
+    {
+      "id": "74.04.22.2010",
+      "name": "Bukit Asri"
+    },
+    {
+      "id": "74.04.22.2011",
+      "name": "Kamelanta"
+    },
+    {
+      "id": "74.04.22.2012",
+      "name": "Lambusango Timur"
+    },
+    {
+      "id": "74.04.22.2013",
+      "name": "Wakuli"
+    },
+    {
+      "id": "74.04.22.2014",
+      "name": "Mabulugo (Mambulugo)"
+    },
+    {
+      "id": "74.04.22.2015",
+      "name": "Wambulu"
+    },
+    {
+      "id": "74.04.22.2016",
+      "name": "Tumada"
+    },
+    {
+      "id": "74.04.22.2017",
+      "name": "Boneatiro Barat"
+    },
+    {
+      "id": "74.04.23.1005",
+      "name": "Kamaru"
+    },
+    {
+      "id": "74.04.23.2001",
+      "name": "Kakenauwe"
+    },
+    {
+      "id": "74.04.23.2002",
+      "name": "Waoleona"
+    },
+    {
+      "id": "74.04.23.2003",
+      "name": "Lawele"
+    },
+    {
+      "id": "74.04.23.2004",
+      "name": "Suandala"
+    },
+    {
+      "id": "74.04.23.2006",
+      "name": "Lasembangi"
+    },
+    {
+      "id": "74.04.23.2007",
+      "name": "Bonelalo"
+    },
+    {
+      "id": "74.04.23.2008",
+      "name": "Wasuamba"
+    },
+    {
+      "id": "74.04.23.2009",
+      "name": "Wagari"
+    },
+    {
+      "id": "74.04.23.2010",
+      "name": "Sribatara"
+    },
+    {
+      "id": "74.04.23.2011",
+      "name": "Togomangura (Togo Mangura)"
+    },
+    {
+      "id": "74.04.23.2012",
+      "name": "Wasambaa"
+    },
+    {
+      "id": "74.04.23.2013",
+      "name": "Benteng"
+    },
+    {
+      "id": "74.04.23.2014",
+      "name": "Talaga Baru"
+    },
+    {
+      "id": "74.04.23.2015",
+      "name": "Nambo"
+    },
+    {
+      "id": "74.04.24.2006",
+      "name": "Ambuau Indah"
+    },
+    {
+      "id": "74.04.24.2007",
+      "name": "Kinapani Makmur"
+    },
+    {
+      "id": "74.04.24.2008",
+      "name": "Mopaano/Mopano"
+    },
+    {
+      "id": "74.04.24.2009",
+      "name": "Umalaoge"
+    },
+    {
+      "id": "74.04.24.2010",
+      "name": "Lasalimu"
+    },
+    {
+      "id": "74.04.24.2011",
+      "name": "Wajah Jaya (Wajahjaya)"
+    },
+    {
+      "id": "74.04.24.2012",
+      "name": "Siontapina (Siotapina)"
+    },
+    {
+      "id": "74.04.24.2013",
+      "name": "Siomanuru"
+    },
+    {
+      "id": "74.04.24.2016",
+      "name": "Mulya Jaya (Mulia Jaya)"
+    },
+    {
+      "id": "74.04.24.2017",
+      "name": "Harapan Jaya"
+    },
+    {
+      "id": "74.04.24.2018",
+      "name": "Sangia Arano"
+    },
+    {
+      "id": "74.04.24.2019",
+      "name": "Megabahari"
+    },
+    {
+      "id": "74.04.24.2020",
+      "name": "Sumber Agung"
+    },
+    {
+      "id": "74.04.24.2021",
+      "name": "Rejo Sari"
+    },
+    {
+      "id": "74.04.24.2022",
+      "name": "Ambuau Togo"
+    },
+    {
+      "id": "74.04.24.2023",
+      "name": "Balimu"
+    },
+    {
+      "id": "74.04.27.2001",
+      "name": "Walompo"
+    },
+    {
+      "id": "74.04.27.2002",
+      "name": "Matanauwe"
+    },
+    {
+      "id": "74.04.27.2003",
+      "name": "Sampuabalo"
+    },
+    {
+      "id": "74.04.27.2004",
+      "name": "Kuraa"
+    },
+    {
+      "id": "74.04.27.2005",
+      "name": "Kumbewaha"
+    },
+    {
+      "id": "74.04.27.2006",
+      "name": "Sumber Sari"
+    },
+    {
+      "id": "74.04.27.2007",
+      "name": "Labuandiri"
+    },
+    {
+      "id": "74.04.27.2008",
+      "name": "Karya Jaya"
+    },
+    {
+      "id": "74.04.27.2009",
+      "name": "Manuru"
+    },
+    {
+      "id": "74.04.27.2010",
+      "name": "Gunungjaya (Gunung Jaya)"
+    },
+    {
+      "id": "74.04.27.2011",
+      "name": "Bahari Makmur"
+    },
+    {
+      "id": "74.04.28.2001",
+      "name": "Kaumbu"
+    },
+    {
+      "id": "74.04.28.2002",
+      "name": "Wolowa"
+    },
+    {
+      "id": "74.04.28.2003",
+      "name": "Matawia"
+    },
+    {
+      "id": "74.04.28.2004",
+      "name": "Wolowa Baru"
+    },
+    {
+      "id": "74.04.28.2005",
+      "name": "Suka Maju (Sukamaju)"
+    },
+    {
+      "id": "74.04.28.2006",
+      "name": "Bungi"
+    },
+    {
+      "id": "74.04.28.2007",
+      "name": "Galanti"
+    },
+    {
+      "id": "74.04.29.2001",
+      "name": "Wasuemba"
+    },
+    {
+      "id": "74.04.29.2002",
+      "name": "Wabula"
+    },
+    {
+      "id": "74.04.29.2003",
+      "name": "Wasampela"
+    },
+    {
+      "id": "74.04.29.2004",
+      "name": "Holimombo"
+    },
+    {
+      "id": "74.04.29.2005",
+      "name": "Koholimembona (Koholimombona)"
+    },
+    {
+      "id": "74.04.29.2006",
+      "name": "Wabula Satu"
+    },
+    {
+      "id": "74.04.29.2007",
+      "name": "Bajo Bahari"
+    },
+    {
+      "id": "74.05.01.1001",
+      "name": "Tinanggea"
+    },
+    {
+      "id": "74.05.01.1002",
+      "name": "Ngapaah (Ngapaaha)"
+    },
+    {
+      "id": "74.05.01.2003",
+      "name": "Lapoa"
+    },
+    {
+      "id": "74.05.01.2006",
+      "name": "Asingi"
+    },
+    {
+      "id": "74.05.01.2007",
+      "name": "Watu Melewe (Watumelewe)"
+    },
+    {
+      "id": "74.05.01.2009",
+      "name": "Wadonggo (Wadanggo)"
+    },
+    {
+      "id": "74.05.01.2010",
+      "name": "Bungin Permai"
+    },
+    {
+      "id": "74.05.01.2014",
+      "name": "Palotawo (Palo Tawo)"
+    },
+    {
+      "id": "74.05.01.2019",
+      "name": "Lalonggasu"
+    },
+    {
+      "id": "74.05.01.2020",
+      "name": "Moolo Indah"
+    },
+    {
+      "id": "74.05.01.2021",
+      "name": "Telutu Jaya"
+    },
+    {
+      "id": "74.05.01.2023",
+      "name": "Torokeku"
+    },
+    {
+      "id": "74.05.01.2024",
+      "name": "Lapulu"
+    },
+    {
+      "id": "74.05.01.2027",
+      "name": "Roraya"
+    },
+    {
+      "id": "74.05.01.2029",
+      "name": "Lanowulu"
+    },
+    {
+      "id": "74.05.01.2030",
+      "name": "Lalo Watu"
+    },
+    {
+      "id": "74.05.01.2032",
+      "name": "Tatangge"
+    },
+    {
+      "id": "74.05.01.2033",
+      "name": "Wundumbolo"
+    },
+    {
+      "id": "74.05.01.2034",
+      "name": "Panggoosi"
+    },
+    {
+      "id": "74.05.01.2035",
+      "name": "Bomba-bomba"
+    },
+    {
+      "id": "74.05.01.2036",
+      "name": "Akuni"
+    },
+    {
+      "id": "74.05.01.2037",
+      "name": "Lasuai"
+    },
+    {
+      "id": "74.05.01.2038",
+      "name": "Matambawi"
+    },
+    {
+      "id": "74.05.01.2039",
+      "name": "Matandahi"
+    },
+    {
+      "id": "74.05.02.2001",
+      "name": "Pewutaa"
+    },
+    {
+      "id": "74.05.02.2002",
+      "name": "Aopa"
+    },
+    {
+      "id": "74.05.02.2003",
+      "name": "Motaha"
+    },
+    {
+      "id": "74.05.02.2004",
+      "name": "Lamoen"
+    },
+    {
+      "id": "74.05.02.2005",
+      "name": "Puusanggula"
+    },
+    {
+      "id": "74.05.02.2006",
+      "name": "Puao"
+    },
+    {
+      "id": "74.05.02.2007",
+      "name": "Sandey"
+    },
+    {
+      "id": "74.05.02.2008",
+      "name": "Teteasa"
+    },
+    {
+      "id": "74.05.02.2009",
+      "name": "Simbangu"
+    },
+    {
+      "id": "74.05.02.2010",
+      "name": "Lamooso"
+    },
+    {
+      "id": "74.05.02.2011",
+      "name": "Landabaro"
+    },
+    {
+      "id": "74.05.02.2012",
+      "name": "Puungoni"
+    },
+    {
+      "id": "74.05.02.2013",
+      "name": "Sandarsi Jaya"
+    },
+    {
+      "id": "74.05.02.2014",
+      "name": "Puuroe"
+    },
+    {
+      "id": "74.05.02.2015",
+      "name": "Lamoeri"
+    },
+    {
+      "id": "74.05.02.2016",
+      "name": "Kasebo"
+    },
+    {
+      "id": "74.05.02.2017",
+      "name": "Mataiwoi"
+    },
+    {
+      "id": "74.05.02.2018",
+      "name": "Angata"
+    },
+    {
+      "id": "74.05.02.2019",
+      "name": "Pudambu"
+    },
+    {
+      "id": "74.05.02.2020",
+      "name": "Matabondu"
+    },
+    {
+      "id": "74.05.02.2040",
+      "name": "Mokoau"
+    },
+    {
+      "id": "74.05.02.2041",
+      "name": "Boloso"
+    },
+    {
+      "id": "74.05.02.2042",
+      "name": "Puulipu"
+    },
+    {
+      "id": "74.05.02.2043",
+      "name": "Langgea Indah"
+    },
+    {
+      "id": "74.05.03.1002",
+      "name": "Alangga"
+    },
+    {
+      "id": "74.05.03.1018",
+      "name": "Potoro"
+    },
+    {
+      "id": "74.05.03.2001",
+      "name": "Andoolo"
+    },
+    {
+      "id": "74.05.03.2004",
+      "name": "Alengge Agung"
+    },
+    {
+      "id": "74.05.03.2010",
+      "name": "Bumi Raya"
+    },
+    {
+      "id": "74.05.03.2014",
+      "name": "Lalobao"
+    },
+    {
+      "id": "74.05.03.2015",
+      "name": "Lalonggombu"
+    },
+    {
+      "id": "74.05.03.2026",
+      "name": "Wunduwatu"
+    },
+    {
+      "id": "74.05.03.2031",
+      "name": "Punggapu"
+    },
+    {
+      "id": "74.05.03.2033",
+      "name": "Ataku"
+    },
+    {
+      "id": "74.05.04.1001",
+      "name": "Palangga"
+    },
+    {
+      "id": "74.05.04.2003",
+      "name": "Aosole"
+    },
+    {
+      "id": "74.05.04.2005",
+      "name": "Anggondara"
+    },
+    {
+      "id": "74.05.04.2007",
+      "name": "Eewa"
+    },
+    {
+      "id": "74.05.04.2008",
+      "name": "Kiaea"
+    },
+    {
+      "id": "74.05.04.2011",
+      "name": "Mekar Sari"
+    },
+    {
+      "id": "74.05.04.2013",
+      "name": "Onembute"
+    },
+    {
+      "id": "74.05.04.2018",
+      "name": "Waworaha"
+    },
+    {
+      "id": "74.05.04.2019",
+      "name": "Watumerembe"
+    },
+    {
+      "id": "74.05.04.2022",
+      "name": "Wawouru"
+    },
+    {
+      "id": "74.05.04.2025",
+      "name": "Alakaya"
+    },
+    {
+      "id": "74.05.04.2029",
+      "name": "Wawonggura"
+    },
+    {
+      "id": "74.05.04.2030",
+      "name": "Kapujaya (Kapu Jaya)"
+    },
+    {
+      "id": "74.05.04.2031",
+      "name": "Watudemba"
+    },
+    {
+      "id": "74.05.04.2032",
+      "name": "Sanggi-Sanggi"
+    },
+    {
+      "id": "74.05.05.1001",
+      "name": "Landono"
+    },
+    {
+      "id": "74.05.05.2008",
+      "name": "Lalonggapu"
+    },
+    {
+      "id": "74.05.05.2009",
+      "name": "Matabenua / Watawunua"
+    },
+    {
+      "id": "74.05.05.2014",
+      "name": "Tridana Mulia"
+    },
+    {
+      "id": "74.05.05.2015",
+      "name": "Landono Dua"
+    },
+    {
+      "id": "74.05.05.2016",
+      "name": "Amotowo"
+    },
+    {
+      "id": "74.05.05.2022",
+      "name": "Abenggi"
+    },
+    {
+      "id": "74.05.05.2023",
+      "name": "Arongo"
+    },
+    {
+      "id": "74.05.05.2024",
+      "name": "Endanga"
+    },
+    {
+      "id": "74.05.05.2028",
+      "name": "Wonua Koa"
+    },
+    {
+      "id": "74.05.05.2032",
+      "name": "Wonua Sangia"
+    },
+    {
+      "id": "74.05.05.2035",
+      "name": "Lakomea"
+    },
+    {
+      "id": "74.05.05.2042",
+      "name": "Morini Mulya"
+    },
+    {
+      "id": "74.05.06.2011",
+      "name": "Lalonggombu"
+    },
+    {
+      "id": "74.05.06.2013",
+      "name": "Watumeeto"
+    },
+    {
+      "id": "74.05.06.2014",
+      "name": "Pamandati"
+    },
+    {
+      "id": "74.05.06.2015",
+      "name": "Pangan Jaya"
+    },
+    {
+      "id": "74.05.06.2020",
+      "name": "Aoroo (Aoreo)"
+    },
+    {
+      "id": "74.05.06.2021",
+      "name": "Kaindi"
+    },
+    {
+      "id": "74.05.06.2022",
+      "name": "Matabubu Jaya"
+    },
+    {
+      "id": "74.05.06.2024",
+      "name": "Lainea"
+    },
+    {
+      "id": "74.05.06.2025",
+      "name": "Molinese"
+    },
+    {
+      "id": "74.05.06.2026",
+      "name": "Polewali"
+    },
+    {
+      "id": "74.05.06.2027",
+      "name": "Bangun Jaya"
+    },
+    {
+      "id": "74.05.06.2028",
+      "name": "Kalo-kalo"
+    },
+    {
+      "id": "74.05.07.1001",
+      "name": "Konda"
+    },
+    {
+      "id": "74.05.07.2002",
+      "name": "Puosu Jaya"
+    },
+    {
+      "id": "74.05.07.2003",
+      "name": "Lamomea"
+    },
+    {
+      "id": "74.05.07.2004",
+      "name": "Alebo"
+    },
+    {
+      "id": "74.05.07.2005",
+      "name": "Morome (Morame)"
+    },
+    {
+      "id": "74.05.07.2006",
+      "name": "Lebo Jaya"
+    },
+    {
+      "id": "74.05.07.2007",
+      "name": "Lambusa"
+    },
+    {
+      "id": "74.05.07.2008",
+      "name": "Pambulsa Jaya (Pambulaa Jaya)"
+    },
+    {
+      "id": "74.05.07.2009",
+      "name": "Ambololi"
+    },
+    {
+      "id": "74.05.07.2010",
+      "name": "Tanea"
+    },
+    {
+      "id": "74.05.07.2011",
+      "name": "Masagena"
+    },
+    {
+      "id": "74.05.07.2012",
+      "name": "Cialam Jaya"
+    },
+    {
+      "id": "74.05.07.2013",
+      "name": "Wonua"
+    },
+    {
+      "id": "74.05.07.2014",
+      "name": "Lawoila"
+    },
+    {
+      "id": "74.05.07.2019",
+      "name": "Lalowiu"
+    },
+    {
+      "id": "74.05.07.2020",
+      "name": "Amohalo"
+    },
+    {
+      "id": "74.05.07.2021",
+      "name": "Ranowila"
+    },
+    {
+      "id": "74.05.07.2024",
+      "name": "Konda Satu"
+    },
+    {
+      "id": "74.05.08.1001",
+      "name": "Ranomeeto"
+    },
+    {
+      "id": "74.05.08.2002",
+      "name": "Onewila"
+    },
+    {
+      "id": "74.05.08.2004",
+      "name": "Boro-Boro R"
+    },
+    {
+      "id": "74.05.08.2005",
+      "name": "Rambu-Rambu Jaya"
+    },
+    {
+      "id": "74.05.08.2008",
+      "name": "Amoito"
+    },
+    {
+      "id": "74.05.08.2014",
+      "name": "Ambaipua"
+    },
+    {
+      "id": "74.05.08.2015",
+      "name": "Ranooha"
+    },
+    {
+      "id": "74.05.08.2016",
+      "name": "Langgea"
+    },
+    {
+      "id": "74.05.08.2017",
+      "name": "Kota Bangun"
+    },
+    {
+      "id": "74.05.08.2019",
+      "name": "Laikaha"
+    },
+    {
+      "id": "74.05.08.2020",
+      "name": "Duduria"
+    },
+    {
+      "id": "74.05.08.2021",
+      "name": "Amoito Siama"
+    },
+    {
+      "id": "74.05.09.1001",
+      "name": "Kolono"
+    },
+    {
+      "id": "74.05.09.2002",
+      "name": "Sawa"
+    },
+    {
+      "id": "74.05.09.2003",
+      "name": "Langgowala"
+    },
+    {
+      "id": "74.05.09.2004",
+      "name": "Waworano"
+    },
+    {
+      "id": "74.05.09.2005",
+      "name": "Matandahi"
+    },
+    {
+      "id": "74.05.09.2006",
+      "name": "Puupi"
+    },
+    {
+      "id": "74.05.09.2007",
+      "name": "Mataiwoi"
+    },
+    {
+      "id": "74.05.09.2008",
+      "name": "Tiraosu"
+    },
+    {
+      "id": "74.05.09.2009",
+      "name": "Mondoe Jaya"
+    },
+    {
+      "id": "74.05.09.2010",
+      "name": "Ulusena Jaya"
+    },
+    {
+      "id": "74.05.09.2011",
+      "name": "Lamotau"
+    },
+    {
+      "id": "74.05.09.2012",
+      "name": "Awunio"
+    },
+    {
+      "id": "74.05.09.2013",
+      "name": "Meletumbo"
+    },
+    {
+      "id": "74.05.09.2014",
+      "name": "Roda"
+    },
+    {
+      "id": "74.05.09.2016",
+      "name": "Lamapu"
+    },
+    {
+      "id": "74.05.09.2025",
+      "name": "Andinete"
+    },
+    {
+      "id": "74.05.09.2026",
+      "name": "Wawoosu"
+    },
+    {
+      "id": "74.05.09.2028",
+      "name": "Alosi"
+    },
+    {
+      "id": "74.05.09.2029",
+      "name": "Silea"
+    },
+    {
+      "id": "74.05.09.2030",
+      "name": "Puudongi"
+    },
+    {
+      "id": "74.05.09.2031",
+      "name": "Sarandua"
+    },
+    {
+      "id": "74.05.10.1001",
+      "name": "Lapuko"
+    },
+    {
+      "id": "74.05.10.2010",
+      "name": "Amohola"
+    },
+    {
+      "id": "74.05.10.2011",
+      "name": "Tambosupa"
+    },
+    {
+      "id": "74.05.10.2012",
+      "name": "Marga Citta (Marga Cinta)"
+    },
+    {
+      "id": "74.05.10.2013",
+      "name": "Moramo"
+    },
+    {
+      "id": "74.05.10.2014",
+      "name": "Bakutara (Bakutaru)"
+    },
+    {
+      "id": "74.05.10.2015",
+      "name": "Lakomea"
+    },
+    {
+      "id": "74.05.10.2016",
+      "name": "Landipo"
+    },
+    {
+      "id": "74.05.10.2017",
+      "name": "Lamboo"
+    },
+    {
+      "id": "74.05.10.2018",
+      "name": "Pudaria Jaya"
+    },
+    {
+      "id": "74.05.10.2019",
+      "name": "Sumber Sari"
+    },
+    {
+      "id": "74.05.10.2020",
+      "name": "Ulusena"
+    },
+    {
+      "id": "74.05.10.2021",
+      "name": "Penambea Barata"
+    },
+    {
+      "id": "74.05.10.2022",
+      "name": "Wowosunggu (Wawosunggu)"
+    },
+    {
+      "id": "74.05.10.2023",
+      "name": "Wawondengi"
+    },
+    {
+      "id": "74.05.10.2025",
+      "name": "Watu Porambaa"
+    },
+    {
+      "id": "74.05.10.2026",
+      "name": "Wonua Jaya"
+    },
+    {
+      "id": "74.05.10.2027",
+      "name": "Bisikori"
+    },
+    {
+      "id": "74.05.10.2028",
+      "name": "Ranooha Raya"
+    },
+    {
+      "id": "74.05.10.2029",
+      "name": "Selabangga"
+    },
+    {
+      "id": "74.05.11.2001",
+      "name": "Labaun Beropa (Labuan Beropa)"
+    },
+    {
+      "id": "74.05.11.2002",
+      "name": "Tambolosu"
+    },
+    {
+      "id": "74.05.11.2003",
+      "name": "Woru Woru"
+    },
+    {
+      "id": "74.05.11.2004",
+      "name": "Tambeanga"
+    },
+    {
+      "id": "74.05.11.2005",
+      "name": "Labotaone"
+    },
+    {
+      "id": "74.05.11.2006",
+      "name": "Batu Jaya"
+    },
+    {
+      "id": "74.05.11.2007",
+      "name": "Namu"
+    },
+    {
+      "id": "74.05.11.2008",
+      "name": "Malaringgi"
+    },
+    {
+      "id": "74.05.11.2009",
+      "name": "Tue Tue"
+    },
+    {
+      "id": "74.05.11.2010",
+      "name": "Sangi-Sangi"
+    },
+    {
+      "id": "74.05.11.2011",
+      "name": "Ulu Sawa"
+    },
+    {
+      "id": "74.05.11.2012",
+      "name": "Lawisata"
+    },
+    {
+      "id": "74.05.11.2013",
+      "name": "Kondono"
+    },
+    {
+      "id": "74.05.11.2014",
+      "name": "Peo Indah"
+    },
+    {
+      "id": "74.05.11.2015",
+      "name": "Puudirangga (Puundirangga)"
+    },
+    {
+      "id": "74.05.11.2016",
+      "name": "Cempedak"
+    },
+    {
+      "id": "74.05.11.2017",
+      "name": "Laonti"
+    },
+    {
+      "id": "74.05.11.2018",
+      "name": "Rumbia Rumbia"
+    },
+    {
+      "id": "74.05.11.2020",
+      "name": "Wandaeha"
+    },
+    {
+      "id": "74.05.12.1005",
+      "name": "Atari Indah"
+    },
+    {
+      "id": "74.05.12.2001",
+      "name": "Lambodi Jaya"
+    },
+    {
+      "id": "74.05.12.2002",
+      "name": "Atari Jaya"
+    },
+    {
+      "id": "74.05.12.2003",
+      "name": "Mokupa Jaya (Makupa Jaya)"
+    },
+    {
+      "id": "74.05.12.2004",
+      "name": "Lambandia"
+    },
+    {
+      "id": "74.05.12.2006",
+      "name": "Kapuwila"
+    },
+    {
+      "id": "74.05.12.2007",
+      "name": "Puunangga"
+    },
+    {
+      "id": "74.05.12.2008",
+      "name": "Teteinea (Teteinea Jaya)"
+    },
+    {
+      "id": "74.05.12.2009",
+      "name": "Puurema Subur"
+    },
+    {
+      "id": "74.05.12.2010",
+      "name": "Lelembu Jaya (Lalembu Jaya)"
+    },
+    {
+      "id": "74.05.12.2011",
+      "name": "Sukamukti (Suka Mukti)"
+    },
+    {
+      "id": "74.05.12.2012",
+      "name": "Potuho Jaya"
+    },
+    {
+      "id": "74.05.12.2013",
+      "name": "Mondoke (Mandoke)"
+    },
+    {
+      "id": "74.05.12.2014",
+      "name": "Sumber Jaya"
+    },
+    {
+      "id": "74.05.12.2015",
+      "name": "Merongga Raya"
+    },
+    {
+      "id": "74.05.12.2016",
+      "name": "Tombeleu"
+    },
+    {
+      "id": "74.05.12.2017",
+      "name": "Padaleu"
+    },
+    {
+      "id": "74.05.12.2018",
+      "name": "Lalouesamba"
+    },
+    {
+      "id": "74.05.13.2001",
+      "name": "Lamara"
+    },
+    {
+      "id": "74.05.13.2002",
+      "name": "Puosu (Puuosu)"
+    },
+    {
+      "id": "74.05.13.2003",
+      "name": "Benua Utama"
+    },
+    {
+      "id": "74.05.13.2004",
+      "name": "Horodopi"
+    },
+    {
+      "id": "74.05.13.2005",
+      "name": "Benua"
+    },
+    {
+      "id": "74.05.13.2006",
+      "name": "Palawewu (Palowewu)"
+    },
+    {
+      "id": "74.05.13.2007",
+      "name": "Puunggawu Kawu (Punggawukawu)"
+    },
+    {
+      "id": "74.05.13.2008",
+      "name": "Uelawa"
+    },
+    {
+      "id": "74.05.13.2009",
+      "name": "Tetehaka"
+    },
+    {
+      "id": "74.05.13.2010",
+      "name": "Awalo"
+    },
+    {
+      "id": "74.05.13.2011",
+      "name": "Kosambi"
+    },
+    {
+      "id": "74.05.13.2012",
+      "name": "Puuwehuko"
+    },
+    {
+      "id": "74.05.14.1001",
+      "name": "Amondo (Amonda)"
+    },
+    {
+      "id": "74.05.14.2002",
+      "name": "Lakara"
+    },
+    {
+      "id": "74.05.14.2003",
+      "name": "Parasi"
+    },
+    {
+      "id": "74.05.14.2004",
+      "name": "Ulu Lakara (Ululakara)"
+    },
+    {
+      "id": "74.05.14.2005",
+      "name": "Watu Mbohoti (Watumbohoti)"
+    },
+    {
+      "id": "74.05.14.2006",
+      "name": "Wawo Wonua"
+    },
+    {
+      "id": "74.05.14.2007",
+      "name": "Watu Rapa (Watarapa / Waturapa)"
+    },
+    {
+      "id": "74.05.14.2008",
+      "name": "Koeono"
+    },
+    {
+      "id": "74.05.14.2009",
+      "name": "Lalowua"
+    },
+    {
+      "id": "74.05.14.2010",
+      "name": "Mondoe"
+    },
+    {
+      "id": "74.05.15.2001",
+      "name": "Kondoano"
+    },
+    {
+      "id": "74.05.15.2002",
+      "name": "Punggulahi"
+    },
+    {
+      "id": "74.05.15.2003",
+      "name": "Lamelori (Lamolori)"
+    },
+    {
+      "id": "74.05.15.2004",
+      "name": "Toluwonua"
+    },
+    {
+      "id": "74.05.15.2005",
+      "name": "Mulyasari (Mulya Sari / Muliasari)"
+    },
+    {
+      "id": "74.05.15.2006",
+      "name": "Rakawuta"
+    },
+    {
+      "id": "74.05.15.2007",
+      "name": "Ranoaopa (Rano Aopa)"
+    },
+    {
+      "id": "74.05.15.2008",
+      "name": "Mowila"
+    },
+    {
+      "id": "74.05.15.2009",
+      "name": "Lalosingi"
+    },
+    {
+      "id": "74.05.15.2010",
+      "name": "Wuura"
+    },
+    {
+      "id": "74.05.15.2011",
+      "name": "Pudahoa (Pudohoa)"
+    },
+    {
+      "id": "74.05.15.2012",
+      "name": "Monapa"
+    },
+    {
+      "id": "74.05.15.2013",
+      "name": "Puuwehuko (Puwehuko)"
+    },
+    {
+      "id": "74.05.15.2014",
+      "name": "Ranombayasa (Rano Mbayasa)"
+    },
+    {
+      "id": "74.05.15.2015",
+      "name": "Wanuakongga (Wanua Kongga)"
+    },
+    {
+      "id": "74.05.15.2016",
+      "name": "Mataiwoi"
+    },
+    {
+      "id": "74.05.15.2017",
+      "name": "Lamebara (Lamibara)"
+    },
+    {
+      "id": "74.05.15.2018",
+      "name": "Tetesingi"
+    },
+    {
+      "id": "74.05.15.2019",
+      "name": "Wonua Sari"
+    },
+    {
+      "id": "74.05.15.2020",
+      "name": "Wonua Monapa"
+    },
+    {
+      "id": "74.05.16.1002",
+      "name": "Lalowaru"
+    },
+    {
+      "id": "74.05.16.2001",
+      "name": "Puasana"
+    },
+    {
+      "id": "74.05.16.2003",
+      "name": "Tanjung Tiram"
+    },
+    {
+      "id": "74.05.16.2004",
+      "name": "Wawatu"
+    },
+    {
+      "id": "74.05.16.2005",
+      "name": "Sanggula"
+    },
+    {
+      "id": "74.05.16.2006",
+      "name": "Lombueya (Lombuea)"
+    },
+    {
+      "id": "74.05.16.2007",
+      "name": "Mekar Jaya"
+    },
+    {
+      "id": "74.05.16.2008",
+      "name": "Lamokula"
+    },
+    {
+      "id": "74.05.16.2009",
+      "name": "Mata Watu-Watu"
+    },
+    {
+      "id": "74.05.16.2010",
+      "name": "Mata Lamokula"
+    },
+    {
+      "id": "74.05.17.2001",
+      "name": "Andoolo Utama (Andolo Utama)"
+    },
+    {
+      "id": "74.05.17.2002",
+      "name": "Anggokoti"
+    },
+    {
+      "id": "74.05.17.2003",
+      "name": "Asembu Mulya"
+    },
+    {
+      "id": "74.05.17.2004",
+      "name": "Awalo (Awolo)"
+    },
+    {
+      "id": "74.05.17.2005",
+      "name": "Adaka Jaya"
+    },
+    {
+      "id": "74.05.17.2006",
+      "name": "Buke"
+    },
+    {
+      "id": "74.05.17.2007",
+      "name": "Pelandia"
+    },
+    {
+      "id": "74.05.17.2008",
+      "name": "Puudaria (Puudaria Jaya)"
+    },
+    {
+      "id": "74.05.17.2009",
+      "name": "Rahamendaa (Raha Menda Jaya)"
+    },
+    {
+      "id": "74.05.17.2010",
+      "name": "Silea Jaya"
+    },
+    {
+      "id": "74.05.17.2011",
+      "name": "Tirto Martani (Tirto / Tirta Wartani)"
+    },
+    {
+      "id": "74.05.17.2012",
+      "name": "Tetenggolasa"
+    },
+    {
+      "id": "74.05.17.2013",
+      "name": "Adayu Indah"
+    },
+    {
+      "id": "74.05.17.2014",
+      "name": "Wanua Maroa"
+    },
+    {
+      "id": "74.05.17.2015",
+      "name": "Wulele Jaya"
+    },
+    {
+      "id": "74.05.17.2016",
+      "name": "Ranooha Lestari"
+    },
+    {
+      "id": "74.05.18.2001",
+      "name": "Wolasi"
+    },
+    {
+      "id": "74.05.18.2002",
+      "name": "Aoma"
+    },
+    {
+      "id": "74.05.18.2003",
+      "name": "Amoito Jaya"
+    },
+    {
+      "id": "74.05.18.2004",
+      "name": "Leleka"
+    },
+    {
+      "id": "74.05.18.2005",
+      "name": "Mata Wolasi"
+    },
+    {
+      "id": "74.05.18.2007",
+      "name": "Aunupe"
+    },
+    {
+      "id": "74.05.19.1001",
+      "name": "Puunggaluku (Punggaluku)"
+    },
+    {
+      "id": "74.05.19.1002",
+      "name": "Ambalodangge"
+    },
+    {
+      "id": "74.05.19.2003",
+      "name": "Aepodu"
+    },
+    {
+      "id": "74.05.19.2004",
+      "name": "Rambu-Rambu"
+    },
+    {
+      "id": "74.05.19.2005",
+      "name": "Ombu-Ombu Jaya"
+    },
+    {
+      "id": "74.05.19.2006",
+      "name": "Lamong Jaya"
+    },
+    {
+      "id": "74.05.19.2007",
+      "name": "Lerepako"
+    },
+    {
+      "id": "74.05.19.2008",
+      "name": "Ambesea"
+    },
+    {
+      "id": "74.05.19.2009",
+      "name": "Laeya"
+    },
+    {
+      "id": "74.05.19.2010",
+      "name": "Labokeo"
+    },
+    {
+      "id": "74.05.19.2011",
+      "name": "Torobulu"
+    },
+    {
+      "id": "74.05.19.2012",
+      "name": "Anduna"
+    },
+    {
+      "id": "74.05.19.2013",
+      "name": "Ambakumina (Ambukumina)"
+    },
+    {
+      "id": "74.05.19.2014",
+      "name": "Lambakara"
+    },
+    {
+      "id": "74.05.19.2015",
+      "name": "Anggoroboti"
+    },
+    {
+      "id": "74.05.19.2016",
+      "name": "Wonua Kongga"
+    },
+    {
+      "id": "74.05.19.2017",
+      "name": "Puuwulo"
+    },
+    {
+      "id": "74.05.20.2001",
+      "name": "Amosara (Amasara)"
+    },
+    {
+      "id": "74.05.20.2002",
+      "name": "Baito"
+    },
+    {
+      "id": "74.05.20.2003",
+      "name": "Matabubu"
+    },
+    {
+      "id": "74.05.20.2004",
+      "name": "Mekar Jaya"
+    },
+    {
+      "id": "74.05.20.2005",
+      "name": "Sambahule"
+    },
+    {
+      "id": "74.05.20.2006",
+      "name": "Tolihe"
+    },
+    {
+      "id": "74.05.20.2007",
+      "name": "Wonua/Wanua Raya"
+    },
+    {
+      "id": "74.05.20.2008",
+      "name": "Ahuangguluri"
+    },
+    {
+      "id": "74.05.21.2001",
+      "name": "Iwoimendoro (Iwoi Mendoro)"
+    },
+    {
+      "id": "74.05.21.2002",
+      "name": "Epeesi"
+    },
+    {
+      "id": "74.05.21.2003",
+      "name": "Lere"
+    },
+    {
+      "id": "74.05.21.2004",
+      "name": "Lipumasagena (Lipu Masagena)"
+    },
+    {
+      "id": "74.05.21.2005",
+      "name": "Lambandia"
+    },
+    {
+      "id": "74.05.21.2006",
+      "name": "Polo-Pololi"
+    },
+    {
+      "id": "74.05.21.2007",
+      "name": "Basala"
+    },
+    {
+      "id": "74.05.21.2008",
+      "name": "Tambekuku (Tombekuku)"
+    },
+    {
+      "id": "74.05.21.2009",
+      "name": "Teporombua"
+    },
+    {
+      "id": "74.05.22.2001",
+      "name": "Amokuni"
+    },
+    {
+      "id": "74.05.22.2002",
+      "name": "Sindang Kasih"
+    },
+    {
+      "id": "74.05.22.2003",
+      "name": "Jati Bali"
+    },
+    {
+      "id": "74.05.22.2004",
+      "name": "Laikandonga"
+    },
+    {
+      "id": "74.05.22.2005",
+      "name": "Boro-Boro Lameuru"
+    },
+    {
+      "id": "74.05.22.2006",
+      "name": "Opaasi"
+    },
+    {
+      "id": "74.05.22.2007",
+      "name": "Lameruru (Lameuru)"
+    },
+    {
+      "id": "74.05.22.2008",
+      "name": "Ambeko (Abeko)"
+    },
+    {
+      "id": "74.05.22.2009",
+      "name": "Tunduno"
+    },
+    {
+      "id": "74.05.23.2001",
+      "name": "Rambu-Rambu"
+    },
+    {
+      "id": "74.05.23.2002",
+      "name": "Lambangi"
+    },
+    {
+      "id": "74.05.23.2003",
+      "name": "Tumbu-Tumbu Jaya"
+    },
+    {
+      "id": "74.05.23.2004",
+      "name": "Ngapawali"
+    },
+    {
+      "id": "74.05.23.2005",
+      "name": "Batuh Putih (Batu Putih)"
+    },
+    {
+      "id": "74.05.23.2006",
+      "name": "Rumba-Rumba"
+    },
+    {
+      "id": "74.05.23.2007",
+      "name": "Ampera"
+    },
+    {
+      "id": "74.05.23.2008",
+      "name": "Amolengu"
+    },
+    {
+      "id": "74.05.23.2009",
+      "name": "Ulunese"
+    },
+    {
+      "id": "74.05.23.2010",
+      "name": "Langgapulu"
+    },
+    {
+      "id": "74.05.24.2001",
+      "name": "Sabulakoa"
+    },
+    {
+      "id": "74.05.24.2002",
+      "name": "Talumbinga"
+    },
+    {
+      "id": "74.05.24.2003",
+      "name": "Tetenggabo"
+    },
+    {
+      "id": "74.05.24.2004",
+      "name": "Watu-Watu"
+    },
+    {
+      "id": "74.05.24.2005",
+      "name": "Karoonua"
+    },
+    {
+      "id": "74.05.24.2006",
+      "name": "Ulu Sabulakoa"
+    },
+    {
+      "id": "74.05.24.2007",
+      "name": "Asaria"
+    },
+    {
+      "id": "74.05.24.2008",
+      "name": "Wawobende"
+    },
+    {
+      "id": "74.05.25.2001",
+      "name": "Papawu"
+    },
+    {
+      "id": "74.05.25.2002",
+      "name": "Anese"
+    },
+    {
+      "id": "74.05.25.2003",
+      "name": "Bekenggasu"
+    },
+    {
+      "id": "74.05.25.2004",
+      "name": "Watumokala"
+    },
+    {
+      "id": "74.05.25.2005",
+      "name": "Mataupe"
+    },
+    {
+      "id": "74.05.25.2006",
+      "name": "Bimamaroa"
+    },
+    {
+      "id": "74.05.25.2007",
+      "name": "Wawobende"
+    },
+    {
+      "id": "74.05.25.2008",
+      "name": "Lapoa Indah"
+    },
+    {
+      "id": "74.05.25.2009",
+      "name": "Puundoho"
+    },
+    {
+      "id": "74.05.25.2010",
+      "name": "Mataiwoi"
+    },
+    {
+      "id": "74.06.01.1007",
+      "name": "Boeara"
+    },
+    {
+      "id": "74.06.01.1008",
+      "name": "Kastarib"
+    },
+    {
+      "id": "74.06.01.1010",
+      "name": "Boepinang"
+    },
+    {
+      "id": "74.06.01.1015",
+      "name": "Boepinang Barat"
+    },
+    {
+      "id": "74.06.01.1016",
+      "name": "Barangka (Barangga)"
+    },
+    {
+      "id": "74.06.01.1017",
+      "name": "Kasabolo"
+    },
+    {
+      "id": "74.06.01.2009",
+      "name": "Pukurumba (Pokorumba)"
+    },
+    {
+      "id": "74.06.01.2011",
+      "name": "Pallimae"
+    },
+    {
+      "id": "74.06.01.2018",
+      "name": "Salosa"
+    },
+    {
+      "id": "74.06.01.2019",
+      "name": "Matiro Walie"
+    },
+    {
+      "id": "74.06.02.1011",
+      "name": "Bambaea"
+    },
+    {
+      "id": "74.06.02.1015",
+      "name": "Puu Lemo"
+    },
+    {
+      "id": "74.06.02.2003",
+      "name": "Teppoe"
+    },
+    {
+      "id": "74.06.02.2004",
+      "name": "Biru"
+    },
+    {
+      "id": "74.06.02.2010",
+      "name": "Mambo"
+    },
+    {
+      "id": "74.06.03.1010",
+      "name": "Taubonto"
+    },
+    {
+      "id": "74.06.03.2001",
+      "name": "Rau-Rau"
+    },
+    {
+      "id": "74.06.03.2008",
+      "name": "Ladumpi"
+    },
+    {
+      "id": "74.06.03.2009",
+      "name": "Rarowatu"
+    },
+    {
+      "id": "74.06.03.2011",
+      "name": "Lakomea"
+    },
+    {
+      "id": "74.06.03.2012",
+      "name": "Pangkuri"
+    },
+    {
+      "id": "74.06.03.2013",
+      "name": "Lampeantani"
+    },
+    {
+      "id": "74.06.03.2014",
+      "name": "Watu Kalangkari"
+    },
+    {
+      "id": "74.06.03.2015",
+      "name": "Tahi ite"
+    },
+    {
+      "id": "74.06.04.1002",
+      "name": "Lameroro"
+    },
+    {
+      "id": "74.06.04.1003",
+      "name": "Lampopala"
+    },
+    {
+      "id": "74.06.04.1004",
+      "name": "Doule"
+    },
+    {
+      "id": "74.06.04.1005",
+      "name": "Kasipute"
+    },
+    {
+      "id": "74.06.04.2001",
+      "name": "Lanto Wonua (Lantawonua)"
+    },
+    {
+      "id": "74.06.05.1009",
+      "name": "Teomokole"
+    },
+    {
+      "id": "74.06.05.1016",
+      "name": "Rahampuu"
+    },
+    {
+      "id": "74.06.05.2010",
+      "name": "Rahadopi"
+    },
+    {
+      "id": "74.06.05.2011",
+      "name": "Tirongkotua"
+    },
+    {
+      "id": "74.06.06.1009",
+      "name": "Dongkala"
+    },
+    {
+      "id": "74.06.06.1010",
+      "name": "Lambale"
+    },
+    {
+      "id": "74.06.06.2005",
+      "name": "Wumbuburo (Wumbubura)"
+    },
+    {
+      "id": "74.06.06.2006",
+      "name": "Balo"
+    },
+    {
+      "id": "74.06.06.2007",
+      "name": "Toli-Toli"
+    },
+    {
+      "id": "74.06.06.2008",
+      "name": "Tapuhaka"
+    },
+    {
+      "id": "74.06.06.2011",
+      "name": "Bungi-bungi"
+    },
+    {
+      "id": "74.06.07.2001",
+      "name": "Babamolingku (Baba Molingku)"
+    },
+    {
+      "id": "74.06.07.2002",
+      "name": "Toari Bombana (Toari Buton)"
+    },
+    {
+      "id": "74.06.07.2003",
+      "name": "Timbala"
+    },
+    {
+      "id": "74.06.07.2004",
+      "name": "Ranokomea (Rano Komea)"
+    },
+    {
+      "id": "74.06.07.2005",
+      "name": "Rakadua"
+    },
+    {
+      "id": "74.06.07.2006",
+      "name": "Lameong-Meong"
+    },
+    {
+      "id": "74.06.07.2007",
+      "name": "Pabiring"
+    },
+    {
+      "id": "74.06.07.2008",
+      "name": "Balasari"
+    },
+    {
+      "id": "74.06.07.2009",
+      "name": "Bulumanai"
+    },
+    {
+      "id": "74.06.07.2010",
+      "name": "Matabundu"
+    },
+    {
+      "id": "74.06.07.2011",
+      "name": "Analere"
+    },
+    {
+      "id": "74.06.08.2001",
+      "name": "Pomontoro"
+    },
+    {
+      "id": "74.06.08.2002",
+      "name": "Liano"
+    },
+    {
+      "id": "74.06.08.2003",
+      "name": "Pulau Tambako"
+    },
+    {
+      "id": "74.06.08.2004",
+      "name": "Lora"
+    },
+    {
+      "id": "74.06.08.2005",
+      "name": "Toli-Toli"
+    },
+    {
+      "id": "74.06.08.2006",
+      "name": "Tajuncu"
+    },
+    {
+      "id": "74.06.08.2007",
+      "name": "Mawar"
+    },
+    {
+      "id": "74.06.08.2008",
+      "name": "Laloa"
+    },
+    {
+      "id": "74.06.08.2009",
+      "name": "Batusampe Indah"
+    },
+    {
+      "id": "74.06.08.2010",
+      "name": "Hambawa"
+    },
+    {
+      "id": "74.06.08.2011",
+      "name": "Pu'u Waeya"
+    },
+    {
+      "id": "74.06.09.1008",
+      "name": "Aneka Marga"
+    },
+    {
+      "id": "74.06.09.2001",
+      "name": "Wumbubangka (Wumbu Bangka)"
+    },
+    {
+      "id": "74.06.09.2002",
+      "name": "Hukaea"
+    },
+    {
+      "id": "74.06.09.2003",
+      "name": "Lantowua"
+    },
+    {
+      "id": "74.06.09.2004",
+      "name": "Tembe"
+    },
+    {
+      "id": "74.06.09.2005",
+      "name": "Watu Mende (Watu Mentade)"
+    },
+    {
+      "id": "74.06.09.2006",
+      "name": "Marga Jaya"
+    },
+    {
+      "id": "74.06.09.2007",
+      "name": "Tunas Baru"
+    },
+    {
+      "id": "74.06.10.2001",
+      "name": "Tampawulu (Tanpabulu)"
+    },
+    {
+      "id": "74.06.10.2002",
+      "name": "Tanah Poleang"
+    },
+    {
+      "id": "74.06.10.2003",
+      "name": "Karya Baru"
+    },
+    {
+      "id": "74.06.10.2004",
+      "name": "Toburi"
+    },
+    {
+      "id": "74.06.10.2005",
+      "name": "Rompu Rompu"
+    },
+    {
+      "id": "74.06.10.2006",
+      "name": "Pulau Ea (Es)"
+    },
+    {
+      "id": "74.06.10.2007",
+      "name": "Lawatu Ea (Es)"
+    },
+    {
+      "id": "74.06.10.2008",
+      "name": "Wambarema"
+    },
+    {
+      "id": "74.06.11.2001",
+      "name": "Batu Putih"
+    },
+    {
+      "id": "74.06.11.2002",
+      "name": "Waemputang"
+    },
+    {
+      "id": "74.06.11.2003",
+      "name": "Kali Baru"
+    },
+    {
+      "id": "74.06.11.2004",
+      "name": "Akacipong"
+    },
+    {
+      "id": "74.06.11.2005",
+      "name": "La Ea"
+    },
+    {
+      "id": "74.06.12.2001",
+      "name": "Larete"
+    },
+    {
+      "id": "74.06.12.2002",
+      "name": "Lemo"
+    },
+    {
+      "id": "74.06.12.2003",
+      "name": "Terapung"
+    },
+    {
+      "id": "74.06.12.2004",
+      "name": "Lamoare"
+    },
+    {
+      "id": "74.06.12.2005",
+      "name": "Rambaha"
+    },
+    {
+      "id": "74.06.13.2001",
+      "name": "Langkema"
+    },
+    {
+      "id": "74.06.13.2002",
+      "name": "Batuawu"
+    },
+    {
+      "id": "74.06.13.2003",
+      "name": "Pongkalaero"
+    },
+    {
+      "id": "74.06.13.2004",
+      "name": "Puu Nunu"
+    },
+    {
+      "id": "74.06.14.1001",
+      "name": "Sikeli"
+    },
+    {
+      "id": "74.06.14.2002",
+      "name": "Baliara"
+    },
+    {
+      "id": "74.06.14.2003",
+      "name": "Rahantari"
+    },
+    {
+      "id": "74.06.14.2004",
+      "name": "Baliara Kepulauan"
+    },
+    {
+      "id": "74.06.14.2005",
+      "name": "Baliara Selatan"
+    },
+    {
+      "id": "74.06.15.2001",
+      "name": "Mapila"
+    },
+    {
+      "id": "74.06.15.2002",
+      "name": "Wumbulasa"
+    },
+    {
+      "id": "74.06.15.2003",
+      "name": "Sangia Makmur"
+    },
+    {
+      "id": "74.06.15.2004",
+      "name": "Eemokolo (Eeomokola)"
+    },
+    {
+      "id": "74.06.15.2005",
+      "name": "Tedubara"
+    },
+    {
+      "id": "74.06.15.2006",
+      "name": "Larolanu (Laromanu)"
+    },
+    {
+      "id": "74.06.16.2001",
+      "name": "Lamonggi"
+    },
+    {
+      "id": "74.06.16.2002",
+      "name": "Tangkeno"
+    },
+    {
+      "id": "74.06.16.2003",
+      "name": "Lengora"
+    },
+    {
+      "id": "74.06.16.2004",
+      "name": "Enano"
+    },
+    {
+      "id": "74.06.16.2005",
+      "name": "Ulungkura"
+    },
+    {
+      "id": "74.06.16.2006",
+      "name": "Lengora Selatan"
+    },
+    {
+      "id": "74.06.16.2007",
+      "name": "Lengora Pantai"
+    },
+    {
+      "id": "74.06.17.2001",
+      "name": "Masaloka"
+    },
+    {
+      "id": "74.06.17.2002",
+      "name": "Batu Lamburi"
+    },
+    {
+      "id": "74.06.17.2003",
+      "name": "Masaloka Selatan"
+    },
+    {
+      "id": "74.06.17.2004",
+      "name": "Masaloka Timur"
+    },
+    {
+      "id": "74.06.17.2005",
+      "name": "Masaloka Barat (Tengah)"
+    },
+    {
+      "id": "74.06.18.1001",
+      "name": "Lauru"
+    },
+    {
+      "id": "74.06.18.1002",
+      "name": "Poea"
+    },
+    {
+      "id": "74.06.18.1003",
+      "name": "Kampung Baru"
+    },
+    {
+      "id": "74.06.18.2004",
+      "name": "Tapuhahi"
+    },
+    {
+      "id": "74.06.18.2005",
+      "name": "Lampata"
+    },
+    {
+      "id": "74.06.19.2001",
+      "name": "Mulaeno"
+    },
+    {
+      "id": "74.06.19.2002",
+      "name": "Lebo Ea"
+    },
+    {
+      "id": "74.06.19.2003",
+      "name": "Paria"
+    },
+    {
+      "id": "74.06.19.2004",
+      "name": "Poleondro"
+    },
+    {
+      "id": "74.06.20.2001",
+      "name": "Tontonunu"
+    },
+    {
+      "id": "74.06.20.2002",
+      "name": "Tongkoseng"
+    },
+    {
+      "id": "74.06.20.2003",
+      "name": "Tete Haka"
+    },
+    {
+      "id": "74.06.20.2004",
+      "name": "Watu Melomba"
+    },
+    {
+      "id": "74.06.20.2005",
+      "name": "Puu Wonua"
+    },
+    {
+      "id": "74.06.21.2001",
+      "name": "Lambikasi"
+    },
+    {
+      "id": "74.06.21.2002",
+      "name": "Lantari"
+    },
+    {
+      "id": "74.06.21.2003",
+      "name": "Langkowala"
+    },
+    {
+      "id": "74.06.21.2004",
+      "name": "Pasare Apua"
+    },
+    {
+      "id": "74.06.21.2006",
+      "name": "Anugerah"
+    },
+    {
+      "id": "74.06.21.2007",
+      "name": "Kalaero"
+    },
+    {
+      "id": "74.06.21.2008",
+      "name": "Tinabite"
+    },
+    {
+      "id": "74.06.21.2009",
+      "name": "Rarongkeu"
+    },
+    {
+      "id": "74.06.21.2010",
+      "name": "Watu-Watu"
+    },
+    {
+      "id": "74.06.22.2001",
+      "name": "Kolombi Matausu"
+    },
+    {
+      "id": "74.06.22.2002",
+      "name": "Morengke"
+    },
+    {
+      "id": "74.06.22.2003",
+      "name": "Wia-Wia"
+    },
+    {
+      "id": "74.06.22.2004",
+      "name": "Lamuru"
+    },
+    {
+      "id": "74.06.22.2005",
+      "name": "Totole"
+    },
+    {
+      "id": "74.07.01.1002",
+      "name": "Pongo"
+    },
+    {
+      "id": "74.07.01.1003",
+      "name": "Wanci"
+    },
+    {
+      "id": "74.07.01.1004",
+      "name": "Wandoka"
+    },
+    {
+      "id": "74.07.01.1007",
+      "name": "Waetuno"
+    },
+    {
+      "id": "74.07.01.1025",
+      "name": "Wandoka Utara"
+    },
+    {
+      "id": "74.07.01.1026",
+      "name": "Wandoka Selatan"
+    },
+    {
+      "id": "74.07.01.2005",
+      "name": "Sombu"
+    },
+    {
+      "id": "74.07.01.2006",
+      "name": "Waha"
+    },
+    {
+      "id": "74.07.01.2008",
+      "name": "Tindoi"
+    },
+    {
+      "id": "74.07.01.2009",
+      "name": "Maleko"
+    },
+    {
+      "id": "74.07.01.2013",
+      "name": "Longa"
+    },
+    {
+      "id": "74.07.01.2022",
+      "name": "Pada Raya Makmur"
+    },
+    {
+      "id": "74.07.01.2023",
+      "name": "Waelumu"
+    },
+    {
+      "id": "74.07.01.2024",
+      "name": "Patuno"
+    },
+    {
+      "id": "74.07.01.2027",
+      "name": "Waginopo"
+    },
+    {
+      "id": "74.07.01.2028",
+      "name": "Tindoi Timur"
+    },
+    {
+      "id": "74.07.01.2029",
+      "name": "Posalu"
+    },
+    {
+      "id": "74.07.01.2030",
+      "name": "Koroe Onawa (Koroe Onawe)"
+    },
+    {
+      "id": "74.07.01.2031",
+      "name": "Wapia-pia"
+    },
+    {
+      "id": "74.07.01.2032",
+      "name": "Pookambua"
+    },
+    {
+      "id": "74.07.02.1002",
+      "name": "Laulua (Laolua)"
+    },
+    {
+      "id": "74.07.02.1004",
+      "name": "Ambeua"
+    },
+    {
+      "id": "74.07.02.1005",
+      "name": "Lagiwae"
+    },
+    {
+      "id": "74.07.02.1015",
+      "name": "Buranga"
+    },
+    {
+      "id": "74.07.02.2001",
+      "name": "Sombano"
+    },
+    {
+      "id": "74.07.02.2003",
+      "name": "Samabahari"
+    },
+    {
+      "id": "74.07.02.2006",
+      "name": "Ollo"
+    },
+    {
+      "id": "74.07.02.2007",
+      "name": "Horuo (Haruo)"
+    },
+    {
+      "id": "74.07.02.2016",
+      "name": "Balasuna"
+    },
+    {
+      "id": "74.07.02.2018",
+      "name": "Mantigola Makmur (Mantigola / Mantingola)"
+    },
+    {
+      "id": "74.07.02.2019",
+      "name": "Balasuna Selatan"
+    },
+    {
+      "id": "74.07.02.2020",
+      "name": "Ollo Selatan"
+    },
+    {
+      "id": "74.07.02.2021",
+      "name": "Waduri"
+    },
+    {
+      "id": "74.07.02.2022",
+      "name": "Lefuto (Lewuto)"
+    },
+    {
+      "id": "74.07.02.2023",
+      "name": "Ambeua Raya"
+    },
+    {
+      "id": "74.07.02.2024",
+      "name": "Kalimas"
+    },
+    {
+      "id": "74.07.03.1001",
+      "name": "Waha"
+    },
+    {
+      "id": "74.07.03.1016",
+      "name": "Onemay"
+    },
+    {
+      "id": "74.07.03.2002",
+      "name": "Waitii Barat"
+    },
+    {
+      "id": "74.07.03.2003",
+      "name": "Lamanggau"
+    },
+    {
+      "id": "74.07.03.2004",
+      "name": "Waiti (Waitii)"
+    },
+    {
+      "id": "74.07.03.2012",
+      "name": "Runduma"
+    },
+    {
+      "id": "74.07.03.2015",
+      "name": "Patua"
+    },
+    {
+      "id": "74.07.03.2017",
+      "name": "Teemoane"
+    },
+    {
+      "id": "74.07.03.2018",
+      "name": "Kollo Soha"
+    },
+    {
+      "id": "74.07.03.2019",
+      "name": "Patua Dua (II)"
+    },
+    {
+      "id": "74.07.04.1005",
+      "name": "Taipabu"
+    },
+    {
+      "id": "74.07.04.1007",
+      "name": "Palahidu"
+    },
+    {
+      "id": "74.07.04.1010",
+      "name": "Wali"
+    },
+    {
+      "id": "74.07.04.1012",
+      "name": "Rukuwa"
+    },
+    {
+      "id": "74.07.04.2006",
+      "name": "Makoro"
+    },
+    {
+      "id": "74.07.04.2008",
+      "name": "Kampo-Kampo (Kompo-Kompo)"
+    },
+    {
+      "id": "74.07.04.2009",
+      "name": "Lagongga (Longongga)"
+    },
+    {
+      "id": "74.07.04.2011",
+      "name": "Palahidu Barat"
+    },
+    {
+      "id": "74.07.04.2013",
+      "name": "Jaya Makmur"
+    },
+    {
+      "id": "74.07.05.1016",
+      "name": "Mandati II"
+    },
+    {
+      "id": "74.07.05.1017",
+      "name": "Mandati I"
+    },
+    {
+      "id": "74.07.05.1025",
+      "name": "Mandati III"
+    },
+    {
+      "id": "74.07.05.2011",
+      "name": "Kapota"
+    },
+    {
+      "id": "74.07.05.2012",
+      "name": "Komala"
+    },
+    {
+      "id": "74.07.05.2013",
+      "name": "Wungka"
+    },
+    {
+      "id": "74.07.05.2014",
+      "name": "Matahora (Metohora)"
+    },
+    {
+      "id": "74.07.05.2015",
+      "name": "Kabita"
+    },
+    {
+      "id": "74.07.05.2018",
+      "name": "Mola Utara"
+    },
+    {
+      "id": "74.07.05.2019",
+      "name": "Mola Selatan"
+    },
+    {
+      "id": "74.07.05.2020",
+      "name": "Numana"
+    },
+    {
+      "id": "74.07.05.2021",
+      "name": "Liya Mawi (Liyamawi)"
+    },
+    {
+      "id": "74.07.05.2022",
+      "name": "Liya Togo"
+    },
+    {
+      "id": "74.07.05.2023",
+      "name": "Kapota Utara"
+    },
+    {
+      "id": "74.07.05.2024",
+      "name": "Kabita Togo"
+    },
+    {
+      "id": "74.07.05.2026",
+      "name": "Liya Onemaelangka"
+    },
+    {
+      "id": "74.07.05.2027",
+      "name": "Wisata Kolo (Wisata Koto)"
+    },
+    {
+      "id": "74.07.05.2028",
+      "name": "Mola Samaturu"
+    },
+    {
+      "id": "74.07.05.2029",
+      "name": "Mola Bahari"
+    },
+    {
+      "id": "74.07.05.2030",
+      "name": "Mola Nelayan Bhakti"
+    },
+    {
+      "id": "74.07.05.2031",
+      "name": "Liya Bahari Indah"
+    },
+    {
+      "id": "74.07.06.2001",
+      "name": "Tampara"
+    },
+    {
+      "id": "74.07.06.2002",
+      "name": "Kasuwari (Kasuari/Kaswari)"
+    },
+    {
+      "id": "74.07.06.2003",
+      "name": "Pajam"
+    },
+    {
+      "id": "74.07.06.2004",
+      "name": "Langge"
+    },
+    {
+      "id": "74.07.06.2005",
+      "name": "Tanomeha"
+    },
+    {
+      "id": "74.07.06.2006",
+      "name": "Lentea"
+    },
+    {
+      "id": "74.07.06.2007",
+      "name": "Darawa"
+    },
+    {
+      "id": "74.07.06.2008",
+      "name": "Sandi"
+    },
+    {
+      "id": "74.07.06.2009",
+      "name": "Peropa"
+    },
+    {
+      "id": "74.07.06.2010",
+      "name": "Tanjung"
+    },
+    {
+      "id": "74.07.07.1001",
+      "name": "Patipelong"
+    },
+    {
+      "id": "74.07.07.1002",
+      "name": "Tongano Barat"
+    },
+    {
+      "id": "74.07.07.1003",
+      "name": "Bahari"
+    },
+    {
+      "id": "74.07.07.1004",
+      "name": "Tongano Timur"
+    },
+    {
+      "id": "74.07.07.1011",
+      "name": "Rukuwa"
+    },
+    {
+      "id": "74.07.07.2005",
+      "name": "Timu"
+    },
+    {
+      "id": "74.07.07.2006",
+      "name": "Dete"
+    },
+    {
+      "id": "74.07.07.2007",
+      "name": "Kulati (Kulate)"
+    },
+    {
+      "id": "74.07.07.2008",
+      "name": "Wawaotimu (Wawotimu)"
+    },
+    {
+      "id": "74.07.07.2009",
+      "name": "Kahiyanga (Kahianga)"
+    },
+    {
+      "id": "74.07.08.1003",
+      "name": "Sowa"
+    },
+    {
+      "id": "74.07.08.1004",
+      "name": "Popalia"
+    },
+    {
+      "id": "74.07.08.2001",
+      "name": "Waloindi"
+    },
+    {
+      "id": "74.07.08.2002",
+      "name": "Oihu"
+    },
+    {
+      "id": "74.07.08.2005",
+      "name": "Haka"
+    },
+    {
+      "id": "74.08.01.1001",
+      "name": "Lasusua"
+    },
+    {
+      "id": "74.08.01.2002",
+      "name": "Pitulua"
+    },
+    {
+      "id": "74.08.01.2003",
+      "name": "Rante Limbong (Rante Limbung)"
+    },
+    {
+      "id": "74.08.01.2006",
+      "name": "Totallang"
+    },
+    {
+      "id": "74.08.01.2007",
+      "name": "Tojabi"
+    },
+    {
+      "id": "74.08.01.2008",
+      "name": "Ponggiha"
+    },
+    {
+      "id": "74.08.01.2009",
+      "name": "Watuliwu"
+    },
+    {
+      "id": "74.08.01.2010",
+      "name": "Sulaho"
+    },
+    {
+      "id": "74.08.01.2015",
+      "name": "Patowonua"
+    },
+    {
+      "id": "74.08.01.2016",
+      "name": "Babussalam"
+    },
+    {
+      "id": "74.08.01.2017",
+      "name": "Batu Ganda Permai"
+    },
+    {
+      "id": "74.08.01.2018",
+      "name": "Puncak Monapa (Pucak Monapa)"
+    },
+    {
+      "id": "74.08.02.1001",
+      "name": "Olo-Oloho (Olo-Olaha)"
+    },
+    {
+      "id": "74.08.02.2002",
+      "name": "Kosali"
+    },
+    {
+      "id": "74.08.02.2003",
+      "name": "Mikuasi"
+    },
+    {
+      "id": "74.08.02.2010",
+      "name": "Kasumeeto"
+    },
+    {
+      "id": "74.08.02.2013",
+      "name": "Lalombundi"
+    },
+    {
+      "id": "74.08.02.2015",
+      "name": "Toaha"
+    },
+    {
+      "id": "74.08.02.2018",
+      "name": "Kondara"
+    },
+    {
+      "id": "74.08.02.2019",
+      "name": "Sipakainge"
+    },
+    {
+      "id": "74.08.02.2020",
+      "name": "Seuwwa"
+    },
+    {
+      "id": "74.08.02.2021",
+      "name": "Alipato"
+    },
+    {
+      "id": "74.08.02.2022",
+      "name": "Lalume"
+    },
+    {
+      "id": "74.08.03.1001",
+      "name": "Batu Putih"
+    },
+    {
+      "id": "74.08.03.2002",
+      "name": "Latowu"
+    },
+    {
+      "id": "74.08.03.2003",
+      "name": "Mosiku"
+    },
+    {
+      "id": "74.08.03.2004",
+      "name": "Lelewawo"
+    },
+    {
+      "id": "74.08.03.2011",
+      "name": "Batu Api (Batuapi)"
+    },
+    {
+      "id": "74.08.03.2012",
+      "name": "Bukit Tinggi"
+    },
+    {
+      "id": "74.08.03.2015",
+      "name": "Bukit Baru"
+    },
+    {
+      "id": "74.08.03.2016",
+      "name": "Parung Lampe"
+    },
+    {
+      "id": "74.08.03.2017",
+      "name": "Puncak Harapan"
+    },
+    {
+      "id": "74.08.03.2020",
+      "name": "Tetebawo"
+    },
+    {
+      "id": "74.08.03.2021",
+      "name": "Makkuaseng"
+    },
+    {
+      "id": "74.08.04.1004",
+      "name": "Rante Angin"
+    },
+    {
+      "id": "74.08.04.2003",
+      "name": "Rante Baru"
+    },
+    {
+      "id": "74.08.04.2005",
+      "name": "Pohu"
+    },
+    {
+      "id": "74.08.04.2011",
+      "name": "Torotuo (Torotua)"
+    },
+    {
+      "id": "74.08.04.2013",
+      "name": "Maroko"
+    },
+    {
+      "id": "74.08.04.2014",
+      "name": "Landolia"
+    },
+    {
+      "id": "74.08.04.2015",
+      "name": "Lawekara"
+    },
+    {
+      "id": "74.08.05.1002",
+      "name": "Mala-Mala"
+    },
+    {
+      "id": "74.08.05.2001",
+      "name": "Awo"
+    },
+    {
+      "id": "74.08.05.2003",
+      "name": "Koroha"
+    },
+    {
+      "id": "74.08.05.2004",
+      "name": "Kamisi"
+    },
+    {
+      "id": "74.08.05.2006",
+      "name": "Lametuna"
+    },
+    {
+      "id": "74.08.05.2007",
+      "name": "Meeto"
+    },
+    {
+      "id": "74.08.05.2009",
+      "name": "Kalu-Kaluku"
+    },
+    {
+      "id": "74.08.05.2010",
+      "name": "Jabal Nur"
+    },
+    {
+      "id": "74.08.05.2012",
+      "name": "Jabal Kubis"
+    },
+    {
+      "id": "74.08.05.2014",
+      "name": "Sawangaoha (Sawanggaoha)"
+    },
+    {
+      "id": "74.08.05.2018",
+      "name": "Ainani Tajriani"
+    },
+    {
+      "id": "74.08.05.2019",
+      "name": "Delang-Delang"
+    },
+    {
+      "id": "74.08.06.1003",
+      "name": "Lapai"
+    },
+    {
+      "id": "74.08.06.2002",
+      "name": "Ngapa"
+    },
+    {
+      "id": "74.08.06.2005",
+      "name": "Paruttellang (Paruttelang)"
+    },
+    {
+      "id": "74.08.06.2008",
+      "name": "Puurau"
+    },
+    {
+      "id": "74.08.06.2009",
+      "name": "Koreiha"
+    },
+    {
+      "id": "74.08.06.2011",
+      "name": "Lawolatu"
+    },
+    {
+      "id": "74.08.06.2012",
+      "name": "Tadaumera"
+    },
+    {
+      "id": "74.08.06.2013",
+      "name": "Watumotaha"
+    },
+    {
+      "id": "74.08.06.2014",
+      "name": "Beringin"
+    },
+    {
+      "id": "74.08.06.2015",
+      "name": "Mataiwoi"
+    },
+    {
+      "id": "74.08.06.2016",
+      "name": "Nimbuneha"
+    },
+    {
+      "id": "74.08.06.2017",
+      "name": "Padaelo"
+    },
+    {
+      "id": "74.08.07.2001",
+      "name": "Walasiho"
+    },
+    {
+      "id": "74.08.07.2002",
+      "name": "Wawo"
+    },
+    {
+      "id": "74.08.07.2003",
+      "name": "Tinukari"
+    },
+    {
+      "id": "74.08.07.2004",
+      "name": "Pumbolo"
+    },
+    {
+      "id": "74.08.07.2005",
+      "name": "Ulu Wawo"
+    },
+    {
+      "id": "74.08.07.2006",
+      "name": "Latawe"
+    },
+    {
+      "id": "74.08.07.2007",
+      "name": "Salurengko"
+    },
+    {
+      "id": "74.08.08.2001",
+      "name": "Lambai"
+    },
+    {
+      "id": "74.08.08.2002",
+      "name": "Latawaro"
+    },
+    {
+      "id": "74.08.08.2003",
+      "name": "Lapasi-Pasi"
+    },
+    {
+      "id": "74.08.08.2004",
+      "name": "Raoda"
+    },
+    {
+      "id": "74.08.08.2005",
+      "name": "Woise"
+    },
+    {
+      "id": "74.08.08.2006",
+      "name": "Woitombo"
+    },
+    {
+      "id": "74.08.08.2007",
+      "name": "Tebongeano (Tebagiano)"
+    },
+    {
+      "id": "74.08.09.2001",
+      "name": "Watunohu"
+    },
+    {
+      "id": "74.08.09.2002",
+      "name": "Lahabaru"
+    },
+    {
+      "id": "74.08.09.2003",
+      "name": "Tambuha"
+    },
+    {
+      "id": "74.08.09.2004",
+      "name": "Sarona"
+    },
+    {
+      "id": "74.08.09.2005",
+      "name": "Sapoiha"
+    },
+    {
+      "id": "74.08.09.2006",
+      "name": "Nyule"
+    },
+    {
+      "id": "74.08.09.2007",
+      "name": "Samaturu"
+    },
+    {
+      "id": "74.08.09.2008",
+      "name": "Lelehao"
+    },
+    {
+      "id": "74.08.10.2001",
+      "name": "Lanipa"
+    },
+    {
+      "id": "74.08.10.2002",
+      "name": "Majapahit"
+    },
+    {
+      "id": "74.08.10.2003",
+      "name": "Labipi"
+    },
+    {
+      "id": "74.08.10.2004",
+      "name": "Latali"
+    },
+    {
+      "id": "74.08.10.2005",
+      "name": "Pasampang"
+    },
+    {
+      "id": "74.08.10.2006",
+      "name": "Tarengga"
+    },
+    {
+      "id": "74.08.10.2007",
+      "name": "To'lemo"
+    },
+    {
+      "id": "74.08.10.2008",
+      "name": "Salulotong (Salutotong)"
+    },
+    {
+      "id": "74.08.10.2009",
+      "name": "Powalaa"
+    },
+    {
+      "id": "74.08.10.2010",
+      "name": "Kalahunde"
+    },
+    {
+      "id": "74.08.11.2001",
+      "name": "Puundoho"
+    },
+    {
+      "id": "74.08.11.2002",
+      "name": "Pakue"
+    },
+    {
+      "id": "74.08.11.2003",
+      "name": "Lawata"
+    },
+    {
+      "id": "74.08.11.2004",
+      "name": "Mataleuno"
+    },
+    {
+      "id": "74.08.11.2005",
+      "name": "Teposua"
+    },
+    {
+      "id": "74.08.11.2006",
+      "name": "Saludongka"
+    },
+    {
+      "id": "74.08.11.2007",
+      "name": "Kalo"
+    },
+    {
+      "id": "74.08.11.2008",
+      "name": "Amoe"
+    },
+    {
+      "id": "74.08.11.2009",
+      "name": "Lengkong Batu"
+    },
+    {
+      "id": "74.08.12.2001",
+      "name": "Porehu"
+    },
+    {
+      "id": "74.08.12.2002",
+      "name": "Tobela"
+    },
+    {
+      "id": "74.08.12.2003",
+      "name": "Tanggaruru (Tangga Ruru)"
+    },
+    {
+      "id": "74.08.12.2004",
+      "name": "Ponggi"
+    },
+    {
+      "id": "74.08.12.2005",
+      "name": "Larui"
+    },
+    {
+      "id": "74.08.12.2007",
+      "name": "Bangsala"
+    },
+    {
+      "id": "74.08.12.2008",
+      "name": "Sarambu"
+    },
+    {
+      "id": "74.08.12.2009",
+      "name": "Tinuna"
+    },
+    {
+      "id": "74.08.13.2001",
+      "name": "Lanipa-Nipa"
+    },
+    {
+      "id": "74.08.13.2002",
+      "name": "Ujung Tobaku (Tobako)"
+    },
+    {
+      "id": "74.08.13.2003",
+      "name": "Katoi"
+    },
+    {
+      "id": "74.08.13.2004",
+      "name": "Simbula"
+    },
+    {
+      "id": "74.08.13.2005",
+      "name": "Maruge"
+    },
+    {
+      "id": "74.08.13.2006",
+      "name": "Lambuno"
+    },
+    {
+      "id": "74.08.14.2001",
+      "name": "Mattiro Bulu"
+    },
+    {
+      "id": "74.08.14.2002",
+      "name": "Lawadia"
+    },
+    {
+      "id": "74.08.14.2003",
+      "name": "Watumea"
+    },
+    {
+      "id": "74.08.14.2004",
+      "name": "Tiwu"
+    },
+    {
+      "id": "74.08.14.2005",
+      "name": "Tahibua"
+    },
+    {
+      "id": "74.08.14.2006",
+      "name": "Lapolu"
+    },
+    {
+      "id": "74.08.14.2007",
+      "name": "Tanggeawo (Tanggeau)"
+    },
+    {
+      "id": "74.08.15.2001",
+      "name": "Lawaki Jaya"
+    },
+    {
+      "id": "74.08.15.2002",
+      "name": "Patikala"
+    },
+    {
+      "id": "74.08.15.2003",
+      "name": "Tolala"
+    },
+    {
+      "id": "74.08.15.2004",
+      "name": "Bahari"
+    },
+    {
+      "id": "74.08.15.2005",
+      "name": "Leleulu (Lelewulu)"
+    },
+    {
+      "id": "74.08.15.2006",
+      "name": "Loka"
+    },
+    {
+      "id": "74.09.01.1005",
+      "name": "Wanggudu"
+    },
+    {
+      "id": "74.09.01.1009",
+      "name": "Asera"
+    },
+    {
+      "id": "74.09.01.2006",
+      "name": "Wanggudu Raya"
+    },
+    {
+      "id": "74.09.01.2007",
+      "name": "Walalindu"
+    },
+    {
+      "id": "74.09.01.2008",
+      "name": "Tangguluri (Tanggaluri)"
+    },
+    {
+      "id": "74.09.01.2010",
+      "name": "Amorome"
+    },
+    {
+      "id": "74.09.01.2016",
+      "name": "Wawolimbue"
+    },
+    {
+      "id": "74.09.01.2017",
+      "name": "Walasolo"
+    },
+    {
+      "id": "74.09.01.2020",
+      "name": "Wunduhaka"
+    },
+    {
+      "id": "74.09.01.2024",
+      "name": "Tapuwatu"
+    },
+    {
+      "id": "74.09.01.2027",
+      "name": "Aseminunulai (Aseminulai)"
+    },
+    {
+      "id": "74.09.01.2030",
+      "name": "Puunggomosi"
+    },
+    {
+      "id": "74.09.01.2031",
+      "name": "Puuwanggudu"
+    },
+    {
+      "id": "74.09.01.2032",
+      "name": "Longeo Utama"
+    },
+    {
+      "id": "74.09.01.2033",
+      "name": "Kota Mulya"
+    },
+    {
+      "id": "74.09.01.2034",
+      "name": "Amorome Utama"
+    },
+    {
+      "id": "74.09.01.2035",
+      "name": "Andedao"
+    },
+    {
+      "id": "74.09.01.2036",
+      "name": "Alaa Wanggudu"
+    },
+    {
+      "id": "74.09.01.2037",
+      "name": "Oheo Trans"
+    },
+    {
+      "id": "74.09.02.1001",
+      "name": "Lamonae"
+    },
+    {
+      "id": "74.09.02.2002",
+      "name": "Padalere"
+    },
+    {
+      "id": "74.09.02.2004",
+      "name": "Tetewatu"
+    },
+    {
+      "id": "74.09.02.2006",
+      "name": "Culumbatu"
+    },
+    {
+      "id": "74.09.02.2007",
+      "name": "Wawoheo"
+    },
+    {
+      "id": "74.09.02.2009",
+      "name": "Lamparinga"
+    },
+    {
+      "id": "74.09.02.2010",
+      "name": "Lamonae Utama"
+    },
+    {
+      "id": "74.09.02.2012",
+      "name": "Wacumelewe (Macumelewe)"
+    },
+    {
+      "id": "74.09.02.2013",
+      "name": "Mata Osole"
+    },
+    {
+      "id": "74.09.02.2014",
+      "name": "Pondoa"
+    },
+    {
+      "id": "74.09.02.2020",
+      "name": "Wawonsangi"
+    },
+    {
+      "id": "74.09.02.2021",
+      "name": "Wawontoaho"
+    },
+    {
+      "id": "74.09.02.2022",
+      "name": "Larompana"
+    },
+    {
+      "id": "74.09.02.2023",
+      "name": "Wacu Pinodo"
+    },
+    {
+      "id": "74.09.02.2024",
+      "name": "Padalere Utama"
+    },
+    {
+      "id": "74.09.03.1003",
+      "name": "Langgikima"
+    },
+    {
+      "id": "74.09.03.2001",
+      "name": "Molore"
+    },
+    {
+      "id": "74.09.03.2002",
+      "name": "Lameruru"
+    },
+    {
+      "id": "74.09.03.2004",
+      "name": "Sarimukti"
+    },
+    {
+      "id": "74.09.03.2005",
+      "name": "Morombo Pantai"
+    },
+    {
+      "id": "74.09.03.2006",
+      "name": "Polora Indah"
+    },
+    {
+      "id": "74.09.03.2007",
+      "name": "Pariama"
+    },
+    {
+      "id": "74.09.03.2008",
+      "name": "Tobimeita"
+    },
+    {
+      "id": "74.09.03.2009",
+      "name": "Alenggo"
+    },
+    {
+      "id": "74.09.03.2010",
+      "name": "Mekar Jaya"
+    },
+    {
+      "id": "74.09.03.2011",
+      "name": "Molore Pantai"
+    },
+    {
+      "id": "74.09.03.2012",
+      "name": "Ngapa Inia"
+    },
+    {
+      "id": "74.09.04.1002",
+      "name": "Molawe"
+    },
+    {
+      "id": "74.09.04.2001",
+      "name": "Bandaeha"
+    },
+    {
+      "id": "74.09.04.2003",
+      "name": "Awila"
+    },
+    {
+      "id": "74.09.04.2004",
+      "name": "Mowundo"
+    },
+    {
+      "id": "74.09.04.2005",
+      "name": "Mandiopo (Mandiodo)"
+    },
+    {
+      "id": "74.09.04.2006",
+      "name": "Tapunggaya (Tapunggaea)"
+    },
+    {
+      "id": "74.09.04.2007",
+      "name": "Mataiwoi"
+    },
+    {
+      "id": "74.09.04.2008",
+      "name": "Awila Puncak"
+    },
+    {
+      "id": "74.09.04.2009",
+      "name": "Tapuemea"
+    },
+    {
+      "id": "74.09.05.1001",
+      "name": "Tinobu"
+    },
+    {
+      "id": "74.09.05.2006",
+      "name": "Abola"
+    },
+    {
+      "id": "74.09.05.2007",
+      "name": "Belalo"
+    },
+    {
+      "id": "74.09.05.2008",
+      "name": "Andeo"
+    },
+    {
+      "id": "74.09.05.2009",
+      "name": "Matapila"
+    },
+    {
+      "id": "74.09.05.2010",
+      "name": "Andumowu"
+    },
+    {
+      "id": "74.09.05.2011",
+      "name": "Basule"
+    },
+    {
+      "id": "74.09.05.2012",
+      "name": "Waworaha"
+    },
+    {
+      "id": "74.09.05.2013",
+      "name": "Otole"
+    },
+    {
+      "id": "74.09.05.2016",
+      "name": "Watukila"
+    },
+    {
+      "id": "74.09.05.2017",
+      "name": "Lametono"
+    },
+    {
+      "id": "74.09.05.2020",
+      "name": "Larodangge"
+    },
+    {
+      "id": "74.09.05.2024",
+      "name": "Tetelupai"
+    },
+    {
+      "id": "74.09.05.2025",
+      "name": "Lalowaru"
+    },
+    {
+      "id": "74.09.05.2026",
+      "name": "Muara Tinobu"
+    },
+    {
+      "id": "74.09.05.2030",
+      "name": "Marombo Pantai (Morombo Pantai)"
+    },
+    {
+      "id": "74.09.05.2031",
+      "name": "Tokowuta"
+    },
+    {
+      "id": "74.09.06.1004",
+      "name": "Lembo"
+    },
+    {
+      "id": "74.09.06.2001",
+      "name": "Alo-Alo"
+    },
+    {
+      "id": "74.09.06.2002",
+      "name": "Puulemo"
+    },
+    {
+      "id": "74.09.06.2003",
+      "name": "Padaleu"
+    },
+    {
+      "id": "74.09.06.2005",
+      "name": "Bungguosu"
+    },
+    {
+      "id": "74.09.06.2006",
+      "name": "Puusiambu"
+    },
+    {
+      "id": "74.09.06.2007",
+      "name": "Taipa"
+    },
+    {
+      "id": "74.09.06.2008",
+      "name": "Tongalino (Tonggalino)"
+    },
+    {
+      "id": "74.09.06.2009",
+      "name": "Pasir Putih"
+    },
+    {
+      "id": "74.09.06.2010",
+      "name": "Laramo"
+    },
+    {
+      "id": "74.09.06.2011",
+      "name": "Lapulu"
+    },
+    {
+      "id": "74.09.06.2012",
+      "name": "Watuwula"
+    },
+    {
+      "id": "74.09.07.1002",
+      "name": "Sawa"
+    },
+    {
+      "id": "74.09.07.2003",
+      "name": "Lalembo"
+    },
+    {
+      "id": "74.09.07.2004",
+      "name": "Laimeo"
+    },
+    {
+      "id": "74.09.07.2005",
+      "name": "Pudonggala"
+    },
+    {
+      "id": "74.09.07.2007",
+      "name": "Matanggonawe"
+    },
+    {
+      "id": "74.09.07.2008",
+      "name": "Kokapi"
+    },
+    {
+      "id": "74.09.07.2012",
+      "name": "Tongauna (Tangauna)"
+    },
+    {
+      "id": "74.09.07.2013",
+      "name": "Puupi"
+    },
+    {
+      "id": "74.09.07.2016",
+      "name": "Pudonggala Utama"
+    },
+    {
+      "id": "74.09.07.2017",
+      "name": "Ulu Sawa"
+    },
+    {
+      "id": "74.09.07.2021",
+      "name": "Tudungano"
+    },
+    {
+      "id": "74.09.07.2022",
+      "name": "Tanjung Laimeo"
+    },
+    {
+      "id": "74.09.07.2023",
+      "name": "Panggulawu"
+    },
+    {
+      "id": "74.09.07.2024",
+      "name": "Pekaroa"
+    },
+    {
+      "id": "74.09.08.1009",
+      "name": "Linomoiyo"
+    },
+    {
+      "id": "74.09.08.2001",
+      "name": "Laronaha"
+    },
+    {
+      "id": "74.09.08.2002",
+      "name": "Bandaeha"
+    },
+    {
+      "id": "74.09.08.2003",
+      "name": "Kota Maju"
+    },
+    {
+      "id": "74.09.08.2004",
+      "name": "Landawe"
+    },
+    {
+      "id": "74.09.08.2005",
+      "name": "Wiwirano"
+    },
+    {
+      "id": "74.09.08.2006",
+      "name": "Mopute"
+    },
+    {
+      "id": "74.09.08.2007",
+      "name": "Tadoloiyo"
+    },
+    {
+      "id": "74.09.08.2008",
+      "name": "Puuhialu"
+    },
+    {
+      "id": "74.09.08.2010",
+      "name": "Sambandete"
+    },
+    {
+      "id": "74.09.08.2011",
+      "name": "Paka Indah"
+    },
+    {
+      "id": "74.09.08.2013",
+      "name": "Lameoru"
+    },
+    {
+      "id": "74.09.08.2014",
+      "name": "Walandawe"
+    },
+    {
+      "id": "74.09.08.2015",
+      "name": "Bendewuta"
+    },
+    {
+      "id": "74.09.08.2016",
+      "name": "Tinondo"
+    },
+    {
+      "id": "74.09.08.2018",
+      "name": "Horoe"
+    },
+    {
+      "id": "74.09.08.2019",
+      "name": "Tadoloiyo Trans"
+    },
+    {
+      "id": "74.09.09.1001",
+      "name": "Andowia"
+    },
+    {
+      "id": "74.09.09.2002",
+      "name": "Lahimbua"
+    },
+    {
+      "id": "74.09.09.2003",
+      "name": "Laronanga"
+    },
+    {
+      "id": "74.09.09.2004",
+      "name": "Lambudoni"
+    },
+    {
+      "id": "74.09.09.2005",
+      "name": "Lamondowo"
+    },
+    {
+      "id": "74.09.09.2006",
+      "name": "Labungga"
+    },
+    {
+      "id": "74.09.09.2007",
+      "name": "Mataiwoi"
+    },
+    {
+      "id": "74.09.09.2008",
+      "name": "Larobende"
+    },
+    {
+      "id": "74.09.09.2009",
+      "name": "Puusuli"
+    },
+    {
+      "id": "74.09.09.2010",
+      "name": "Banggarema"
+    },
+    {
+      "id": "74.09.09.2011",
+      "name": "Amolame"
+    },
+    {
+      "id": "74.09.09.2012",
+      "name": "Anggolohipo"
+    },
+    {
+      "id": "74.09.09.2013",
+      "name": "Puuwonua"
+    },
+    {
+      "id": "74.09.09.2014",
+      "name": "Ambake"
+    },
+    {
+      "id": "74.09.09.2015",
+      "name": "Waworate"
+    },
+    {
+      "id": "74.09.10.1002",
+      "name": "Bende"
+    },
+    {
+      "id": "74.09.10.2001",
+      "name": "Tondowatu"
+    },
+    {
+      "id": "74.09.10.2003",
+      "name": "Matandahi"
+    },
+    {
+      "id": "74.09.10.2004",
+      "name": "Banggina"
+    },
+    {
+      "id": "74.09.10.2005",
+      "name": "Motui"
+    },
+    {
+      "id": "74.09.10.2006",
+      "name": "Wawoluri"
+    },
+    {
+      "id": "74.09.10.2007",
+      "name": "Lambuluo"
+    },
+    {
+      "id": "74.09.10.2008",
+      "name": "Poni Poniki"
+    },
+    {
+      "id": "74.09.10.2009",
+      "name": "Puuwonggia"
+    },
+    {
+      "id": "74.09.10.2010",
+      "name": "Punggulahi"
+    },
+    {
+      "id": "74.09.10.2011",
+      "name": "Sama Subur"
+    },
+    {
+      "id": "74.09.10.2012",
+      "name": "Ranombupulu"
+    },
+    {
+      "id": "74.09.10.2013",
+      "name": "Tobimeita"
+    },
+    {
+      "id": "74.09.10.2014",
+      "name": "Kapolano"
+    },
+    {
+      "id": "74.09.10.2015",
+      "name": "Sambasule"
+    },
+    {
+      "id": "74.09.11.2001",
+      "name": "Tanjung Bunga"
+    },
+    {
+      "id": "74.09.11.2002",
+      "name": "Kampoh Bunga"
+    },
+    {
+      "id": "74.09.11.2003",
+      "name": "Lemo Bajo"
+    },
+    {
+      "id": "74.09.11.2004",
+      "name": "Barasanga"
+    },
+    {
+      "id": "74.09.11.2005",
+      "name": "Wawolesea"
+    },
+    {
+      "id": "74.09.11.2006",
+      "name": "Toreo"
+    },
+    {
+      "id": "74.09.11.2007",
+      "name": "Otipulu"
+    },
+    {
+      "id": "74.09.11.2009",
+      "name": "Kampoh Cina"
+    },
+    {
+      "id": "74.09.12.2001",
+      "name": "Boenaga"
+    },
+    {
+      "id": "74.09.12.2002",
+      "name": "Waturambaha"
+    },
+    {
+      "id": "74.09.12.2003",
+      "name": "Labengki"
+    },
+    {
+      "id": "74.09.12.2004",
+      "name": "Morombo"
+    },
+    {
+      "id": "74.09.12.2005",
+      "name": "Tapunopaka"
+    },
+    {
+      "id": "74.09.12.2006",
+      "name": "Boedingi"
+    },
+    {
+      "id": "74.09.13.2001",
+      "name": "Kuratao"
+    },
+    {
+      "id": "74.09.13.2002",
+      "name": "Landiwo"
+    },
+    {
+      "id": "74.09.13.2003",
+      "name": "Kolosua"
+    },
+    {
+      "id": "74.09.13.2004",
+      "name": "Laumoso"
+    },
+    {
+      "id": "74.09.13.2005",
+      "name": "Hialu Utama"
+    },
+    {
+      "id": "74.09.13.2006",
+      "name": "Polo polora"
+    },
+    {
+      "id": "74.09.13.2007",
+      "name": "Tambakua"
+    },
+    {
+      "id": "74.09.13.2008",
+      "name": "Matabaho"
+    },
+    {
+      "id": "74.09.13.2009",
+      "name": "Landawe Utama"
+    },
+    {
+      "id": "74.09.13.2010",
+      "name": "Mata Benua"
+    },
+    {
+      "id": "74.09.13.2011",
+      "name": "Hialu"
+    },
+    {
+      "id": "74.10.01.1008",
+      "name": "Bangkudu (Ereke)"
+    },
+    {
+      "id": "74.10.01.1009",
+      "name": "Lipu"
+    },
+    {
+      "id": "74.10.01.1010",
+      "name": "Lakonea"
+    },
+    {
+      "id": "74.10.01.1012",
+      "name": "Lemo (Bonerombo)"
+    },
+    {
+      "id": "74.10.01.1014",
+      "name": "Bonelipu"
+    },
+    {
+      "id": "74.10.01.1016",
+      "name": "Sara'ea"
+    },
+    {
+      "id": "74.10.01.1017",
+      "name": "Wandaka"
+    },
+    {
+      "id": "74.10.01.2001",
+      "name": "Triwacuwacu (Tri Wacu-Wacu)"
+    },
+    {
+      "id": "74.10.01.2002",
+      "name": "Waculaea"
+    },
+    {
+      "id": "74.10.01.2003",
+      "name": "Eelahaji"
+    },
+    {
+      "id": "74.10.01.2004",
+      "name": "Tomoahi"
+    },
+    {
+      "id": "74.10.01.2005",
+      "name": "Kalibu"
+    },
+    {
+      "id": "74.10.01.2006",
+      "name": "Jampaka"
+    },
+    {
+      "id": "74.10.01.2007",
+      "name": "Loji"
+    },
+    {
+      "id": "74.10.01.2011",
+      "name": "Linsowu"
+    },
+    {
+      "id": "74.10.01.2013",
+      "name": "Rombo"
+    },
+    {
+      "id": "74.10.01.2018",
+      "name": "Wasalabose"
+    },
+    {
+      "id": "74.10.01.2019",
+      "name": "Malalanda"
+    },
+    {
+      "id": "74.10.01.2020",
+      "name": "Lemo Ea"
+    },
+    {
+      "id": "74.10.01.2021",
+      "name": "Lantagi"
+    },
+    {
+      "id": "74.10.01.2022",
+      "name": "Laangke"
+    },
+    {
+      "id": "74.10.01.2023",
+      "name": "Kadacua"
+    },
+    {
+      "id": "74.10.01.2024",
+      "name": "Banu-Banua Jaya"
+    },
+    {
+      "id": "74.10.02.1004",
+      "name": "Kambowa"
+    },
+    {
+      "id": "74.10.02.2001",
+      "name": "Bubu"
+    },
+    {
+      "id": "74.10.02.2002",
+      "name": "Lahumoko (Lahamoko Jaya)"
+    },
+    {
+      "id": "74.10.02.2003",
+      "name": "Morindino"
+    },
+    {
+      "id": "74.10.02.2005",
+      "name": "Pongkowulu (Pongkawulu)"
+    },
+    {
+      "id": "74.10.02.2006",
+      "name": "Lagundi"
+    },
+    {
+      "id": "74.10.02.2007",
+      "name": "Konde (Kondo)"
+    },
+    {
+      "id": "74.10.02.2008",
+      "name": "Mata"
+    },
+    {
+      "id": "74.10.02.2009",
+      "name": "Bubu Barat"
+    },
+    {
+      "id": "74.10.02.2010",
+      "name": "Bente"
+    },
+    {
+      "id": "74.10.02.2011",
+      "name": "Baluara"
+    },
+    {
+      "id": "74.10.03.1006",
+      "name": "Buranga"
+    },
+    {
+      "id": "74.10.03.1010",
+      "name": "Bonegunu"
+    },
+    {
+      "id": "74.10.03.2001",
+      "name": "Gunung Sari"
+    },
+    {
+      "id": "74.10.03.2002",
+      "name": "Ronta"
+    },
+    {
+      "id": "74.10.03.2003",
+      "name": "Waode Angkalo"
+    },
+    {
+      "id": "74.10.03.2004",
+      "name": "Langere"
+    },
+    {
+      "id": "74.10.03.2005",
+      "name": "Koepisino"
+    },
+    {
+      "id": "74.10.03.2007",
+      "name": "Waode Kalowo"
+    },
+    {
+      "id": "74.10.03.2008",
+      "name": "Laano Ipi (Laanoipi)"
+    },
+    {
+      "id": "74.10.03.2009",
+      "name": "Eensumala (Een Sumala)"
+    },
+    {
+      "id": "74.10.03.2013",
+      "name": "Tatombuli"
+    },
+    {
+      "id": "74.10.03.2014",
+      "name": "Rante Gola"
+    },
+    {
+      "id": "74.10.03.2015",
+      "name": "Ngapa'ea"
+    },
+    {
+      "id": "74.10.03.2016",
+      "name": "Koboruno"
+    },
+    {
+      "id": "74.10.03.2017",
+      "name": "Damai Laborona"
+    },
+    {
+      "id": "74.10.04.2001",
+      "name": "Kotawo (Kotawa)"
+    },
+    {
+      "id": "74.10.04.2002",
+      "name": "Karya Bhakti (Karya Bakti)"
+    },
+    {
+      "id": "74.10.04.2003",
+      "name": "Margakarya (Marga Karya)"
+    },
+    {
+      "id": "74.10.04.2004",
+      "name": "Kasulatombi"
+    },
+    {
+      "id": "74.10.04.2005",
+      "name": "Lampala Jaya (Dampala Jaya)"
+    },
+    {
+      "id": "74.10.04.2006",
+      "name": "Rahmat Baru"
+    },
+    {
+      "id": "74.10.04.2007",
+      "name": "Soloy/Soioi Agung"
+    },
+    {
+      "id": "74.10.04.2008",
+      "name": "Bumi Lapero/Lapera"
+    },
+    {
+      "id": "74.10.04.2009",
+      "name": "Karya Mulya"
+    },
+    {
+      "id": "74.10.04.2010",
+      "name": "Lambale"
+    },
+    {
+      "id": "74.10.04.2011",
+      "name": "Lapandewa"
+    },
+    {
+      "id": "74.10.04.2012",
+      "name": "Lauki"
+    },
+    {
+      "id": "74.10.04.2013",
+      "name": "Mekar Jaya"
+    },
+    {
+      "id": "74.10.04.2014",
+      "name": "Labulanda"
+    },
+    {
+      "id": "74.10.05.2001",
+      "name": "Kurolabu"
+    },
+    {
+      "id": "74.10.05.2002",
+      "name": "Tombia (Torombia / Torumbia)"
+    },
+    {
+      "id": "74.10.05.2003",
+      "name": "Lamoahi"
+    },
+    {
+      "id": "74.10.05.2004",
+      "name": "Laanosangia (Lanosangia)"
+    },
+    {
+      "id": "74.10.05.2005",
+      "name": "Pebaoa"
+    },
+    {
+      "id": "74.10.05.2006",
+      "name": "Petetea'a (Peteteaa)"
+    },
+    {
+      "id": "74.10.05.2007",
+      "name": "Lelamo"
+    },
+    {
+      "id": "74.10.05.2008",
+      "name": "Waodeburi (Waode Buri)"
+    },
+    {
+      "id": "74.10.05.2009",
+      "name": "Ulunambo"
+    },
+    {
+      "id": "74.10.05.2010",
+      "name": "Bira"
+    },
+    {
+      "id": "74.10.05.2011",
+      "name": "E'erinere"
+    },
+    {
+      "id": "74.10.05.2012",
+      "name": "Labelete"
+    },
+    {
+      "id": "74.10.05.2013",
+      "name": "Wamboule"
+    },
+    {
+      "id": "74.10.05.2014",
+      "name": "Wowonga Jaya"
+    },
+    {
+      "id": "74.10.06.1007",
+      "name": "Labuan"
+    },
+    {
+      "id": "74.10.06.1008",
+      "name": "Labuan Walio"
+    },
+    {
+      "id": "74.10.06.2001",
+      "name": "Lasiwa"
+    },
+    {
+      "id": "74.10.06.2002",
+      "name": "Laea"
+    },
+    {
+      "id": "74.10.06.2003",
+      "name": "Matalagi"
+    },
+    {
+      "id": "74.10.06.2004",
+      "name": "Wantulasi"
+    },
+    {
+      "id": "74.10.06.2005",
+      "name": "Labuan Bajo"
+    },
+    {
+      "id": "74.10.06.2006",
+      "name": "Labaraga"
+    },
+    {
+      "id": "74.10.06.2009",
+      "name": "Wamorapa"
+    },
+    {
+      "id": "74.10.06.2010",
+      "name": "Sumampeno"
+    },
+    {
+      "id": "74.10.06.2011",
+      "name": "Oengkapala"
+    },
+    {
+      "id": "74.10.06.2012",
+      "name": "Labuko"
+    },
+    {
+      "id": "74.10.06.2013",
+      "name": "Laba Jaya"
+    },
+    {
+      "id": "74.11.01.1002",
+      "name": "Rate Rate"
+    },
+    {
+      "id": "74.11.01.1016",
+      "name": "Tababu"
+    },
+    {
+      "id": "74.11.01.2001",
+      "name": "Simbune"
+    },
+    {
+      "id": "74.11.01.2003",
+      "name": "Poni Poniki"
+    },
+    {
+      "id": "74.11.01.2004",
+      "name": "Tawainalu"
+    },
+    {
+      "id": "74.11.01.2005",
+      "name": "Woiha"
+    },
+    {
+      "id": "74.11.01.2006",
+      "name": "Tasahea"
+    },
+    {
+      "id": "74.11.01.2007",
+      "name": "Lara"
+    },
+    {
+      "id": "74.11.01.2008",
+      "name": "Tumbudadio"
+    },
+    {
+      "id": "74.11.01.2009",
+      "name": "Orawa"
+    },
+    {
+      "id": "74.11.01.2010",
+      "name": "Lalingato"
+    },
+    {
+      "id": "74.11.01.2011",
+      "name": "Tirawuta"
+    },
+    {
+      "id": "74.11.01.2012",
+      "name": "Roko Roko"
+    },
+    {
+      "id": "74.11.01.2013",
+      "name": "Loka"
+    },
+    {
+      "id": "74.11.01.2014",
+      "name": "Matabondu"
+    },
+    {
+      "id": "74.11.01.2015",
+      "name": "Karemotingge"
+    },
+    {
+      "id": "74.11.02.1001",
+      "name": "Loea"
+    },
+    {
+      "id": "74.11.02.1002",
+      "name": "Simbalae (Simbalai)"
+    },
+    {
+      "id": "74.11.02.2003",
+      "name": "Lamoare"
+    },
+    {
+      "id": "74.11.02.2004",
+      "name": "Iwoikondo"
+    },
+    {
+      "id": "74.11.02.2005",
+      "name": "Peatoa"
+    },
+    {
+      "id": "74.11.02.2006",
+      "name": "Lalowura"
+    },
+    {
+      "id": "74.11.02.2007",
+      "name": "Mataiwoi"
+    },
+    {
+      "id": "74.11.02.2008",
+      "name": "Teposua"
+    },
+    {
+      "id": "74.11.02.2009",
+      "name": "Tinomu"
+    },
+    {
+      "id": "74.11.03.1001",
+      "name": "Ladongi"
+    },
+    {
+      "id": "74.11.03.1002",
+      "name": "Atula"
+    },
+    {
+      "id": "74.11.03.1003",
+      "name": "Raa-Raa"
+    },
+    {
+      "id": "74.11.03.1004",
+      "name": "Welala"
+    },
+    {
+      "id": "74.11.03.2005",
+      "name": "Putemata"
+    },
+    {
+      "id": "74.11.03.2009",
+      "name": "Lalowosula (Lalowusula)"
+    },
+    {
+      "id": "74.11.03.2010",
+      "name": "Wunggoloko"
+    },
+    {
+      "id": "74.11.03.2011",
+      "name": "Anggaloosi (Anggoloosi)"
+    },
+    {
+      "id": "74.11.03.2013",
+      "name": "Pombeyoha"
+    },
+    {
+      "id": "74.11.03.2018",
+      "name": "Tongandiu"
+    },
+    {
+      "id": "74.11.04.1001",
+      "name": "Poli-Polia"
+    },
+    {
+      "id": "74.11.04.2002",
+      "name": "Wia Wia"
+    },
+    {
+      "id": "74.11.04.2003",
+      "name": "Pangi-Pangi"
+    },
+    {
+      "id": "74.11.04.2004",
+      "name": "Tokai"
+    },
+    {
+      "id": "74.11.04.2005",
+      "name": "Andowengga"
+    },
+    {
+      "id": "74.11.04.2006",
+      "name": "Taosu (Toasu)"
+    },
+    {
+      "id": "74.11.04.2007",
+      "name": "Pole Maju Jaya"
+    },
+    {
+      "id": "74.11.04.2008",
+      "name": "Polenga Jaya"
+    },
+    {
+      "id": "74.11.04.2009",
+      "name": "Wundumbite"
+    },
+    {
+      "id": "74.11.04.2010",
+      "name": "Hakambololi"
+    },
+    {
+      "id": "74.11.04.2011",
+      "name": "Inotu Mewao"
+    },
+    {
+      "id": "74.11.04.2012",
+      "name": "Puundokulo"
+    },
+    {
+      "id": "74.11.05.1002",
+      "name": "Penanggo Jaya"
+    },
+    {
+      "id": "74.11.05.2001",
+      "name": "Wonuambuteo"
+    },
+    {
+      "id": "74.11.05.2003",
+      "name": "Mokupa"
+    },
+    {
+      "id": "74.11.05.2005",
+      "name": "Penanggoosi"
+    },
+    {
+      "id": "74.11.05.2007",
+      "name": "Lowa"
+    },
+    {
+      "id": "74.11.05.2008",
+      "name": "Atolanu (Atulano)"
+    },
+    {
+      "id": "74.11.05.2009",
+      "name": "Lere Jaya"
+    },
+    {
+      "id": "74.11.05.2010",
+      "name": "Bou"
+    },
+    {
+      "id": "74.11.05.2012",
+      "name": "Lambandia"
+    },
+    {
+      "id": "74.11.05.2013",
+      "name": "Inotu"
+    },
+    {
+      "id": "74.11.05.2018",
+      "name": "Lalolere"
+    },
+    {
+      "id": "74.11.05.2019",
+      "name": "Pomborea"
+    },
+    {
+      "id": "74.11.05.2021",
+      "name": "Penanggootu"
+    },
+    {
+      "id": "74.11.05.2022",
+      "name": "Mondoke"
+    },
+    {
+      "id": "74.11.05.2026",
+      "name": "Onemanu"
+    },
+    {
+      "id": "74.11.06.1001",
+      "name": "Lalolae"
+    },
+    {
+      "id": "74.11.06.2002",
+      "name": "Keisio (Keiso)"
+    },
+    {
+      "id": "74.11.06.2003",
+      "name": "Talodo (Talado)"
+    },
+    {
+      "id": "74.11.06.2004",
+      "name": "Lalosingi"
+    },
+    {
+      "id": "74.11.06.2005",
+      "name": "Wesalo"
+    },
+    {
+      "id": "74.11.07.1001",
+      "name": "Woitombo"
+    },
+    {
+      "id": "74.11.07.1002",
+      "name": "Inebenggi"
+    },
+    {
+      "id": "74.11.07.1004",
+      "name": "Horodopi"
+    },
+    {
+      "id": "74.11.07.2003",
+      "name": "Nelombu"
+    },
+    {
+      "id": "74.11.07.2005",
+      "name": "Watupute"
+    },
+    {
+      "id": "74.11.07.2006",
+      "name": "Puosu"
+    },
+    {
+      "id": "74.11.07.2007",
+      "name": "Ulu Mowewe"
+    },
+    {
+      "id": "74.11.07.2008",
+      "name": "Lapangisi"
+    },
+    {
+      "id": "74.11.07.2009",
+      "name": "Sabi-sabila"
+    },
+    {
+      "id": "74.11.07.2010",
+      "name": "Lambo Tua"
+    },
+    {
+      "id": "74.11.08.1006",
+      "name": "Sanggona"
+    },
+    {
+      "id": "74.11.08.2003",
+      "name": "Pehanggo"
+    },
+    {
+      "id": "74.11.08.2004",
+      "name": "Tondowatu"
+    },
+    {
+      "id": "74.11.08.2005",
+      "name": "Tawanga"
+    },
+    {
+      "id": "74.11.08.2007",
+      "name": "Uete"
+    },
+    {
+      "id": "74.11.08.2008",
+      "name": "Undolo"
+    },
+    {
+      "id": "74.11.08.2010",
+      "name": "Lalombai (Lalombaia)"
+    },
+    {
+      "id": "74.11.08.2014",
+      "name": "Amokuni"
+    },
+    {
+      "id": "74.11.08.2018",
+      "name": "Amololu"
+    },
+    {
+      "id": "74.11.08.2019",
+      "name": "Aukora"
+    },
+    {
+      "id": "74.11.09.1001",
+      "name": "Tinengi"
+    },
+    {
+      "id": "74.11.09.2002",
+      "name": "Solewatu"
+    },
+    {
+      "id": "74.11.09.2003",
+      "name": "Ambapa"
+    },
+    {
+      "id": "74.11.09.2004",
+      "name": "Ameroro"
+    },
+    {
+      "id": "74.11.09.2005",
+      "name": "Lamunde"
+    },
+    {
+      "id": "74.11.09.2006",
+      "name": "Tawarombadaka"
+    },
+    {
+      "id": "74.11.09.2007",
+      "name": "Talata"
+    },
+    {
+      "id": "74.11.09.2008",
+      "name": "Weamo"
+    },
+    {
+      "id": "74.11.09.2009",
+      "name": "Tawa-tawaro"
+    },
+    {
+      "id": "74.11.09.2010",
+      "name": "Singgere"
+    },
+    {
+      "id": "74.11.09.2011",
+      "name": "Tutuwi"
+    },
+    {
+      "id": "74.11.09.2012",
+      "name": "Iwoimea"
+    },
+    {
+      "id": "74.11.10.2001",
+      "name": "Aere"
+    },
+    {
+      "id": "74.11.10.2002",
+      "name": "Pekorea"
+    },
+    {
+      "id": "74.11.10.2003",
+      "name": "Iwoi Menggura"
+    },
+    {
+      "id": "74.11.10.2004",
+      "name": "Iwoimea Jaya"
+    },
+    {
+      "id": "74.11.10.2005",
+      "name": "Awiu"
+    },
+    {
+      "id": "74.11.10.2006",
+      "name": "Aladadio"
+    },
+    {
+      "id": "74.11.10.2007",
+      "name": "Tinete"
+    },
+    {
+      "id": "74.11.10.2008",
+      "name": "Taore"
+    },
+    {
+      "id": "74.11.10.2009",
+      "name": "Ulundoro"
+    },
+    {
+      "id": "74.11.10.2010",
+      "name": "Watuwoha (Watuoha)"
+    },
+    {
+      "id": "74.11.10.2011",
+      "name": "Rubia"
+    },
+    {
+      "id": "74.11.11.2001",
+      "name": "Ueesi"
+    },
+    {
+      "id": "74.11.11.2002",
+      "name": "Wesinggote"
+    },
+    {
+      "id": "74.11.11.2003",
+      "name": "Konawendepiha"
+    },
+    {
+      "id": "74.11.11.2004",
+      "name": "Porabua"
+    },
+    {
+      "id": "74.11.11.2005",
+      "name": "Watumendonga"
+    },
+    {
+      "id": "74.11.11.2006",
+      "name": "Silui"
+    },
+    {
+      "id": "74.11.11.2007",
+      "name": "Ahilulu (Ahilolu)"
+    },
+    {
+      "id": "74.11.11.2008",
+      "name": "Alaaha"
+    },
+    {
+      "id": "74.11.11.2009",
+      "name": "Likuwalanapo"
+    },
+    {
+      "id": "74.11.11.2010",
+      "name": "Tongauna"
+    },
+    {
+      "id": "74.11.11.2011",
+      "name": "Puurau"
+    },
+    {
+      "id": "74.11.12.2001",
+      "name": "Gunung Jaya"
+    },
+    {
+      "id": "74.11.12.2002",
+      "name": "Lembah Subur"
+    },
+    {
+      "id": "74.11.12.2003",
+      "name": "Dangia"
+    },
+    {
+      "id": "74.11.12.2004",
+      "name": "Lamosila"
+    },
+    {
+      "id": "74.11.12.2005",
+      "name": "Tetewua"
+    },
+    {
+      "id": "74.11.12.2006",
+      "name": "Anambada"
+    },
+    {
+      "id": "74.11.12.2007",
+      "name": "Talinduka"
+    },
+    {
+      "id": "74.11.12.2008",
+      "name": "Tetembuta"
+    },
+    {
+      "id": "74.11.12.2009",
+      "name": "Lalongkateba"
+    },
+    {
+      "id": "74.11.12.2010",
+      "name": "Wande"
+    },
+    {
+      "id": "74.11.12.2011",
+      "name": "Mekar Jaya"
+    },
+    {
+      "id": "74.11.12.2012",
+      "name": "Mulia Jaya"
+    },
+    {
+      "id": "74.12.01.1001",
+      "name": "Langara Laut"
+    },
+    {
+      "id": "74.12.01.2002",
+      "name": "Langara Iwawo"
+    },
+    {
+      "id": "74.12.01.2003",
+      "name": "Wawolaa (Wawola)"
+    },
+    {
+      "id": "74.12.01.2004",
+      "name": "Langara Indah"
+    },
+    {
+      "id": "74.12.01.2005",
+      "name": "Lamoluo"
+    },
+    {
+      "id": "74.12.01.2006",
+      "name": "Bukit Permai"
+    },
+    {
+      "id": "74.12.01.2007",
+      "name": "Wawobili"
+    },
+    {
+      "id": "74.12.01.2008",
+      "name": "Langaro Bajo (Langara Bajo)"
+    },
+    {
+      "id": "74.12.01.2009",
+      "name": "Mata Langara"
+    },
+    {
+      "id": "74.12.01.2010",
+      "name": "Mata Baho"
+    },
+    {
+      "id": "74.12.01.2011",
+      "name": "Lanowatu"
+    },
+    {
+      "id": "74.12.01.2012",
+      "name": "Lantula"
+    },
+    {
+      "id": "74.12.01.2013",
+      "name": "Pasir Putih"
+    },
+    {
+      "id": "74.12.01.2014",
+      "name": "langkowala"
+    },
+    {
+      "id": "74.12.01.2015",
+      "name": "Kawa-Kawali"
+    },
+    {
+      "id": "74.12.01.2016",
+      "name": "Langara Tanjung Batu"
+    },
+    {
+      "id": "74.12.02.1008",
+      "name": "Lansilowo"
+    },
+    {
+      "id": "74.12.02.2001",
+      "name": "Waworope"
+    },
+    {
+      "id": "74.12.02.2002",
+      "name": "Dongkalaea"
+    },
+    {
+      "id": "74.12.02.2003",
+      "name": "Labeau"
+    },
+    {
+      "id": "74.12.02.2004",
+      "name": "Tambaone (Tombaone)"
+    },
+    {
+      "id": "74.12.02.2005",
+      "name": "Palingi"
+    },
+    {
+      "id": "74.12.02.2006",
+      "name": "Mawa"
+    },
+    {
+      "id": "74.12.02.2007",
+      "name": "Mata Buranga"
+    },
+    {
+      "id": "74.12.02.2009",
+      "name": "Tambaone Utama (Tombaone Utama)"
+    },
+    {
+      "id": "74.12.02.2010",
+      "name": "Wawoea"
+    },
+    {
+      "id": "74.12.02.2011",
+      "name": "Palingi Barat"
+    },
+    {
+      "id": "74.12.02.2012",
+      "name": "Tumburano"
+    },
+    {
+      "id": "74.12.02.2013",
+      "name": "Mataiwoi (Mata Iwoi)"
+    },
+    {
+      "id": "74.12.02.2014",
+      "name": "Labisa"
+    },
+    {
+      "id": "74.12.02.2015",
+      "name": "Mata Bubu"
+    },
+    {
+      "id": "74.12.02.2016",
+      "name": "Wawobeau (Wawo Beau)"
+    },
+    {
+      "id": "74.12.02.2017",
+      "name": "Tapum Batu"
+    },
+    {
+      "id": "74.12.02.2018",
+      "name": "Palingi Timur"
+    },
+    {
+      "id": "74.12.02.2019",
+      "name": "Tongalere"
+    },
+    {
+      "id": "74.12.02.2020",
+      "name": "Tepolawa"
+    },
+    {
+      "id": "74.12.02.2021",
+      "name": "Sawa Indah"
+    },
+    {
+      "id": "74.12.03.1004",
+      "name": "Ladianta"
+    },
+    {
+      "id": "74.12.03.2001",
+      "name": "Bangun Mekar"
+    },
+    {
+      "id": "74.12.03.2002",
+      "name": "Noko"
+    },
+    {
+      "id": "74.12.03.2003",
+      "name": "Tangkombuno"
+    },
+    {
+      "id": "74.12.03.2005",
+      "name": "Dimba"
+    },
+    {
+      "id": "74.12.03.2006",
+      "name": "Mata Dimba"
+    },
+    {
+      "id": "74.12.03.2007",
+      "name": "Puurau"
+    },
+    {
+      "id": "74.12.03.2008",
+      "name": "Watuondo (Watu Ondo)"
+    },
+    {
+      "id": "74.12.03.2009",
+      "name": "Patande"
+    },
+    {
+      "id": "74.12.03.2010",
+      "name": "Baho Bubu"
+    },
+    {
+      "id": "74.12.04.1001",
+      "name": "Munse"
+    },
+    {
+      "id": "74.12.04.2002",
+      "name": "Lebo"
+    },
+    {
+      "id": "74.12.04.2003",
+      "name": "Tekonea"
+    },
+    {
+      "id": "74.12.04.2004",
+      "name": "Wakadawu"
+    },
+    {
+      "id": "74.12.04.2005",
+      "name": "Munse Indah"
+    },
+    {
+      "id": "74.12.04.2006",
+      "name": "Lapulu"
+    },
+    {
+      "id": "74.12.04.2007",
+      "name": "Laywo Jaya (Laywo)"
+    },
+    {
+      "id": "74.12.04.2008",
+      "name": "Nanga"
+    },
+    {
+      "id": "74.12.04.2009",
+      "name": "Butuea"
+    },
+    {
+      "id": "74.12.04.2010",
+      "name": "Lembono"
+    },
+    {
+      "id": "74.12.04.2011",
+      "name": "Saburano"
+    },
+    {
+      "id": "74.12.05.1005",
+      "name": "Polara"
+    },
+    {
+      "id": "74.12.05.2001",
+      "name": "Nambo Jaya"
+    },
+    {
+      "id": "74.12.05.2002",
+      "name": "Masolo (Mosolo)"
+    },
+    {
+      "id": "74.12.05.2003",
+      "name": "Sinaulu Jaya"
+    },
+    {
+      "id": "74.12.05.2004",
+      "name": "Tondonggito"
+    },
+    {
+      "id": "74.12.05.2006",
+      "name": "Roko Roko"
+    },
+    {
+      "id": "74.12.05.2007",
+      "name": "Dompo-dompo Jaya"
+    },
+    {
+      "id": "74.12.05.2008",
+      "name": "Teparoko"
+    },
+    {
+      "id": "74.12.05.2009",
+      "name": "Sukarela Jaya"
+    },
+    {
+      "id": "74.12.05.2011",
+      "name": "Sainoa Indah"
+    },
+    {
+      "id": "74.12.05.2012",
+      "name": "Wunse Jaya"
+    },
+    {
+      "id": "74.12.05.2013",
+      "name": "Sinar Masolo"
+    },
+    {
+      "id": "74.12.05.2014",
+      "name": "Waturai"
+    },
+    {
+      "id": "74.12.05.2015",
+      "name": "Bahaba"
+    },
+    {
+      "id": "74.12.05.2016",
+      "name": "Kekea"
+    },
+    {
+      "id": "74.12.06.1006",
+      "name": "Sawaea"
+    },
+    {
+      "id": "74.12.06.2001",
+      "name": "Wungkolo"
+    },
+    {
+      "id": "74.12.06.2002",
+      "name": "Bobolio"
+    },
+    {
+      "id": "74.12.06.2003",
+      "name": "Wawosou (Wawouso)"
+    },
+    {
+      "id": "74.12.06.2004",
+      "name": "Lawey"
+    },
+    {
+      "id": "74.12.06.2005",
+      "name": "Baku Baku"
+    },
+    {
+      "id": "74.12.06.2007",
+      "name": "Sawapatani (Sawa Patani)"
+    },
+    {
+      "id": "74.12.06.2008",
+      "name": "Wawouso Baru"
+    },
+    {
+      "id": "74.12.06.2009",
+      "name": "Puuwatu"
+    },
+    {
+      "id": "74.12.06.2010",
+      "name": "Wawoone (Wawo One)"
+    },
+    {
+      "id": "74.12.06.2011",
+      "name": "Langgara Jaya"
+    },
+    {
+      "id": "74.12.07.1003",
+      "name": "Lampeapi"
+    },
+    {
+      "id": "74.12.07.2001",
+      "name": "Batumea"
+    },
+    {
+      "id": "74.12.07.2002",
+      "name": "Wawo Indah"
+    },
+    {
+      "id": "74.12.07.2004",
+      "name": "Lamongupa"
+    },
+    {
+      "id": "74.12.07.2005",
+      "name": "Tumbu Tumbu Jaya"
+    },
+    {
+      "id": "74.12.07.2006",
+      "name": "Morobea"
+    },
+    {
+      "id": "74.12.07.2007",
+      "name": "Mekar Sari"
+    },
+    {
+      "id": "74.12.07.2008",
+      "name": "Rawa Indah"
+    },
+    {
+      "id": "74.12.07.2009",
+      "name": "Lampeapi Baru"
+    },
+    {
+      "id": "74.12.07.2010",
+      "name": "Pesue"
+    },
+    {
+      "id": "74.12.07.2011",
+      "name": "Puurau"
+    },
+    {
+      "id": "74.12.07.2012",
+      "name": "Baho Puu Wulu"
+    },
+    {
+      "id": "74.13.01.2001",
+      "name": "Wakoila"
+    },
+    {
+      "id": "74.13.01.2002",
+      "name": "Waukuni"
+    },
+    {
+      "id": "74.13.01.2003",
+      "name": "Kampobalano"
+    },
+    {
+      "id": "74.13.01.2004",
+      "name": "Maperaha"
+    },
+    {
+      "id": "74.13.01.2005",
+      "name": "Nihi"
+    },
+    {
+      "id": "74.13.01.2006",
+      "name": "Marobea"
+    },
+    {
+      "id": "74.13.01.2007",
+      "name": "Ondoke"
+    },
+    {
+      "id": "74.13.01.2008",
+      "name": "Lakalamba"
+    },
+    {
+      "id": "74.13.01.2009",
+      "name": "Lawada Jaya"
+    },
+    {
+      "id": "74.13.01.2010",
+      "name": "Lombu Jaya"
+    },
+    {
+      "id": "74.13.02.2001",
+      "name": "Wuna"
+    },
+    {
+      "id": "74.13.02.2002",
+      "name": "Lafinde"
+    },
+    {
+      "id": "74.13.02.2003",
+      "name": "Waulai"
+    },
+    {
+      "id": "74.13.02.2004",
+      "name": "Walelei"
+    },
+    {
+      "id": "74.13.02.2005",
+      "name": "Sawerigadi"
+    },
+    {
+      "id": "74.13.02.2006",
+      "name": "Bungkolo"
+    },
+    {
+      "id": "74.13.02.2007",
+      "name": "Barangka"
+    },
+    {
+      "id": "74.13.02.2008",
+      "name": "Lapolea"
+    },
+    {
+      "id": "74.13.03.1007",
+      "name": "Wamelai"
+    },
+    {
+      "id": "74.13.03.1008",
+      "name": "Lapadaku"
+    },
+    {
+      "id": "74.13.03.2001",
+      "name": "Lagadi"
+    },
+    {
+      "id": "74.13.03.2002",
+      "name": "Latugho"
+    },
+    {
+      "id": "74.13.03.2003",
+      "name": "Latompe"
+    },
+    {
+      "id": "74.13.03.2004",
+      "name": "Lalemba"
+    },
+    {
+      "id": "74.13.03.2005",
+      "name": "Madampi"
+    },
+    {
+      "id": "74.13.03.2006",
+      "name": "Watumela"
+    },
+    {
+      "id": "74.13.04.2001",
+      "name": "Lailangga"
+    },
+    {
+      "id": "74.13.04.2002",
+      "name": "Lasosodo"
+    },
+    {
+      "id": "74.13.04.2003",
+      "name": "Wakontu"
+    },
+    {
+      "id": "74.13.04.2004",
+      "name": "Lakanaha"
+    },
+    {
+      "id": "74.13.04.2005",
+      "name": "Katobu"
+    },
+    {
+      "id": "74.13.04.2006",
+      "name": "Lindo"
+    },
+    {
+      "id": "74.13.04.2007",
+      "name": "Kampani"
+    },
+    {
+      "id": "74.13.05.2001",
+      "name": "Parura Jaya"
+    },
+    {
+      "id": "74.13.05.2002",
+      "name": "Katangana"
+    },
+    {
+      "id": "74.13.05.2003",
+      "name": "Kasimpa Jaya"
+    },
+    {
+      "id": "74.13.05.2004",
+      "name": "Sangia Tiworo"
+    },
+    {
+      "id": "74.13.05.2005",
+      "name": "Barakkah (Barakka)"
+    },
+    {
+      "id": "74.13.06.2001",
+      "name": "Kangkunawe"
+    },
+    {
+      "id": "74.13.06.2002",
+      "name": "Maginti"
+    },
+    {
+      "id": "74.13.06.2003",
+      "name": "Pajala"
+    },
+    {
+      "id": "74.13.06.2004",
+      "name": "Abadi Jaya"
+    },
+    {
+      "id": "74.13.06.2005",
+      "name": "Gala"
+    },
+    {
+      "id": "74.13.06.2006",
+      "name": "Pasipadanga"
+    },
+    {
+      "id": "74.13.06.2007",
+      "name": "Bangko"
+    },
+    {
+      "id": "74.13.06.2008",
+      "name": "Kembar Maminasa"
+    },
+    {
+      "id": "74.13.07.2001",
+      "name": "Wanseriwu"
+    },
+    {
+      "id": "74.13.07.2002",
+      "name": "Labukolo"
+    },
+    {
+      "id": "74.13.07.2003",
+      "name": "Langku Langku"
+    },
+    {
+      "id": "74.13.07.2004",
+      "name": "Mekar Jaya"
+    },
+    {
+      "id": "74.13.07.2005",
+      "name": "Wapae Jaya"
+    },
+    {
+      "id": "74.13.07.2006",
+      "name": "Momuntu"
+    },
+    {
+      "id": "74.13.07.2007",
+      "name": "Lakabu"
+    },
+    {
+      "id": "74.13.07.2008",
+      "name": "Suka Damai (Sukadamai)"
+    },
+    {
+      "id": "74.13.08.2001",
+      "name": "Tasipi"
+    },
+    {
+      "id": "74.13.08.2002",
+      "name": "Mandike"
+    },
+    {
+      "id": "74.13.08.2003",
+      "name": "Bero"
+    },
+    {
+      "id": "74.13.08.2004",
+      "name": "Santigi"
+    },
+    {
+      "id": "74.13.08.2005",
+      "name": "Tondasi"
+    },
+    {
+      "id": "74.13.08.2006",
+      "name": "Santiri"
+    },
+    {
+      "id": "74.13.08.2007",
+      "name": "Tiga"
+    },
+    {
+      "id": "74.13.09.1004",
+      "name": "Waumere"
+    },
+    {
+      "id": "74.13.09.1005",
+      "name": "Tiworo"
+    },
+    {
+      "id": "74.13.09.2001",
+      "name": "Katela"
+    },
+    {
+      "id": "74.13.09.2002",
+      "name": "Lasama"
+    },
+    {
+      "id": "74.13.09.2003",
+      "name": "Sido Makmur"
+    },
+    {
+      "id": "74.13.09.2006",
+      "name": "Waturempe"
+    },
+    {
+      "id": "74.13.09.2007",
+      "name": "Laworo"
+    },
+    {
+      "id": "74.13.09.2008",
+      "name": "Wulanga Jaya"
+    },
+    {
+      "id": "74.13.09.2009",
+      "name": "Wandoke"
+    },
+    {
+      "id": "74.13.10.1008",
+      "name": "Konawe"
+    },
+    {
+      "id": "74.13.10.2001",
+      "name": "Lemoambo"
+    },
+    {
+      "id": "74.13.10.2002",
+      "name": "Kasakamu"
+    },
+    {
+      "id": "74.13.10.2003",
+      "name": "Tanjung Pinang"
+    },
+    {
+      "id": "74.13.10.2004",
+      "name": "Sidamangura"
+    },
+    {
+      "id": "74.13.10.2005",
+      "name": "Lakawoghe"
+    },
+    {
+      "id": "74.13.10.2006",
+      "name": "Lapokainse"
+    },
+    {
+      "id": "74.13.10.2007",
+      "name": "Guali"
+    },
+    {
+      "id": "74.13.10.2009",
+      "name": "Kusambi"
+    },
+    {
+      "id": "74.13.10.2010",
+      "name": "Bakeramba"
+    },
+    {
+      "id": "74.13.11.2001",
+      "name": "Masara"
+    },
+    {
+      "id": "74.13.11.2002",
+      "name": "Lahaji"
+    },
+    {
+      "id": "74.13.11.2003",
+      "name": "Umba"
+    },
+    {
+      "id": "74.13.11.2004",
+      "name": "Kombikuno"
+    },
+    {
+      "id": "74.13.11.2005",
+      "name": "Latawe"
+    },
+    {
+      "id": "74.13.11.2006",
+      "name": "Tangkumaho"
+    },
+    {
+      "id": "74.14.01.1007",
+      "name": "Lakudo"
+    },
+    {
+      "id": "74.14.01.1008",
+      "name": "Gu Timur"
+    },
+    {
+      "id": "74.14.01.1010",
+      "name": "Boneoge"
+    },
+    {
+      "id": "74.14.01.2001",
+      "name": "Metere"
+    },
+    {
+      "id": "74.14.01.2002",
+      "name": "Lolibu"
+    },
+    {
+      "id": "74.14.01.2003",
+      "name": "Wajogu"
+    },
+    {
+      "id": "74.14.01.2004",
+      "name": "Moko"
+    },
+    {
+      "id": "74.14.01.2005",
+      "name": "Mone"
+    },
+    {
+      "id": "74.14.01.2006",
+      "name": "Matawine"
+    },
+    {
+      "id": "74.14.01.2009",
+      "name": "Nepa Mekar"
+    },
+    {
+      "id": "74.14.01.2011",
+      "name": "Madongka"
+    },
+    {
+      "id": "74.14.01.2012",
+      "name": "Waraa (Wara)"
+    },
+    {
+      "id": "74.14.01.2013",
+      "name": "Wongko Lakudo"
+    },
+    {
+      "id": "74.14.01.2014",
+      "name": "One Waara"
+    },
+    {
+      "id": "74.14.01.2015",
+      "name": "Teluk Lasongko"
+    },
+    {
+      "id": "74.14.02.2001",
+      "name": "Bonemarambe"
+    },
+    {
+      "id": "74.14.02.2002",
+      "name": "Wambuloli"
+    },
+    {
+      "id": "74.14.02.2003",
+      "name": "Lagili"
+    },
+    {
+      "id": "74.14.02.2004",
+      "name": "Bungi"
+    },
+    {
+      "id": "74.14.02.2005",
+      "name": "Wantopi"
+    },
+    {
+      "id": "74.14.02.2006",
+      "name": "Inulu"
+    },
+    {
+      "id": "74.14.02.2007",
+      "name": "Lasori"
+    },
+    {
+      "id": "74.14.02.2008",
+      "name": "Batubanawa"
+    },
+    {
+      "id": "74.14.03.1003",
+      "name": "Lakorua"
+    },
+    {
+      "id": "74.14.03.2001",
+      "name": "Morikana"
+    },
+    {
+      "id": "74.14.03.2002",
+      "name": "Lantongau"
+    },
+    {
+      "id": "74.14.03.2004",
+      "name": "Lanto"
+    },
+    {
+      "id": "74.14.03.2005",
+      "name": "Lalibo"
+    },
+    {
+      "id": "74.14.03.2006",
+      "name": "Langkomu"
+    },
+    {
+      "id": "74.14.03.2007",
+      "name": "Watorumbe (Watorambe)"
+    },
+    {
+      "id": "74.14.03.2008",
+      "name": "Watorumbe Bata (Watorambe Bata)"
+    },
+    {
+      "id": "74.14.03.2009",
+      "name": "Gundu Gundu"
+    },
+    {
+      "id": "74.14.03.2010",
+      "name": "Katukobari"
+    },
+    {
+      "id": "74.14.04.1001",
+      "name": "Watolo"
+    },
+    {
+      "id": "74.14.04.1002",
+      "name": "Mawasangka"
+    },
+    {
+      "id": "74.14.04.2003",
+      "name": "Oengkolaki"
+    },
+    {
+      "id": "74.14.04.2004",
+      "name": "Banga"
+    },
+    {
+      "id": "74.14.04.2005",
+      "name": "Tanailandu"
+    },
+    {
+      "id": "74.14.04.2006",
+      "name": "Polindu"
+    },
+    {
+      "id": "74.14.04.2007",
+      "name": "Kanapa Napa"
+    },
+    {
+      "id": "74.14.04.2008",
+      "name": "Terapung"
+    },
+    {
+      "id": "74.14.04.2009",
+      "name": "Wasilomata II"
+    },
+    {
+      "id": "74.14.04.2010",
+      "name": "Wasilotama I (Wasilomata I)"
+    },
+    {
+      "id": "74.14.04.2011",
+      "name": "Matara"
+    },
+    {
+      "id": "74.14.04.2012",
+      "name": "Balobone"
+    },
+    {
+      "id": "74.14.04.2013",
+      "name": "Napa"
+    },
+    {
+      "id": "74.14.04.2014",
+      "name": "Wakambangura"
+    },
+    {
+      "id": "74.14.04.2015",
+      "name": "Kancebungi"
+    },
+    {
+      "id": "74.14.04.2016",
+      "name": "Gumanano"
+    },
+    {
+      "id": "74.14.04.2017",
+      "name": "Dahiango"
+    },
+    {
+      "id": "74.14.04.2018",
+      "name": "Air Bajo"
+    },
+    {
+      "id": "74.14.04.2019",
+      "name": "Wakambangura II"
+    },
+    {
+      "id": "74.14.05.1004",
+      "name": "Talaga Satu"
+    },
+    {
+      "id": "74.14.05.2001",
+      "name": "Kokoe"
+    },
+    {
+      "id": "74.14.05.2002",
+      "name": "Talaga Besar"
+    },
+    {
+      "id": "74.14.05.2003",
+      "name": "Talaga II (Talaga Dua)"
+    },
+    {
+      "id": "74.14.05.2005",
+      "name": "Wulu"
+    },
+    {
+      "id": "74.14.05.2006",
+      "name": "Liwulompona"
+    },
+    {
+      "id": "74.14.05.2007",
+      "name": "Pangilia"
+    },
+    {
+      "id": "74.14.06.1004",
+      "name": "Watulea"
+    },
+    {
+      "id": "74.14.06.1005",
+      "name": "Bombonawulu"
+    },
+    {
+      "id": "74.14.06.2001",
+      "name": "Bantea"
+    },
+    {
+      "id": "74.14.06.2002",
+      "name": "Lakapera"
+    },
+    {
+      "id": "74.14.06.2003",
+      "name": "Walando"
+    },
+    {
+      "id": "74.14.06.2006",
+      "name": "Waliko"
+    },
+    {
+      "id": "74.14.06.2007",
+      "name": "Wakea Kea"
+    },
+    {
+      "id": "74.14.06.2008",
+      "name": "Rahia"
+    },
+    {
+      "id": "74.14.06.2009",
+      "name": "Wadiabero"
+    },
+    {
+      "id": "74.14.06.2010",
+      "name": "Kolowa"
+    },
+    {
+      "id": "74.14.06.2011",
+      "name": "Kamama Mekar"
+    },
+    {
+      "id": "74.14.06.2012",
+      "name": "Lowu Lowu"
+    },
+    {
+      "id": "74.14.07.1002",
+      "name": "Tolandona"
+    },
+    {
+      "id": "74.14.07.2001",
+      "name": "Baruta Lestari"
+    },
+    {
+      "id": "74.14.07.2003",
+      "name": "Doda Bahari"
+    },
+    {
+      "id": "74.14.07.2004",
+      "name": "Baruta"
+    },
+    {
+      "id": "74.14.07.2006",
+      "name": "Baruta Analalaki (Baruta Analaki)"
+    },
+    {
+      "id": "74.14.07.2007",
+      "name": "Tolandona Matanaeo"
+    },
+    {
+      "id": "74.15.01.1002",
+      "name": "Busoa"
+    },
+    {
+      "id": "74.15.01.1003",
+      "name": "Laompo"
+    },
+    {
+      "id": "74.15.01.1004",
+      "name": "Masiri"
+    },
+    {
+      "id": "74.15.01.1005",
+      "name": "Majapahit"
+    },
+    {
+      "id": "74.15.01.1010",
+      "name": "Lakambau"
+    },
+    {
+      "id": "74.15.01.1011",
+      "name": "Molagina"
+    },
+    {
+      "id": "74.15.01.1012",
+      "name": "Bandar Batauga"
+    },
+    {
+      "id": "74.15.01.2001",
+      "name": "Lawela"
+    },
+    {
+      "id": "74.15.01.2006",
+      "name": "Bola"
+    },
+    {
+      "id": "74.15.01.2007",
+      "name": "Poogalampa"
+    },
+    {
+      "id": "74.15.01.2008",
+      "name": "Lawela Selatan"
+    },
+    {
+      "id": "74.15.01.2009",
+      "name": "Lampanairi"
+    },
+    {
+      "id": "74.15.02.1003",
+      "name": "Katilombu"
+    },
+    {
+      "id": "74.15.02.1004",
+      "name": "Jaya Bakti"
+    },
+    {
+      "id": "74.15.02.1005",
+      "name": "Todombulu"
+    },
+    {
+      "id": "74.15.02.2001",
+      "name": "Bangun"
+    },
+    {
+      "id": "74.15.02.2002",
+      "name": "Wawoangi"
+    },
+    {
+      "id": "74.15.02.2006",
+      "name": "Gunung Sejuk"
+    },
+    {
+      "id": "74.15.02.2007",
+      "name": "Sandang Pangan"
+    },
+    {
+      "id": "74.15.02.2008",
+      "name": "Hendea"
+    },
+    {
+      "id": "74.15.02.2009",
+      "name": "Tira"
+    },
+    {
+      "id": "74.15.02.2010",
+      "name": "Bahari"
+    },
+    {
+      "id": "74.15.02.2011",
+      "name": "Gerak Makmur"
+    },
+    {
+      "id": "74.15.02.2012",
+      "name": "Lipu Mangau"
+    },
+    {
+      "id": "74.15.02.2013",
+      "name": "Bahari 2 (dua)"
+    },
+    {
+      "id": "74.15.02.2014",
+      "name": "Bahari 3 (tiga)"
+    },
+    {
+      "id": "74.15.02.2015",
+      "name": "Windu Makmur"
+    },
+    {
+      "id": "74.15.02.2016",
+      "name": "Watiginanda"
+    },
+    {
+      "id": "74.15.03.2001",
+      "name": "Lapandewa Makmur"
+    },
+    {
+      "id": "74.15.03.2002",
+      "name": "Gaya Baru (Gayabaru)"
+    },
+    {
+      "id": "74.15.03.2003",
+      "name": "Burangasi Rumbia"
+    },
+    {
+      "id": "74.15.03.2004",
+      "name": "Burangasi"
+    },
+    {
+      "id": "74.15.03.2005",
+      "name": "Lapandewa Kaindea (Lapandewa Kaidea)"
+    },
+    {
+      "id": "74.15.03.2006",
+      "name": "Lapandewa"
+    },
+    {
+      "id": "74.15.03.2007",
+      "name": "Lapandewa Jaya"
+    },
+    {
+      "id": "74.15.04.2001",
+      "name": "Batuatas Liwu"
+    },
+    {
+      "id": "74.15.04.2002",
+      "name": "Batuatas Barat"
+    },
+    {
+      "id": "74.15.04.2003",
+      "name": "Wacuala"
+    },
+    {
+      "id": "74.15.04.2004",
+      "name": "Batu Atas Timur (Batuatas Timur)"
+    },
+    {
+      "id": "74.15.04.2005",
+      "name": "Tolando Jaya"
+    },
+    {
+      "id": "74.15.04.2006",
+      "name": "Taduasa"
+    },
+    {
+      "id": "74.15.04.2007",
+      "name": "Wambongi"
+    },
+    {
+      "id": "74.15.05.2001",
+      "name": "Molona"
+    },
+    {
+      "id": "74.15.05.2002",
+      "name": "Mbanua"
+    },
+    {
+      "id": "74.15.05.2003",
+      "name": "Lalole"
+    },
+    {
+      "id": "74.15.05.2004",
+      "name": "Watuampara"
+    },
+    {
+      "id": "74.15.05.2005",
+      "name": "Katampe"
+    },
+    {
+      "id": "74.15.05.2006",
+      "name": "Lamaninggara"
+    },
+    {
+      "id": "74.15.05.2007",
+      "name": "Kamoali"
+    },
+    {
+      "id": "74.15.05.2008",
+      "name": "Mokobeau"
+    },
+    {
+      "id": "74.15.06.2001",
+      "name": "Biwinapada"
+    },
+    {
+      "id": "74.15.06.2002",
+      "name": "Kaimbulawa"
+    },
+    {
+      "id": "74.15.06.2003",
+      "name": "Wakinamboro"
+    },
+    {
+      "id": "74.15.06.2004",
+      "name": "Tongali"
+    },
+    {
+      "id": "74.15.06.2005",
+      "name": "Lontoi"
+    },
+    {
+      "id": "74.15.06.2006",
+      "name": "Karae"
+    },
+    {
+      "id": "74.15.06.2007",
+      "name": "Batuawu"
+    },
+    {
+      "id": "74.15.06.2008",
+      "name": "Nggulanggula"
+    },
+    {
+      "id": "74.15.06.2009",
+      "name": "Waindawula"
+    },
+    {
+      "id": "74.15.06.2010",
+      "name": "Lapara"
+    },
+    {
+      "id": "74.15.07.2001",
+      "name": "Waonu"
+    },
+    {
+      "id": "74.15.07.2002",
+      "name": "Kaofe"
+    },
+    {
+      "id": "74.15.07.2003",
+      "name": "Uwemaasi"
+    },
+    {
+      "id": "74.15.07.2004",
+      "name": "Lipu"
+    },
+    {
+      "id": "74.15.07.2005",
+      "name": "Kapoa"
+    },
+    {
+      "id": "74.15.07.2006",
+      "name": "Banabungi"
+    },
+    {
+      "id": "74.15.07.2007",
+      "name": "Mawambunga"
+    },
+    {
+      "id": "74.15.07.2008",
+      "name": "Banabungi Selatan"
+    },
+    {
+      "id": "74.15.07.2009",
+      "name": "Marawali"
+    },
+    {
+      "id": "74.15.07.2010",
+      "name": "Kapoa Barat"
+    },
+    {
+      "id": "74.71.01.1005",
+      "name": "Mandonga"
+    },
+    {
+      "id": "74.71.01.1006",
+      "name": "Korumba"
+    },
+    {
+      "id": "74.71.01.1007",
+      "name": "Labibia"
+    },
+    {
+      "id": "74.71.01.1008",
+      "name": "Wawombalata"
+    },
+    {
+      "id": "74.71.01.1009",
+      "name": "Alolama"
+    },
+    {
+      "id": "74.71.01.1010",
+      "name": "Anggilowu"
+    },
+    {
+      "id": "74.71.02.1009",
+      "name": "Kandai"
+    },
+    {
+      "id": "74.71.02.1010",
+      "name": "Gunung Jati"
+    },
+    {
+      "id": "74.71.02.1011",
+      "name": "Kampung Salo"
+    },
+    {
+      "id": "74.71.02.1012",
+      "name": "Mangga Dua"
+    },
+    {
+      "id": "74.71.02.1013",
+      "name": "Kendari Caddi"
+    },
+    {
+      "id": "74.71.02.1014",
+      "name": "Kassilampe (Kessilampe)"
+    },
+    {
+      "id": "74.71.02.1015",
+      "name": "Mata"
+    },
+    {
+      "id": "74.71.02.1016",
+      "name": "Purirano"
+    },
+    {
+      "id": "74.71.02.1017",
+      "name": "Jati Mekar"
+    },
+    {
+      "id": "74.71.03.1001",
+      "name": "Baruga"
+    },
+    {
+      "id": "74.71.03.1002",
+      "name": "Lepo Lepo"
+    },
+    {
+      "id": "74.71.03.1007",
+      "name": "Watubangga"
+    },
+    {
+      "id": "74.71.03.1008",
+      "name": "Wundudopi"
+    },
+    {
+      "id": "74.71.04.1003",
+      "name": "Andonohu (Anduonohu)"
+    },
+    {
+      "id": "74.71.04.1004",
+      "name": "Rahandouna"
+    },
+    {
+      "id": "74.71.04.1005",
+      "name": "Anggoeya"
+    },
+    {
+      "id": "74.71.04.1006",
+      "name": "Matabubu"
+    },
+    {
+      "id": "74.71.04.1021",
+      "name": "Wundumbatu"
+    },
+    {
+      "id": "74.71.05.1001",
+      "name": "Kemaraya"
+    },
+    {
+      "id": "74.71.05.1002",
+      "name": "Watu-Watu"
+    },
+    {
+      "id": "74.71.05.1003",
+      "name": "Tipulu"
+    },
+    {
+      "id": "74.71.05.1004",
+      "name": "Punggaloba"
+    },
+    {
+      "id": "74.71.05.1005",
+      "name": "Benu Benua"
+    },
+    {
+      "id": "74.71.05.1006",
+      "name": "Sodohoa (Sodoha)"
+    },
+    {
+      "id": "74.71.05.1007",
+      "name": "Sanua"
+    },
+    {
+      "id": "74.71.05.1008",
+      "name": "Dapu Dapura"
+    },
+    {
+      "id": "74.71.05.1009",
+      "name": "Lahundape"
+    },
+    {
+      "id": "74.71.06.1001",
+      "name": "Puday (Pudai)"
+    },
+    {
+      "id": "74.71.06.1002",
+      "name": "Lapulu"
+    },
+    {
+      "id": "74.71.06.1003",
+      "name": "Abeli"
+    },
+    {
+      "id": "74.71.06.1004",
+      "name": "Benuanirae (Benua Nirae)"
+    },
+    {
+      "id": "74.71.06.1006",
+      "name": "Anggalomelai (Anggolomelai)"
+    },
+    {
+      "id": "74.71.06.1007",
+      "name": "Talia"
+    },
+    {
+      "id": "74.71.06.1008",
+      "name": "Poasia"
+    },
+    {
+      "id": "74.71.07.1001",
+      "name": "Wua Wua"
+    },
+    {
+      "id": "74.71.07.1002",
+      "name": "Bonggoeya"
+    },
+    {
+      "id": "74.71.07.1003",
+      "name": "Mataiwoi"
+    },
+    {
+      "id": "74.71.07.1004",
+      "name": "Anawai"
+    },
+    {
+      "id": "74.71.08.1001",
+      "name": "Kadia"
+    },
+    {
+      "id": "74.71.08.1002",
+      "name": "Bende"
+    },
+    {
+      "id": "74.71.08.1003",
+      "name": "Pondambea"
+    },
+    {
+      "id": "74.71.08.1004",
+      "name": "Wowawanggu"
+    },
+    {
+      "id": "74.71.08.1005",
+      "name": "Anaiwoi"
+    },
+    {
+      "id": "74.71.09.1001",
+      "name": "Puuwatu (Puwatu)"
+    },
+    {
+      "id": "74.71.09.1002",
+      "name": "Watulondo"
+    },
+    {
+      "id": "74.71.09.1003",
+      "name": "Punggolaka"
+    },
+    {
+      "id": "74.71.09.1004",
+      "name": "Tobuuha"
+    },
+    {
+      "id": "74.71.09.1005",
+      "name": "Abeli Dalam"
+    },
+    {
+      "id": "74.71.09.1006",
+      "name": "Lalodati"
+    },
+    {
+      "id": "74.71.10.1001",
+      "name": "Kambu"
+    },
+    {
+      "id": "74.71.10.1002",
+      "name": "Mokoau"
+    },
+    {
+      "id": "74.71.10.1003",
+      "name": "Padaleu"
+    },
+    {
+      "id": "74.71.10.1004",
+      "name": "Lalolara"
+    },
+    {
+      "id": "74.71.11.1001",
+      "name": "Tobimeita"
+    },
+    {
+      "id": "74.71.11.1002",
+      "name": "Petoaha"
+    },
+    {
+      "id": "74.71.11.1003",
+      "name": "Nambo"
+    },
+    {
+      "id": "74.71.11.1004",
+      "name": "Bungkutoko"
+    },
+    {
+      "id": "74.71.11.1005",
+      "name": "Sambuli"
+    },
+    {
+      "id": "74.71.11.1006",
+      "name": "Tondonggeu"
+    },
+    {
+      "id": "74.72.01.1007",
+      "name": "Katobengke"
+    },
+    {
+      "id": "74.72.01.1012",
+      "name": "Waborobo"
+    },
+    {
+      "id": "74.72.01.1013",
+      "name": "Sulaa"
+    },
+    {
+      "id": "74.72.01.1014",
+      "name": "Lipu"
+    },
+    {
+      "id": "74.72.01.1016",
+      "name": "Labalawa"
+    },
+    {
+      "id": "74.72.02.1001",
+      "name": "Wale"
+    },
+    {
+      "id": "74.72.02.1002",
+      "name": "Tomba"
+    },
+    {
+      "id": "74.72.02.1003",
+      "name": "Bataraguru"
+    },
+    {
+      "id": "74.72.02.1004",
+      "name": "Wangkanapi"
+    },
+    {
+      "id": "74.72.02.1005",
+      "name": "Batulo"
+    },
+    {
+      "id": "74.72.02.1007",
+      "name": "Kadolo Katapi"
+    },
+    {
+      "id": "74.72.02.1011",
+      "name": "Bukit Wolio Indah"
+    },
+    {
+      "id": "74.72.03.1001",
+      "name": "Kaisabu Baru"
+    },
+    {
+      "id": "74.72.03.1002",
+      "name": "Karya Baru"
+    },
+    {
+      "id": "74.72.03.1003",
+      "name": "Gonda Baru"
+    },
+    {
+      "id": "74.72.03.1004",
+      "name": "Bugi"
+    },
+    {
+      "id": "74.72.04.1001",
+      "name": "Liabuku (Lia Buku)"
+    },
+    {
+      "id": "74.72.04.1002",
+      "name": "Ngkaring-Karing (Ngkari-Ngkari)"
+    },
+    {
+      "id": "74.72.04.1003",
+      "name": "Kampeonaho"
+    },
+    {
+      "id": "74.72.04.1008",
+      "name": "Waliabuku (Walia Buku)"
+    },
+    {
+      "id": "74.72.04.1010",
+      "name": "Tampuna"
+    },
+    {
+      "id": "74.72.05.1001",
+      "name": "Liwuto"
+    },
+    {
+      "id": "74.72.05.1002",
+      "name": "Sukanayo (Sukanaeyo)"
+    },
+    {
+      "id": "74.72.05.1003",
+      "name": "Lakologou (Lakologuo)"
+    },
+    {
+      "id": "74.72.05.1004",
+      "name": "Waruruma"
+    },
+    {
+      "id": "74.72.05.1005",
+      "name": "Kadolomoko"
+    },
+    {
+      "id": "74.72.05.1006",
+      "name": "Kadolo"
+    },
+    {
+      "id": "74.72.06.1007",
+      "name": "Wajo"
+    },
+    {
+      "id": "74.72.06.1008",
+      "name": "Lamangga"
+    },
+    {
+      "id": "74.72.06.1009",
+      "name": "Melai"
+    },
+    {
+      "id": "74.72.06.1010",
+      "name": "Baadia"
+    },
+    {
+      "id": "74.72.06.1011",
+      "name": "Tanganapada"
+    },
+    {
+      "id": "74.72.07.1001",
+      "name": "Lowu-Lowu"
+    },
+    {
+      "id": "74.72.07.1002",
+      "name": "Kalia Lia"
+    },
+    {
+      "id": "74.72.07.1003",
+      "name": "Palabusa"
+    },
+    {
+      "id": "74.72.07.1004",
+      "name": "Kolese"
+    },
+    {
+      "id": "74.72.07.1005",
+      "name": "Kantalai"
+    },
+    {
+      "id": "74.72.08.1001",
+      "name": "Bonebone (Bone-Bone)"
+    },
+    {
+      "id": "74.72.08.1002",
+      "name": "Tarafu"
+    },
+    {
+      "id": "74.72.08.1003",
+      "name": "Wameo"
+    },
+    {
+      "id": "74.72.08.1004",
+      "name": "Kaobula"
+    },
+    {
+      "id": "74.72.08.1005",
+      "name": "Lanto"
+    },
+    {
+      "id": "74.72.08.1006",
+      "name": "Nganganaumala"
+    }
+  ]
+}

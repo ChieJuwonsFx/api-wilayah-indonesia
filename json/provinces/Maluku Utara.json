@@ -1,0 +1,5264 @@
+{
+  "province": {
+    "id": "82",
+    "name": "Maluku Utara"
+  },
+  "cities": [
+    {
+      "id": "82.01",
+      "name": "Halmahera Barat"
+    },
+    {
+      "id": "82.02",
+      "name": "Halmahera Tengah"
+    },
+    {
+      "id": "82.03",
+      "name": "Halmahera Utara"
+    },
+    {
+      "id": "82.04",
+      "name": "Halmahera Selatan"
+    },
+    {
+      "id": "82.05",
+      "name": "Kepulauan Sula"
+    },
+    {
+      "id": "82.06",
+      "name": "Halmahera Timur"
+    },
+    {
+      "id": "82.07",
+      "name": "Pulau Morotai"
+    },
+    {
+      "id": "82.08",
+      "name": "Pulau Taliabu"
+    },
+    {
+      "id": "82.71",
+      "name": "Kota Ternate"
+    },
+    {
+      "id": "82.72",
+      "name": "Kota Tidore Kepulauan"
+    }
+  ],
+  "districts": [
+    {
+      "id": "82.01.01",
+      "name": "Jailolo"
+    },
+    {
+      "id": "82.01.02",
+      "name": "Loloda"
+    },
+    {
+      "id": "82.01.03",
+      "name": "Ibu"
+    },
+    {
+      "id": "82.01.04",
+      "name": "Sahu"
+    },
+    {
+      "id": "82.01.05",
+      "name": "Jailolo Selatan"
+    },
+    {
+      "id": "82.01.07",
+      "name": "Ibu Utara"
+    },
+    {
+      "id": "82.01.08",
+      "name": "Ibu Selatan"
+    },
+    {
+      "id": "82.01.09",
+      "name": "Sahu Timur"
+    },
+    {
+      "id": "82.01.10",
+      "name": "Loloda Tengah"
+    },
+    {
+      "id": "82.02.01",
+      "name": "Weda"
+    },
+    {
+      "id": "82.02.02",
+      "name": "Patani"
+    },
+    {
+      "id": "82.02.03",
+      "name": "Pulau Gebe"
+    },
+    {
+      "id": "82.02.04",
+      "name": "Weda Utara"
+    },
+    {
+      "id": "82.02.05",
+      "name": "Weda Selatan"
+    },
+    {
+      "id": "82.02.06",
+      "name": "Patani Utara"
+    },
+    {
+      "id": "82.02.07",
+      "name": "Weda Tengah"
+    },
+    {
+      "id": "82.02.08",
+      "name": "Patani Barat"
+    },
+    {
+      "id": "82.02.09",
+      "name": "Weda Timur"
+    },
+    {
+      "id": "82.02.10",
+      "name": "Patani Timur"
+    },
+    {
+      "id": "82.03.04",
+      "name": "Galela"
+    },
+    {
+      "id": "82.03.05",
+      "name": "Tobelo"
+    },
+    {
+      "id": "82.03.06",
+      "name": "Tobelo Selatan"
+    },
+    {
+      "id": "82.03.07",
+      "name": "Kao"
+    },
+    {
+      "id": "82.03.08",
+      "name": "Malifut"
+    },
+    {
+      "id": "82.03.09",
+      "name": "Loloda Utara"
+    },
+    {
+      "id": "82.03.10",
+      "name": "Tobelo Utara"
+    },
+    {
+      "id": "82.03.11",
+      "name": "Tobelo Tengah"
+    },
+    {
+      "id": "82.03.12",
+      "name": "Tobelo Timur"
+    },
+    {
+      "id": "82.03.13",
+      "name": "Tobelo Barat"
+    },
+    {
+      "id": "82.03.14",
+      "name": "Galela Barat"
+    },
+    {
+      "id": "82.03.15",
+      "name": "Galela Utara"
+    },
+    {
+      "id": "82.03.16",
+      "name": "Galela Selatan"
+    },
+    {
+      "id": "82.03.19",
+      "name": "Loloda Kepulauan"
+    },
+    {
+      "id": "82.03.20",
+      "name": "Kao Utara"
+    },
+    {
+      "id": "82.03.21",
+      "name": "Kao Barat"
+    },
+    {
+      "id": "82.03.22",
+      "name": "Kao Teluk"
+    },
+    {
+      "id": "82.04.01",
+      "name": "Pulau Makian"
+    },
+    {
+      "id": "82.04.02",
+      "name": "Kayoa"
+    },
+    {
+      "id": "82.04.03",
+      "name": "Gane Timur"
+    },
+    {
+      "id": "82.04.04",
+      "name": "Gane Barat"
+    },
+    {
+      "id": "82.04.05",
+      "name": "Obi Selatan"
+    },
+    {
+      "id": "82.04.06",
+      "name": "Obi"
+    },
+    {
+      "id": "82.04.07",
+      "name": "Bacan Timur"
+    },
+    {
+      "id": "82.04.08",
+      "name": "Bacan"
+    },
+    {
+      "id": "82.04.09",
+      "name": "Bacan Barat"
+    },
+    {
+      "id": "82.04.10",
+      "name": "Makian Barat"
+    },
+    {
+      "id": "82.04.11",
+      "name": "Kayoa Barat"
+    },
+    {
+      "id": "82.04.12",
+      "name": "Kayoa Selatan"
+    },
+    {
+      "id": "82.04.13",
+      "name": "Kayoa Utara"
+    },
+    {
+      "id": "82.04.14",
+      "name": "Bacan Barat Utara"
+    },
+    {
+      "id": "82.04.15",
+      "name": "Kasiruta Barat"
+    },
+    {
+      "id": "82.04.16",
+      "name": "Kasiruta Timur"
+    },
+    {
+      "id": "82.04.17",
+      "name": "Bacan Selatan"
+    },
+    {
+      "id": "82.04.18",
+      "name": "Kepulauan Botanglomang"
+    },
+    {
+      "id": "82.04.19",
+      "name": "Mandioli Selatan"
+    },
+    {
+      "id": "82.04.20",
+      "name": "Mandioli Utara"
+    },
+    {
+      "id": "82.04.21",
+      "name": "Bacan Timur Selatan"
+    },
+    {
+      "id": "82.04.22",
+      "name": "Bacan Timur Tengah"
+    },
+    {
+      "id": "82.04.23",
+      "name": "Gane Barat Selatan"
+    },
+    {
+      "id": "82.04.24",
+      "name": "Gane Barat Utara"
+    },
+    {
+      "id": "82.04.25",
+      "name": "Kepulauan Joronga"
+    },
+    {
+      "id": "82.04.26",
+      "name": "Gane Timur Selatan"
+    },
+    {
+      "id": "82.04.27",
+      "name": "Gane Timur Tengah"
+    },
+    {
+      "id": "82.04.28",
+      "name": "Obi Barat"
+    },
+    {
+      "id": "82.04.29",
+      "name": "Obi Timur"
+    },
+    {
+      "id": "82.04.30",
+      "name": "Obi Utara"
+    },
+    {
+      "id": "82.05.01",
+      "name": "Mangoli Timur"
+    },
+    {
+      "id": "82.05.02",
+      "name": "Sanana"
+    },
+    {
+      "id": "82.05.03",
+      "name": "Sulabesi Barat"
+    },
+    {
+      "id": "82.05.06",
+      "name": "Mangoli Barat"
+    },
+    {
+      "id": "82.05.07",
+      "name": "Sulabesi Tengah"
+    },
+    {
+      "id": "82.05.08",
+      "name": "Sulabesi Timur"
+    },
+    {
+      "id": "82.05.09",
+      "name": "Sulabesi Selatan"
+    },
+    {
+      "id": "82.05.10",
+      "name": "Mangoli Utara Timur"
+    },
+    {
+      "id": "82.05.11",
+      "name": "Mangoli Tengah"
+    },
+    {
+      "id": "82.05.12",
+      "name": "Mangoli Selatan"
+    },
+    {
+      "id": "82.05.13",
+      "name": "Mangoli Utara"
+    },
+    {
+      "id": "82.05.18",
+      "name": "Sanana Utara"
+    },
+    {
+      "id": "82.06.01",
+      "name": "Wasile"
+    },
+    {
+      "id": "82.06.02",
+      "name": "Maba"
+    },
+    {
+      "id": "82.06.03",
+      "name": "Maba Selatan"
+    },
+    {
+      "id": "82.06.04",
+      "name": "Wasile Selatan"
+    },
+    {
+      "id": "82.06.05",
+      "name": "Wasile Tengah"
+    },
+    {
+      "id": "82.06.06",
+      "name": "Wasile Utara"
+    },
+    {
+      "id": "82.06.07",
+      "name": "Wasile Timur"
+    },
+    {
+      "id": "82.06.08",
+      "name": "Maba Tengah"
+    },
+    {
+      "id": "82.06.09",
+      "name": "Maba Utara"
+    },
+    {
+      "id": "82.06.10",
+      "name": "Kota Maba"
+    },
+    {
+      "id": "82.07.01",
+      "name": "Morotai Selatan"
+    },
+    {
+      "id": "82.07.02",
+      "name": "Morotai Selatan Barat"
+    },
+    {
+      "id": "82.07.03",
+      "name": "Morotai Jaya"
+    },
+    {
+      "id": "82.07.04",
+      "name": "Morotai Utara"
+    },
+    {
+      "id": "82.07.05",
+      "name": "Morotai Timur"
+    },
+    {
+      "id": "82.07.06",
+      "name": "Pulau Rao"
+    },
+    {
+      "id": "82.08.01",
+      "name": "Taliabu Barat"
+    },
+    {
+      "id": "82.08.02",
+      "name": "Taliabu Barat Laut"
+    },
+    {
+      "id": "82.08.03",
+      "name": "Lede"
+    },
+    {
+      "id": "82.08.04",
+      "name": "Taliabu Utara"
+    },
+    {
+      "id": "82.08.05",
+      "name": "Taliabu Timur"
+    },
+    {
+      "id": "82.08.06",
+      "name": "Taliabu Timur Selatan"
+    },
+    {
+      "id": "82.08.07",
+      "name": "Taliabu Selatan"
+    },
+    {
+      "id": "82.08.08",
+      "name": "Tabona"
+    },
+    {
+      "id": "82.71.01",
+      "name": "Pulau Ternate"
+    },
+    {
+      "id": "82.71.02",
+      "name": "Kota Ternate Selatan"
+    },
+    {
+      "id": "82.71.03",
+      "name": "Kota Ternate Utara"
+    },
+    {
+      "id": "82.71.04",
+      "name": "Moti"
+    },
+    {
+      "id": "82.71.05",
+      "name": "Pulau Batang Dua"
+    },
+    {
+      "id": "82.71.06",
+      "name": "Kota Ternate Tengah"
+    },
+    {
+      "id": "82.71.07",
+      "name": "Pulau Hiri"
+    },
+    {
+      "id": "82.71.08",
+      "name": "Ternate Barat"
+    },
+    {
+      "id": "82.72.01",
+      "name": "Tidore"
+    },
+    {
+      "id": "82.72.02",
+      "name": "Oba Utara"
+    },
+    {
+      "id": "82.72.03",
+      "name": "Oba"
+    },
+    {
+      "id": "82.72.04",
+      "name": "Tidore Selatan"
+    },
+    {
+      "id": "82.72.05",
+      "name": "Tidore Utara"
+    },
+    {
+      "id": "82.72.06",
+      "name": "Oba Tengah"
+    },
+    {
+      "id": "82.72.07",
+      "name": "Oba Selatan"
+    },
+    {
+      "id": "82.72.08",
+      "name": "Tidore Timur"
+    }
+  ],
+  "villages": [
+    {
+      "id": "82.01.01.2001",
+      "name": "Gufasa"
+    },
+    {
+      "id": "82.01.01.2002",
+      "name": "Guaimaadu"
+    },
+    {
+      "id": "82.01.01.2003",
+      "name": "Jalan Baru"
+    },
+    {
+      "id": "82.01.01.2004",
+      "name": "Gam Lamo (Gamlamo)"
+    },
+    {
+      "id": "82.01.01.2005",
+      "name": "Soakonora"
+    },
+    {
+      "id": "82.01.01.2006",
+      "name": "Galala"
+    },
+    {
+      "id": "82.01.01.2007",
+      "name": "Bobanehena"
+    },
+    {
+      "id": "82.01.01.2008",
+      "name": "Payo"
+    },
+    {
+      "id": "82.01.01.2009",
+      "name": "Bobo"
+    },
+    {
+      "id": "82.01.01.2010",
+      "name": "Saria"
+    },
+    {
+      "id": "82.01.01.2011",
+      "name": "Idam Dehe (Idamdehe)"
+    },
+    {
+      "id": "82.01.01.2012",
+      "name": "Idamdehe Gamsungi"
+    },
+    {
+      "id": "82.01.01.2013",
+      "name": "Marmabati (Marimbati)"
+    },
+    {
+      "id": "82.01.01.2014",
+      "name": "Gamtala"
+    },
+    {
+      "id": "82.01.01.2015",
+      "name": "Lolory (Loloy / Lolori)"
+    },
+    {
+      "id": "82.01.01.2016",
+      "name": "Toboso (Taboso / Tobosa / Tabaso)"
+    },
+    {
+      "id": "82.01.01.2017",
+      "name": "Huku-Huku Kie (Hoku Hoku Kie)"
+    },
+    {
+      "id": "82.01.01.2018",
+      "name": "Acango"
+    },
+    {
+      "id": "82.01.01.2019",
+      "name": "Tedeng"
+    },
+    {
+      "id": "82.01.01.2020",
+      "name": "Akediri"
+    },
+    {
+      "id": "82.01.01.2021",
+      "name": "Pornity (Porniti)"
+    },
+    {
+      "id": "82.01.01.2022",
+      "name": "Buku Matiti (Bukumatiti)"
+    },
+    {
+      "id": "82.01.01.2023",
+      "name": "Todowongi (Todowangi)"
+    },
+    {
+      "id": "82.01.01.2024",
+      "name": "Tuada"
+    },
+    {
+      "id": "82.01.01.2025",
+      "name": "Matui"
+    },
+    {
+      "id": "82.01.01.2026",
+      "name": "Buku Bualawa"
+    },
+    {
+      "id": "82.01.01.2027",
+      "name": "Tauro"
+    },
+    {
+      "id": "82.01.01.2034",
+      "name": "Hate Bicara"
+    },
+    {
+      "id": "82.01.01.2035",
+      "name": "Guaria (Guaeria)"
+    },
+    {
+      "id": "82.01.01.2036",
+      "name": "Pateng"
+    },
+    {
+      "id": "82.01.01.2037",
+      "name": "Bobo Jiko"
+    },
+    {
+      "id": "82.01.01.2038",
+      "name": "Ulo"
+    },
+    {
+      "id": "82.01.01.2039",
+      "name": "Kuripasai"
+    },
+    {
+      "id": "82.01.01.2040",
+      "name": "Buku Maadu"
+    },
+    {
+      "id": "82.01.02.2001",
+      "name": "Kedi"
+    },
+    {
+      "id": "82.01.02.2002",
+      "name": "Soasio (Soa-Sio)"
+    },
+    {
+      "id": "82.01.02.2003",
+      "name": "Totala"
+    },
+    {
+      "id": "82.01.02.2004",
+      "name": "Tolofuo"
+    },
+    {
+      "id": "82.01.02.2005",
+      "name": "Tuguis"
+    },
+    {
+      "id": "82.01.02.2006",
+      "name": "Tasye"
+    },
+    {
+      "id": "82.01.02.2007",
+      "name": "Laba Besar"
+    },
+    {
+      "id": "82.01.02.2008",
+      "name": "Laba Kecil"
+    },
+    {
+      "id": "82.01.02.2010",
+      "name": "Bakun"
+    },
+    {
+      "id": "82.01.02.2011",
+      "name": "Buo"
+    },
+    {
+      "id": "82.01.02.2018",
+      "name": "Kahatola"
+    },
+    {
+      "id": "82.01.02.2019",
+      "name": "Bosala"
+    },
+    {
+      "id": "82.01.02.2020",
+      "name": "Salu"
+    },
+    {
+      "id": "82.01.02.2023",
+      "name": "Bantoli (Bantol)"
+    },
+    {
+      "id": "82.01.02.2024",
+      "name": "Linggua"
+    },
+    {
+      "id": "82.01.02.2025",
+      "name": "Tomodo"
+    },
+    {
+      "id": "82.01.02.2026",
+      "name": "Totala Jaya"
+    },
+    {
+      "id": "82.01.03.2012",
+      "name": "Togola Wayoli (Togola Wayolo)"
+    },
+    {
+      "id": "82.01.03.2013",
+      "name": "Togola Sangir (Togola Sanger)"
+    },
+    {
+      "id": "82.01.03.2014",
+      "name": "Tahafo"
+    },
+    {
+      "id": "82.01.03.2015",
+      "name": "Tongute Ternate"
+    },
+    {
+      "id": "82.01.03.2016",
+      "name": "Akesibu"
+    },
+    {
+      "id": "82.01.03.2017",
+      "name": "Maritango"
+    },
+    {
+      "id": "82.01.03.2018",
+      "name": "Kie Ici (Kie Lei)"
+    },
+    {
+      "id": "82.01.03.2019",
+      "name": "Tongute Goin"
+    },
+    {
+      "id": "82.01.03.2020",
+      "name": "Tungute Sungi (Tongute Sungi)"
+    },
+    {
+      "id": "82.01.03.2021",
+      "name": "Gam Ici"
+    },
+    {
+      "id": "82.01.03.2022",
+      "name": "Tobaol"
+    },
+    {
+      "id": "82.01.03.2023",
+      "name": "Gamlamo (Gam Lamo)"
+    },
+    {
+      "id": "82.01.03.2037",
+      "name": "Naga"
+    },
+    {
+      "id": "82.01.03.2040",
+      "name": "Soana Masungi"
+    },
+    {
+      "id": "82.01.03.2041",
+      "name": "Tongute Ternate Selatan"
+    },
+    {
+      "id": "82.01.03.2042",
+      "name": "Ake Boso"
+    },
+    {
+      "id": "82.01.03.2043",
+      "name": "Kampung Baru"
+    },
+    {
+      "id": "82.01.04.2001",
+      "name": "Susupu"
+    },
+    {
+      "id": "82.01.04.2002",
+      "name": "Lako Akelamo"
+    },
+    {
+      "id": "82.01.04.2003",
+      "name": "Taruba"
+    },
+    {
+      "id": "82.01.04.2004",
+      "name": "Todahe"
+    },
+    {
+      "id": "82.01.04.2005",
+      "name": "Peot"
+    },
+    {
+      "id": "82.01.04.2006",
+      "name": "Sasur"
+    },
+    {
+      "id": "82.01.04.2007",
+      "name": "Goro Goro"
+    },
+    {
+      "id": "82.01.04.2008",
+      "name": "Tacim"
+    },
+    {
+      "id": "82.01.04.2009",
+      "name": "Balisoang (Balisoan)"
+    },
+    {
+      "id": "82.01.04.2010",
+      "name": "Worat Worat"
+    },
+    {
+      "id": "82.01.04.2011",
+      "name": "Tacici"
+    },
+    {
+      "id": "82.01.04.2012",
+      "name": "Taraudu"
+    },
+    {
+      "id": "82.01.04.2013",
+      "name": "Golo"
+    },
+    {
+      "id": "82.01.04.2028",
+      "name": "Lako Akederi (Lako Akediri)"
+    },
+    {
+      "id": "82.01.04.2029",
+      "name": "Jara Kore (Jaraoke)"
+    },
+    {
+      "id": "82.01.04.2030",
+      "name": "Ropu Tengah Balu (Ropu Tengah Hulu)"
+    },
+    {
+      "id": "82.01.04.2033",
+      "name": "Dere"
+    },
+    {
+      "id": "82.01.04.2034",
+      "name": "Balisoan Utara"
+    },
+    {
+      "id": "82.01.04.2035",
+      "name": "Sasur Pantai"
+    },
+    {
+      "id": "82.01.05.2001",
+      "name": "Sidangoli Gam"
+    },
+    {
+      "id": "82.01.05.2002",
+      "name": "Sidongoli Dehe (Sidangoli Dehe)"
+    },
+    {
+      "id": "82.01.05.2003",
+      "name": "Domato"
+    },
+    {
+      "id": "82.01.05.2004",
+      "name": "Tataleka"
+    },
+    {
+      "id": "82.01.05.2005",
+      "name": "Gamlenge"
+    },
+    {
+      "id": "82.01.05.2006",
+      "name": "Akejailolo (Ake Jailolo)"
+    },
+    {
+      "id": "82.01.05.2007",
+      "name": "Biamaahi"
+    },
+    {
+      "id": "82.01.05.2008",
+      "name": "Tuguraci"
+    },
+    {
+      "id": "82.01.05.2009",
+      "name": "Akeara"
+    },
+    {
+      "id": "82.01.05.2010",
+      "name": "Akelaha"
+    },
+    {
+      "id": "82.01.05.2011",
+      "name": "Dodinga"
+    },
+    {
+      "id": "82.01.05.2012",
+      "name": "Tewe"
+    },
+    {
+      "id": "82.01.05.2013",
+      "name": "Toniku"
+    },
+    {
+      "id": "82.01.05.2014",
+      "name": "Rioribati"
+    },
+    {
+      "id": "82.01.05.2021",
+      "name": "Taba Damai (DB)"
+    },
+    {
+      "id": "82.01.05.2022",
+      "name": "Moiso"
+    },
+    {
+      "id": "82.01.05.2023",
+      "name": "Braha"
+    },
+    {
+      "id": "82.01.05.2024",
+      "name": "Bangkit Rahmat"
+    },
+    {
+      "id": "82.01.05.2025",
+      "name": "Bobane Dano"
+    },
+    {
+      "id": "82.01.05.2026",
+      "name": "Suka Damai"
+    },
+    {
+      "id": "82.01.05.2027",
+      "name": "Hijrah"
+    },
+    {
+      "id": "82.01.05.2028",
+      "name": "Ratem"
+    },
+    {
+      "id": "82.01.05.2029",
+      "name": "Bobaneigo Madihutu"
+    },
+    {
+      "id": "82.01.05.2030",
+      "name": "Tetewang Joronga"
+    },
+    {
+      "id": "82.01.05.2031",
+      "name": "Akelamo Cinga-Cinga"
+    },
+    {
+      "id": "82.01.05.2032",
+      "name": "Akesahu Madutu"
+    },
+    {
+      "id": "82.01.07.2001",
+      "name": "Podol"
+    },
+    {
+      "id": "82.01.07.2002",
+      "name": "Tengowango (Teongowango)"
+    },
+    {
+      "id": "82.01.07.2003",
+      "name": "Togowo"
+    },
+    {
+      "id": "82.01.07.2004",
+      "name": "Duono"
+    },
+    {
+      "id": "82.01.07.2005",
+      "name": "Goin"
+    },
+    {
+      "id": "82.01.07.2006",
+      "name": "Sangaji Nyeku"
+    },
+    {
+      "id": "82.01.07.2007",
+      "name": "Tuguis"
+    },
+    {
+      "id": "82.01.07.2008",
+      "name": "Togoreba Sungi (Tugureba Sungi)"
+    },
+    {
+      "id": "82.01.07.2009",
+      "name": "Barona (Borona)"
+    },
+    {
+      "id": "82.01.07.2010",
+      "name": "Todoke"
+    },
+    {
+      "id": "82.01.07.2011",
+      "name": "Tolisaor"
+    },
+    {
+      "id": "82.01.07.2012",
+      "name": "Pasalulu"
+    },
+    {
+      "id": "82.01.07.2013",
+      "name": "Togoreba Tua"
+    },
+    {
+      "id": "82.01.07.2014",
+      "name": "Tukuoku"
+    },
+    {
+      "id": "82.01.07.2015",
+      "name": "Soasangaji"
+    },
+    {
+      "id": "82.01.07.2016",
+      "name": "Aru Jaya"
+    },
+    {
+      "id": "82.01.08.2001",
+      "name": "Tosoa"
+    },
+    {
+      "id": "82.01.08.2002",
+      "name": "Tobobol (Tabobol)"
+    },
+    {
+      "id": "82.01.08.2003",
+      "name": "Baru"
+    },
+    {
+      "id": "82.01.08.2004",
+      "name": "Nanas"
+    },
+    {
+      "id": "82.01.08.2005",
+      "name": "Jere"
+    },
+    {
+      "id": "82.01.08.2006",
+      "name": "Gamsungi"
+    },
+    {
+      "id": "82.01.08.2007",
+      "name": "Bataka"
+    },
+    {
+      "id": "82.01.08.2008",
+      "name": "Talaga"
+    },
+    {
+      "id": "82.01.08.2009",
+      "name": "Tobelos"
+    },
+    {
+      "id": "82.01.08.2010",
+      "name": "Gamkonora"
+    },
+    {
+      "id": "82.01.08.2011",
+      "name": "Sarau"
+    },
+    {
+      "id": "82.01.08.2012",
+      "name": "Ngawet"
+    },
+    {
+      "id": "82.01.08.2013",
+      "name": "Adu"
+    },
+    {
+      "id": "82.01.08.2014",
+      "name": "Gamsida"
+    },
+    {
+      "id": "82.01.08.2015",
+      "name": "Ngalo Ngalo"
+    },
+    {
+      "id": "82.01.08.2016",
+      "name": "Tuguaer"
+    },
+    {
+      "id": "82.01.09.2001",
+      "name": "Loce"
+    },
+    {
+      "id": "82.01.09.2002",
+      "name": "Idam Gamlamo (Idamgamlamo)"
+    },
+    {
+      "id": "82.01.09.2003",
+      "name": "Gamomeng"
+    },
+    {
+      "id": "82.01.09.2004",
+      "name": "Akelamo"
+    },
+    {
+      "id": "82.01.09.2005",
+      "name": "Taraudu Kusu"
+    },
+    {
+      "id": "82.01.09.2006",
+      "name": "Awer"
+    },
+    {
+      "id": "82.01.09.2007",
+      "name": "Aketola"
+    },
+    {
+      "id": "82.01.09.2008",
+      "name": "Tibobo"
+    },
+    {
+      "id": "82.01.09.2009",
+      "name": "Hoku Hoku Gam"
+    },
+    {
+      "id": "82.01.09.2010",
+      "name": "Gamiyel (Gamnyial)"
+    },
+    {
+      "id": "82.01.09.2011",
+      "name": "Golago Kusuma"
+    },
+    {
+      "id": "82.01.09.2012",
+      "name": "Ngaon"
+    },
+    {
+      "id": "82.01.09.2013",
+      "name": "Gamsugi (Gamsungi)"
+    },
+    {
+      "id": "82.01.09.2014",
+      "name": "Taba Campaka"
+    },
+    {
+      "id": "82.01.09.2015",
+      "name": "Campaka"
+    },
+    {
+      "id": "82.01.09.2016",
+      "name": "Goal"
+    },
+    {
+      "id": "82.01.09.2017",
+      "name": "Sidodadi"
+    },
+    {
+      "id": "82.01.09.2018",
+      "name": "Air Panas"
+    },
+    {
+      "id": "82.01.10.2001",
+      "name": "Jano"
+    },
+    {
+      "id": "82.01.10.2002",
+      "name": "Jangailulu (Jange Lili)"
+    },
+    {
+      "id": "82.01.10.2003",
+      "name": "Baja"
+    },
+    {
+      "id": "82.01.10.2004",
+      "name": "Gam Kahe (Gamkahe)"
+    },
+    {
+      "id": "82.01.10.2005",
+      "name": "Barataku"
+    },
+    {
+      "id": "82.01.10.2006",
+      "name": "Pumadada (Puma Dada)"
+    },
+    {
+      "id": "82.01.10.2007",
+      "name": "Tosomolo"
+    },
+    {
+      "id": "82.01.10.2008",
+      "name": "Bilote"
+    },
+    {
+      "id": "82.01.10.2009",
+      "name": "Bakun Pantai"
+    },
+    {
+      "id": "82.01.10.2010",
+      "name": "Aruku"
+    },
+    {
+      "id": "82.02.01.2004",
+      "name": "Nusliko"
+    },
+    {
+      "id": "82.02.01.2005",
+      "name": "Were"
+    },
+    {
+      "id": "82.02.01.2020",
+      "name": "Fidy Jaya"
+    },
+    {
+      "id": "82.02.01.2021",
+      "name": "Sidanga"
+    },
+    {
+      "id": "82.02.01.2022",
+      "name": "Nurweda"
+    },
+    {
+      "id": "82.02.01.2023",
+      "name": "Weda / Wedana"
+    },
+    {
+      "id": "82.02.01.2024",
+      "name": "Goeng"
+    },
+    {
+      "id": "82.02.02.2004",
+      "name": "Wailegi"
+    },
+    {
+      "id": "82.02.02.2005",
+      "name": "Kipai"
+    },
+    {
+      "id": "82.02.02.2006",
+      "name": "Yeisowo"
+    },
+    {
+      "id": "82.02.02.2012",
+      "name": "Yondeliu"
+    },
+    {
+      "id": "82.02.02.2013",
+      "name": "Baka Jaya"
+    },
+    {
+      "id": "82.02.03.2001",
+      "name": "Kapaleo"
+    },
+    {
+      "id": "82.02.03.2002",
+      "name": "Kacepi"
+    },
+    {
+      "id": "82.02.03.2003",
+      "name": "Sanafi"
+    },
+    {
+      "id": "82.02.03.2004",
+      "name": "Umera"
+    },
+    {
+      "id": "82.02.03.2005",
+      "name": "Umiyal"
+    },
+    {
+      "id": "82.02.03.2006",
+      "name": "Sonof Kacepo"
+    },
+    {
+      "id": "82.02.03.2007",
+      "name": "Elfanun"
+    },
+    {
+      "id": "82.02.03.2008",
+      "name": "Yang"
+    },
+    {
+      "id": "82.02.04.2001",
+      "name": "Gemaf"
+    },
+    {
+      "id": "82.02.04.2002",
+      "name": "Sagea"
+    },
+    {
+      "id": "82.02.04.2003",
+      "name": "Fritu"
+    },
+    {
+      "id": "82.02.04.2004",
+      "name": "Waleh"
+    },
+    {
+      "id": "82.02.04.2008",
+      "name": "Kiya"
+    },
+    {
+      "id": "82.02.05.2001",
+      "name": "Tilope (Tiloppe)"
+    },
+    {
+      "id": "82.02.05.2002",
+      "name": "Sosowomo"
+    },
+    {
+      "id": "82.02.05.2003",
+      "name": "Loleo"
+    },
+    {
+      "id": "82.02.05.2004",
+      "name": "Wairoro Indah"
+    },
+    {
+      "id": "82.02.05.2005",
+      "name": "Kluting Jaya"
+    },
+    {
+      "id": "82.02.05.2006",
+      "name": "Lembah Asri"
+    },
+    {
+      "id": "82.02.05.2007",
+      "name": "Sumber Sari"
+    },
+    {
+      "id": "82.02.05.2008",
+      "name": "Air Salobar"
+    },
+    {
+      "id": "82.02.06.2001",
+      "name": "Gemia"
+    },
+    {
+      "id": "82.02.06.2002",
+      "name": "Tepeleo"
+    },
+    {
+      "id": "82.02.06.2006",
+      "name": "Bilifitu"
+    },
+    {
+      "id": "82.02.06.2007",
+      "name": "Tepeleo Batudua"
+    },
+    {
+      "id": "82.02.06.2008",
+      "name": "Pantura Jaya"
+    },
+    {
+      "id": "82.02.06.2011",
+      "name": "Maliforo"
+    },
+    {
+      "id": "82.02.07.2001",
+      "name": "Lililef Waibulan (Lelilef Waibulen)"
+    },
+    {
+      "id": "82.02.07.2002",
+      "name": "Lililef Sawai (Lelilef Sawai)"
+    },
+    {
+      "id": "82.02.07.2003",
+      "name": "Sawai Itepo"
+    },
+    {
+      "id": "82.02.07.2004",
+      "name": "Kobe"
+    },
+    {
+      "id": "82.02.07.2005",
+      "name": "Woekob"
+    },
+    {
+      "id": "82.02.07.2006",
+      "name": "Woejerana"
+    },
+    {
+      "id": "82.02.07.2007",
+      "name": "Kulo Jaya"
+    },
+    {
+      "id": "82.02.08.2001",
+      "name": "Banemo"
+    },
+    {
+      "id": "82.02.08.2002",
+      "name": "Bobane Jaya"
+    },
+    {
+      "id": "82.02.08.2003",
+      "name": "Bobane Indah"
+    },
+    {
+      "id": "82.02.08.2004",
+      "name": "Mareala (Moreala)"
+    },
+    {
+      "id": "82.02.08.2005",
+      "name": "Sibenpope (Sibenpopo)"
+    },
+    {
+      "id": "82.02.09.2001",
+      "name": "Dotte"
+    },
+    {
+      "id": "82.02.09.2002",
+      "name": "Messa"
+    },
+    {
+      "id": "82.02.09.2003",
+      "name": "Kotalo"
+    },
+    {
+      "id": "82.02.09.2004",
+      "name": "Yeke"
+    },
+    {
+      "id": "82.02.10.2001",
+      "name": "Sakam"
+    },
+    {
+      "id": "82.02.10.2002",
+      "name": "Nursifa"
+    },
+    {
+      "id": "82.02.10.2003",
+      "name": "Damuli"
+    },
+    {
+      "id": "82.02.10.2004",
+      "name": "Peniti"
+    },
+    {
+      "id": "82.02.10.2005",
+      "name": "Masure"
+    },
+    {
+      "id": "82.02.10.2006",
+      "name": "Palo"
+    },
+    {
+      "id": "82.03.04.2001",
+      "name": "Soa Sio"
+    },
+    {
+      "id": "82.03.04.2002",
+      "name": "Pune"
+    },
+    {
+      "id": "82.03.04.2003",
+      "name": "Mamuya"
+    },
+    {
+      "id": "82.03.04.2016",
+      "name": "Toweka"
+    },
+    {
+      "id": "82.03.04.2024",
+      "name": "Simau"
+    },
+    {
+      "id": "82.03.04.2031",
+      "name": "Barataku"
+    },
+    {
+      "id": "82.03.04.2032",
+      "name": "Towara (Torawa)"
+    },
+    {
+      "id": "82.03.05.2004",
+      "name": "Gamsungi"
+    },
+    {
+      "id": "82.03.05.2005",
+      "name": "Gura"
+    },
+    {
+      "id": "82.03.05.2006",
+      "name": "Wari"
+    },
+    {
+      "id": "82.03.05.2012",
+      "name": "Kakara (Kakara A)"
+    },
+    {
+      "id": "82.03.05.2013",
+      "name": "Kumo"
+    },
+    {
+      "id": "82.03.05.2014",
+      "name": "Gosoma"
+    },
+    {
+      "id": "82.03.05.2015",
+      "name": "Rawajaya"
+    },
+    {
+      "id": "82.03.05.2018",
+      "name": "MKCM"
+    },
+    {
+      "id": "82.03.05.2024",
+      "name": "Tagalaya"
+    },
+    {
+      "id": "82.03.05.2025",
+      "name": "Wari Ino"
+    },
+    {
+      "id": "82.03.06.2001",
+      "name": "Kupa Kupa"
+    },
+    {
+      "id": "82.03.06.2002",
+      "name": "Gamhoku"
+    },
+    {
+      "id": "82.03.06.2003",
+      "name": "Efi Efi"
+    },
+    {
+      "id": "82.03.06.2004",
+      "name": "Tomahalu (Toma Halu)"
+    },
+    {
+      "id": "82.03.06.2005",
+      "name": "Paca"
+    },
+    {
+      "id": "82.03.06.2006",
+      "name": "Leleoto"
+    },
+    {
+      "id": "82.03.06.2009",
+      "name": "Tobe"
+    },
+    {
+      "id": "82.03.06.2015",
+      "name": "Kakara B"
+    },
+    {
+      "id": "82.03.06.2018",
+      "name": "Talaga Paca"
+    },
+    {
+      "id": "82.03.06.2020",
+      "name": "Tioua"
+    },
+    {
+      "id": "82.03.06.2021",
+      "name": "Pale"
+    },
+    {
+      "id": "82.03.06.2022",
+      "name": "Kupa Kupa Selatan"
+    },
+    {
+      "id": "82.03.06.2024",
+      "name": "Lemah Ino"
+    },
+    {
+      "id": "82.03.07.2001",
+      "name": "Kao"
+    },
+    {
+      "id": "82.03.07.2002",
+      "name": "Jati"
+    },
+    {
+      "id": "82.03.07.2003",
+      "name": "Kusu"
+    },
+    {
+      "id": "82.03.07.2009",
+      "name": "Waringin Lelewi"
+    },
+    {
+      "id": "82.03.07.2010",
+      "name": "Soa Sangaji Dim-Dim (Soasangaji Dim Dim)"
+    },
+    {
+      "id": "82.03.07.2011",
+      "name": "Sasur"
+    },
+    {
+      "id": "82.03.07.2012",
+      "name": "Popon"
+    },
+    {
+      "id": "82.03.07.2036",
+      "name": "Biang"
+    },
+    {
+      "id": "82.03.07.2037",
+      "name": "Patang"
+    },
+    {
+      "id": "82.03.07.2038",
+      "name": "Kukumutuk"
+    },
+    {
+      "id": "82.03.07.2039",
+      "name": "Waringin Lamo"
+    },
+    {
+      "id": "82.03.07.2050",
+      "name": "Goruang"
+    },
+    {
+      "id": "82.03.07.2051",
+      "name": "Kusu Lofra"
+    },
+    {
+      "id": "82.03.07.2052",
+      "name": "Sumber Agung"
+    },
+    {
+      "id": "82.03.08.2001",
+      "name": "Ngofa Kiaha (Ngofakiaha)"
+    },
+    {
+      "id": "82.03.08.2002",
+      "name": "Ngofa Gita (Ngofagita)"
+    },
+    {
+      "id": "82.03.08.2003",
+      "name": "Samsuma"
+    },
+    {
+      "id": "82.03.08.2004",
+      "name": "Tahane"
+    },
+    {
+      "id": "82.03.08.2005",
+      "name": "Matsa"
+    },
+    {
+      "id": "82.03.08.2007",
+      "name": "Bobawa"
+    },
+    {
+      "id": "82.03.08.2008",
+      "name": "Talapao"
+    },
+    {
+      "id": "82.03.08.2009",
+      "name": "Tafasoho"
+    },
+    {
+      "id": "82.03.08.2010",
+      "name": "Sabaleh"
+    },
+    {
+      "id": "82.03.08.2011",
+      "name": "Tagono"
+    },
+    {
+      "id": "82.03.08.2012",
+      "name": "Soma"
+    },
+    {
+      "id": "82.03.08.2013",
+      "name": "Ngofa Bobawa (Ngofabobawa)"
+    },
+    {
+      "id": "82.03.08.2014",
+      "name": "Malapa"
+    },
+    {
+      "id": "82.03.08.2015",
+      "name": "Mailoa"
+    },
+    {
+      "id": "82.03.08.2016",
+      "name": "Peleri"
+    },
+    {
+      "id": "82.03.08.2019",
+      "name": "Bukit Tinggi"
+    },
+    {
+      "id": "82.03.08.2022",
+      "name": "Terpadu"
+    },
+    {
+      "id": "82.03.08.2023",
+      "name": "Tabobo (Tobobo)"
+    },
+    {
+      "id": "82.03.08.2024",
+      "name": "Balisosang"
+    },
+    {
+      "id": "82.03.08.2025",
+      "name": "Sosol/Malifut"
+    },
+    {
+      "id": "82.03.08.2026",
+      "name": "Wangeotek (Wangeotak)"
+    },
+    {
+      "id": "82.03.08.2027",
+      "name": "Gayok"
+    },
+    {
+      "id": "82.03.09.2001",
+      "name": "Dorume"
+    },
+    {
+      "id": "82.03.09.2002",
+      "name": "Apule (Apulea)"
+    },
+    {
+      "id": "82.03.09.2003",
+      "name": "Asimiro (Asmiro)"
+    },
+    {
+      "id": "82.03.09.2004",
+      "name": "Dotia (Doitia)"
+    },
+    {
+      "id": "82.03.09.2005",
+      "name": "Ngajam"
+    },
+    {
+      "id": "82.03.09.2006",
+      "name": "Kailupa"
+    },
+    {
+      "id": "82.03.09.2007",
+      "name": "Gisik"
+    },
+    {
+      "id": "82.03.09.2008",
+      "name": "Kapa Kapa"
+    },
+    {
+      "id": "82.03.09.2009",
+      "name": "Pacao (Pocao)"
+    },
+    {
+      "id": "82.03.09.2010",
+      "name": "Tate"
+    },
+    {
+      "id": "82.03.09.2011",
+      "name": "Posi Posi"
+    },
+    {
+      "id": "82.03.09.2012",
+      "name": "Supu"
+    },
+    {
+      "id": "82.03.09.2022",
+      "name": "Igo"
+    },
+    {
+      "id": "82.03.09.2023",
+      "name": "Galao"
+    },
+    {
+      "id": "82.03.09.2024",
+      "name": "Teru-Teru"
+    },
+    {
+      "id": "82.03.09.2026",
+      "name": "Wori Moi"
+    },
+    {
+      "id": "82.03.09.2027",
+      "name": "Podol"
+    },
+    {
+      "id": "82.03.09.2028",
+      "name": "Momojiu"
+    },
+    {
+      "id": "82.03.10.2001",
+      "name": "Gorua"
+    },
+    {
+      "id": "82.03.10.2002",
+      "name": "Popilo"
+    },
+    {
+      "id": "82.03.10.2003",
+      "name": "Luari"
+    },
+    {
+      "id": "82.03.10.2004",
+      "name": "Popilo Utara (Popila Utara)"
+    },
+    {
+      "id": "82.03.10.2005",
+      "name": "Tolonuo"
+    },
+    {
+      "id": "82.03.10.2006",
+      "name": "Gorua Selatan"
+    },
+    {
+      "id": "82.03.10.2007",
+      "name": "Gorua Utara"
+    },
+    {
+      "id": "82.03.10.2008",
+      "name": "Kokota Jaya (Kokotua Jaya)"
+    },
+    {
+      "id": "82.03.10.2009",
+      "name": "Ruko"
+    },
+    {
+      "id": "82.03.10.2010",
+      "name": "Tolonua Selatan"
+    },
+    {
+      "id": "82.03.11.2001",
+      "name": "Upa"
+    },
+    {
+      "id": "82.03.11.2002",
+      "name": "Pitu"
+    },
+    {
+      "id": "82.03.11.2003",
+      "name": "Wosi (Wosia)"
+    },
+    {
+      "id": "82.03.11.2004",
+      "name": "WKO"
+    },
+    {
+      "id": "82.03.11.2005",
+      "name": "Kalipitu"
+    },
+    {
+      "id": "82.03.11.2006",
+      "name": "Kali Upa"
+    },
+    {
+      "id": "82.03.11.2007",
+      "name": "Lina Ino"
+    },
+    {
+      "id": "82.03.11.2008",
+      "name": "Mahia (Wosi/Wosia Tengah)"
+    },
+    {
+      "id": "82.03.11.2009",
+      "name": "Tanjung Niara (Wosi/Wosia Selatan)"
+    },
+    {
+      "id": "82.03.12.2001",
+      "name": "Yaro"
+    },
+    {
+      "id": "82.03.12.2002",
+      "name": "Mawea"
+    },
+    {
+      "id": "82.03.12.2003",
+      "name": "Meti"
+    },
+    {
+      "id": "82.03.12.2004",
+      "name": "Katana"
+    },
+    {
+      "id": "82.03.12.2005",
+      "name": "Gonga"
+    },
+    {
+      "id": "82.03.12.2006",
+      "name": "Todokuiha"
+    },
+    {
+      "id": "82.03.13.2001",
+      "name": "Kusuri"
+    },
+    {
+      "id": "82.03.13.2002",
+      "name": "Sukamaju"
+    },
+    {
+      "id": "82.03.13.2003",
+      "name": "Togoliua"
+    },
+    {
+      "id": "82.03.13.2004",
+      "name": "Birinoa"
+    },
+    {
+      "id": "82.03.13.2005",
+      "name": "Wangongira"
+    },
+    {
+      "id": "82.03.14.2001",
+      "name": "Soatobaru"
+    },
+    {
+      "id": "82.03.14.2002",
+      "name": "Dokulamo"
+    },
+    {
+      "id": "82.03.14.2003",
+      "name": "Duma"
+    },
+    {
+      "id": "82.03.14.2004",
+      "name": "Gotalamo"
+    },
+    {
+      "id": "82.03.14.2005",
+      "name": "Makete"
+    },
+    {
+      "id": "82.03.14.2006",
+      "name": "Ngidiho"
+    },
+    {
+      "id": "82.03.14.2007",
+      "name": "Roko"
+    },
+    {
+      "id": "82.03.14.2008",
+      "name": "Samuda (Samudra)"
+    },
+    {
+      "id": "82.03.14.2009",
+      "name": "Kira"
+    },
+    {
+      "id": "82.03.15.2001",
+      "name": "Limau"
+    },
+    {
+      "id": "82.03.15.2002",
+      "name": "Lalonga"
+    },
+    {
+      "id": "82.03.15.2003",
+      "name": "Bobisingo (Bobi Singo)"
+    },
+    {
+      "id": "82.03.15.2004",
+      "name": "Salimuli"
+    },
+    {
+      "id": "82.03.15.2005",
+      "name": "Tutumaloleo"
+    },
+    {
+      "id": "82.03.15.2006",
+      "name": "Saluta"
+    },
+    {
+      "id": "82.03.15.2007",
+      "name": "Jare (Jere)"
+    },
+    {
+      "id": "82.03.15.2008",
+      "name": "Dodowo"
+    },
+    {
+      "id": "82.03.15.2009",
+      "name": "Togasa"
+    },
+    {
+      "id": "82.03.15.2010",
+      "name": "Beringin Jaya"
+    },
+    {
+      "id": "82.03.15.2011",
+      "name": "Pelita"
+    },
+    {
+      "id": "82.03.15.2012",
+      "name": "Jere Tua"
+    },
+    {
+      "id": "82.03.16.2001",
+      "name": "Seki"
+    },
+    {
+      "id": "82.03.16.2002",
+      "name": "Togawa"
+    },
+    {
+      "id": "82.03.16.2003",
+      "name": "Soakonora"
+    },
+    {
+      "id": "82.03.16.2004",
+      "name": "Igobula"
+    },
+    {
+      "id": "82.03.16.2005",
+      "name": "Bale"
+    },
+    {
+      "id": "82.03.16.2006",
+      "name": "Togawabesi"
+    },
+    {
+      "id": "82.03.16.2007",
+      "name": "Ori"
+    },
+    {
+      "id": "82.03.19.2001",
+      "name": "Salube"
+    },
+    {
+      "id": "82.03.19.2002",
+      "name": "Dama"
+    },
+    {
+      "id": "82.03.19.2003",
+      "name": "Dowonggila"
+    },
+    {
+      "id": "82.03.19.2004",
+      "name": "Tuakara"
+    },
+    {
+      "id": "82.03.19.2005",
+      "name": "Jikolamo"
+    },
+    {
+      "id": "82.03.19.2006",
+      "name": "Dagasuli"
+    },
+    {
+      "id": "82.03.19.2007",
+      "name": "Dedeta"
+    },
+    {
+      "id": "82.03.19.2008",
+      "name": "Fitako"
+    },
+    {
+      "id": "82.03.19.2009",
+      "name": "Tobo Tobo"
+    },
+    {
+      "id": "82.03.19.2010",
+      "name": "Cera"
+    },
+    {
+      "id": "82.03.20.2001",
+      "name": "Wateto"
+    },
+    {
+      "id": "82.03.20.2002",
+      "name": "Gulo"
+    },
+    {
+      "id": "82.03.20.2003",
+      "name": "Tunuo"
+    },
+    {
+      "id": "82.03.20.2004",
+      "name": "Pediwang (Pidiwang)"
+    },
+    {
+      "id": "82.03.20.2005",
+      "name": "Bori"
+    },
+    {
+      "id": "82.03.20.2006",
+      "name": "Doro"
+    },
+    {
+      "id": "82.03.20.2007",
+      "name": "Daru"
+    },
+    {
+      "id": "82.03.20.2008",
+      "name": "Bobale"
+    },
+    {
+      "id": "82.03.20.2009",
+      "name": "Gamlaha"
+    },
+    {
+      "id": "82.03.20.2010",
+      "name": "Boulamo"
+    },
+    {
+      "id": "82.03.20.2011",
+      "name": "Warudu"
+    },
+    {
+      "id": "82.03.20.2012",
+      "name": "Dowongimaiti"
+    },
+    {
+      "id": "82.03.21.2001",
+      "name": "Gaga Apok (Gagaapok)"
+    },
+    {
+      "id": "82.03.21.2002",
+      "name": "Ngoali"
+    },
+    {
+      "id": "82.03.21.2003",
+      "name": "Momoda"
+    },
+    {
+      "id": "82.03.21.2004",
+      "name": "Toliwang"
+    },
+    {
+      "id": "82.03.21.2005",
+      "name": "Tolabit"
+    },
+    {
+      "id": "82.03.21.2006",
+      "name": "Leleseng (Lelesang)"
+    },
+    {
+      "id": "82.03.21.2007",
+      "name": "Soa Hukum"
+    },
+    {
+      "id": "82.03.21.2008",
+      "name": "Soa Maetek (Soamaetek)"
+    },
+    {
+      "id": "82.03.21.2009",
+      "name": "Bailengit"
+    },
+    {
+      "id": "82.03.21.2010",
+      "name": "Tuguis"
+    },
+    {
+      "id": "82.03.21.2011",
+      "name": "Parseba"
+    },
+    {
+      "id": "82.03.21.2012",
+      "name": "Pitago"
+    },
+    {
+      "id": "82.03.21.2013",
+      "name": "Kai"
+    },
+    {
+      "id": "82.03.21.2014",
+      "name": "Toboulamo"
+    },
+    {
+      "id": "82.03.21.2015",
+      "name": "Makarti"
+    },
+    {
+      "id": "82.03.21.2016",
+      "name": "Sangaji Jaya"
+    },
+    {
+      "id": "82.03.21.2017",
+      "name": "Takimo"
+    },
+    {
+      "id": "82.03.21.2018",
+      "name": "Torawat"
+    },
+    {
+      "id": "82.03.21.2019",
+      "name": "Wonosari"
+    },
+    {
+      "id": "82.03.21.2020",
+      "name": "Beringin Agung"
+    },
+    {
+      "id": "82.03.21.2021",
+      "name": "Margomolyo (Margomoyo)"
+    },
+    {
+      "id": "82.03.22.2001",
+      "name": "Tiowor"
+    },
+    {
+      "id": "82.03.22.2002",
+      "name": "Makaeling"
+    },
+    {
+      "id": "82.03.22.2003",
+      "name": "Tobanoma"
+    },
+    {
+      "id": "82.03.22.2004",
+      "name": "Barumadehe"
+    },
+    {
+      "id": "82.03.22.2005",
+      "name": "Kuntum Mekar"
+    },
+    {
+      "id": "82.03.22.2006",
+      "name": "Pasir Putih"
+    },
+    {
+      "id": "82.03.22.2007",
+      "name": "Bobane Igo (Bobaneigo)"
+    },
+    {
+      "id": "82.03.22.2008",
+      "name": "Tetewang"
+    },
+    {
+      "id": "82.03.22.2009",
+      "name": "Akelamo Raya (Akelamo Kao)"
+    },
+    {
+      "id": "82.03.22.2010",
+      "name": "Gamsungi"
+    },
+    {
+      "id": "82.03.22.2011",
+      "name": "Dum Dum"
+    },
+    {
+      "id": "82.04.01.2001",
+      "name": "Rabutdaiyo"
+    },
+    {
+      "id": "82.04.01.2002",
+      "name": "Waykion"
+    },
+    {
+      "id": "82.04.01.2003",
+      "name": "Gorup"
+    },
+    {
+      "id": "82.04.01.2004",
+      "name": "Walo"
+    },
+    {
+      "id": "82.04.01.2005",
+      "name": "Dalam"
+    },
+    {
+      "id": "82.04.01.2006",
+      "name": "Gitang"
+    },
+    {
+      "id": "82.04.01.2007",
+      "name": "Kyowor"
+    },
+    {
+      "id": "82.04.01.2008",
+      "name": "Matentengin"
+    },
+    {
+      "id": "82.04.01.2009",
+      "name": "Sangapati"
+    },
+    {
+      "id": "82.04.01.2010",
+      "name": "Suma"
+    },
+    {
+      "id": "82.04.01.2011",
+      "name": "Ploili"
+    },
+    {
+      "id": "82.04.01.2012",
+      "name": "Dauri"
+    },
+    {
+      "id": "82.04.01.2013",
+      "name": "Gurua"
+    },
+    {
+      "id": "82.04.01.2014",
+      "name": "Wailoa"
+    },
+    {
+      "id": "82.04.01.2022",
+      "name": "Waigitang"
+    },
+    {
+      "id": "82.04.02.2004",
+      "name": "Siko"
+    },
+    {
+      "id": "82.04.02.2005",
+      "name": "Gafi"
+    },
+    {
+      "id": "82.04.02.2006",
+      "name": "Laigoma"
+    },
+    {
+      "id": "82.04.02.2016",
+      "name": "Ligua"
+    },
+    {
+      "id": "82.04.02.2017",
+      "name": "Kida"
+    },
+    {
+      "id": "82.04.02.2018",
+      "name": "Buli"
+    },
+    {
+      "id": "82.04.02.2019",
+      "name": "Talimau"
+    },
+    {
+      "id": "82.04.02.2020",
+      "name": "Gunange"
+    },
+    {
+      "id": "82.04.02.2021",
+      "name": "Lelei"
+    },
+    {
+      "id": "82.04.02.2022",
+      "name": "Bajo"
+    },
+    {
+      "id": "82.04.02.2023",
+      "name": "Guruapin"
+    },
+    {
+      "id": "82.04.02.2024",
+      "name": "Karamat"
+    },
+    {
+      "id": "82.04.02.2029",
+      "name": "Tawabi"
+    },
+    {
+      "id": "82.04.02.2030",
+      "name": "Dorolamo"
+    },
+    {
+      "id": "82.04.03.2001",
+      "name": "Maffa"
+    },
+    {
+      "id": "82.04.03.2002",
+      "name": "Foya"
+    },
+    {
+      "id": "82.04.03.2003",
+      "name": "Tobaru"
+    },
+    {
+      "id": "82.04.03.2004",
+      "name": "Foya Tobaru"
+    },
+    {
+      "id": "82.04.03.2005",
+      "name": "Lalubi"
+    },
+    {
+      "id": "82.04.03.2006",
+      "name": "Akelamo"
+    },
+    {
+      "id": "82.04.03.2007",
+      "name": "Batonam"
+    },
+    {
+      "id": "82.04.03.2008",
+      "name": "Wosi"
+    },
+    {
+      "id": "82.04.03.2014",
+      "name": "Sumber Makmur"
+    },
+    {
+      "id": "82.04.03.2020",
+      "name": "Kotalow"
+    },
+    {
+      "id": "82.04.03.2022",
+      "name": "Kebun Raja"
+    },
+    {
+      "id": "82.04.03.2025",
+      "name": "Tanjung Jere"
+    },
+    {
+      "id": "82.04.04.2016",
+      "name": "Doro"
+    },
+    {
+      "id": "82.04.04.2017",
+      "name": "Koititi"
+    },
+    {
+      "id": "82.04.04.2018",
+      "name": "Cango"
+    },
+    {
+      "id": "82.04.04.2019",
+      "name": "Saketa"
+    },
+    {
+      "id": "82.04.04.2020",
+      "name": "Balitata"
+    },
+    {
+      "id": "82.04.04.2021",
+      "name": "Oha"
+    },
+    {
+      "id": "82.04.04.2022",
+      "name": "Papaceda"
+    },
+    {
+      "id": "82.04.04.2023",
+      "name": "Lemo Lemo"
+    },
+    {
+      "id": "82.04.04.2029",
+      "name": "Bumi Rahmat"
+    },
+    {
+      "id": "82.04.04.2036",
+      "name": "Tabamasa"
+    },
+    {
+      "id": "82.04.05.2001",
+      "name": "Wayaloar"
+    },
+    {
+      "id": "82.04.05.2002",
+      "name": "Fluk"
+    },
+    {
+      "id": "82.04.05.2003",
+      "name": "Bobo"
+    },
+    {
+      "id": "82.04.05.2004",
+      "name": "Mano"
+    },
+    {
+      "id": "82.04.05.2005",
+      "name": "Loleo"
+    },
+    {
+      "id": "82.04.05.2007",
+      "name": "Soligi"
+    },
+    {
+      "id": "82.04.05.2008",
+      "name": "Gambaru"
+    },
+    {
+      "id": "82.04.05.2009",
+      "name": "Ocimaloleo"
+    },
+    {
+      "id": "82.04.06.2001",
+      "name": "Laiwui"
+    },
+    {
+      "id": "82.04.06.2002",
+      "name": "Baru"
+    },
+    {
+      "id": "82.04.06.2003",
+      "name": "Buton"
+    },
+    {
+      "id": "82.04.06.2004",
+      "name": "Jikotamo"
+    },
+    {
+      "id": "82.04.06.2005",
+      "name": "Sambiki"
+    },
+    {
+      "id": "82.04.06.2006",
+      "name": "Anggai"
+    },
+    {
+      "id": "82.04.06.2014",
+      "name": "Air Mangga Indah"
+    },
+    {
+      "id": "82.04.06.2020",
+      "name": "Akegula"
+    },
+    {
+      "id": "82.04.06.2021",
+      "name": "Kawasi"
+    },
+    {
+      "id": "82.04.07.2001",
+      "name": "Babang"
+    },
+    {
+      "id": "82.04.07.2013",
+      "name": "Bori"
+    },
+    {
+      "id": "82.04.07.2014",
+      "name": "Nyonyifi"
+    },
+    {
+      "id": "82.04.07.2015",
+      "name": "Sabatang"
+    },
+    {
+      "id": "82.04.07.2016",
+      "name": "Goro Goro"
+    },
+    {
+      "id": "82.04.07.2017",
+      "name": "Sali Kecil"
+    },
+    {
+      "id": "82.04.07.2018",
+      "name": "Timlonga"
+    },
+    {
+      "id": "82.04.07.2021",
+      "name": "Sayoang"
+    },
+    {
+      "id": "82.04.07.2022",
+      "name": "Wayamiga"
+    },
+    {
+      "id": "82.04.07.2023",
+      "name": "Kaireu"
+    },
+    {
+      "id": "82.04.08.2001",
+      "name": "Labuha"
+    },
+    {
+      "id": "82.04.08.2002",
+      "name": "Amasing Kota"
+    },
+    {
+      "id": "82.04.08.2003",
+      "name": "Amasing Kali"
+    },
+    {
+      "id": "82.04.08.2004",
+      "name": "Tomori"
+    },
+    {
+      "id": "82.04.08.2009",
+      "name": "Indomut"
+    },
+    {
+      "id": "82.04.08.2010",
+      "name": "Belang Belang"
+    },
+    {
+      "id": "82.04.08.2026",
+      "name": "Sumae"
+    },
+    {
+      "id": "82.04.08.2027",
+      "name": "Kaputusan"
+    },
+    {
+      "id": "82.04.08.2030",
+      "name": "Amasing Kota Barat"
+    },
+    {
+      "id": "82.04.08.2031",
+      "name": "Amasing Kota Utara"
+    },
+    {
+      "id": "82.04.08.2032",
+      "name": "Awanggoa"
+    },
+    {
+      "id": "82.04.08.2036",
+      "name": "Suma Tinggi"
+    },
+    {
+      "id": "82.04.08.2040",
+      "name": "Hidayat"
+    },
+    {
+      "id": "82.04.08.2041",
+      "name": "Marabose"
+    },
+    {
+      "id": "82.04.09.2001",
+      "name": "Indari"
+    },
+    {
+      "id": "82.04.09.2014",
+      "name": "Tawabi"
+    },
+    {
+      "id": "82.04.09.2015",
+      "name": "Wiring"
+    },
+    {
+      "id": "82.04.09.2016",
+      "name": "Nondang"
+    },
+    {
+      "id": "82.04.09.2017",
+      "name": "Kusubibi"
+    },
+    {
+      "id": "82.04.09.2018",
+      "name": "Nang"
+    },
+    {
+      "id": "82.04.09.2030",
+      "name": "Kokotu"
+    },
+    {
+      "id": "82.04.10.2001",
+      "name": "Malapat"
+    },
+    {
+      "id": "82.04.10.2002",
+      "name": "Bobawae"
+    },
+    {
+      "id": "82.04.10.2003",
+      "name": "Ombawa"
+    },
+    {
+      "id": "82.04.10.2004",
+      "name": "Tegono"
+    },
+    {
+      "id": "82.04.10.2005",
+      "name": "Mateketen"
+    },
+    {
+      "id": "82.04.10.2006",
+      "name": "Talapaon"
+    },
+    {
+      "id": "82.04.10.2007",
+      "name": "Sebelei"
+    },
+    {
+      "id": "82.04.11.2001",
+      "name": "Bokimiake"
+    },
+    {
+      "id": "82.04.11.2002",
+      "name": "Hatejawa"
+    },
+    {
+      "id": "82.04.11.2003",
+      "name": "Busua"
+    },
+    {
+      "id": "82.04.11.2004",
+      "name": "Fofao"
+    },
+    {
+      "id": "82.04.12.2001",
+      "name": "Ngute Ngute"
+    },
+    {
+      "id": "82.04.12.2002",
+      "name": "Laluin"
+    },
+    {
+      "id": "82.04.12.2003",
+      "name": "Posi Posi"
+    },
+    {
+      "id": "82.04.12.2004",
+      "name": "Sagawele"
+    },
+    {
+      "id": "82.04.12.2005",
+      "name": "Orimakurunga"
+    },
+    {
+      "id": "82.04.12.2006",
+      "name": "Pasir Putih"
+    },
+    {
+      "id": "82.04.13.2001",
+      "name": "Modayama"
+    },
+    {
+      "id": "82.04.13.2002",
+      "name": "Laromabati (Loromabati)"
+    },
+    {
+      "id": "82.04.13.2003",
+      "name": "Gayap"
+    },
+    {
+      "id": "82.04.13.2004",
+      "name": "Ake Jailolo"
+    },
+    {
+      "id": "82.04.13.2005",
+      "name": "Wayasipang"
+    },
+    {
+      "id": "82.04.13.2006",
+      "name": "Ngokomalako"
+    },
+    {
+      "id": "82.04.14.2001",
+      "name": "Sidopo"
+    },
+    {
+      "id": "82.04.14.2002",
+      "name": "Lolarogurua (Gorua Lolaro / Lolorogurua)"
+    },
+    {
+      "id": "82.04.14.2003",
+      "name": "Nusa Babullah (Nusa Babi)"
+    },
+    {
+      "id": "82.04.14.2004",
+      "name": "Jojame"
+    },
+    {
+      "id": "82.04.14.2005",
+      "name": "Yaba"
+    },
+    {
+      "id": "82.04.14.2006",
+      "name": "Geti Lama"
+    },
+    {
+      "id": "82.04.14.2007",
+      "name": "Geti Baru"
+    },
+    {
+      "id": "82.04.14.2008",
+      "name": "Gilalang"
+    },
+    {
+      "id": "82.04.15.2001",
+      "name": "Sidanga"
+    },
+    {
+      "id": "82.04.15.2002",
+      "name": "Lata Lata"
+    },
+    {
+      "id": "82.04.15.2003",
+      "name": "Sengga Baru"
+    },
+    {
+      "id": "82.04.15.2004",
+      "name": "Arumamang"
+    },
+    {
+      "id": "82.04.15.2005",
+      "name": "Palamea"
+    },
+    {
+      "id": "82.04.15.2006",
+      "name": "Doko (Doku)"
+    },
+    {
+      "id": "82.04.15.2007",
+      "name": "Bisori"
+    },
+    {
+      "id": "82.04.15.2008",
+      "name": "Marikapal"
+    },
+    {
+      "id": "82.04.15.2009",
+      "name": "Kukupang (Kakupang)"
+    },
+    {
+      "id": "82.04.15.2010",
+      "name": "Imbu Imbu"
+    },
+    {
+      "id": "82.04.16.2001",
+      "name": "Loleo Jaya"
+    },
+    {
+      "id": "82.04.16.2002",
+      "name": "Tawa"
+    },
+    {
+      "id": "82.04.16.2003",
+      "name": "Marituso (Maritosu)"
+    },
+    {
+      "id": "82.04.16.2004",
+      "name": "Kou Balabala (Koubalabala)"
+    },
+    {
+      "id": "82.04.16.2005",
+      "name": "Loleo Mekar (Loleomekar)"
+    },
+    {
+      "id": "82.04.16.2006",
+      "name": "Tutuhu (Tutuha)"
+    },
+    {
+      "id": "82.04.16.2007",
+      "name": "Jeret"
+    },
+    {
+      "id": "82.04.16.2008",
+      "name": "Kasiruta Dalam"
+    },
+    {
+      "id": "82.04.17.2001",
+      "name": "Makian (Kampung Makian)"
+    },
+    {
+      "id": "82.04.17.2002",
+      "name": "Mandawong (Mandaong)"
+    },
+    {
+      "id": "82.04.17.2003",
+      "name": "Kupal"
+    },
+    {
+      "id": "82.04.17.2004",
+      "name": "Dgandasuli (Gandasuli)"
+    },
+    {
+      "id": "82.04.17.2005",
+      "name": "Sawadai"
+    },
+    {
+      "id": "82.04.17.2006",
+      "name": "Tuwokona (Tuakona)"
+    },
+    {
+      "id": "82.04.17.2007",
+      "name": "Papaloang"
+    },
+    {
+      "id": "82.04.17.2008",
+      "name": "Tembal"
+    },
+    {
+      "id": "82.04.17.2009",
+      "name": "Kubung"
+    },
+    {
+      "id": "82.04.17.2010",
+      "name": "Panamboang"
+    },
+    {
+      "id": "82.04.18.2001",
+      "name": "Sawanakar (Sawangakar/Sawangkang)"
+    },
+    {
+      "id": "82.04.18.2002",
+      "name": "Bajo"
+    },
+    {
+      "id": "82.04.18.2003",
+      "name": "Tanjung Obit"
+    },
+    {
+      "id": "82.04.18.2004",
+      "name": "Prapakanda"
+    },
+    {
+      "id": "82.04.18.2005",
+      "name": "Toin"
+    },
+    {
+      "id": "82.04.18.2006",
+      "name": "Kampung Baru"
+    },
+    {
+      "id": "82.04.18.2007",
+      "name": "Batutaga"
+    },
+    {
+      "id": "82.04.18.2008",
+      "name": "Paisumbaos (Pasimbaos)"
+    },
+    {
+      "id": "82.04.19.2001",
+      "name": "Lele"
+    },
+    {
+      "id": "82.04.19.2002",
+      "name": "Bahu"
+    },
+    {
+      "id": "82.04.19.2003",
+      "name": "Jiko (Jeko)"
+    },
+    {
+      "id": "82.04.19.2004",
+      "name": "Galala"
+    },
+    {
+      "id": "82.04.19.2005",
+      "name": "Tabalema"
+    },
+    {
+      "id": "82.04.19.2006",
+      "name": "Yoyok"
+    },
+    {
+      "id": "82.04.20.2001",
+      "name": "Pelita (Pelita Jaya)"
+    },
+    {
+      "id": "82.04.20.2002",
+      "name": "Indong"
+    },
+    {
+      "id": "82.04.20.2003",
+      "name": "Waya"
+    },
+    {
+      "id": "82.04.20.2004",
+      "name": "Leleongusu (Loleongusu)"
+    },
+    {
+      "id": "82.04.20.2005",
+      "name": "Akedabo"
+    },
+    {
+      "id": "82.04.20.2006",
+      "name": "Bobo"
+    },
+    {
+      "id": "82.04.21.2001",
+      "name": "Wayaua"
+    },
+    {
+      "id": "82.04.21.2002",
+      "name": "Silang"
+    },
+    {
+      "id": "82.04.21.2003",
+      "name": "Liaro"
+    },
+    {
+      "id": "82.04.21.2004",
+      "name": "Pigaraja"
+    },
+    {
+      "id": "82.04.21.2005",
+      "name": "Wayakuba"
+    },
+    {
+      "id": "82.04.21.2006",
+      "name": "Tabangame"
+    },
+    {
+      "id": "82.04.21.2007",
+      "name": "Tabajaya"
+    },
+    {
+      "id": "82.04.22.2001",
+      "name": "Wayatim"
+    },
+    {
+      "id": "82.04.22.2002",
+      "name": "Tomara"
+    },
+    {
+      "id": "82.04.22.2003",
+      "name": "Tutupa"
+    },
+    {
+      "id": "82.04.22.2004",
+      "name": "Tabapoma"
+    },
+    {
+      "id": "82.04.22.2005",
+      "name": "Bibinoi"
+    },
+    {
+      "id": "82.04.22.2006",
+      "name": "Songa"
+    },
+    {
+      "id": "82.04.22.2007",
+      "name": "Tawa"
+    },
+    {
+      "id": "82.04.23.2001",
+      "name": "Awis"
+    },
+    {
+      "id": "82.04.23.2002",
+      "name": "Dowora"
+    },
+    {
+      "id": "82.04.23.2003",
+      "name": "Gane Dalam"
+    },
+    {
+      "id": "82.04.23.2004",
+      "name": "Jibubu"
+    },
+    {
+      "id": "82.04.23.2005",
+      "name": "Pasipalele (Pasi Palele)"
+    },
+    {
+      "id": "82.04.23.2006",
+      "name": "Sekely"
+    },
+    {
+      "id": "82.04.23.2007",
+      "name": "Tawa"
+    },
+    {
+      "id": "82.04.23.2008",
+      "name": "Yamli (Yamly)"
+    },
+    {
+      "id": "82.04.24.2001",
+      "name": "Batulak"
+    },
+    {
+      "id": "82.04.24.2002",
+      "name": "Boso"
+    },
+    {
+      "id": "82.04.24.2003",
+      "name": "Dolik"
+    },
+    {
+      "id": "82.04.24.2004",
+      "name": "Fulai (Jikolamo/Fulay)"
+    },
+    {
+      "id": "82.04.24.2005",
+      "name": "Gumirah (Gumira)"
+    },
+    {
+      "id": "82.04.24.2006",
+      "name": "Moloku"
+    },
+    {
+      "id": "82.04.24.2007",
+      "name": "Nurjihat"
+    },
+    {
+      "id": "82.04.24.2008",
+      "name": "Posi Posi"
+    },
+    {
+      "id": "82.04.24.2009",
+      "name": "Samat"
+    },
+    {
+      "id": "82.04.24.2010",
+      "name": "Samo"
+    },
+    {
+      "id": "82.04.24.2011",
+      "name": "Suka Damai"
+    },
+    {
+      "id": "82.04.24.2012",
+      "name": "Tokaka"
+    },
+    {
+      "id": "82.04.25.2001",
+      "name": "Gonone"
+    },
+    {
+      "id": "82.04.25.2002",
+      "name": "Kakupang (Kukupang)"
+    },
+    {
+      "id": "82.04.25.2003",
+      "name": "Kurunga"
+    },
+    {
+      "id": "82.04.25.2004",
+      "name": "Liboba Hijrah"
+    },
+    {
+      "id": "82.04.25.2005",
+      "name": "Pulau Gala"
+    },
+    {
+      "id": "82.04.25.2006",
+      "name": "Tawabi"
+    },
+    {
+      "id": "82.04.25.2007",
+      "name": "Yomen"
+    },
+    {
+      "id": "82.04.26.2001",
+      "name": "Gaimu"
+    },
+    {
+      "id": "82.04.26.2002",
+      "name": "Gane Luar"
+    },
+    {
+      "id": "82.04.26.2003",
+      "name": "Kuwo"
+    },
+    {
+      "id": "82.04.26.2004",
+      "name": "Ranga Ranga"
+    },
+    {
+      "id": "82.04.26.2005",
+      "name": "Sawat"
+    },
+    {
+      "id": "82.04.27.2001",
+      "name": "Bisui"
+    },
+    {
+      "id": "82.04.27.2002",
+      "name": "Lelewi"
+    },
+    {
+      "id": "82.04.27.2003",
+      "name": "Luim"
+    },
+    {
+      "id": "82.04.27.2004",
+      "name": "Matuting"
+    },
+    {
+      "id": "82.04.27.2005",
+      "name": "Matuting Tanjung"
+    },
+    {
+      "id": "82.04.27.2006",
+      "name": "Tabahidayah"
+    },
+    {
+      "id": "82.04.27.2007",
+      "name": "Tabahijrah"
+    },
+    {
+      "id": "82.04.27.2008",
+      "name": "Tagia (Tagea)"
+    },
+    {
+      "id": "82.04.28.2001",
+      "name": "Alam Kenanga"
+    },
+    {
+      "id": "82.04.28.2002",
+      "name": "Alam Pelita"
+    },
+    {
+      "id": "82.04.28.2003",
+      "name": "Jikohai (Jikohay)"
+    },
+    {
+      "id": "82.04.28.2004",
+      "name": "Manatahan"
+    },
+    {
+      "id": "82.04.28.2005",
+      "name": "Soa Sangaji (Soasangaji)"
+    },
+    {
+      "id": "82.04.28.2006",
+      "name": "Tapa"
+    },
+    {
+      "id": "82.04.29.2001",
+      "name": "Kello (Kelo)"
+    },
+    {
+      "id": "82.04.29.2002",
+      "name": "Sum"
+    },
+    {
+      "id": "82.04.29.2003",
+      "name": "Susepe (Sosepe)"
+    },
+    {
+      "id": "82.04.29.2004",
+      "name": "Wooi"
+    },
+    {
+      "id": "82.04.30.2001",
+      "name": "Cap"
+    },
+    {
+      "id": "82.04.30.2002",
+      "name": "Madopolo (Madapolo)"
+    },
+    {
+      "id": "82.04.30.2003",
+      "name": "Galala"
+    },
+    {
+      "id": "82.04.30.2004",
+      "name": "Madopolo Barat (Madapolo Barat)"
+    },
+    {
+      "id": "82.04.30.2005",
+      "name": "Waringi"
+    },
+    {
+      "id": "82.04.30.2006",
+      "name": "Pasir Putih"
+    },
+    {
+      "id": "82.04.30.2007",
+      "name": "Madopolo Timur (Madapolo Timur)"
+    },
+    {
+      "id": "82.05.01.2001",
+      "name": "Waitina"
+    },
+    {
+      "id": "82.05.01.2006",
+      "name": "Kau/Kou (Kow)"
+    },
+    {
+      "id": "82.05.01.2007",
+      "name": "Waitamela"
+    },
+    {
+      "id": "82.05.01.2013",
+      "name": "Karamat Titdoy"
+    },
+    {
+      "id": "82.05.01.2016",
+      "name": "Naflo"
+    },
+    {
+      "id": "82.05.02.2001",
+      "name": "Mangon"
+    },
+    {
+      "id": "82.05.02.2002",
+      "name": "Fagudu"
+    },
+    {
+      "id": "82.05.02.2003",
+      "name": "Waibau"
+    },
+    {
+      "id": "82.05.02.2004",
+      "name": "Falahu"
+    },
+    {
+      "id": "82.05.02.2005",
+      "name": "Fatcei"
+    },
+    {
+      "id": "82.05.02.2006",
+      "name": "Fogi"
+    },
+    {
+      "id": "82.05.02.2007",
+      "name": "Waihama"
+    },
+    {
+      "id": "82.05.02.2008",
+      "name": "Wai Ipa"
+    },
+    {
+      "id": "82.05.02.2009",
+      "name": "Umaloya"
+    },
+    {
+      "id": "82.05.02.2010",
+      "name": "Pastina"
+    },
+    {
+      "id": "82.05.02.2011",
+      "name": "Wailau"
+    },
+    {
+      "id": "82.05.03.2005",
+      "name": "Wai Ina"
+    },
+    {
+      "id": "82.05.03.2006",
+      "name": "Kabau Pantai"
+    },
+    {
+      "id": "82.05.03.2007",
+      "name": "Ona"
+    },
+    {
+      "id": "82.05.03.2008",
+      "name": "Kabau Darat"
+    },
+    {
+      "id": "82.05.03.2009",
+      "name": "Nahi"
+    },
+    {
+      "id": "82.05.03.2010",
+      "name": "Paratina"
+    },
+    {
+      "id": "82.05.06.2001",
+      "name": "Dofa"
+    },
+    {
+      "id": "82.05.06.2002",
+      "name": "Lekokadai"
+    },
+    {
+      "id": "82.05.06.2003",
+      "name": "Lekosula"
+    },
+    {
+      "id": "82.05.06.2009",
+      "name": "Pas Ipa"
+    },
+    {
+      "id": "82.05.06.2014",
+      "name": "Pelita"
+    },
+    {
+      "id": "82.05.06.2017",
+      "name": "Johor (Johor Perda)"
+    },
+    {
+      "id": "82.05.06.2018",
+      "name": "Lelyaba"
+    },
+    {
+      "id": "82.05.07.2001",
+      "name": "Waiboga"
+    },
+    {
+      "id": "82.05.07.2002",
+      "name": "Soamole"
+    },
+    {
+      "id": "82.05.07.2003",
+      "name": "Waiman"
+    },
+    {
+      "id": "82.05.07.2004",
+      "name": "Fat Iba"
+    },
+    {
+      "id": "82.05.07.2005",
+      "name": "Bega"
+    },
+    {
+      "id": "82.05.07.2006",
+      "name": "Manaf"
+    },
+    {
+      "id": "82.05.08.2001",
+      "name": "Waigoiyofa"
+    },
+    {
+      "id": "82.05.08.2002",
+      "name": "Baleha"
+    },
+    {
+      "id": "82.05.08.2003",
+      "name": "Fatkauyon"
+    },
+    {
+      "id": "82.05.08.2004",
+      "name": "Wailia"
+    },
+    {
+      "id": "82.05.08.2005",
+      "name": "Sama"
+    },
+    {
+      "id": "82.05.08.2006",
+      "name": "Waisepa"
+    },
+    {
+      "id": "82.05.09.2001",
+      "name": "Waigai"
+    },
+    {
+      "id": "82.05.09.2002",
+      "name": "Fuata"
+    },
+    {
+      "id": "82.05.09.2003",
+      "name": "Wainib"
+    },
+    {
+      "id": "82.05.09.2004",
+      "name": "Skom"
+    },
+    {
+      "id": "82.05.09.2005",
+      "name": "Wai Tamua"
+    },
+    {
+      "id": "82.05.10.2001",
+      "name": "Kawata"
+    },
+    {
+      "id": "82.05.10.2002",
+      "name": "Waisakai"
+    },
+    {
+      "id": "82.05.10.2003",
+      "name": "Pelita Jaya"
+    },
+    {
+      "id": "82.05.10.2004",
+      "name": "Waisum"
+    },
+    {
+      "id": "82.05.11.2001",
+      "name": "Buruakol"
+    },
+    {
+      "id": "82.05.11.2002",
+      "name": "Capalulu"
+    },
+    {
+      "id": "82.05.11.2003",
+      "name": "Urifola"
+    },
+    {
+      "id": "82.05.11.2004",
+      "name": "Mangoli"
+    },
+    {
+      "id": "82.05.11.2005",
+      "name": "Wailoba"
+    },
+    {
+      "id": "82.05.11.2006",
+      "name": "Paslal"
+    },
+    {
+      "id": "82.05.11.2007",
+      "name": "Waitulia"
+    },
+    {
+      "id": "82.05.11.2008",
+      "name": "Wai U"
+    },
+    {
+      "id": "82.05.11.2009",
+      "name": "Jere"
+    },
+    {
+      "id": "82.05.12.2001",
+      "name": "Kaporo"
+    },
+    {
+      "id": "82.05.12.2002",
+      "name": "Waikafia"
+    },
+    {
+      "id": "82.05.12.2003",
+      "name": "Buya"
+    },
+    {
+      "id": "82.05.12.2004",
+      "name": "Auponhia"
+    },
+    {
+      "id": "82.05.12.2005",
+      "name": "Wailab"
+    },
+    {
+      "id": "82.05.13.2001",
+      "name": "Falabisahaya"
+    },
+    {
+      "id": "82.05.13.2002",
+      "name": "Modapia"
+    },
+    {
+      "id": "82.05.13.2003",
+      "name": "Modapuhi"
+    },
+    {
+      "id": "82.05.13.2004",
+      "name": "Pastabulu"
+    },
+    {
+      "id": "82.05.13.2005",
+      "name": "Saniahaya"
+    },
+    {
+      "id": "82.05.13.2006",
+      "name": "Minaluli"
+    },
+    {
+      "id": "82.05.13.2007",
+      "name": "Modapuhi Trans"
+    },
+    {
+      "id": "82.05.18.2001",
+      "name": "Man-Gega"
+    },
+    {
+      "id": "82.05.18.2002",
+      "name": "Bajo"
+    },
+    {
+      "id": "82.05.18.2003",
+      "name": "Pohea"
+    },
+    {
+      "id": "82.05.18.2004",
+      "name": "Fukweu"
+    },
+    {
+      "id": "82.05.18.2005",
+      "name": "Wainin"
+    },
+    {
+      "id": "82.05.18.2006",
+      "name": "Malbufa"
+    },
+    {
+      "id": "82.05.18.2007",
+      "name": "Fokalik"
+    },
+    {
+      "id": "82.06.01.2006",
+      "name": "Subaim"
+    },
+    {
+      "id": "82.06.01.2008",
+      "name": "Cemara Jaya"
+    },
+    {
+      "id": "82.06.01.2009",
+      "name": "Bumi Restu"
+    },
+    {
+      "id": "82.06.01.2014",
+      "name": "Batu Raja"
+    },
+    {
+      "id": "82.06.01.2015",
+      "name": "Mekar Sari"
+    },
+    {
+      "id": "82.06.01.2016",
+      "name": "Bulapapo (Gulapapo)"
+    },
+    {
+      "id": "82.06.01.2027",
+      "name": "Waisuba"
+    },
+    {
+      "id": "82.06.02.2001",
+      "name": "Buli"
+    },
+    {
+      "id": "82.06.02.2002",
+      "name": "Buli Asal"
+    },
+    {
+      "id": "82.06.02.2003",
+      "name": "Buli Karya"
+    },
+    {
+      "id": "82.06.02.2011",
+      "name": "Wayafly (Wayafli / Wayamli)"
+    },
+    {
+      "id": "82.06.02.2012",
+      "name": "Sailal"
+    },
+    {
+      "id": "82.06.02.2013",
+      "name": "Geltoli"
+    },
+    {
+      "id": "82.06.02.2014",
+      "name": "Pekaulan"
+    },
+    {
+      "id": "82.06.02.2023",
+      "name": "Teluk Buli"
+    },
+    {
+      "id": "82.06.02.2024",
+      "name": "Gamesan"
+    },
+    {
+      "id": "82.06.02.2025",
+      "name": "Baburino"
+    },
+    {
+      "id": "82.06.03.2001",
+      "name": "Bicoli"
+    },
+    {
+      "id": "82.06.03.2002",
+      "name": "Waci"
+    },
+    {
+      "id": "82.06.03.2003",
+      "name": "Pateley (Petelei)"
+    },
+    {
+      "id": "82.06.03.2004",
+      "name": "Loleo Lamo (Loloelamo)"
+    },
+    {
+      "id": "82.06.03.2005",
+      "name": "Gotowasi"
+    },
+    {
+      "id": "82.06.03.2010",
+      "name": "Kasuba"
+    },
+    {
+      "id": "82.06.03.2012",
+      "name": "Momole"
+    },
+    {
+      "id": "82.06.03.2013",
+      "name": "Sil"
+    },
+    {
+      "id": "82.06.03.2014",
+      "name": "Sowoli"
+    },
+    {
+      "id": "82.06.04.2001",
+      "name": "Nusa Jaya"
+    },
+    {
+      "id": "82.06.04.2002",
+      "name": "Nusa Ambu (Nusa Ambo)"
+    },
+    {
+      "id": "82.06.04.2003",
+      "name": "Loleba"
+    },
+    {
+      "id": "82.06.04.2004",
+      "name": "Waijoi"
+    },
+    {
+      "id": "82.06.04.2005",
+      "name": "Pintatu"
+    },
+    {
+      "id": "82.06.04.2006",
+      "name": "Minamin"
+    },
+    {
+      "id": "82.06.04.2007",
+      "name": "Saramake (Saramaake)"
+    },
+    {
+      "id": "82.06.04.2008",
+      "name": "Fayaul"
+    },
+    {
+      "id": "82.06.04.2009",
+      "name": "Bina Gara (Binagara)"
+    },
+    {
+      "id": "82.06.04.2010",
+      "name": "Wasile"
+    },
+    {
+      "id": "82.06.04.2011",
+      "name": "Tomares"
+    },
+    {
+      "id": "82.06.04.2012",
+      "name": "Tabanalow (Tabanalou / Tabanoli)"
+    },
+    {
+      "id": "82.06.04.2013",
+      "name": "Saolat"
+    },
+    {
+      "id": "82.06.04.2014",
+      "name": "Nanas"
+    },
+    {
+      "id": "82.06.04.2015",
+      "name": "Talaga Jaya"
+    },
+    {
+      "id": "82.06.04.2016",
+      "name": "Sondo-Sondo"
+    },
+    {
+      "id": "82.06.04.2017",
+      "name": "Ino Jaya"
+    },
+    {
+      "id": "82.06.04.2018",
+      "name": "Ake Jawi"
+    },
+    {
+      "id": "82.06.04.2019",
+      "name": "Ekor"
+    },
+    {
+      "id": "82.06.04.2020",
+      "name": "Ekorino"
+    },
+    {
+      "id": "82.06.04.2021",
+      "name": "Jiko Moi"
+    },
+    {
+      "id": "82.06.04.2022",
+      "name": "Tanure"
+    },
+    {
+      "id": "82.06.04.2023",
+      "name": "Yawal"
+    },
+    {
+      "id": "82.06.04.2024",
+      "name": "Bukutio"
+    },
+    {
+      "id": "82.06.05.2001",
+      "name": "Hate Tabako (Hatetabako)"
+    },
+    {
+      "id": "82.06.05.2002",
+      "name": "Lolobata"
+    },
+    {
+      "id": "82.06.05.2003",
+      "name": "Puao"
+    },
+    {
+      "id": "82.06.05.2004",
+      "name": "Foli (Foly)"
+    },
+    {
+      "id": "82.06.05.2005",
+      "name": "Nyaolako"
+    },
+    {
+      "id": "82.06.05.2006",
+      "name": "Boki Miake (Bokimaake)"
+    },
+    {
+      "id": "82.06.05.2007",
+      "name": "Silalaysang (Silalayang)"
+    },
+    {
+      "id": "82.06.05.2008",
+      "name": "Kakaraino"
+    },
+    {
+      "id": "82.06.06.2001",
+      "name": "Labi Labi"
+    },
+    {
+      "id": "82.06.06.2002",
+      "name": "Iga"
+    },
+    {
+      "id": "82.06.06.2003",
+      "name": "Tatam"
+    },
+    {
+      "id": "82.06.06.2004",
+      "name": "Marimoi"
+    },
+    {
+      "id": "82.06.06.2005",
+      "name": "Bololo"
+    },
+    {
+      "id": "82.06.06.2006",
+      "name": "Helaitetor"
+    },
+    {
+      "id": "82.06.06.2007",
+      "name": "Dowongi Jaya"
+    },
+    {
+      "id": "82.06.06.2008",
+      "name": "Majiko Tongone"
+    },
+    {
+      "id": "82.06.07.2001",
+      "name": "Dodaga"
+    },
+    {
+      "id": "82.06.07.2002",
+      "name": "Daka Ino"
+    },
+    {
+      "id": "82.06.07.2003",
+      "name": "Akedaga (Ake Daga)"
+    },
+    {
+      "id": "82.06.07.2004",
+      "name": "Tobo Ino (Toboino)"
+    },
+    {
+      "id": "82.06.07.2005",
+      "name": "Tutuling Jaya"
+    },
+    {
+      "id": "82.06.07.2006",
+      "name": "Woka Jaya"
+    },
+    {
+      "id": "82.06.07.2007",
+      "name": "Rawamangun"
+    },
+    {
+      "id": "82.06.07.2008",
+      "name": "Sidomulyo"
+    },
+    {
+      "id": "82.06.08.2001",
+      "name": "Wayamli (Wayamly)"
+    },
+    {
+      "id": "82.06.08.2002",
+      "name": "Beringin Lamo (Baringin)"
+    },
+    {
+      "id": "82.06.08.2003",
+      "name": "Miaf"
+    },
+    {
+      "id": "82.06.08.2004",
+      "name": "Bangul"
+    },
+    {
+      "id": "82.06.08.2005",
+      "name": "Marasipno"
+    },
+    {
+      "id": "82.06.08.2006",
+      "name": "Dorolamo"
+    },
+    {
+      "id": "82.06.08.2007",
+      "name": "Maratana (Marathana Jaya )"
+    },
+    {
+      "id": "82.06.08.2008",
+      "name": "Bebsili"
+    },
+    {
+      "id": "82.06.08.2009",
+      "name": "Yawanli"
+    },
+    {
+      "id": "82.06.08.2010",
+      "name": "Gaifoli"
+    },
+    {
+      "id": "82.06.08.2011",
+      "name": "Babasaram"
+    },
+    {
+      "id": "82.06.08.2012",
+      "name": "Tatangapu"
+    },
+    {
+      "id": "82.06.09.2001",
+      "name": "Sosolat"
+    },
+    {
+      "id": "82.06.09.2002",
+      "name": "Dorosago (Dorosagu)"
+    },
+    {
+      "id": "82.06.09.2003",
+      "name": "Patlean"
+    },
+    {
+      "id": "82.06.09.2004",
+      "name": "Lolasita"
+    },
+    {
+      "id": "82.06.09.2005",
+      "name": "Wasileo"
+    },
+    {
+      "id": "82.06.09.2006",
+      "name": "Pumlanga"
+    },
+    {
+      "id": "82.06.09.2007",
+      "name": "Jara-jara (Jarajara)"
+    },
+    {
+      "id": "82.06.09.2008",
+      "name": "Doromoi"
+    },
+    {
+      "id": "82.06.09.2009",
+      "name": "Lili"
+    },
+    {
+      "id": "82.06.09.2010",
+      "name": "Patlean Jaya"
+    },
+    {
+      "id": "82.06.10.2001",
+      "name": "Wai Lukum (Wailukum)"
+    },
+    {
+      "id": "82.06.10.2002",
+      "name": "Soa Laipoh"
+    },
+    {
+      "id": "82.06.10.2003",
+      "name": "Soa Sangaji"
+    },
+    {
+      "id": "82.06.10.2004",
+      "name": "Soagimalaha (Soa Gimalaha)"
+    },
+    {
+      "id": "82.06.10.2005",
+      "name": "Maba Sangaji (Gotowasi)"
+    },
+    {
+      "id": "82.06.10.2006",
+      "name": "Tewil"
+    },
+    {
+      "id": "82.07.01.2001",
+      "name": "Gotalamo"
+    },
+    {
+      "id": "82.07.01.2002",
+      "name": "Daruba"
+    },
+    {
+      "id": "82.07.01.2003",
+      "name": "Darame"
+    },
+    {
+      "id": "82.07.01.2004",
+      "name": "Wawama"
+    },
+    {
+      "id": "82.07.01.2005",
+      "name": "Pandanga (Pandangan)"
+    },
+    {
+      "id": "82.07.01.2006",
+      "name": "Juanga"
+    },
+    {
+      "id": "82.07.01.2007",
+      "name": "Totodoku"
+    },
+    {
+      "id": "82.07.01.2008",
+      "name": "Momojiu"
+    },
+    {
+      "id": "82.07.01.2009",
+      "name": "Sabatai Baru"
+    },
+    {
+      "id": "82.07.01.2010",
+      "name": "Sabatai Tua"
+    },
+    {
+      "id": "82.07.01.2011",
+      "name": "Daeo"
+    },
+    {
+      "id": "82.07.01.2012",
+      "name": "Dehegila"
+    },
+    {
+      "id": "82.07.01.2013",
+      "name": "Pilowo"
+    },
+    {
+      "id": "82.07.01.2014",
+      "name": "Galo Galo"
+    },
+    {
+      "id": "82.07.01.2015",
+      "name": "Koloray (Kolorai)"
+    },
+    {
+      "id": "82.07.01.2016",
+      "name": "Yayasan"
+    },
+    {
+      "id": "82.07.01.2017",
+      "name": "Joubela"
+    },
+    {
+      "id": "82.07.01.2018",
+      "name": "Aha"
+    },
+    {
+      "id": "82.07.01.2019",
+      "name": "Muhajirin"
+    },
+    {
+      "id": "82.07.01.2020",
+      "name": "Mandiri"
+    },
+    {
+      "id": "82.07.01.2021",
+      "name": "Falila"
+    },
+    {
+      "id": "82.07.01.2022",
+      "name": "Sabala"
+    },
+    {
+      "id": "82.07.01.2023",
+      "name": "Daeo Majiko"
+    },
+    {
+      "id": "82.07.01.2024",
+      "name": "Morodadi"
+    },
+    {
+      "id": "82.07.01.2025",
+      "name": "Nakamura"
+    },
+    {
+      "id": "82.07.02.2001",
+      "name": "Wayabula"
+    },
+    {
+      "id": "82.07.02.2002",
+      "name": "Tiley (Tiley Kusu)"
+    },
+    {
+      "id": "82.07.02.2003",
+      "name": "Ngele Ngele Kecil"
+    },
+    {
+      "id": "82.07.02.2004",
+      "name": "Cucumare"
+    },
+    {
+      "id": "82.07.02.2005",
+      "name": "Aru Irian"
+    },
+    {
+      "id": "82.07.02.2006",
+      "name": "Waringin"
+    },
+    {
+      "id": "82.07.02.2007",
+      "name": "Tutuhu (Tuthu)"
+    },
+    {
+      "id": "82.07.02.2008",
+      "name": "Cio Gerong"
+    },
+    {
+      "id": "82.07.02.2014",
+      "name": "Ngele Ngele Besar"
+    },
+    {
+      "id": "82.07.02.2015",
+      "name": "Raja"
+    },
+    {
+      "id": "82.07.02.2016",
+      "name": "Cio Dalam"
+    },
+    {
+      "id": "82.07.02.2017",
+      "name": "Usbar Pantai"
+    },
+    {
+      "id": "82.07.02.2018",
+      "name": "Tiley Pantai"
+    },
+    {
+      "id": "82.07.02.2019",
+      "name": "Cio Maloleo"
+    },
+    {
+      "id": "82.07.02.2020",
+      "name": "Bobula"
+    },
+    {
+      "id": "82.07.03.2001",
+      "name": "Pangeo"
+    },
+    {
+      "id": "82.07.03.2002",
+      "name": "Sopi"
+    },
+    {
+      "id": "82.07.03.2003",
+      "name": "Bere Bere Kecil"
+    },
+    {
+      "id": "82.07.03.2004",
+      "name": "Titigogoli"
+    },
+    {
+      "id": "82.07.03.2005",
+      "name": "Hapo"
+    },
+    {
+      "id": "82.07.03.2006",
+      "name": "Libano"
+    },
+    {
+      "id": "82.07.03.2007",
+      "name": "Aru"
+    },
+    {
+      "id": "82.07.03.2008",
+      "name": "Towara"
+    },
+    {
+      "id": "82.07.03.2009",
+      "name": "Cendana"
+    },
+    {
+      "id": "82.07.03.2010",
+      "name": "Podimor Padange"
+    },
+    {
+      "id": "82.07.03.2011",
+      "name": "Sopi Majiko"
+    },
+    {
+      "id": "82.07.03.2012",
+      "name": "Gorugo"
+    },
+    {
+      "id": "82.07.03.2013",
+      "name": "Loleo"
+    },
+    {
+      "id": "82.07.03.2014",
+      "name": "Cempaka"
+    },
+    {
+      "id": "82.07.04.2001",
+      "name": "Bere Bere"
+    },
+    {
+      "id": "82.07.04.2002",
+      "name": "Sakita"
+    },
+    {
+      "id": "82.07.04.2003",
+      "name": "Tawakali"
+    },
+    {
+      "id": "82.07.04.2004",
+      "name": "Yao"
+    },
+    {
+      "id": "82.07.04.2005",
+      "name": "Bido"
+    },
+    {
+      "id": "82.07.04.2006",
+      "name": "Gorua"
+    },
+    {
+      "id": "82.07.04.2007",
+      "name": "Korago"
+    },
+    {
+      "id": "82.07.04.2008",
+      "name": "Lusuo (Losuo)"
+    },
+    {
+      "id": "82.07.04.2009",
+      "name": "Kenari"
+    },
+    {
+      "id": "82.07.04.2010",
+      "name": "Loleo Jaya"
+    },
+    {
+      "id": "82.07.04.2011",
+      "name": "Maba"
+    },
+    {
+      "id": "82.07.04.2012",
+      "name": "Tanjung Saleh"
+    },
+    {
+      "id": "82.07.04.2013",
+      "name": "Goa Hira"
+    },
+    {
+      "id": "82.07.04.2014",
+      "name": "Gorua Selatan"
+    },
+    {
+      "id": "82.07.05.2001",
+      "name": "Buho Buho"
+    },
+    {
+      "id": "82.07.05.2002",
+      "name": "Wewemo"
+    },
+    {
+      "id": "82.07.05.2003",
+      "name": "Mira"
+    },
+    {
+      "id": "82.07.05.2004",
+      "name": "Lifao"
+    },
+    {
+      "id": "82.07.05.2005",
+      "name": "Rahmat"
+    },
+    {
+      "id": "82.07.05.2006",
+      "name": "Sambiki Tua (Sambiki)"
+    },
+    {
+      "id": "82.07.05.2007",
+      "name": "Sangowo"
+    },
+    {
+      "id": "82.07.05.2008",
+      "name": "Sambiki Baru"
+    },
+    {
+      "id": "82.07.05.2009",
+      "name": "Sangowo Barat"
+    },
+    {
+      "id": "82.07.05.2010",
+      "name": "Sangowo Timur"
+    },
+    {
+      "id": "82.07.05.2011",
+      "name": "Seseli Jaya"
+    },
+    {
+      "id": "82.07.05.2012",
+      "name": "Hino"
+    },
+    {
+      "id": "82.07.05.2013",
+      "name": "Gosoma Maluku"
+    },
+    {
+      "id": "82.07.05.2014",
+      "name": "Gamlamo"
+    },
+    {
+      "id": "82.07.05.2015",
+      "name": "Doku Mira"
+    },
+    {
+      "id": "82.07.06.2001",
+      "name": "Posi-Posi (Posi Posi Rao)"
+    },
+    {
+      "id": "82.07.06.2002",
+      "name": "Aru Burung"
+    },
+    {
+      "id": "82.07.06.2003",
+      "name": "Lou Madoro"
+    },
+    {
+      "id": "82.07.06.2004",
+      "name": "Leo Leo"
+    },
+    {
+      "id": "82.07.06.2005",
+      "name": "Sami Nyamau (Saminyamau)"
+    },
+    {
+      "id": "82.08.01.2001",
+      "name": "Bobong"
+    },
+    {
+      "id": "82.08.01.2002",
+      "name": "Talo"
+    },
+    {
+      "id": "82.08.01.2003",
+      "name": "Kawalo"
+    },
+    {
+      "id": "82.08.01.2004",
+      "name": "Limbo"
+    },
+    {
+      "id": "82.08.01.2005",
+      "name": "Meranti Jaya (Maranti Jaya)"
+    },
+    {
+      "id": "82.08.01.2006",
+      "name": "Kramat"
+    },
+    {
+      "id": "82.08.01.2007",
+      "name": "Holbota"
+    },
+    {
+      "id": "82.08.01.2008",
+      "name": "Pancoran"
+    },
+    {
+      "id": "82.08.01.2009",
+      "name": "Wayo"
+    },
+    {
+      "id": "82.08.01.2010",
+      "name": "Loho Bubba"
+    },
+    {
+      "id": "82.08.01.2011",
+      "name": "Kilong"
+    },
+    {
+      "id": "82.08.01.2012",
+      "name": "Ratahaya"
+    },
+    {
+      "id": "82.08.01.2013",
+      "name": "Woyo"
+    },
+    {
+      "id": "82.08.02.2001",
+      "name": "Nggele"
+    },
+    {
+      "id": "82.08.02.2002",
+      "name": "Salati"
+    },
+    {
+      "id": "82.08.02.2003",
+      "name": "Beringin Jaya"
+    },
+    {
+      "id": "82.08.02.2004",
+      "name": "Kasango"
+    },
+    {
+      "id": "82.08.02.2005",
+      "name": "Onemay (Oneway)"
+    },
+    {
+      "id": "82.08.03.2001",
+      "name": "Lede"
+    },
+    {
+      "id": "82.08.03.2002",
+      "name": "Todoli"
+    },
+    {
+      "id": "82.08.03.2003",
+      "name": "Tolong"
+    },
+    {
+      "id": "82.08.03.2004",
+      "name": "Langganu"
+    },
+    {
+      "id": "82.08.03.2005",
+      "name": "Balohang (Balahong)"
+    },
+    {
+      "id": "82.08.04.2001",
+      "name": "Mananga"
+    },
+    {
+      "id": "82.08.04.2002",
+      "name": "Tanjung Una"
+    },
+    {
+      "id": "82.08.04.2003",
+      "name": "Jorjoga"
+    },
+    {
+      "id": "82.08.04.2004",
+      "name": "Gela"
+    },
+    {
+      "id": "82.08.04.2005",
+      "name": "Minton"
+    },
+    {
+      "id": "82.08.04.2006",
+      "name": "Nunca"
+    },
+    {
+      "id": "82.08.04.2007",
+      "name": "Sahu"
+    },
+    {
+      "id": "82.08.04.2008",
+      "name": "Bua Mbono (Mbono)"
+    },
+    {
+      "id": "82.08.04.2009",
+      "name": "Hai"
+    },
+    {
+      "id": "82.08.04.2010",
+      "name": "Tikong"
+    },
+    {
+      "id": "82.08.04.2011",
+      "name": "Dege"
+    },
+    {
+      "id": "82.08.04.2012",
+      "name": "Air Bulan"
+    },
+    {
+      "id": "82.08.04.2013",
+      "name": "Air Kalimat"
+    },
+    {
+      "id": "82.08.04.2014",
+      "name": "Ufung"
+    },
+    {
+      "id": "82.08.04.2015",
+      "name": "Padang"
+    },
+    {
+      "id": "82.08.04.2016",
+      "name": "Natang Kuning"
+    },
+    {
+      "id": "82.08.04.2017",
+      "name": "Nunu"
+    },
+    {
+      "id": "82.08.04.2018",
+      "name": "London"
+    },
+    {
+      "id": "82.08.04.2019",
+      "name": "Wahe"
+    },
+    {
+      "id": "82.08.05.2001",
+      "name": "Penu"
+    },
+    {
+      "id": "82.08.05.2002",
+      "name": "Parigi"
+    },
+    {
+      "id": "82.08.05.2003",
+      "name": "Samuya"
+    },
+    {
+      "id": "82.08.05.2004",
+      "name": "Tubang"
+    },
+    {
+      "id": "82.08.06.2001",
+      "name": "Waikadai"
+    },
+    {
+      "id": "82.08.06.2002",
+      "name": "Losseng"
+    },
+    {
+      "id": "82.08.06.2003",
+      "name": "Kawadang"
+    },
+    {
+      "id": "82.08.06.2004",
+      "name": "Sofan"
+    },
+    {
+      "id": "82.08.06.2005",
+      "name": "Mantarara"
+    },
+    {
+      "id": "82.08.06.2006",
+      "name": "Belo"
+    },
+    {
+      "id": "82.08.06.2007",
+      "name": "Kamaya"
+    },
+    {
+      "id": "82.08.06.2008",
+      "name": "Waikoka"
+    },
+    {
+      "id": "82.08.06.2009",
+      "name": "Waikadai Sula"
+    },
+    {
+      "id": "82.08.07.2001",
+      "name": "Bahu"
+    },
+    {
+      "id": "82.08.07.2002",
+      "name": "Bapenu"
+    },
+    {
+      "id": "82.08.07.2003",
+      "name": "Kilo"
+    },
+    {
+      "id": "82.08.07.2004",
+      "name": "Pancado"
+    },
+    {
+      "id": "82.08.07.2005",
+      "name": "Nggaki"
+    },
+    {
+      "id": "82.08.07.2006",
+      "name": "Sumbong"
+    },
+    {
+      "id": "82.08.07.2007",
+      "name": "Maluli"
+    },
+    {
+      "id": "82.08.07.2008",
+      "name": "Galebo"
+    },
+    {
+      "id": "82.08.07.2009",
+      "name": "Nggoli"
+    },
+    {
+      "id": "82.08.08.2001",
+      "name": "Tabona"
+    },
+    {
+      "id": "82.08.08.2002",
+      "name": "Kabunu"
+    },
+    {
+      "id": "82.08.08.2003",
+      "name": "Peleng"
+    },
+    {
+      "id": "82.08.08.2004",
+      "name": "Fayaunana"
+    },
+    {
+      "id": "82.08.08.2005",
+      "name": "Habunuha"
+    },
+    {
+      "id": "82.08.08.2006",
+      "name": "Kataga"
+    },
+    {
+      "id": "82.08.08.2007",
+      "name": "Wolio"
+    },
+    {
+      "id": "82.71.01.1001",
+      "name": "Jambula"
+    },
+    {
+      "id": "82.71.01.1002",
+      "name": "Foramadiahi"
+    },
+    {
+      "id": "82.71.01.1003",
+      "name": "Kastela"
+    },
+    {
+      "id": "82.71.01.1004",
+      "name": "Rua"
+    },
+    {
+      "id": "82.71.01.1005",
+      "name": "Afe Taduma"
+    },
+    {
+      "id": "82.71.01.1019",
+      "name": "Dorpedu"
+    },
+    {
+      "id": "82.71.02.1001",
+      "name": "Sasa"
+    },
+    {
+      "id": "82.71.02.1002",
+      "name": "Gambesi"
+    },
+    {
+      "id": "82.71.02.1003",
+      "name": "Fitu"
+    },
+    {
+      "id": "82.71.02.1004",
+      "name": "Kalumata"
+    },
+    {
+      "id": "82.71.02.1005",
+      "name": "Kayu Merah"
+    },
+    {
+      "id": "82.71.02.1006",
+      "name": "Bastiong Talangame"
+    },
+    {
+      "id": "82.71.02.1007",
+      "name": "Ubo-Ubo"
+    },
+    {
+      "id": "82.71.02.1008",
+      "name": "Mangga Dua"
+    },
+    {
+      "id": "82.71.02.1009",
+      "name": "Jati"
+    },
+    {
+      "id": "82.71.02.1010",
+      "name": "Toboko"
+    },
+    {
+      "id": "82.71.02.1011",
+      "name": "Tanah Tinggi"
+    },
+    {
+      "id": "82.71.02.1020",
+      "name": "Tanah Tinggi Barat"
+    },
+    {
+      "id": "82.71.02.1021",
+      "name": "Mangga Dua Utara"
+    },
+    {
+      "id": "82.71.02.1022",
+      "name": "Jati Perumnas"
+    },
+    {
+      "id": "82.71.02.1023",
+      "name": "Tobona (Tabona)"
+    },
+    {
+      "id": "82.71.02.1024",
+      "name": "Bastiong Karance"
+    },
+    {
+      "id": "82.71.02.1025",
+      "name": "Ngade"
+    },
+    {
+      "id": "82.71.03.1007",
+      "name": "Soa"
+    },
+    {
+      "id": "82.71.03.1008",
+      "name": "Soa Sio"
+    },
+    {
+      "id": "82.71.03.1009",
+      "name": "Kasturian"
+    },
+    {
+      "id": "82.71.03.1010",
+      "name": "Salero"
+    },
+    {
+      "id": "82.71.03.1011",
+      "name": "Toboleu"
+    },
+    {
+      "id": "82.71.03.1012",
+      "name": "Sangaji"
+    },
+    {
+      "id": "82.71.03.1013",
+      "name": "Dufa Dufa"
+    },
+    {
+      "id": "82.71.03.1014",
+      "name": "Tafure"
+    },
+    {
+      "id": "82.71.03.1015",
+      "name": "Tabam"
+    },
+    {
+      "id": "82.71.03.1016",
+      "name": "Sango"
+    },
+    {
+      "id": "82.71.03.1017",
+      "name": "Tarau"
+    },
+    {
+      "id": "82.71.03.1019",
+      "name": "Sangaji Utara"
+    },
+    {
+      "id": "82.71.03.1020",
+      "name": "Akehuda"
+    },
+    {
+      "id": "82.71.03.1021",
+      "name": "Tubo"
+    },
+    {
+      "id": "82.71.04.1001",
+      "name": "Takofi"
+    },
+    {
+      "id": "82.71.04.1002",
+      "name": "Moti Kota"
+    },
+    {
+      "id": "82.71.04.1003",
+      "name": "Tafamutu"
+    },
+    {
+      "id": "82.71.04.1004",
+      "name": "Tafaga"
+    },
+    {
+      "id": "82.71.04.1006",
+      "name": "Figur"
+    },
+    {
+      "id": "82.71.04.1007",
+      "name": "Tadenas"
+    },
+    {
+      "id": "82.71.05.1001",
+      "name": "Mayau"
+    },
+    {
+      "id": "82.71.05.1002",
+      "name": "Tifure"
+    },
+    {
+      "id": "82.71.05.1003",
+      "name": "Lelewi"
+    },
+    {
+      "id": "82.71.05.1004",
+      "name": "Bido"
+    },
+    {
+      "id": "82.71.05.1005",
+      "name": "Pantai Sagu"
+    },
+    {
+      "id": "82.71.05.1006",
+      "name": "Perum Bersatu"
+    },
+    {
+      "id": "82.71.06.1001",
+      "name": "Takoma"
+    },
+    {
+      "id": "82.71.06.1002",
+      "name": "Tanah Raja"
+    },
+    {
+      "id": "82.71.06.1003",
+      "name": "Muhajirin"
+    },
+    {
+      "id": "82.71.06.1004",
+      "name": "Stadion"
+    },
+    {
+      "id": "82.71.06.1005",
+      "name": "Maliaro"
+    },
+    {
+      "id": "82.71.06.1006",
+      "name": "Kampung Pisang"
+    },
+    {
+      "id": "82.71.06.1007",
+      "name": "Marikurubu"
+    },
+    {
+      "id": "82.71.06.1008",
+      "name": "Kota Baru"
+    },
+    {
+      "id": "82.71.06.1009",
+      "name": "Gamalama"
+    },
+    {
+      "id": "82.71.06.1010",
+      "name": "Kalumpang"
+    },
+    {
+      "id": "82.71.06.1011",
+      "name": "Moya"
+    },
+    {
+      "id": "82.71.06.1012",
+      "name": "Santiong"
+    },
+    {
+      "id": "82.71.06.1013",
+      "name": "Makassar Barat (Makasar Barat)"
+    },
+    {
+      "id": "82.71.06.1014",
+      "name": "Makassar Timur (Makasar Timur)"
+    },
+    {
+      "id": "82.71.06.1015",
+      "name": "Salahuddin"
+    },
+    {
+      "id": "82.71.06.1016",
+      "name": "Tongole"
+    },
+    {
+      "id": "82.71.07.1001",
+      "name": "Faudu"
+    },
+    {
+      "id": "82.71.07.1002",
+      "name": "Tomajiko"
+    },
+    {
+      "id": "82.71.07.1003",
+      "name": "Dorari Isa"
+    },
+    {
+      "id": "82.71.07.1004",
+      "name": "Togolobe"
+    },
+    {
+      "id": "82.71.07.1005",
+      "name": "Mado"
+    },
+    {
+      "id": "82.71.07.1006",
+      "name": "Tafraka"
+    },
+    {
+      "id": "82.71.08.1001",
+      "name": "Togafo"
+    },
+    {
+      "id": "82.71.08.1002",
+      "name": "Loto"
+    },
+    {
+      "id": "82.71.08.1003",
+      "name": "Takome"
+    },
+    {
+      "id": "82.71.08.1004",
+      "name": "Sulamadaha"
+    },
+    {
+      "id": "82.71.08.1005",
+      "name": "Tobololo"
+    },
+    {
+      "id": "82.71.08.1006",
+      "name": "Bula"
+    },
+    {
+      "id": "82.71.08.1007",
+      "name": "Kulaba"
+    },
+    {
+      "id": "82.72.01.1001",
+      "name": "Soasio"
+    },
+    {
+      "id": "82.72.01.1002",
+      "name": "Gamtufkange"
+    },
+    {
+      "id": "82.72.01.1003",
+      "name": "Indonesiana"
+    },
+    {
+      "id": "82.72.01.1005",
+      "name": "Seli"
+    },
+    {
+      "id": "82.72.01.1006",
+      "name": "Soadara"
+    },
+    {
+      "id": "82.72.01.1007",
+      "name": "Topo"
+    },
+    {
+      "id": "82.72.01.1008",
+      "name": "Gurabunga"
+    },
+    {
+      "id": "82.72.01.1012",
+      "name": "Goto"
+    },
+    {
+      "id": "82.72.01.1013",
+      "name": "Tomagoba"
+    },
+    {
+      "id": "82.72.01.1014",
+      "name": "Folarora"
+    },
+    {
+      "id": "82.72.01.1015",
+      "name": "Topo Tiga"
+    },
+    {
+      "id": "82.72.01.1016",
+      "name": "Tambula"
+    },
+    {
+      "id": "82.72.01.1017",
+      "name": "Tuguwaji"
+    },
+    {
+      "id": "82.72.02.1002",
+      "name": "Guraping"
+    },
+    {
+      "id": "82.72.02.1003",
+      "name": "Sofifi"
+    },
+    {
+      "id": "82.72.02.2001",
+      "name": "Kaiyasa"
+    },
+    {
+      "id": "82.72.02.2005",
+      "name": "Oba"
+    },
+    {
+      "id": "82.72.02.2006",
+      "name": "Somahode"
+    },
+    {
+      "id": "82.72.02.2007",
+      "name": "Ake Kolano"
+    },
+    {
+      "id": "82.72.02.2009",
+      "name": "Balbar"
+    },
+    {
+      "id": "82.72.02.2010",
+      "name": "Bukit Durian"
+    },
+    {
+      "id": "82.72.02.2011",
+      "name": "Galala"
+    },
+    {
+      "id": "82.72.02.2012",
+      "name": "Ampera"
+    },
+    {
+      "id": "82.72.02.2013",
+      "name": "Kusu"
+    },
+    {
+      "id": "82.72.02.2014",
+      "name": "Garojou"
+    },
+    {
+      "id": "82.72.02.2015",
+      "name": "Gosale"
+    },
+    {
+      "id": "82.72.03.1004",
+      "name": "Payahe"
+    },
+    {
+      "id": "82.72.03.2001",
+      "name": "Woda"
+    },
+    {
+      "id": "82.72.03.2002",
+      "name": "Gita"
+    },
+    {
+      "id": "82.72.03.2003",
+      "name": "Toseho"
+    },
+    {
+      "id": "82.72.03.2005",
+      "name": "Kususinopa"
+    },
+    {
+      "id": "82.72.03.2008",
+      "name": "Bale"
+    },
+    {
+      "id": "82.72.03.2009",
+      "name": "Koli"
+    },
+    {
+      "id": "82.72.03.2010",
+      "name": "Kosa"
+    },
+    {
+      "id": "82.72.03.2011",
+      "name": "Tului"
+    },
+    {
+      "id": "82.72.03.2012",
+      "name": "Todopa"
+    },
+    {
+      "id": "82.72.03.2013",
+      "name": "Talasi"
+    },
+    {
+      "id": "82.72.03.2014",
+      "name": "Sigela Yef"
+    },
+    {
+      "id": "82.72.03.2015",
+      "name": "Talagamori"
+    },
+    {
+      "id": "82.72.04.1001",
+      "name": "Toloa"
+    },
+    {
+      "id": "82.72.04.1002",
+      "name": "Dokiri"
+    },
+    {
+      "id": "82.72.04.1003",
+      "name": "Tuguiha"
+    },
+    {
+      "id": "82.72.04.1004",
+      "name": "Tomalou"
+    },
+    {
+      "id": "82.72.04.1005",
+      "name": "Gurabati"
+    },
+    {
+      "id": "82.72.04.1006",
+      "name": "Tongowai"
+    },
+    {
+      "id": "82.72.04.2007",
+      "name": "Mare Kofo (Marekofo)"
+    },
+    {
+      "id": "82.72.04.2008",
+      "name": "Mare Gam (Maregam)"
+    },
+    {
+      "id": "82.72.05.1001",
+      "name": "Rum"
+    },
+    {
+      "id": "82.72.05.1002",
+      "name": "Fobaharu"
+    },
+    {
+      "id": "82.72.05.1003",
+      "name": "Jaya"
+    },
+    {
+      "id": "82.72.05.1004",
+      "name": "Ome"
+    },
+    {
+      "id": "82.72.05.1005",
+      "name": "Mareku"
+    },
+    {
+      "id": "82.72.05.1006",
+      "name": "Afa Afa"
+    },
+    {
+      "id": "82.72.05.1008",
+      "name": "Bobo (Bobo Menjadi)"
+    },
+    {
+      "id": "82.72.05.1009",
+      "name": "Gubu Kusuma"
+    },
+    {
+      "id": "82.72.05.1010",
+      "name": "Sirongo Folaraha"
+    },
+    {
+      "id": "82.72.05.1011",
+      "name": "Rum Balibunga"
+    },
+    {
+      "id": "82.72.05.2007",
+      "name": "Maitara"
+    },
+    {
+      "id": "82.72.05.2012",
+      "name": "Maitara Selatan"
+    },
+    {
+      "id": "82.72.05.2013",
+      "name": "Maitara Utara"
+    },
+    {
+      "id": "82.72.05.2014",
+      "name": "Maitara Tengah"
+    },
+    {
+      "id": "82.72.06.1001",
+      "name": "Akelamo"
+    },
+    {
+      "id": "82.72.06.2002",
+      "name": "Lola"
+    },
+    {
+      "id": "82.72.06.2003",
+      "name": "Aketobololo"
+    },
+    {
+      "id": "82.72.06.2004",
+      "name": "Aketobatu"
+    },
+    {
+      "id": "82.72.06.2005",
+      "name": "Akedotilou"
+    },
+    {
+      "id": "82.72.06.2006",
+      "name": "Akeguraci"
+    },
+    {
+      "id": "82.72.06.2007",
+      "name": "Akesai"
+    },
+    {
+      "id": "82.72.06.2008",
+      "name": "Togeme"
+    },
+    {
+      "id": "82.72.06.2009",
+      "name": "Tadupi"
+    },
+    {
+      "id": "82.72.06.2010",
+      "name": "Baringin Jaya"
+    },
+    {
+      "id": "82.72.06.2011",
+      "name": "Tauno"
+    },
+    {
+      "id": "82.72.06.2012",
+      "name": "Fanaha"
+    },
+    {
+      "id": "82.72.06.2013",
+      "name": "Yehu"
+    },
+    {
+      "id": "82.72.06.2014",
+      "name": "Siokona"
+    },
+    {
+      "id": "82.72.07.2001",
+      "name": "Maidi"
+    },
+    {
+      "id": "82.72.07.2002",
+      "name": "Lifofa"
+    },
+    {
+      "id": "82.72.07.2003",
+      "name": "Hager"
+    },
+    {
+      "id": "82.72.07.2004",
+      "name": "Wama"
+    },
+    {
+      "id": "82.72.07.2005",
+      "name": "Selamalofo"
+    },
+    {
+      "id": "82.72.07.2006",
+      "name": "Tagalaya"
+    },
+    {
+      "id": "82.72.07.2007",
+      "name": "Nuku"
+    },
+    {
+      "id": "82.72.08.1001",
+      "name": "Mafututu"
+    },
+    {
+      "id": "82.72.08.1002",
+      "name": "Tosa"
+    },
+    {
+      "id": "82.72.08.1003",
+      "name": "Dowora"
+    },
+    {
+      "id": "82.72.08.1004",
+      "name": "Kalaodi"
+    },
+    {
+      "id": "82.72.08.1005",
+      "name": "Cobodoe"
+    },
+    {
+      "id": "82.72.08.1006",
+      "name": "Doyado"
+    },
+    {
+      "id": "82.72.08.1007",
+      "name": "Jiko Cobo"
+    }
+  ]
+}

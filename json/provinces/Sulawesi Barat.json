@@ -1,0 +1,2904 @@
+{
+  "province": {
+    "id": "76",
+    "name": "Sulawesi Barat"
+  },
+  "cities": [
+    {
+      "id": "76.01",
+      "name": "Pasangkayu (Mamuju Utara)"
+    },
+    {
+      "id": "76.02",
+      "name": "Mamuju"
+    },
+    {
+      "id": "76.03",
+      "name": "Mamasa"
+    },
+    {
+      "id": "76.04",
+      "name": "Polewali Mandar"
+    },
+    {
+      "id": "76.05",
+      "name": "Majene"
+    },
+    {
+      "id": "76.06",
+      "name": "Mamuju Tengah"
+    }
+  ],
+  "districts": [
+    {
+      "id": "76.01.01",
+      "name": "Bambalamotu"
+    },
+    {
+      "id": "76.01.02",
+      "name": "Pasangkayu"
+    },
+    {
+      "id": "76.01.03",
+      "name": "Baras"
+    },
+    {
+      "id": "76.01.04",
+      "name": "Sarudu"
+    },
+    {
+      "id": "76.01.05",
+      "name": "Dapurang"
+    },
+    {
+      "id": "76.01.06",
+      "name": "Duripoku"
+    },
+    {
+      "id": "76.01.07",
+      "name": "Bulu Taba"
+    },
+    {
+      "id": "76.01.08",
+      "name": "Tikke Raya"
+    },
+    {
+      "id": "76.01.09",
+      "name": "Pedongga"
+    },
+    {
+      "id": "76.01.10",
+      "name": "Bambaira"
+    },
+    {
+      "id": "76.01.11",
+      "name": "Sarjo"
+    },
+    {
+      "id": "76.01.12",
+      "name": "Lariang"
+    },
+    {
+      "id": "76.02.01",
+      "name": "Mamuju"
+    },
+    {
+      "id": "76.02.02",
+      "name": "Tapalang"
+    },
+    {
+      "id": "76.02.03",
+      "name": "Kalukku"
+    },
+    {
+      "id": "76.02.04",
+      "name": "Kalumpang"
+    },
+    {
+      "id": "76.02.07",
+      "name": "Papalang"
+    },
+    {
+      "id": "76.02.08",
+      "name": "Sampaga"
+    },
+    {
+      "id": "76.02.11",
+      "name": "Tommo"
+    },
+    {
+      "id": "76.02.12",
+      "name": "Simboro (Simboro dan Kepulauan)"
+    },
+    {
+      "id": "76.02.13",
+      "name": "Tapalang Barat"
+    },
+    {
+      "id": "76.02.15",
+      "name": "Bonehau"
+    },
+    {
+      "id": "76.02.16",
+      "name": "Kep. Bala Balakang"
+    },
+    {
+      "id": "76.03.01",
+      "name": "Mambi"
+    },
+    {
+      "id": "76.03.02",
+      "name": "Aralle"
+    },
+    {
+      "id": "76.03.03",
+      "name": "Mamasa"
+    },
+    {
+      "id": "76.03.04",
+      "name": "Pana"
+    },
+    {
+      "id": "76.03.05",
+      "name": "Tabulahan"
+    },
+    {
+      "id": "76.03.06",
+      "name": "Sumarorong"
+    },
+    {
+      "id": "76.03.07",
+      "name": "Messawa"
+    },
+    {
+      "id": "76.03.08",
+      "name": "Sesenapadang"
+    },
+    {
+      "id": "76.03.09",
+      "name": "Tanduk Kalua"
+    },
+    {
+      "id": "76.03.10",
+      "name": "Tabang"
+    },
+    {
+      "id": "76.03.11",
+      "name": "Bambang"
+    },
+    {
+      "id": "76.03.12",
+      "name": "Balla"
+    },
+    {
+      "id": "76.03.13",
+      "name": "Nosu"
+    },
+    {
+      "id": "76.03.14",
+      "name": "Tawalian"
+    },
+    {
+      "id": "76.03.15",
+      "name": "Rantebulahan Timur"
+    },
+    {
+      "id": "76.03.16",
+      "name": "Buntumalangka"
+    },
+    {
+      "id": "76.03.17",
+      "name": "Mehalaan"
+    },
+    {
+      "id": "76.04.01",
+      "name": "Tinambung"
+    },
+    {
+      "id": "76.04.02",
+      "name": "Campalagian"
+    },
+    {
+      "id": "76.04.03",
+      "name": "Wonomulyo"
+    },
+    {
+      "id": "76.04.04",
+      "name": "Polewali"
+    },
+    {
+      "id": "76.04.05",
+      "name": "Tutar (Tubbi Taramanu, Tutallu)"
+    },
+    {
+      "id": "76.04.06",
+      "name": "Binuang"
+    },
+    {
+      "id": "76.04.07",
+      "name": "Tapango"
+    },
+    {
+      "id": "76.04.08",
+      "name": "Mapilli"
+    },
+    {
+      "id": "76.04.09",
+      "name": "Matangnga"
+    },
+    {
+      "id": "76.04.10",
+      "name": "Luyo"
+    },
+    {
+      "id": "76.04.11",
+      "name": "Limboro"
+    },
+    {
+      "id": "76.04.12",
+      "name": "Balanipa"
+    },
+    {
+      "id": "76.04.13",
+      "name": "Anreapi"
+    },
+    {
+      "id": "76.04.14",
+      "name": "Matakali"
+    },
+    {
+      "id": "76.04.15",
+      "name": "Allu (Alu)"
+    },
+    {
+      "id": "76.04.16",
+      "name": "Bulo"
+    },
+    {
+      "id": "76.05.01",
+      "name": "Banggae"
+    },
+    {
+      "id": "76.05.02",
+      "name": "Pamboang"
+    },
+    {
+      "id": "76.05.03",
+      "name": "Sendana"
+    },
+    {
+      "id": "76.05.04",
+      "name": "Malunda"
+    },
+    {
+      "id": "76.05.05",
+      "name": "Ulumanda (Ulumunda)"
+    },
+    {
+      "id": "76.05.06",
+      "name": "Tammerodo Sendana (Tammeredo Sendana)"
+    },
+    {
+      "id": "76.05.07",
+      "name": "Tubo Sendana"
+    },
+    {
+      "id": "76.05.08",
+      "name": "Banggae Timur"
+    },
+    {
+      "id": "76.06.01",
+      "name": "Tobadak"
+    },
+    {
+      "id": "76.06.02",
+      "name": "Pangale"
+    },
+    {
+      "id": "76.06.03",
+      "name": "Budong-Budong"
+    },
+    {
+      "id": "76.06.04",
+      "name": "Topoyo"
+    },
+    {
+      "id": "76.06.05",
+      "name": "Karossa"
+    }
+  ],
+  "villages": [
+    {
+      "id": "76.01.01.1006",
+      "name": "Bambalamotu"
+    },
+    {
+      "id": "76.01.01.2003",
+      "name": "Polewali"
+    },
+    {
+      "id": "76.01.01.2004",
+      "name": "Randomayang"
+    },
+    {
+      "id": "76.01.01.2007",
+      "name": "Pangiang"
+    },
+    {
+      "id": "76.01.01.2008",
+      "name": "Kalola"
+    },
+    {
+      "id": "76.01.01.2009",
+      "name": "Wulai"
+    },
+    {
+      "id": "76.01.02.1001",
+      "name": "Pasangkayu"
+    },
+    {
+      "id": "76.01.02.1002",
+      "name": "Martajaya"
+    },
+    {
+      "id": "76.01.02.2010",
+      "name": "Pakava"
+    },
+    {
+      "id": "76.01.02.2014",
+      "name": "Karya Bersama"
+    },
+    {
+      "id": "76.01.02.2015",
+      "name": "Ako"
+    },
+    {
+      "id": "76.01.02.2016",
+      "name": "Gunung Sari"
+    },
+    {
+      "id": "76.01.03.1001",
+      "name": "Baras"
+    },
+    {
+      "id": "76.01.03.2002",
+      "name": "Balanti"
+    },
+    {
+      "id": "76.01.03.2003",
+      "name": "Motu"
+    },
+    {
+      "id": "76.01.03.2012",
+      "name": "Bulu Parigi"
+    },
+    {
+      "id": "76.01.03.2013",
+      "name": "Towoni (Toroni)"
+    },
+    {
+      "id": "76.01.03.2016",
+      "name": "Kasano"
+    },
+    {
+      "id": "76.01.04.2001",
+      "name": "Sarudu"
+    },
+    {
+      "id": "76.01.04.2003",
+      "name": "Bulu Mario"
+    },
+    {
+      "id": "76.01.04.2005",
+      "name": "Kumasari"
+    },
+    {
+      "id": "76.01.04.2011",
+      "name": "Patika"
+    },
+    {
+      "id": "76.01.04.2012",
+      "name": "Doda"
+    },
+    {
+      "id": "76.01.05.2001",
+      "name": "Dapurang"
+    },
+    {
+      "id": "76.01.05.2002",
+      "name": "Benggaulu"
+    },
+    {
+      "id": "76.01.05.2003",
+      "name": "Tirtabuana (Tirta Buana)"
+    },
+    {
+      "id": "76.01.05.2004",
+      "name": "Bulu Bonggu"
+    },
+    {
+      "id": "76.01.05.2005",
+      "name": "Sarasa (Serasa)"
+    },
+    {
+      "id": "76.01.06.2001",
+      "name": "Tammarunang (Tammarunnang)"
+    },
+    {
+      "id": "76.01.06.2002",
+      "name": "Saptanajaya"
+    },
+    {
+      "id": "76.01.06.2003",
+      "name": "Taranggi"
+    },
+    {
+      "id": "76.01.06.2004",
+      "name": "Sipakainga"
+    },
+    {
+      "id": "76.01.07.2001",
+      "name": "Lilimori (Lelemori)"
+    },
+    {
+      "id": "76.01.07.2002",
+      "name": "Karave (Karabe)"
+    },
+    {
+      "id": "76.01.07.2003",
+      "name": "Bukit Harapan"
+    },
+    {
+      "id": "76.01.07.2004",
+      "name": "Kastabuana (Kasta Buana)"
+    },
+    {
+      "id": "76.01.07.2005",
+      "name": "Sumber Sari (Sumbersari)"
+    },
+    {
+      "id": "76.01.07.2006",
+      "name": "Lelejae"
+    },
+    {
+      "id": "76.01.07.2007",
+      "name": "Ompi"
+    },
+    {
+      "id": "76.01.08.2001",
+      "name": "Tikke"
+    },
+    {
+      "id": "76.01.08.2002",
+      "name": "Makmur Jaya"
+    },
+    {
+      "id": "76.01.08.2003",
+      "name": "Lariang"
+    },
+    {
+      "id": "76.01.08.2004",
+      "name": "Pajalele (Pakawa)"
+    },
+    {
+      "id": "76.01.08.2005",
+      "name": "Jengeng Raya"
+    },
+    {
+      "id": "76.01.09.2001",
+      "name": "Malei (Malei II)"
+    },
+    {
+      "id": "76.01.09.2002",
+      "name": "Pedanda (Pedanda II)"
+    },
+    {
+      "id": "76.01.09.2003",
+      "name": "Batu Oge"
+    },
+    {
+      "id": "76.01.09.2004",
+      "name": "Martasari"
+    },
+    {
+      "id": "76.01.10.2001",
+      "name": "Bambaira"
+    },
+    {
+      "id": "76.01.10.2002",
+      "name": "Kasoloang"
+    },
+    {
+      "id": "76.01.10.2003",
+      "name": "Tampaure"
+    },
+    {
+      "id": "76.01.10.2004",
+      "name": "Kaluku Nangka (Kalukunangka)"
+    },
+    {
+      "id": "76.01.11.2001",
+      "name": "Sarjo"
+    },
+    {
+      "id": "76.01.11.2002",
+      "name": "Maponu"
+    },
+    {
+      "id": "76.01.11.2003",
+      "name": "Letawa"
+    },
+    {
+      "id": "76.01.11.2004",
+      "name": "Sarude"
+    },
+    {
+      "id": "76.01.12.2001",
+      "name": "Parabu"
+    },
+    {
+      "id": "76.01.12.2002",
+      "name": "Kenangan"
+    },
+    {
+      "id": "76.01.12.2003",
+      "name": "Bajawali"
+    },
+    {
+      "id": "76.01.12.2004",
+      "name": "Singgani"
+    },
+    {
+      "id": "76.01.12.2005",
+      "name": "Kulu"
+    },
+    {
+      "id": "76.01.12.2006",
+      "name": "Batu Matoru"
+    },
+    {
+      "id": "76.01.12.2007",
+      "name": "Bambakoro"
+    },
+    {
+      "id": "76.02.01.1002",
+      "name": "Binanga"
+    },
+    {
+      "id": "76.02.01.1003",
+      "name": "Mamunyu"
+    },
+    {
+      "id": "76.02.01.1012",
+      "name": "Karema"
+    },
+    {
+      "id": "76.02.01.1013",
+      "name": "Rimuku"
+    },
+    {
+      "id": "76.02.01.2005",
+      "name": "Bambu"
+    },
+    {
+      "id": "76.02.01.2006",
+      "name": "Karampuang"
+    },
+    {
+      "id": "76.02.01.2010",
+      "name": "Tadui"
+    },
+    {
+      "id": "76.02.01.2014",
+      "name": "Batu Pannu"
+    },
+    {
+      "id": "76.02.02.1001",
+      "name": "Galung"
+    },
+    {
+      "id": "76.02.02.1002",
+      "name": "Kasambang"
+    },
+    {
+      "id": "76.02.02.1014",
+      "name": "Dayanginna"
+    },
+    {
+      "id": "76.02.02.2003",
+      "name": "Orobatu"
+    },
+    {
+      "id": "76.02.02.2006",
+      "name": "Takandeang"
+    },
+    {
+      "id": "76.02.02.2009",
+      "name": "Bela"
+    },
+    {
+      "id": "76.02.02.2010",
+      "name": "Taan (Taang / Ta'an)"
+    },
+    {
+      "id": "76.02.02.2011",
+      "name": "Tampalang"
+    },
+    {
+      "id": "76.02.02.2012",
+      "name": "Rantedoda"
+    },
+    {
+      "id": "76.02.02.2013",
+      "name": "Kopeang"
+    },
+    {
+      "id": "76.02.03.1001",
+      "name": "Sinyonyoi"
+    },
+    {
+      "id": "76.02.03.1002",
+      "name": "Bebanga"
+    },
+    {
+      "id": "76.02.03.1003",
+      "name": "Kalukku"
+    },
+    {
+      "id": "76.02.03.1014",
+      "name": "Sinyonyoi Selatan"
+    },
+    {
+      "id": "76.02.03.2004",
+      "name": "Sondoang"
+    },
+    {
+      "id": "76.02.03.2005",
+      "name": "Beru-Beru"
+    },
+    {
+      "id": "76.02.03.2006",
+      "name": "Belang-Belang"
+    },
+    {
+      "id": "76.02.03.2007",
+      "name": "Kabuloang"
+    },
+    {
+      "id": "76.02.03.2008",
+      "name": "Keang"
+    },
+    {
+      "id": "76.02.03.2009",
+      "name": "Pokkang"
+    },
+    {
+      "id": "76.02.03.2010",
+      "name": "Guliling"
+    },
+    {
+      "id": "76.02.03.2011",
+      "name": "Uhaimate"
+    },
+    {
+      "id": "76.02.03.2012",
+      "name": "Kalukku Barat"
+    },
+    {
+      "id": "76.02.03.2013",
+      "name": "Pammulukang"
+    },
+    {
+      "id": "76.02.04.2001",
+      "name": "Kalumpang"
+    },
+    {
+      "id": "76.02.04.2003",
+      "name": "Karataun"
+    },
+    {
+      "id": "76.02.04.2004",
+      "name": "Karama"
+    },
+    {
+      "id": "76.02.04.2006",
+      "name": "Siraun"
+    },
+    {
+      "id": "76.02.04.2007",
+      "name": "Tumoga (Tumonga)"
+    },
+    {
+      "id": "76.02.04.2010",
+      "name": "Salumakki"
+    },
+    {
+      "id": "76.02.04.2011",
+      "name": "Polio (Ba'san)"
+    },
+    {
+      "id": "76.02.04.2012",
+      "name": "Limbong"
+    },
+    {
+      "id": "76.02.04.2013",
+      "name": "Sandapang"
+    },
+    {
+      "id": "76.02.04.2014",
+      "name": "Kondo Bulo"
+    },
+    {
+      "id": "76.02.04.2015",
+      "name": "Makkaliki"
+    },
+    {
+      "id": "76.02.04.2016",
+      "name": "Batu Makkada"
+    },
+    {
+      "id": "76.02.04.2017",
+      "name": "Lasa' (Lasa)"
+    },
+    {
+      "id": "76.02.07.2001",
+      "name": "Toabo"
+    },
+    {
+      "id": "76.02.07.2002",
+      "name": "Papalang"
+    },
+    {
+      "id": "76.02.07.2003",
+      "name": "Bonda"
+    },
+    {
+      "id": "76.02.07.2004",
+      "name": "Topore (Topare / Tapore)"
+    },
+    {
+      "id": "76.02.07.2005",
+      "name": "Salukayu (Salokayu)"
+    },
+    {
+      "id": "76.02.07.2006",
+      "name": "Sukadamai"
+    },
+    {
+      "id": "76.02.07.2007",
+      "name": "Boda-Boda"
+    },
+    {
+      "id": "76.02.07.2008",
+      "name": "Sisango"
+    },
+    {
+      "id": "76.02.07.2009",
+      "name": "Batu Ampa"
+    },
+    {
+      "id": "76.02.08.2001",
+      "name": "Bunde"
+    },
+    {
+      "id": "76.02.08.2002",
+      "name": "Kalonding"
+    },
+    {
+      "id": "76.02.08.2003",
+      "name": "Tarailu"
+    },
+    {
+      "id": "76.02.08.2004",
+      "name": "Sampaga"
+    },
+    {
+      "id": "76.02.08.2005",
+      "name": "Tanambuah (Tanam Buah / Tanambua)"
+    },
+    {
+      "id": "76.02.08.2006",
+      "name": "Salubarana"
+    },
+    {
+      "id": "76.02.08.2007",
+      "name": "Losso"
+    },
+    {
+      "id": "76.02.11.2001",
+      "name": "Tommo"
+    },
+    {
+      "id": "76.02.11.2002",
+      "name": "Campaloga"
+    },
+    {
+      "id": "76.02.11.2003",
+      "name": "Buana Sakti"
+    },
+    {
+      "id": "76.02.11.2004",
+      "name": "Tamemongga"
+    },
+    {
+      "id": "76.02.11.2005",
+      "name": "Tamejarra (Tammejarra)"
+    },
+    {
+      "id": "76.02.11.2006",
+      "name": "Rantemario (Rante Mario)"
+    },
+    {
+      "id": "76.02.11.2007",
+      "name": "Malino"
+    },
+    {
+      "id": "76.02.11.2008",
+      "name": "Kakullasang (Kakulasang / Kakullasan)"
+    },
+    {
+      "id": "76.02.11.2009",
+      "name": "Leling"
+    },
+    {
+      "id": "76.02.11.2010",
+      "name": "Kalepu"
+    },
+    {
+      "id": "76.02.11.2011",
+      "name": "Sandana"
+    },
+    {
+      "id": "76.02.11.2012",
+      "name": "Leling Barat"
+    },
+    {
+      "id": "76.02.11.2013",
+      "name": "Leling Utara"
+    },
+    {
+      "id": "76.02.11.2014",
+      "name": "Saludengen"
+    },
+    {
+      "id": "76.02.12.1001",
+      "name": "Simboro"
+    },
+    {
+      "id": "76.02.12.1002",
+      "name": "Rangas"
+    },
+    {
+      "id": "76.02.12.2003",
+      "name": "Botteng"
+    },
+    {
+      "id": "76.02.12.2004",
+      "name": "Saletto (Salletto)"
+    },
+    {
+      "id": "76.02.12.2005",
+      "name": "Sumare"
+    },
+    {
+      "id": "76.02.12.2007",
+      "name": "Botteng Utara"
+    },
+    {
+      "id": "76.02.12.2008",
+      "name": "Tapandullu"
+    },
+    {
+      "id": "76.02.12.2009",
+      "name": "Pati'di"
+    },
+    {
+      "id": "76.02.13.2001",
+      "name": "Dungkait"
+    },
+    {
+      "id": "76.02.13.2002",
+      "name": "Lebani"
+    },
+    {
+      "id": "76.02.13.2003",
+      "name": "Labuang Rano"
+    },
+    {
+      "id": "76.02.13.2004",
+      "name": "Pasabu (Pasa Bu)"
+    },
+    {
+      "id": "76.02.13.2005",
+      "name": "Tanete Pao"
+    },
+    {
+      "id": "76.02.13.2006",
+      "name": "Pangasaan"
+    },
+    {
+      "id": "76.02.13.2007",
+      "name": "Ahu"
+    },
+    {
+      "id": "76.02.15.2001",
+      "name": "Bonehau"
+    },
+    {
+      "id": "76.02.15.2002",
+      "name": "Salutiwo"
+    },
+    {
+      "id": "76.02.15.2003",
+      "name": "Buttuada"
+    },
+    {
+      "id": "76.02.15.2004",
+      "name": "Tamalea (Talondo I)"
+    },
+    {
+      "id": "76.02.15.2005",
+      "name": "Lumika"
+    },
+    {
+      "id": "76.02.15.2006",
+      "name": "Mappu"
+    },
+    {
+      "id": "76.02.15.2009",
+      "name": "Banuada"
+    },
+    {
+      "id": "76.02.15.2010",
+      "name": "Hinua"
+    },
+    {
+      "id": "76.02.15.2011",
+      "name": "Kinatang"
+    },
+    {
+      "id": "76.02.16.2001",
+      "name": "Bala Balakang"
+    },
+    {
+      "id": "76.02.16.2002",
+      "name": "Bala Balakang Timur"
+    },
+    {
+      "id": "76.03.01.1001",
+      "name": "Mambi"
+    },
+    {
+      "id": "76.03.01.1002",
+      "name": "Talipukki"
+    },
+    {
+      "id": "76.03.01.2004",
+      "name": "Rantebulahan"
+    },
+    {
+      "id": "76.03.01.2008",
+      "name": "Sondonglayu"
+    },
+    {
+      "id": "76.03.01.2016",
+      "name": "Salubanua"
+    },
+    {
+      "id": "76.03.01.2017",
+      "name": "Tapalina"
+    },
+    {
+      "id": "76.03.01.2019",
+      "name": "Sendana"
+    },
+    {
+      "id": "76.03.01.2024",
+      "name": "Pamosean"
+    },
+    {
+      "id": "76.03.01.2025",
+      "name": "Selumaka"
+    },
+    {
+      "id": "76.03.01.2026",
+      "name": "Bujung Manurung"
+    },
+    {
+      "id": "76.03.01.2027",
+      "name": "Salu Alo"
+    },
+    {
+      "id": "76.03.01.2029",
+      "name": "Indobanua"
+    },
+    {
+      "id": "76.03.01.2030",
+      "name": "Saludurian"
+    },
+    {
+      "id": "76.03.02.1001",
+      "name": "Aralle"
+    },
+    {
+      "id": "76.03.02.2003",
+      "name": "Ralle Anak"
+    },
+    {
+      "id": "76.03.02.2004",
+      "name": "Panetean"
+    },
+    {
+      "id": "76.03.02.2005",
+      "name": "Uhailanu"
+    },
+    {
+      "id": "76.03.02.2007",
+      "name": "Aralle Utara"
+    },
+    {
+      "id": "76.03.02.2009",
+      "name": "Uhaidaho"
+    },
+    {
+      "id": "76.03.02.2010",
+      "name": "Baruru"
+    },
+    {
+      "id": "76.03.02.2015",
+      "name": "Ralleanak Utara"
+    },
+    {
+      "id": "76.03.02.2016",
+      "name": "Pamoseang Pangga"
+    },
+    {
+      "id": "76.03.02.2017",
+      "name": "Kalabe"
+    },
+    {
+      "id": "76.03.02.2018",
+      "name": "Aralle Selatan"
+    },
+    {
+      "id": "76.03.02.2019",
+      "name": "Hahangan"
+    },
+    {
+      "id": "76.03.03.1001",
+      "name": "Mamasa"
+    },
+    {
+      "id": "76.03.03.2002",
+      "name": "Rambusaratu"
+    },
+    {
+      "id": "76.03.03.2003",
+      "name": "Osango"
+    },
+    {
+      "id": "76.03.03.2004",
+      "name": "Lambanan"
+    },
+    {
+      "id": "76.03.03.2005",
+      "name": "Lembana Salulo"
+    },
+    {
+      "id": "76.03.03.2006",
+      "name": "Taupe"
+    },
+    {
+      "id": "76.03.03.2007",
+      "name": "Buntu Buda"
+    },
+    {
+      "id": "76.03.03.2008",
+      "name": "Tondok Bakaru"
+    },
+    {
+      "id": "76.03.03.2009",
+      "name": "Pebassian"
+    },
+    {
+      "id": "76.03.03.2010",
+      "name": "Mambuliling"
+    },
+    {
+      "id": "76.03.03.2011",
+      "name": "Bombong Lambe"
+    },
+    {
+      "id": "76.03.03.2012",
+      "name": "Bubun Batu"
+    },
+    {
+      "id": "76.03.04.1001",
+      "name": "Pana"
+    },
+    {
+      "id": "76.03.04.2003",
+      "name": "Manipi"
+    },
+    {
+      "id": "76.03.04.2005",
+      "name": "Mamullu"
+    },
+    {
+      "id": "76.03.04.2006",
+      "name": "Sapan"
+    },
+    {
+      "id": "76.03.04.2009",
+      "name": "Datubaringan"
+    },
+    {
+      "id": "76.03.04.2010",
+      "name": "Panura"
+    },
+    {
+      "id": "76.03.04.2011",
+      "name": "Tallang Bulawan"
+    },
+    {
+      "id": "76.03.04.2012",
+      "name": "Karaka"
+    },
+    {
+      "id": "76.03.04.2013",
+      "name": "Ulusalu"
+    },
+    {
+      "id": "76.03.04.2014",
+      "name": "Weri"
+    },
+    {
+      "id": "76.03.04.2015",
+      "name": "Salutambun"
+    },
+    {
+      "id": "76.03.04.2016",
+      "name": "Saloan"
+    },
+    {
+      "id": "76.03.04.2017",
+      "name": "Ulusalu Indah"
+    },
+    {
+      "id": "76.03.05.1001",
+      "name": "Lakahang"
+    },
+    {
+      "id": "76.03.05.2002",
+      "name": "Periangan"
+    },
+    {
+      "id": "76.03.05.2003",
+      "name": "Malatiro"
+    },
+    {
+      "id": "76.03.05.2004",
+      "name": "Tabulahan"
+    },
+    {
+      "id": "76.03.05.2005",
+      "name": "Saluleang"
+    },
+    {
+      "id": "76.03.05.2007",
+      "name": "Tampak Kurra"
+    },
+    {
+      "id": "76.03.05.2008",
+      "name": "Gandang Dewata"
+    },
+    {
+      "id": "76.03.05.2009",
+      "name": "Burana"
+    },
+    {
+      "id": "76.03.05.2010",
+      "name": "Salubakka"
+    },
+    {
+      "id": "76.03.05.2011",
+      "name": "Pangandaran"
+    },
+    {
+      "id": "76.03.05.2012",
+      "name": "Talopak"
+    },
+    {
+      "id": "76.03.05.2013",
+      "name": "Peu' (Peu)"
+    },
+    {
+      "id": "76.03.05.2014",
+      "name": "Timoro"
+    },
+    {
+      "id": "76.03.05.2015",
+      "name": "Lakahang Utama"
+    },
+    {
+      "id": "76.03.06.1001",
+      "name": "Sumarorong"
+    },
+    {
+      "id": "76.03.06.1002",
+      "name": "Tabone"
+    },
+    {
+      "id": "76.03.06.2003",
+      "name": "Batang Uru"
+    },
+    {
+      "id": "76.03.06.2004",
+      "name": "Sasakan"
+    },
+    {
+      "id": "76.03.06.2005",
+      "name": "Tadisi"
+    },
+    {
+      "id": "76.03.06.2006",
+      "name": "Sibanawa"
+    },
+    {
+      "id": "76.03.06.2007",
+      "name": "Batangnguru Timur"
+    },
+    {
+      "id": "76.03.06.2008",
+      "name": "Salubalo"
+    },
+    {
+      "id": "76.03.06.2009",
+      "name": "Banea"
+    },
+    {
+      "id": "76.03.06.2010",
+      "name": "Rante Kamase"
+    },
+    {
+      "id": "76.03.07.1001",
+      "name": "Messawa"
+    },
+    {
+      "id": "76.03.07.2002",
+      "name": "Rippung"
+    },
+    {
+      "id": "76.03.07.2003",
+      "name": "Makuang"
+    },
+    {
+      "id": "76.03.07.2004",
+      "name": "Sepang"
+    },
+    {
+      "id": "76.03.07.2005",
+      "name": "Malimbong"
+    },
+    {
+      "id": "76.03.07.2006",
+      "name": "Matande"
+    },
+    {
+      "id": "76.03.07.2007",
+      "name": "Sipai"
+    },
+    {
+      "id": "76.03.07.2008",
+      "name": "Pasma Mambu"
+    },
+    {
+      "id": "76.03.07.2009",
+      "name": "Tanete Batu"
+    },
+    {
+      "id": "76.03.08.2002",
+      "name": "Orobua"
+    },
+    {
+      "id": "76.03.08.2003",
+      "name": "Paladan"
+    },
+    {
+      "id": "76.03.08.2004",
+      "name": "Orobua Timur"
+    },
+    {
+      "id": "76.03.08.2006",
+      "name": "Rante Puang"
+    },
+    {
+      "id": "76.03.08.2007",
+      "name": "Satenetean"
+    },
+    {
+      "id": "76.03.08.2008",
+      "name": "Lisuan Ada"
+    },
+    {
+      "id": "76.03.08.2010",
+      "name": "Orobua Selatan"
+    },
+    {
+      "id": "76.03.08.2012",
+      "name": "Malangkena Padang"
+    },
+    {
+      "id": "76.03.08.2013",
+      "name": "Malimbong"
+    },
+    {
+      "id": "76.03.08.2014",
+      "name": "Marampan Orobua"
+    },
+    {
+      "id": "76.03.09.1011",
+      "name": "Minake"
+    },
+    {
+      "id": "76.03.09.2001",
+      "name": "Malabo"
+    },
+    {
+      "id": "76.03.09.2005",
+      "name": "Sindagamanik"
+    },
+    {
+      "id": "76.03.09.2006",
+      "name": "Parondobulawan"
+    },
+    {
+      "id": "76.03.09.2007",
+      "name": "Tamalantik"
+    },
+    {
+      "id": "76.03.09.2008",
+      "name": "Mannababa"
+    },
+    {
+      "id": "76.03.09.2009",
+      "name": "Mesakada"
+    },
+    {
+      "id": "76.03.09.2010",
+      "name": "Ballabatu"
+    },
+    {
+      "id": "76.03.09.2012",
+      "name": "Pambe"
+    },
+    {
+      "id": "76.03.09.2013",
+      "name": "Salurano"
+    },
+    {
+      "id": "76.03.09.2014",
+      "name": "Talimbung"
+    },
+    {
+      "id": "76.03.09.2015",
+      "name": "Kanan"
+    },
+    {
+      "id": "76.03.10.1001",
+      "name": "Tabang"
+    },
+    {
+      "id": "76.03.10.2003",
+      "name": "Tadokalua"
+    },
+    {
+      "id": "76.03.10.2004",
+      "name": "Tabang Barat"
+    },
+    {
+      "id": "76.03.10.2005",
+      "name": "Masupu"
+    },
+    {
+      "id": "76.03.10.2006",
+      "name": "Kalama"
+    },
+    {
+      "id": "76.03.10.2007",
+      "name": "Bakadisura"
+    },
+    {
+      "id": "76.03.10.2008",
+      "name": "Salukona"
+    },
+    {
+      "id": "76.03.11.2001",
+      "name": "Mokallang"
+    },
+    {
+      "id": "76.03.11.2002",
+      "name": "Masoso"
+    },
+    {
+      "id": "76.03.11.2003",
+      "name": "Saluassing"
+    },
+    {
+      "id": "76.03.11.2004",
+      "name": "Salubulo"
+    },
+    {
+      "id": "76.03.11.2005",
+      "name": "Salukadi"
+    },
+    {
+      "id": "76.03.11.2006",
+      "name": "Salukepopok"
+    },
+    {
+      "id": "76.03.11.2007",
+      "name": "Ulumambi Barat"
+    },
+    {
+      "id": "76.03.11.2008",
+      "name": "Limbadebata"
+    },
+    {
+      "id": "76.03.11.2009",
+      "name": "Tanete Tomba"
+    },
+    {
+      "id": "76.03.11.2010",
+      "name": "Bambang"
+    },
+    {
+      "id": "76.03.11.2011",
+      "name": "Rantelemo"
+    },
+    {
+      "id": "76.03.11.2012",
+      "name": "Saludengen"
+    },
+    {
+      "id": "76.03.11.2013",
+      "name": "Ulumambi"
+    },
+    {
+      "id": "76.03.11.2014",
+      "name": "Bambang Timur"
+    },
+    {
+      "id": "76.03.11.2015",
+      "name": "Minanga"
+    },
+    {
+      "id": "76.03.11.2016",
+      "name": "Sikamase"
+    },
+    {
+      "id": "76.03.11.2017",
+      "name": "Rantetarima"
+    },
+    {
+      "id": "76.03.11.2018",
+      "name": "Salururu"
+    },
+    {
+      "id": "76.03.11.2019",
+      "name": "Salutabang"
+    },
+    {
+      "id": "76.03.11.2020",
+      "name": "Balatana"
+    },
+    {
+      "id": "76.03.12.2001",
+      "name": "Balla"
+    },
+    {
+      "id": "76.03.12.2002",
+      "name": "Balla Barat"
+    },
+    {
+      "id": "76.03.12.2003",
+      "name": "Balla Satanetean"
+    },
+    {
+      "id": "76.03.12.2004",
+      "name": "Balla Tumuka"
+    },
+    {
+      "id": "76.03.12.2005",
+      "name": "Sepakuan"
+    },
+    {
+      "id": "76.03.12.2006",
+      "name": "Pidara"
+    },
+    {
+      "id": "76.03.12.2007",
+      "name": "Bambapuang"
+    },
+    {
+      "id": "76.03.12.2008",
+      "name": "Balla Timur"
+    },
+    {
+      "id": "76.03.13.1001",
+      "name": "Nosu"
+    },
+    {
+      "id": "76.03.13.2002",
+      "name": "Minanga"
+    },
+    {
+      "id": "76.03.13.2003",
+      "name": "Batupapan"
+    },
+    {
+      "id": "76.03.13.2004",
+      "name": "Masewwe"
+    },
+    {
+      "id": "76.03.13.2005",
+      "name": "Siwi"
+    },
+    {
+      "id": "76.03.13.2006",
+      "name": "Minanga Timur"
+    },
+    {
+      "id": "76.03.13.2007",
+      "name": "Parinding"
+    },
+    {
+      "id": "76.03.14.1001",
+      "name": "Tawalian"
+    },
+    {
+      "id": "76.03.14.2002",
+      "name": "Tawalian Timur"
+    },
+    {
+      "id": "76.03.14.2003",
+      "name": "Kariango"
+    },
+    {
+      "id": "76.03.14.2004",
+      "name": "Rantetangnga (Rante Tangnga)"
+    },
+    {
+      "id": "76.03.15.2001",
+      "name": "Salumokanan"
+    },
+    {
+      "id": "76.03.15.2003",
+      "name": "Salumokanan Barat"
+    },
+    {
+      "id": "76.03.15.2004",
+      "name": "Buangin"
+    },
+    {
+      "id": "76.03.15.2005",
+      "name": "Bambang Buda"
+    },
+    {
+      "id": "76.03.15.2006",
+      "name": "Leko"
+    },
+    {
+      "id": "76.03.15.2007",
+      "name": "Kirak"
+    },
+    {
+      "id": "76.03.15.2008",
+      "name": "Salumokanan Utara"
+    },
+    {
+      "id": "76.03.15.2009",
+      "name": "Sampale"
+    },
+    {
+      "id": "76.03.16.2001",
+      "name": "Buntumalangka"
+    },
+    {
+      "id": "76.03.16.2002",
+      "name": "Ranteberan"
+    },
+    {
+      "id": "76.03.16.2003",
+      "name": "Kebanga"
+    },
+    {
+      "id": "76.03.16.2004",
+      "name": "Salurindu"
+    },
+    {
+      "id": "76.03.16.2005",
+      "name": "Taora"
+    },
+    {
+      "id": "76.03.16.2006",
+      "name": "Kabae"
+    },
+    {
+      "id": "76.03.16.2007",
+      "name": "Salutambun Barat"
+    },
+    {
+      "id": "76.03.16.2008",
+      "name": "Penatangan"
+    },
+    {
+      "id": "76.03.16.2009",
+      "name": "Salutambun Timur"
+    },
+    {
+      "id": "76.03.16.2010",
+      "name": "Salutambun"
+    },
+    {
+      "id": "76.03.16.2011",
+      "name": "Aralle Timur"
+    },
+    {
+      "id": "76.03.17.2001",
+      "name": "Mehalaan"
+    },
+    {
+      "id": "76.03.17.2002",
+      "name": "Botteng"
+    },
+    {
+      "id": "76.03.17.2003",
+      "name": "Salukonta"
+    },
+    {
+      "id": "76.03.17.2004",
+      "name": "Mesakada"
+    },
+    {
+      "id": "76.03.17.2005",
+      "name": "Mehalaan Barat"
+    },
+    {
+      "id": "76.03.17.2006",
+      "name": "Saluahok"
+    },
+    {
+      "id": "76.03.17.2007",
+      "name": "Salubalo"
+    },
+    {
+      "id": "76.03.17.2008",
+      "name": "Passembuk"
+    },
+    {
+      "id": "76.03.17.2009",
+      "name": "Kondo"
+    },
+    {
+      "id": "76.03.17.2010",
+      "name": "Leko Sukamaju"
+    },
+    {
+      "id": "76.03.17.2011",
+      "name": "Ulumea"
+    },
+    {
+      "id": "76.04.01.1001",
+      "name": "Tinambung"
+    },
+    {
+      "id": "76.04.01.2002",
+      "name": "Karama"
+    },
+    {
+      "id": "76.04.01.2003",
+      "name": "Tangnga-Tangnga"
+    },
+    {
+      "id": "76.04.01.2004",
+      "name": "Lekopadis"
+    },
+    {
+      "id": "76.04.01.2005",
+      "name": "Galung Lombok"
+    },
+    {
+      "id": "76.04.01.2006",
+      "name": "Tandung"
+    },
+    {
+      "id": "76.04.01.2007",
+      "name": "Batulaya"
+    },
+    {
+      "id": "76.04.01.2008",
+      "name": "Sepabatu (Sepa Batu)"
+    },
+    {
+      "id": "76.04.02.1001",
+      "name": "Pappang"
+    },
+    {
+      "id": "76.04.02.2002",
+      "name": "Laliko"
+    },
+    {
+      "id": "76.04.02.2003",
+      "name": "Bonde"
+    },
+    {
+      "id": "76.04.02.2004",
+      "name": "Katumbangan Lemo"
+    },
+    {
+      "id": "76.04.02.2005",
+      "name": "Panyampa"
+    },
+    {
+      "id": "76.04.02.2006",
+      "name": "Suruang"
+    },
+    {
+      "id": "76.04.02.2007",
+      "name": "Lampoko"
+    },
+    {
+      "id": "76.04.02.2008",
+      "name": "Katumbangan"
+    },
+    {
+      "id": "76.04.02.2009",
+      "name": "Lapeo"
+    },
+    {
+      "id": "76.04.02.2010",
+      "name": "Parappe"
+    },
+    {
+      "id": "76.04.02.2011",
+      "name": "Ongko"
+    },
+    {
+      "id": "76.04.02.2012",
+      "name": "Kenje"
+    },
+    {
+      "id": "76.04.02.2013",
+      "name": "Sumarang (Sumarrang)"
+    },
+    {
+      "id": "76.04.02.2014",
+      "name": "Botto"
+    },
+    {
+      "id": "76.04.02.2015",
+      "name": "Gattungan"
+    },
+    {
+      "id": "76.04.02.2016",
+      "name": "Padang Timur"
+    },
+    {
+      "id": "76.04.02.2017",
+      "name": "Padang"
+    },
+    {
+      "id": "76.04.02.2018",
+      "name": "Lagi-Agi"
+    },
+    {
+      "id": "76.04.03.1001",
+      "name": "Sidodadi"
+    },
+    {
+      "id": "76.04.03.2002",
+      "name": "Sidorejo"
+    },
+    {
+      "id": "76.04.03.2003",
+      "name": "Sumberejo (Sumberjo)"
+    },
+    {
+      "id": "76.04.03.2004",
+      "name": "Bumiayu"
+    },
+    {
+      "id": "76.04.03.2005",
+      "name": "Kebunsari"
+    },
+    {
+      "id": "76.04.03.2006",
+      "name": "Banua Baru"
+    },
+    {
+      "id": "76.04.03.2007",
+      "name": "Nepo"
+    },
+    {
+      "id": "76.04.03.2008",
+      "name": "Sugihwaras (Sugih Waras)"
+    },
+    {
+      "id": "76.04.03.2009",
+      "name": "Campurjo"
+    },
+    {
+      "id": "76.04.03.2010",
+      "name": "Bumimulyo (Bumi Mulyo)"
+    },
+    {
+      "id": "76.04.03.2011",
+      "name": "Tumpiling"
+    },
+    {
+      "id": "76.04.03.2012",
+      "name": "Bakka-Bakka"
+    },
+    {
+      "id": "76.04.03.2013",
+      "name": "Arjo Sari (Arjosari)"
+    },
+    {
+      "id": "76.04.03.2014",
+      "name": "Galeson (Geleso)"
+    },
+    {
+      "id": "76.04.04.1001",
+      "name": "Polewali"
+    },
+    {
+      "id": "76.04.04.1002",
+      "name": "Wattang"
+    },
+    {
+      "id": "76.04.04.1003",
+      "name": "Sulewatang"
+    },
+    {
+      "id": "76.04.04.1004",
+      "name": "Lantora"
+    },
+    {
+      "id": "76.04.04.1005",
+      "name": "Takatidung"
+    },
+    {
+      "id": "76.04.04.1006",
+      "name": "Pekkabata"
+    },
+    {
+      "id": "76.04.04.1007",
+      "name": "Madate (Madatte)"
+    },
+    {
+      "id": "76.04.04.1008",
+      "name": "Manding"
+    },
+    {
+      "id": "76.04.04.1009",
+      "name": "Darma"
+    },
+    {
+      "id": "76.04.05.1001",
+      "name": "Taramanu"
+    },
+    {
+      "id": "76.04.05.2002",
+      "name": "Ambopadang (Ambo Padang)"
+    },
+    {
+      "id": "76.04.05.2003",
+      "name": "Tubbi"
+    },
+    {
+      "id": "76.04.05.2004",
+      "name": "Ratte"
+    },
+    {
+      "id": "76.04.05.2005",
+      "name": "Besoangin"
+    },
+    {
+      "id": "76.04.05.2006",
+      "name": "Piriang Tapiko"
+    },
+    {
+      "id": "76.04.05.2007",
+      "name": "Peburru"
+    },
+    {
+      "id": "76.04.05.2008",
+      "name": "Taloba"
+    },
+    {
+      "id": "76.04.05.2009",
+      "name": "Pollewani"
+    },
+    {
+      "id": "76.04.05.2010",
+      "name": "Arabua"
+    },
+    {
+      "id": "76.04.05.2011",
+      "name": "Besoangin Utara"
+    },
+    {
+      "id": "76.04.05.2012",
+      "name": "Poda"
+    },
+    {
+      "id": "76.04.05.2013",
+      "name": "Taramanu Tua"
+    },
+    {
+      "id": "76.04.06.1005",
+      "name": "Amassangan"
+    },
+    {
+      "id": "76.04.06.2001",
+      "name": "Tonyaman"
+    },
+    {
+      "id": "76.04.06.2002",
+      "name": "Kuajang"
+    },
+    {
+      "id": "76.04.06.2003",
+      "name": "Paku"
+    },
+    {
+      "id": "76.04.06.2004",
+      "name": "Mirring"
+    },
+    {
+      "id": "76.04.06.2006",
+      "name": "Batetangnga"
+    },
+    {
+      "id": "76.04.06.2007",
+      "name": "Mammi"
+    },
+    {
+      "id": "76.04.06.2008",
+      "name": "Kaleok"
+    },
+    {
+      "id": "76.04.06.2009",
+      "name": "Amola"
+    },
+    {
+      "id": "76.04.06.2010",
+      "name": "Rea"
+    },
+    {
+      "id": "76.04.07.1001",
+      "name": "Pelitakan"
+    },
+    {
+      "id": "76.04.07.2002",
+      "name": "Tapango"
+    },
+    {
+      "id": "76.04.07.2003",
+      "name": "Rappang"
+    },
+    {
+      "id": "76.04.07.2004",
+      "name": "Dakka"
+    },
+    {
+      "id": "76.04.07.2005",
+      "name": "Batu"
+    },
+    {
+      "id": "76.04.07.2006",
+      "name": "Riso"
+    },
+    {
+      "id": "76.04.07.2007",
+      "name": "Palatta"
+    },
+    {
+      "id": "76.04.07.2008",
+      "name": "Tapango Barat"
+    },
+    {
+      "id": "76.04.07.2009",
+      "name": "Kurrak"
+    },
+    {
+      "id": "76.04.07.2010",
+      "name": "Bussu"
+    },
+    {
+      "id": "76.04.07.2011",
+      "name": "Tuttula"
+    },
+    {
+      "id": "76.04.07.2012",
+      "name": "Jambu Malea"
+    },
+    {
+      "id": "76.04.07.2013",
+      "name": "Kalimbua"
+    },
+    {
+      "id": "76.04.07.2014",
+      "name": "Banato Rejo"
+    },
+    {
+      "id": "76.04.08.1001",
+      "name": "Mapili (Mapilli)"
+    },
+    {
+      "id": "76.04.08.2002",
+      "name": "Ugibaru (Ugi Baru)"
+    },
+    {
+      "id": "76.04.08.2003",
+      "name": "Rumpa"
+    },
+    {
+      "id": "76.04.08.2005",
+      "name": "Kurma"
+    },
+    {
+      "id": "76.04.08.2007",
+      "name": "Buku"
+    },
+    {
+      "id": "76.04.08.2009",
+      "name": "Bonne-Bonne"
+    },
+    {
+      "id": "76.04.08.2011",
+      "name": "Beroangin"
+    },
+    {
+      "id": "76.04.08.2015",
+      "name": "Segerang"
+    },
+    {
+      "id": "76.04.08.2016",
+      "name": "Bonra"
+    },
+    {
+      "id": "76.04.08.2017",
+      "name": "Sattoko"
+    },
+    {
+      "id": "76.04.08.2018",
+      "name": "Rappang Barat"
+    },
+    {
+      "id": "76.04.08.2019",
+      "name": "Landi Kanusuang"
+    },
+    {
+      "id": "76.04.09.1001",
+      "name": "Matangnga"
+    },
+    {
+      "id": "76.04.09.2002",
+      "name": "Lilli"
+    },
+    {
+      "id": "76.04.09.2003",
+      "name": "Rangoan"
+    },
+    {
+      "id": "76.04.09.2004",
+      "name": "Tapua"
+    },
+    {
+      "id": "76.04.09.2005",
+      "name": "Mambu Tapua"
+    },
+    {
+      "id": "76.04.09.2006",
+      "name": "Ba'ba Tapua"
+    },
+    {
+      "id": "76.04.09.2007",
+      "name": "Katimbang"
+    },
+    {
+      "id": "76.04.10.1004",
+      "name": "Batupanga (Batu Panga)"
+    },
+    {
+      "id": "76.04.10.2001",
+      "name": "Mambu"
+    },
+    {
+      "id": "76.04.10.2002",
+      "name": "Tenggelang (Tenggelan)"
+    },
+    {
+      "id": "76.04.10.2003",
+      "name": "Baru"
+    },
+    {
+      "id": "76.04.10.2005",
+      "name": "Pussui"
+    },
+    {
+      "id": "76.04.10.2006",
+      "name": "Mapili Barat (Mapilli Barat)"
+    },
+    {
+      "id": "76.04.10.2007",
+      "name": "Sambali Wali"
+    },
+    {
+      "id": "76.04.10.2008",
+      "name": "Batupanga Daala"
+    },
+    {
+      "id": "76.04.10.2009",
+      "name": "Luyo (Lujo)"
+    },
+    {
+      "id": "76.04.10.2010",
+      "name": "Pussui Barat"
+    },
+    {
+      "id": "76.04.10.2011",
+      "name": "Puccadi"
+    },
+    {
+      "id": "76.04.11.1001",
+      "name": "Limboro"
+    },
+    {
+      "id": "76.04.11.2002",
+      "name": "Lembang Lembang"
+    },
+    {
+      "id": "76.04.11.2003",
+      "name": "Tandasura (Tandassura)"
+    },
+    {
+      "id": "76.04.11.2004",
+      "name": "Samasundu"
+    },
+    {
+      "id": "76.04.11.2005",
+      "name": "Napo"
+    },
+    {
+      "id": "76.04.11.2006",
+      "name": "Todang Todang"
+    },
+    {
+      "id": "76.04.11.2007",
+      "name": "Pendulangan (Pandulangan)"
+    },
+    {
+      "id": "76.04.11.2008",
+      "name": "Renggeang"
+    },
+    {
+      "id": "76.04.11.2009",
+      "name": "Salarri"
+    },
+    {
+      "id": "76.04.11.2010",
+      "name": "Tangan Baru"
+    },
+    {
+      "id": "76.04.11.2011",
+      "name": "Palece"
+    },
+    {
+      "id": "76.04.12.1002",
+      "name": "Balanipa"
+    },
+    {
+      "id": "76.04.12.2001",
+      "name": "Tammejarra (Tammajarra)"
+    },
+    {
+      "id": "76.04.12.2003",
+      "name": "Tamanggalle (Tammangalle)"
+    },
+    {
+      "id": "76.04.12.2004",
+      "name": "Mosso"
+    },
+    {
+      "id": "76.04.12.2005",
+      "name": "Galung Tuluk (Galung Tulu)"
+    },
+    {
+      "id": "76.04.12.2006",
+      "name": "Sabang Subik"
+    },
+    {
+      "id": "76.04.12.2007",
+      "name": "Pambusuang"
+    },
+    {
+      "id": "76.04.12.2008",
+      "name": "Bala"
+    },
+    {
+      "id": "76.04.12.2009",
+      "name": "Lambanan"
+    },
+    {
+      "id": "76.04.12.2010",
+      "name": "Lego"
+    },
+    {
+      "id": "76.04.12.2011",
+      "name": "Pallis"
+    },
+    {
+      "id": "76.04.13.1001",
+      "name": "Anreapi"
+    },
+    {
+      "id": "76.04.13.2002",
+      "name": "Duampanua"
+    },
+    {
+      "id": "76.04.13.2003",
+      "name": "Kelapa Dua"
+    },
+    {
+      "id": "76.04.13.2004",
+      "name": "Papandangan (Pappandangan)"
+    },
+    {
+      "id": "76.04.13.2005",
+      "name": "Kunyi"
+    },
+    {
+      "id": "76.04.14.1001",
+      "name": "Matakali"
+    },
+    {
+      "id": "76.04.14.2002",
+      "name": "Petampanua (Patampanua)"
+    },
+    {
+      "id": "76.04.14.2003",
+      "name": "Barumbung"
+    },
+    {
+      "id": "76.04.14.2004",
+      "name": "Pasiang"
+    },
+    {
+      "id": "76.04.14.2005",
+      "name": "Tonrolima (Tonro Lima)"
+    },
+    {
+      "id": "76.04.14.2006",
+      "name": "Indomakkombong (Indo Makkombong / Indomakkondang)"
+    },
+    {
+      "id": "76.04.14.2007",
+      "name": "Bunga-Bunga"
+    },
+    {
+      "id": "76.04.15.1009",
+      "name": "Petoosang"
+    },
+    {
+      "id": "76.04.15.2002",
+      "name": "Mombi"
+    },
+    {
+      "id": "76.04.15.2003",
+      "name": "Kalumammang"
+    },
+    {
+      "id": "76.04.15.2004",
+      "name": "Pao Pao"
+    },
+    {
+      "id": "76.04.15.2005",
+      "name": "Puppu Uring (Pupu Uring / Puppuring)"
+    },
+    {
+      "id": "76.04.15.2006",
+      "name": "Saragian"
+    },
+    {
+      "id": "76.04.15.2007",
+      "name": "Sayoang"
+    },
+    {
+      "id": "76.04.15.2008",
+      "name": "Alu (Allu)"
+    },
+    {
+      "id": "76.04.16.2001",
+      "name": "Bulo"
+    },
+    {
+      "id": "76.04.16.2002",
+      "name": "Pulliwa"
+    },
+    {
+      "id": "76.04.16.2003",
+      "name": "Tapambanua (Patambanua)"
+    },
+    {
+      "id": "76.04.16.2004",
+      "name": "Karombang"
+    },
+    {
+      "id": "76.04.16.2005",
+      "name": "Daala Timur"
+    },
+    {
+      "id": "76.04.16.2006",
+      "name": "Lenggo"
+    },
+    {
+      "id": "76.04.16.2007",
+      "name": "Sabura"
+    },
+    {
+      "id": "76.04.16.2008",
+      "name": "Sepporraki"
+    },
+    {
+      "id": "76.04.16.2009",
+      "name": "Ihing"
+    },
+    {
+      "id": "76.05.01.1001",
+      "name": "Banggae"
+    },
+    {
+      "id": "76.05.01.1003",
+      "name": "Baru"
+    },
+    {
+      "id": "76.05.01.1007",
+      "name": "Pangali-Ali"
+    },
+    {
+      "id": "76.05.01.1009",
+      "name": "Totoli"
+    },
+    {
+      "id": "76.05.01.1010",
+      "name": "Rangas"
+    },
+    {
+      "id": "76.05.01.1013",
+      "name": "Galung"
+    },
+    {
+      "id": "76.05.01.2011",
+      "name": "Palipi Soreang"
+    },
+    {
+      "id": "76.05.01.2012",
+      "name": "Pamboborang"
+    },
+    {
+      "id": "76.05.02.1001",
+      "name": "Lalampanua"
+    },
+    {
+      "id": "76.05.02.1002",
+      "name": "Sirindu"
+    },
+    {
+      "id": "76.05.02.2003",
+      "name": "Adolang"
+    },
+    {
+      "id": "76.05.02.2004",
+      "name": "Bababulo"
+    },
+    {
+      "id": "76.05.02.2005",
+      "name": "Bonde"
+    },
+    {
+      "id": "76.05.02.2006",
+      "name": "Betteng"
+    },
+    {
+      "id": "76.05.02.2007",
+      "name": "Simbang"
+    },
+    {
+      "id": "76.05.02.2008",
+      "name": "Bonde Utara"
+    },
+    {
+      "id": "76.05.02.2009",
+      "name": "Bababulo Utara"
+    },
+    {
+      "id": "76.05.02.2010",
+      "name": "Buttu Pamboang"
+    },
+    {
+      "id": "76.05.02.2011",
+      "name": "Banua Adolang"
+    },
+    {
+      "id": "76.05.02.2012",
+      "name": "Adolang Dhua"
+    },
+    {
+      "id": "76.05.02.2013",
+      "name": "Tinambung"
+    },
+    {
+      "id": "76.05.02.2014",
+      "name": "Pesuloang"
+    },
+    {
+      "id": "76.05.02.2015",
+      "name": "Balombong"
+    },
+    {
+      "id": "76.05.03.1001",
+      "name": "Mosso"
+    },
+    {
+      "id": "76.05.03.1002",
+      "name": "Mosso Dhua"
+    },
+    {
+      "id": "76.05.03.2004",
+      "name": "Totolisi Sendana"
+    },
+    {
+      "id": "76.05.03.2007",
+      "name": "Tallubanua"
+    },
+    {
+      "id": "76.05.03.2015",
+      "name": "Lalatedzong"
+    },
+    {
+      "id": "76.05.03.2016",
+      "name": "Binanga"
+    },
+    {
+      "id": "76.05.03.2017",
+      "name": "Puttada"
+    },
+    {
+      "id": "76.05.03.2018",
+      "name": "Paminggalan"
+    },
+    {
+      "id": "76.05.03.2019",
+      "name": "Leppangang"
+    },
+    {
+      "id": "76.05.03.2020",
+      "name": "Pundau"
+    },
+    {
+      "id": "76.05.03.2021",
+      "name": "Sendana"
+    },
+    {
+      "id": "76.05.03.2022",
+      "name": "Banua Sendana"
+    },
+    {
+      "id": "76.05.03.2023",
+      "name": "Tallubanua Utara"
+    },
+    {
+      "id": "76.05.03.2024",
+      "name": "Limboro Rambu-Rambu"
+    },
+    {
+      "id": "76.05.03.2025",
+      "name": "Limbua"
+    },
+    {
+      "id": "76.05.03.2026",
+      "name": "Bukit Samang"
+    },
+    {
+      "id": "76.05.04.1001",
+      "name": "Malunda"
+    },
+    {
+      "id": "76.05.04.1015",
+      "name": "Lamungang Batu"
+    },
+    {
+      "id": "76.05.04.2002",
+      "name": "Bambangan"
+    },
+    {
+      "id": "76.05.04.2004",
+      "name": "Lombang"
+    },
+    {
+      "id": "76.05.04.2005",
+      "name": "Lombong"
+    },
+    {
+      "id": "76.05.04.2006",
+      "name": "Mekkatta"
+    },
+    {
+      "id": "76.05.04.2010",
+      "name": "Maliaya"
+    },
+    {
+      "id": "76.05.04.2011",
+      "name": "Lombang Timur"
+    },
+    {
+      "id": "76.05.04.2012",
+      "name": "Salutahongan"
+    },
+    {
+      "id": "76.05.04.2013",
+      "name": "Lombong Timur"
+    },
+    {
+      "id": "76.05.04.2014",
+      "name": "Mekkatta Selatan"
+    },
+    {
+      "id": "76.05.04.2016",
+      "name": "Kayuangin"
+    },
+    {
+      "id": "76.05.05.2001",
+      "name": "Kabiraan"
+    },
+    {
+      "id": "76.05.05.2002",
+      "name": "Sambabo"
+    },
+    {
+      "id": "76.05.05.2003",
+      "name": "Tandeallo"
+    },
+    {
+      "id": "76.05.05.2004",
+      "name": "Ulumanda"
+    },
+    {
+      "id": "76.05.05.2005",
+      "name": "Salutambung"
+    },
+    {
+      "id": "76.05.05.2006",
+      "name": "Popenga"
+    },
+    {
+      "id": "76.05.05.2007",
+      "name": "Sulai"
+    },
+    {
+      "id": "76.05.05.2008",
+      "name": "Panggalo"
+    },
+    {
+      "id": "76.05.06.2001",
+      "name": "Seppong"
+    },
+    {
+      "id": "76.05.06.2002",
+      "name": "Tammerodo"
+    },
+    {
+      "id": "76.05.06.2003",
+      "name": "Ulidang"
+    },
+    {
+      "id": "76.05.06.2004",
+      "name": "Tallambalao"
+    },
+    {
+      "id": "76.05.06.2005",
+      "name": "Tammerodo Utara"
+    },
+    {
+      "id": "76.05.06.2006",
+      "name": "Manyamba"
+    },
+    {
+      "id": "76.05.06.2007",
+      "name": "Awo"
+    },
+    {
+      "id": "76.05.07.2001",
+      "name": "Onang (Onang Selatan)"
+    },
+    {
+      "id": "76.05.07.2002",
+      "name": "Tubo"
+    },
+    {
+      "id": "76.05.07.2003",
+      "name": "Onang Utara"
+    },
+    {
+      "id": "76.05.07.2004",
+      "name": "Tubo Selatan"
+    },
+    {
+      "id": "76.05.07.2005",
+      "name": "Bonde Bonde"
+    },
+    {
+      "id": "76.05.07.2006",
+      "name": "Tubo Tengah"
+    },
+    {
+      "id": "76.05.07.2007",
+      "name": "Tubo Poang"
+    },
+    {
+      "id": "76.05.08.1001",
+      "name": "Baurung"
+    },
+    {
+      "id": "76.05.08.1002",
+      "name": "Baruga"
+    },
+    {
+      "id": "76.05.08.1003",
+      "name": "Baruga Dhua (Baruga Dua)"
+    },
+    {
+      "id": "76.05.08.1004",
+      "name": "Labuang"
+    },
+    {
+      "id": "76.05.08.1005",
+      "name": "Tande"
+    },
+    {
+      "id": "76.05.08.1006",
+      "name": "Lembang"
+    },
+    {
+      "id": "76.05.08.1007",
+      "name": "Labuang Utara"
+    },
+    {
+      "id": "76.05.08.1008",
+      "name": "Tande Timur"
+    },
+    {
+      "id": "76.05.08.2009",
+      "name": "Buttu Baruga"
+    },
+    {
+      "id": "76.06.01.2001",
+      "name": "Mahahe"
+    },
+    {
+      "id": "76.06.01.2002",
+      "name": "Salobaja (Sulobaja)"
+    },
+    {
+      "id": "76.06.01.2003",
+      "name": "Tobadak"
+    },
+    {
+      "id": "76.06.01.2004",
+      "name": "Palongaan (Polongaan)"
+    },
+    {
+      "id": "76.06.01.2005",
+      "name": "Batu Parigi"
+    },
+    {
+      "id": "76.06.01.2006",
+      "name": "Bambadaru"
+    },
+    {
+      "id": "76.06.01.2007",
+      "name": "Sejati"
+    },
+    {
+      "id": "76.06.01.2008",
+      "name": "Saloadak"
+    },
+    {
+      "id": "76.06.02.2001",
+      "name": "Polo Pangale"
+    },
+    {
+      "id": "76.06.02.2002",
+      "name": "Pangale"
+    },
+    {
+      "id": "76.06.02.2003",
+      "name": "Sartanamaju (Sartana Maju)"
+    },
+    {
+      "id": "76.06.02.2004",
+      "name": "Polo Lereng"
+    },
+    {
+      "id": "76.06.02.2005",
+      "name": "Kuo"
+    },
+    {
+      "id": "76.06.02.2006",
+      "name": "Polo Camba"
+    },
+    {
+      "id": "76.06.02.2007",
+      "name": "Lamba Lamba"
+    },
+    {
+      "id": "76.06.02.2008",
+      "name": "Kombiling"
+    },
+    {
+      "id": "76.06.02.2009",
+      "name": "Lemo-Lemo"
+    },
+    {
+      "id": "76.06.03.2001",
+      "name": "Babana"
+    },
+    {
+      "id": "76.06.03.2002",
+      "name": "Lumu"
+    },
+    {
+      "id": "76.06.03.2003",
+      "name": "Pontanakayang"
+    },
+    {
+      "id": "76.06.03.2004",
+      "name": "Salogatta (Salugatta)"
+    },
+    {
+      "id": "76.06.03.2005",
+      "name": "Kire"
+    },
+    {
+      "id": "76.06.03.2006",
+      "name": "Tinali"
+    },
+    {
+      "id": "76.06.03.2007",
+      "name": "Salumanurung"
+    },
+    {
+      "id": "76.06.03.2008",
+      "name": "Pasapa"
+    },
+    {
+      "id": "76.06.03.2009",
+      "name": "Bojo"
+    },
+    {
+      "id": "76.06.03.2010",
+      "name": "Barakkang"
+    },
+    {
+      "id": "76.06.03.2011",
+      "name": "Lembah Hada"
+    },
+    {
+      "id": "76.06.04.2001",
+      "name": "Budong-Budong"
+    },
+    {
+      "id": "76.06.04.2002",
+      "name": "Topoyo"
+    },
+    {
+      "id": "76.06.04.2003",
+      "name": "Tumbu"
+    },
+    {
+      "id": "76.06.04.2004",
+      "name": "Kabubu"
+    },
+    {
+      "id": "76.06.04.2005",
+      "name": "Waeputeh (Wae Puteh)"
+    },
+    {
+      "id": "76.06.04.2006",
+      "name": "Tangkou (Tangkau)"
+    },
+    {
+      "id": "76.06.04.2007",
+      "name": "Tabolang"
+    },
+    {
+      "id": "76.06.04.2008",
+      "name": "Paraili"
+    },
+    {
+      "id": "76.06.04.2009",
+      "name": "Salupangkang"
+    },
+    {
+      "id": "76.06.04.2010",
+      "name": "Salupangkang IV"
+    },
+    {
+      "id": "76.06.04.2011",
+      "name": "Tappilina"
+    },
+    {
+      "id": "76.06.04.2012",
+      "name": "Bambamanurung"
+    },
+    {
+      "id": "76.06.04.2013",
+      "name": "Salulekbo (Salulebo)"
+    },
+    {
+      "id": "76.06.04.2014",
+      "name": "Pangalloang"
+    },
+    {
+      "id": "76.06.04.2015",
+      "name": "Sinabatta"
+    },
+    {
+      "id": "76.06.05.2001",
+      "name": "Karossa"
+    },
+    {
+      "id": "76.06.05.2002",
+      "name": "Tasokko"
+    },
+    {
+      "id": "76.06.05.2003",
+      "name": "Lara"
+    },
+    {
+      "id": "76.06.05.2004",
+      "name": "Kadaila"
+    },
+    {
+      "id": "76.06.05.2005",
+      "name": "Kayu Calla"
+    },
+    {
+      "id": "76.06.05.2006",
+      "name": "Lembah Hopo"
+    },
+    {
+      "id": "76.06.05.2007",
+      "name": "Benggaulu"
+    },
+    {
+      "id": "76.06.05.2008",
+      "name": "Suka Maju"
+    },
+    {
+      "id": "76.06.05.2009",
+      "name": "Kambunong"
+    },
+    {
+      "id": "76.06.05.2010",
+      "name": "Salubiro"
+    },
+    {
+      "id": "76.06.05.2011",
+      "name": "Sanjango"
+    }
+  ]
+}

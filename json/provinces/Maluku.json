@@ -1,0 +1,5468 @@
+{
+  "province": {
+    "id": "81",
+    "name": "Maluku"
+  },
+  "cities": [
+    {
+      "id": "81.01",
+      "name": "Maluku Tengah"
+    },
+    {
+      "id": "81.02",
+      "name": "Maluku Tenggara"
+    },
+    {
+      "id": "81.03",
+      "name": "Kepulauan Tanimbar (Maluku Tenggara Barat)"
+    },
+    {
+      "id": "81.04",
+      "name": "Buru"
+    },
+    {
+      "id": "81.05",
+      "name": "Seram Bagian Timur"
+    },
+    {
+      "id": "81.06",
+      "name": "Seram Bagian Barat"
+    },
+    {
+      "id": "81.07",
+      "name": "Kepulauan Aru"
+    },
+    {
+      "id": "81.08",
+      "name": "Maluku Barat Daya"
+    },
+    {
+      "id": "81.09",
+      "name": "Buru Selatan"
+    },
+    {
+      "id": "81.71",
+      "name": "Kota Ambon"
+    },
+    {
+      "id": "81.72",
+      "name": "Kota Tual"
+    }
+  ],
+  "districts": [
+    {
+      "id": "81.01.01",
+      "name": "Amahai"
+    },
+    {
+      "id": "81.01.02",
+      "name": "Teon Nila Serua"
+    },
+    {
+      "id": "81.01.06",
+      "name": "Seram Utara"
+    },
+    {
+      "id": "81.01.09",
+      "name": "Banda"
+    },
+    {
+      "id": "81.01.11",
+      "name": "Tehoru"
+    },
+    {
+      "id": "81.01.12",
+      "name": "Saparua"
+    },
+    {
+      "id": "81.01.13",
+      "name": "Pulau Haruku"
+    },
+    {
+      "id": "81.01.14",
+      "name": "Salahutu"
+    },
+    {
+      "id": "81.01.15",
+      "name": "Leihitu"
+    },
+    {
+      "id": "81.01.16",
+      "name": "Nusa Laut"
+    },
+    {
+      "id": "81.01.17",
+      "name": "Kota Masohi"
+    },
+    {
+      "id": "81.01.20",
+      "name": "Seram Utara Barat"
+    },
+    {
+      "id": "81.01.21",
+      "name": "Teluk Elpaputih"
+    },
+    {
+      "id": "81.01.22",
+      "name": "Leihitu Barat"
+    },
+    {
+      "id": "81.01.23",
+      "name": "Telutih"
+    },
+    {
+      "id": "81.01.24",
+      "name": "Seram Utara Timur Seti"
+    },
+    {
+      "id": "81.01.25",
+      "name": "Seram Utara Timur Kobi"
+    },
+    {
+      "id": "81.01.26",
+      "name": "Saparua Timur"
+    },
+    {
+      "id": "81.02.01",
+      "name": "Kei Kecil"
+    },
+    {
+      "id": "81.02.03",
+      "name": "Kei Besar"
+    },
+    {
+      "id": "81.02.04",
+      "name": "Kei Besar Selatan"
+    },
+    {
+      "id": "81.02.05",
+      "name": "Kei Besar Utara Timur"
+    },
+    {
+      "id": "81.02.13",
+      "name": "Kei Kecil Timur"
+    },
+    {
+      "id": "81.02.14",
+      "name": "Kei Kecil Barat"
+    },
+    {
+      "id": "81.02.15",
+      "name": "Manyeuw"
+    },
+    {
+      "id": "81.02.16",
+      "name": "Hoat Sorbay"
+    },
+    {
+      "id": "81.02.17",
+      "name": "Kei Besar Utara Barat"
+    },
+    {
+      "id": "81.02.18",
+      "name": "Kei Besar Selatan Barat"
+    },
+    {
+      "id": "81.02.19",
+      "name": "Kei Kecil Timur Selatan"
+    },
+    {
+      "id": "81.03.01",
+      "name": "Tanimbar Selatan"
+    },
+    {
+      "id": "81.03.02",
+      "name": "Selaru"
+    },
+    {
+      "id": "81.03.03",
+      "name": "Wertamrian (Wer Tamrian)"
+    },
+    {
+      "id": "81.03.04",
+      "name": "Wermaktian (Wer Maktian)"
+    },
+    {
+      "id": "81.03.05",
+      "name": "Tanimbar Utara"
+    },
+    {
+      "id": "81.03.06",
+      "name": "Fordata (Yaru)"
+    },
+    {
+      "id": "81.03.07",
+      "name": "Wuar Labobar"
+    },
+    {
+      "id": "81.03.08",
+      "name": "Kormomolin"
+    },
+    {
+      "id": "81.03.09",
+      "name": "Nirunmas"
+    },
+    {
+      "id": "81.03.18",
+      "name": "Molu Maru"
+    },
+    {
+      "id": "81.04.01",
+      "name": "Namlea"
+    },
+    {
+      "id": "81.04.02",
+      "name": "Air Buaya (Airbuaya)"
+    },
+    {
+      "id": "81.04.03",
+      "name": "Waeapo"
+    },
+    {
+      "id": "81.04.06",
+      "name": "Waplau"
+    },
+    {
+      "id": "81.04.10",
+      "name": "Batabual"
+    },
+    {
+      "id": "81.04.11",
+      "name": "Lolong Guba"
+    },
+    {
+      "id": "81.04.12",
+      "name": "Waelata"
+    },
+    {
+      "id": "81.04.13",
+      "name": "Fena Leisela"
+    },
+    {
+      "id": "81.04.14",
+      "name": "Teluk Kaiely"
+    },
+    {
+      "id": "81.04.15",
+      "name": "Lilialy"
+    },
+    {
+      "id": "81.05.01",
+      "name": "Bula"
+    },
+    {
+      "id": "81.05.02",
+      "name": "Seram Timur"
+    },
+    {
+      "id": "81.05.03",
+      "name": "Werinama"
+    },
+    {
+      "id": "81.05.04",
+      "name": "Pulau Gorom"
+    },
+    {
+      "id": "81.05.05",
+      "name": "Wakate"
+    },
+    {
+      "id": "81.05.06",
+      "name": "Tutuk Tolu"
+    },
+    {
+      "id": "81.05.07",
+      "name": "Siwalalat"
+    },
+    {
+      "id": "81.05.08",
+      "name": "Kilmury"
+    },
+    {
+      "id": "81.05.09",
+      "name": "Pulau Panjang"
+    },
+    {
+      "id": "81.05.10",
+      "name": "Teor"
+    },
+    {
+      "id": "81.05.11",
+      "name": "Gorom Timur"
+    },
+    {
+      "id": "81.05.12",
+      "name": "Bula Barat"
+    },
+    {
+      "id": "81.05.13",
+      "name": "Kian Darat"
+    },
+    {
+      "id": "81.05.14",
+      "name": "Siritaun Wida Timur"
+    },
+    {
+      "id": "81.05.15",
+      "name": "Teluk Waru"
+    },
+    {
+      "id": "81.06.01",
+      "name": "Kairatu"
+    },
+    {
+      "id": "81.06.02",
+      "name": "Seram Barat"
+    },
+    {
+      "id": "81.06.03",
+      "name": "Taniwel"
+    },
+    {
+      "id": "81.06.04",
+      "name": "Huamual Belakang"
+    },
+    {
+      "id": "81.06.05",
+      "name": "Amalatu"
+    },
+    {
+      "id": "81.06.06",
+      "name": "Inamosol"
+    },
+    {
+      "id": "81.06.07",
+      "name": "Kairatu Barat"
+    },
+    {
+      "id": "81.06.08",
+      "name": "Huamual"
+    },
+    {
+      "id": "81.06.09",
+      "name": "Kepulauan Manipa"
+    },
+    {
+      "id": "81.06.10",
+      "name": "Taniwel Timur"
+    },
+    {
+      "id": "81.06.11",
+      "name": "Elpaputih"
+    },
+    {
+      "id": "81.07.01",
+      "name": "Pulau-Pulau Aru"
+    },
+    {
+      "id": "81.07.02",
+      "name": "Aru Selatan"
+    },
+    {
+      "id": "81.07.03",
+      "name": "Aru Tengah"
+    },
+    {
+      "id": "81.07.04",
+      "name": "Aru Utara"
+    },
+    {
+      "id": "81.07.05",
+      "name": "Aru Utara Timur Batuley"
+    },
+    {
+      "id": "81.07.06",
+      "name": "Sir-Sir"
+    },
+    {
+      "id": "81.07.07",
+      "name": "Aru Tengah Timur"
+    },
+    {
+      "id": "81.07.08",
+      "name": "Aru Tengah Selatan"
+    },
+    {
+      "id": "81.07.09",
+      "name": "Aru Selatan Timur"
+    },
+    {
+      "id": "81.07.10",
+      "name": "Aru Selatan Utara"
+    },
+    {
+      "id": "81.08.01",
+      "name": "Moa (Moa Lakor)"
+    },
+    {
+      "id": "81.08.02",
+      "name": "Damer"
+    },
+    {
+      "id": "81.08.03",
+      "name": "Mdona Hyera (Mndona Hiera)"
+    },
+    {
+      "id": "81.08.04",
+      "name": "Babar Barat (Pulau Pulau Babar)"
+    },
+    {
+      "id": "81.08.05",
+      "name": "Pulau-pulau Babar Timur"
+    },
+    {
+      "id": "81.08.06",
+      "name": "Wetar Selatan"
+    },
+    {
+      "id": "81.08.07",
+      "name": "Kisar Selatan (Pulau Pulau Terselatan)"
+    },
+    {
+      "id": "81.08.08",
+      "name": "Pulau Leti (Letti Moa Lakor)"
+    },
+    {
+      "id": "81.08.09",
+      "name": "Pulau Masela"
+    },
+    {
+      "id": "81.08.10",
+      "name": "Dawelor Dawera"
+    },
+    {
+      "id": "81.08.11",
+      "name": "Pulau Wetang"
+    },
+    {
+      "id": "81.08.12",
+      "name": "Pulau Lakor"
+    },
+    {
+      "id": "81.08.13",
+      "name": "Wetar Utara"
+    },
+    {
+      "id": "81.08.14",
+      "name": "Wetar Barat"
+    },
+    {
+      "id": "81.08.15",
+      "name": "Wetar Timur"
+    },
+    {
+      "id": "81.08.16",
+      "name": "Kepulauan Roma (Romang)"
+    },
+    {
+      "id": "81.08.17",
+      "name": "Kisar Utara"
+    },
+    {
+      "id": "81.09.01",
+      "name": "Namrole"
+    },
+    {
+      "id": "81.09.02",
+      "name": "Waesama"
+    },
+    {
+      "id": "81.09.03",
+      "name": "Ambalau"
+    },
+    {
+      "id": "81.09.04",
+      "name": "Kepala Madan"
+    },
+    {
+      "id": "81.09.05",
+      "name": "Leksula"
+    },
+    {
+      "id": "81.09.06",
+      "name": "Fena Fafan"
+    },
+    {
+      "id": "81.71.01",
+      "name": "Nusaniwe (Nusanive)"
+    },
+    {
+      "id": "81.71.02",
+      "name": "Sirimau"
+    },
+    {
+      "id": "81.71.03",
+      "name": "Baguala"
+    },
+    {
+      "id": "81.71.04",
+      "name": "Teluk Ambon"
+    },
+    {
+      "id": "81.71.05",
+      "name": "Leitimur Selatan"
+    },
+    {
+      "id": "81.72.01",
+      "name": "Pulau Dullah Utara"
+    },
+    {
+      "id": "81.72.02",
+      "name": "Pulau Dullah Selatan"
+    },
+    {
+      "id": "81.72.03",
+      "name": "Tayando Tam"
+    },
+    {
+      "id": "81.72.04",
+      "name": "Pulau-Pulau Kur"
+    },
+    {
+      "id": "81.72.05",
+      "name": "Kur Selatan"
+    }
+  ],
+  "villages": [
+    {
+      "id": "81.01.01.1009",
+      "name": "Hollo"
+    },
+    {
+      "id": "81.01.01.2001",
+      "name": "Tamilouw"
+    },
+    {
+      "id": "81.01.01.2002",
+      "name": "Sepa"
+    },
+    {
+      "id": "81.01.01.2003",
+      "name": "Rutah"
+    },
+    {
+      "id": "81.01.01.2004",
+      "name": "Soahuku"
+    },
+    {
+      "id": "81.01.01.2005",
+      "name": "Amahai"
+    },
+    {
+      "id": "81.01.01.2006",
+      "name": "Haruru"
+    },
+    {
+      "id": "81.01.01.2007",
+      "name": "Sehati"
+    },
+    {
+      "id": "81.01.01.2008",
+      "name": "Makariki"
+    },
+    {
+      "id": "81.01.01.2010",
+      "name": "Yafila"
+    },
+    {
+      "id": "81.01.01.2011",
+      "name": "Banda Baru"
+    },
+    {
+      "id": "81.01.01.2020",
+      "name": "Yainuelo"
+    },
+    {
+      "id": "81.01.01.2021",
+      "name": "Nua Nea"
+    },
+    {
+      "id": "81.01.01.2022",
+      "name": "Hatuhenu"
+    },
+    {
+      "id": "81.01.01.2023",
+      "name": "Nuweletetu"
+    },
+    {
+      "id": "81.01.02.2001",
+      "name": "Usliapan"
+    },
+    {
+      "id": "81.01.02.2002",
+      "name": "Kuralele"
+    },
+    {
+      "id": "81.01.02.2003",
+      "name": "Kokroman"
+    },
+    {
+      "id": "81.01.02.2004",
+      "name": "Mesa (Messa)"
+    },
+    {
+      "id": "81.01.02.2005",
+      "name": "Ameth"
+    },
+    {
+      "id": "81.01.02.2006",
+      "name": "Waru"
+    },
+    {
+      "id": "81.01.02.2007",
+      "name": "Bumey"
+    },
+    {
+      "id": "81.01.02.2008",
+      "name": "Sefluru (Sifluru)"
+    },
+    {
+      "id": "81.01.02.2009",
+      "name": "Layeni"
+    },
+    {
+      "id": "81.01.02.2010",
+      "name": "Wotay"
+    },
+    {
+      "id": "81.01.02.2011",
+      "name": "Isu (Issu)"
+    },
+    {
+      "id": "81.01.02.2012",
+      "name": "Lesluru"
+    },
+    {
+      "id": "81.01.02.2013",
+      "name": "Watludan"
+    },
+    {
+      "id": "81.01.02.2014",
+      "name": "Trana"
+    },
+    {
+      "id": "81.01.02.2015",
+      "name": "Jerili"
+    },
+    {
+      "id": "81.01.02.2016",
+      "name": "Nakupia"
+    },
+    {
+      "id": "81.01.06.2001",
+      "name": "Wahai"
+    },
+    {
+      "id": "81.01.06.2002",
+      "name": "Air Besar"
+    },
+    {
+      "id": "81.01.06.2003",
+      "name": "Pasahari"
+    },
+    {
+      "id": "81.01.06.2007",
+      "name": "Manusela"
+    },
+    {
+      "id": "81.01.06.2009",
+      "name": "Kaloa"
+    },
+    {
+      "id": "81.01.06.2010",
+      "name": "Kanikeh"
+    },
+    {
+      "id": "81.01.06.2011",
+      "name": "Roho"
+    },
+    {
+      "id": "81.01.06.2012",
+      "name": "Huaulu"
+    },
+    {
+      "id": "81.01.06.2021",
+      "name": "Rumahsokat"
+    },
+    {
+      "id": "81.01.06.2022",
+      "name": "Sawai"
+    },
+    {
+      "id": "81.01.06.2044",
+      "name": "Besi"
+    },
+    {
+      "id": "81.01.06.2045",
+      "name": "Malaku"
+    },
+    {
+      "id": "81.01.06.2046",
+      "name": "Maraina"
+    },
+    {
+      "id": "81.01.06.2047",
+      "name": "Solea"
+    },
+    {
+      "id": "81.01.06.2048",
+      "name": "Elemata"
+    },
+    {
+      "id": "81.01.06.2049",
+      "name": "Hatuolo"
+    },
+    {
+      "id": "81.01.06.2050",
+      "name": "Siatele"
+    },
+    {
+      "id": "81.01.06.2051",
+      "name": "Masihulan"
+    },
+    {
+      "id": "81.01.06.2052",
+      "name": "Oping"
+    },
+    {
+      "id": "81.01.06.2053",
+      "name": "Olong"
+    },
+    {
+      "id": "81.01.09.2001",
+      "name": "Nusantara"
+    },
+    {
+      "id": "81.01.09.2002",
+      "name": "Dwiwarna"
+    },
+    {
+      "id": "81.01.09.2003",
+      "name": "Merdeka"
+    },
+    {
+      "id": "81.01.09.2004",
+      "name": "Rajawali"
+    },
+    {
+      "id": "81.01.09.2005",
+      "name": "Kampung Baru"
+    },
+    {
+      "id": "81.01.09.2006",
+      "name": "Pulau Hatta"
+    },
+    {
+      "id": "81.01.09.2007",
+      "name": "Selamon"
+    },
+    {
+      "id": "81.01.09.2008",
+      "name": "Lonthoir"
+    },
+    {
+      "id": "81.01.09.2009",
+      "name": "Pulau Ay"
+    },
+    {
+      "id": "81.01.09.2010",
+      "name": "Pulau Rhun"
+    },
+    {
+      "id": "81.01.09.2011",
+      "name": "Tanah Rata"
+    },
+    {
+      "id": "81.01.09.2012",
+      "name": "Waer"
+    },
+    {
+      "id": "81.01.09.2013",
+      "name": "Boiyauw"
+    },
+    {
+      "id": "81.01.09.2014",
+      "name": "Dender"
+    },
+    {
+      "id": "81.01.09.2015",
+      "name": "Lautang"
+    },
+    {
+      "id": "81.01.09.2016",
+      "name": "Uring Tutra"
+    },
+    {
+      "id": "81.01.09.2017",
+      "name": "Walling Spanciby (Wailing Spanciby)"
+    },
+    {
+      "id": "81.01.09.2018",
+      "name": "Combir Kasestoren"
+    },
+    {
+      "id": "81.01.11.2011",
+      "name": "Telutih Baru (Teluti Baru)"
+    },
+    {
+      "id": "81.01.11.2012",
+      "name": "Mosso"
+    },
+    {
+      "id": "81.01.11.2013",
+      "name": "Hatumete"
+    },
+    {
+      "id": "81.01.11.2014",
+      "name": "Hatu"
+    },
+    {
+      "id": "81.01.11.2015",
+      "name": "Piliama (Piliana)"
+    },
+    {
+      "id": "81.01.11.2016",
+      "name": "Yaputih"
+    },
+    {
+      "id": "81.01.11.2017",
+      "name": "Saunulu"
+    },
+    {
+      "id": "81.01.11.2018",
+      "name": "Tehoru"
+    },
+    {
+      "id": "81.01.11.2019",
+      "name": "Haya"
+    },
+    {
+      "id": "81.01.11.2020",
+      "name": "Salamahu"
+    },
+    {
+      "id": "81.01.12.2001",
+      "name": "Booi"
+    },
+    {
+      "id": "81.01.12.2002",
+      "name": "Paperu"
+    },
+    {
+      "id": "81.01.12.2003",
+      "name": "Tiouw"
+    },
+    {
+      "id": "81.01.12.2004",
+      "name": "Haria"
+    },
+    {
+      "id": "81.01.12.2005",
+      "name": "Porto (Portho)"
+    },
+    {
+      "id": "81.01.12.2006",
+      "name": "Kulur"
+    },
+    {
+      "id": "81.01.12.2012",
+      "name": "Saparua"
+    },
+    {
+      "id": "81.01.13.2001",
+      "name": "Aboru"
+    },
+    {
+      "id": "81.01.13.2002",
+      "name": "Wassu"
+    },
+    {
+      "id": "81.01.13.2003",
+      "name": "Oma"
+    },
+    {
+      "id": "81.01.13.2004",
+      "name": "Haruku"
+    },
+    {
+      "id": "81.01.13.2005",
+      "name": "Sameth"
+    },
+    {
+      "id": "81.01.13.2006",
+      "name": "Rohomoni"
+    },
+    {
+      "id": "81.01.13.2007",
+      "name": "Kabauw (Kabau)"
+    },
+    {
+      "id": "81.01.13.2008",
+      "name": "Kailolo"
+    },
+    {
+      "id": "81.01.13.2009",
+      "name": "Pelauw"
+    },
+    {
+      "id": "81.01.13.2010",
+      "name": "Kariu (Kariuw)"
+    },
+    {
+      "id": "81.01.13.2011",
+      "name": "Hulaliu"
+    },
+    {
+      "id": "81.01.14.2001",
+      "name": "Liang"
+    },
+    {
+      "id": "81.01.14.2002",
+      "name": "Waai"
+    },
+    {
+      "id": "81.01.14.2003",
+      "name": "Tulehu"
+    },
+    {
+      "id": "81.01.14.2004",
+      "name": "Tial"
+    },
+    {
+      "id": "81.01.14.2005",
+      "name": "Tengah-Tengah"
+    },
+    {
+      "id": "81.01.14.2006",
+      "name": "Suli"
+    },
+    {
+      "id": "81.01.15.2006",
+      "name": "Asilulu"
+    },
+    {
+      "id": "81.01.15.2007",
+      "name": "Ureng"
+    },
+    {
+      "id": "81.01.15.2008",
+      "name": "Negeri Lima"
+    },
+    {
+      "id": "81.01.15.2009",
+      "name": "Seith"
+    },
+    {
+      "id": "81.01.15.2010",
+      "name": "Kaitetu"
+    },
+    {
+      "id": "81.01.15.2011",
+      "name": "Hila"
+    },
+    {
+      "id": "81.01.15.2012",
+      "name": "Wakal"
+    },
+    {
+      "id": "81.01.15.2013",
+      "name": "Hitulama (Hitu Lama)"
+    },
+    {
+      "id": "81.01.15.2014",
+      "name": "Hitumessing (Hitu Mesing)"
+    },
+    {
+      "id": "81.01.15.2015",
+      "name": "Mamala"
+    },
+    {
+      "id": "81.01.15.2016",
+      "name": "Morella (Morela)"
+    },
+    {
+      "id": "81.01.16.2001",
+      "name": "Ameth"
+    },
+    {
+      "id": "81.01.16.2002",
+      "name": "Titawaai"
+    },
+    {
+      "id": "81.01.16.2003",
+      "name": "Abubu"
+    },
+    {
+      "id": "81.01.16.2004",
+      "name": "Akoon"
+    },
+    {
+      "id": "81.01.16.2005",
+      "name": "Nalahia"
+    },
+    {
+      "id": "81.01.16.2006",
+      "name": "Sila"
+    },
+    {
+      "id": "81.01.16.2007",
+      "name": "Leinitu"
+    },
+    {
+      "id": "81.01.17.1001",
+      "name": "Namaelo"
+    },
+    {
+      "id": "81.01.17.1002",
+      "name": "Namasina"
+    },
+    {
+      "id": "81.01.17.1003",
+      "name": "Ampera"
+    },
+    {
+      "id": "81.01.17.1004",
+      "name": "Lesane"
+    },
+    {
+      "id": "81.01.17.1005",
+      "name": "Letwaru"
+    },
+    {
+      "id": "81.01.20.2001",
+      "name": "Saleman"
+    },
+    {
+      "id": "81.01.20.2002",
+      "name": "Horale"
+    },
+    {
+      "id": "81.01.20.2003",
+      "name": "Wailulu"
+    },
+    {
+      "id": "81.01.20.2004",
+      "name": "Paa"
+    },
+    {
+      "id": "81.01.20.2005",
+      "name": "Karlutu Kara"
+    },
+    {
+      "id": "81.01.20.2006",
+      "name": "Pasanea"
+    },
+    {
+      "id": "81.01.20.2007",
+      "name": "Labuan"
+    },
+    {
+      "id": "81.01.20.2008",
+      "name": "Gale-gale"
+    },
+    {
+      "id": "81.01.20.2009",
+      "name": "Latea"
+    },
+    {
+      "id": "81.01.20.2010",
+      "name": "Lisabata Timur"
+    },
+    {
+      "id": "81.01.20.2011",
+      "name": "Rumahwey"
+    },
+    {
+      "id": "81.01.20.2012",
+      "name": "Warasiwa"
+    },
+    {
+      "id": "81.01.20.2013",
+      "name": "Herlau Pauni"
+    },
+    {
+      "id": "81.01.21.2001",
+      "name": "Waraka"
+    },
+    {
+      "id": "81.01.21.2002",
+      "name": "Tananahu"
+    },
+    {
+      "id": "81.01.21.2003",
+      "name": "Liang"
+    },
+    {
+      "id": "81.01.21.2004",
+      "name": "Sahulauw (Sahulau)"
+    },
+    {
+      "id": "81.01.22.2001",
+      "name": "Larike"
+    },
+    {
+      "id": "81.01.22.2002",
+      "name": "Wakasihu"
+    },
+    {
+      "id": "81.01.22.2003",
+      "name": "Allang"
+    },
+    {
+      "id": "81.01.22.2004",
+      "name": "Liliboy (Liliboi)"
+    },
+    {
+      "id": "81.01.22.2005",
+      "name": "Hatu"
+    },
+    {
+      "id": "81.01.23.2001",
+      "name": "Ulahahan"
+    },
+    {
+      "id": "81.01.23.2002",
+      "name": "Laha Kaba (Lahakaba)"
+    },
+    {
+      "id": "81.01.23.2003",
+      "name": "Lafa"
+    },
+    {
+      "id": "81.01.23.2004",
+      "name": "Yamalatu"
+    },
+    {
+      "id": "81.01.23.2005",
+      "name": "Hunisi"
+    },
+    {
+      "id": "81.01.23.2006",
+      "name": "Laimu"
+    },
+    {
+      "id": "81.01.23.2007",
+      "name": "Maneoratu (Maneo Ratu)"
+    },
+    {
+      "id": "81.01.23.2008",
+      "name": "Tehua"
+    },
+    {
+      "id": "81.01.23.2009",
+      "name": "Laha"
+    },
+    {
+      "id": "81.01.23.2010",
+      "name": "Wolu"
+    },
+    {
+      "id": "81.01.24.2001",
+      "name": "Seti"
+    },
+    {
+      "id": "81.01.24.2002",
+      "name": "Kobisonta"
+    },
+    {
+      "id": "81.01.24.2003",
+      "name": "Wailoping"
+    },
+    {
+      "id": "81.01.24.2004",
+      "name": "Tihuana"
+    },
+    {
+      "id": "81.01.24.2005",
+      "name": "Waitila"
+    },
+    {
+      "id": "81.01.24.2006",
+      "name": "Waiputih"
+    },
+    {
+      "id": "81.01.24.2007",
+      "name": "Waimusal"
+    },
+    {
+      "id": "81.01.24.2008",
+      "name": "Tanah Merah"
+    },
+    {
+      "id": "81.01.24.2009",
+      "name": "Aketernate"
+    },
+    {
+      "id": "81.01.24.2010",
+      "name": "Namto"
+    },
+    {
+      "id": "81.01.24.2011",
+      "name": "Loping Mulyo"
+    },
+    {
+      "id": "81.01.24.2012",
+      "name": "Wonosari"
+    },
+    {
+      "id": "81.01.25.2001",
+      "name": "Kobi"
+    },
+    {
+      "id": "81.01.25.2002",
+      "name": "Sariputih"
+    },
+    {
+      "id": "81.01.25.2003",
+      "name": "Maneo Rendah"
+    },
+    {
+      "id": "81.01.25.2004",
+      "name": "Kobimukti"
+    },
+    {
+      "id": "81.01.25.2005",
+      "name": "Leaway"
+    },
+    {
+      "id": "81.01.25.2006",
+      "name": "Samal"
+    },
+    {
+      "id": "81.01.25.2007",
+      "name": "Morokai"
+    },
+    {
+      "id": "81.01.25.2008",
+      "name": "Waimusi"
+    },
+    {
+      "id": "81.01.25.2009",
+      "name": "Way Asih"
+    },
+    {
+      "id": "81.01.25.2010",
+      "name": "Waitonipa"
+    },
+    {
+      "id": "81.01.25.2011",
+      "name": "Marasahua"
+    },
+    {
+      "id": "81.01.25.2012",
+      "name": "Kabauhari"
+    },
+    {
+      "id": "81.01.26.2001",
+      "name": "Ouw"
+    },
+    {
+      "id": "81.01.26.2002",
+      "name": "Ullath"
+    },
+    {
+      "id": "81.01.26.2003",
+      "name": "Siri Sori Islam (Siri Sori)"
+    },
+    {
+      "id": "81.01.26.2004",
+      "name": "Siri-Sori Amalatu"
+    },
+    {
+      "id": "81.01.26.2005",
+      "name": "Mahu"
+    },
+    {
+      "id": "81.01.26.2006",
+      "name": "Tuhaha"
+    },
+    {
+      "id": "81.01.26.2007",
+      "name": "Ihamahu"
+    },
+    {
+      "id": "81.01.26.2008",
+      "name": "Iha"
+    },
+    {
+      "id": "81.01.26.2009",
+      "name": "Nolloth (Noloth)"
+    },
+    {
+      "id": "81.01.26.2010",
+      "name": "Itawaka"
+    },
+    {
+      "id": "81.02.01.1013",
+      "name": "Ohoijang Watdek (Ohoijang / Ohoiyong Watdek)"
+    },
+    {
+      "id": "81.02.01.2014",
+      "name": "Langgur"
+    },
+    {
+      "id": "81.02.01.2015",
+      "name": "Faan"
+    },
+    {
+      "id": "81.02.01.2016",
+      "name": "Sathean"
+    },
+    {
+      "id": "81.02.01.2017",
+      "name": "Ibra"
+    },
+    {
+      "id": "81.02.01.2018",
+      "name": "Ngabub"
+    },
+    {
+      "id": "81.02.01.2048",
+      "name": "Ohoidertawun (Ohodertawun)"
+    },
+    {
+      "id": "81.02.01.2049",
+      "name": "Kelanit"
+    },
+    {
+      "id": "81.02.01.2051",
+      "name": "Kolser"
+    },
+    {
+      "id": "81.02.01.2052",
+      "name": "Letman"
+    },
+    {
+      "id": "81.02.01.2057",
+      "name": "Wearlilir"
+    },
+    {
+      "id": "81.02.01.2067",
+      "name": "Ohoider Atas"
+    },
+    {
+      "id": "81.02.01.2068",
+      "name": "Dudunwahan"
+    },
+    {
+      "id": "81.02.01.2069",
+      "name": "Loon"
+    },
+    {
+      "id": "81.02.01.2071",
+      "name": "Sitniohoi"
+    },
+    {
+      "id": "81.02.03.2001",
+      "name": "Werka"
+    },
+    {
+      "id": "81.02.03.2002",
+      "name": "Waur"
+    },
+    {
+      "id": "81.02.03.2003",
+      "name": "Ohoinangan"
+    },
+    {
+      "id": "81.02.03.2004",
+      "name": "Ler Ohoilim"
+    },
+    {
+      "id": "81.02.03.2005",
+      "name": "Rahareng"
+    },
+    {
+      "id": "81.02.03.2006",
+      "name": "Elat"
+    },
+    {
+      "id": "81.02.03.2007",
+      "name": "Depur"
+    },
+    {
+      "id": "81.02.03.2008",
+      "name": "Ohoilim"
+    },
+    {
+      "id": "81.02.03.2009",
+      "name": "El Ralang"
+    },
+    {
+      "id": "81.02.03.2015",
+      "name": "Reyamru"
+    },
+    {
+      "id": "81.02.03.2016",
+      "name": "Fako"
+    },
+    {
+      "id": "81.02.03.2017",
+      "name": "Yamtel"
+    },
+    {
+      "id": "81.02.03.2018",
+      "name": "Waur Tahit"
+    },
+    {
+      "id": "81.02.03.2019",
+      "name": "Ngefuit"
+    },
+    {
+      "id": "81.02.03.2020",
+      "name": "Ohoiel"
+    },
+    {
+      "id": "81.02.03.2021",
+      "name": "Ohoiwait"
+    },
+    {
+      "id": "81.02.03.2022",
+      "name": "Ohoiwang"
+    },
+    {
+      "id": "81.02.03.2023",
+      "name": "Fangamas"
+    },
+    {
+      "id": "81.02.03.2024",
+      "name": "Ohoinangan Atas"
+    },
+    {
+      "id": "81.02.03.2025",
+      "name": "Harangur"
+    },
+    {
+      "id": "81.02.03.2026",
+      "name": "Udar"
+    },
+    {
+      "id": "81.02.03.2027",
+      "name": "Daftel"
+    },
+    {
+      "id": "81.02.03.2028",
+      "name": "Karkarit"
+    },
+    {
+      "id": "81.02.03.2029",
+      "name": "Rahareng Atas"
+    },
+    {
+      "id": "81.02.03.2030",
+      "name": "Wulurat"
+    },
+    {
+      "id": "81.02.03.2031",
+      "name": "Wakol"
+    },
+    {
+      "id": "81.02.03.2032",
+      "name": "Ngurdu"
+    },
+    {
+      "id": "81.02.03.2033",
+      "name": "Soinrat"
+    },
+    {
+      "id": "81.02.03.2034",
+      "name": "Wermaf"
+    },
+    {
+      "id": "81.02.03.2035",
+      "name": "Bombay"
+    },
+    {
+      "id": "81.02.03.2036",
+      "name": "Watsin"
+    },
+    {
+      "id": "81.02.03.2037",
+      "name": "Sirbante"
+    },
+    {
+      "id": "81.02.03.2038",
+      "name": "Ngat"
+    },
+    {
+      "id": "81.02.03.2039",
+      "name": "Nabaheng"
+    },
+    {
+      "id": "81.02.03.2040",
+      "name": "Ngefuit Atas"
+    },
+    {
+      "id": "81.02.03.2041",
+      "name": "Watuar"
+    },
+    {
+      "id": "81.02.03.2042",
+      "name": "Mataholat"
+    },
+    {
+      "id": "81.02.04.2001",
+      "name": "Weduar"
+    },
+    {
+      "id": "81.02.04.2003",
+      "name": "Nerong"
+    },
+    {
+      "id": "81.02.04.2004",
+      "name": "Larat"
+    },
+    {
+      "id": "81.02.04.2005",
+      "name": "Tamangil Nuhuten"
+    },
+    {
+      "id": "81.02.04.2006",
+      "name": "Tamangil Nuhuyanat"
+    },
+    {
+      "id": "81.02.04.2012",
+      "name": "Kilwat"
+    },
+    {
+      "id": "81.02.04.2013",
+      "name": "Sathen (Sether/Sather)"
+    },
+    {
+      "id": "81.02.04.2014",
+      "name": "Tutrean"
+    },
+    {
+      "id": "81.02.04.2015",
+      "name": "Ohoirenan"
+    },
+    {
+      "id": "81.02.04.2016",
+      "name": "Soindat"
+    },
+    {
+      "id": "81.02.05.2001",
+      "name": "Hollat"
+    },
+    {
+      "id": "81.02.05.2002",
+      "name": "Ohoiraut"
+    },
+    {
+      "id": "81.02.05.2003",
+      "name": "Haar Ohoimel"
+    },
+    {
+      "id": "81.02.05.2004",
+      "name": "Langgiar Haar"
+    },
+    {
+      "id": "81.02.05.2005",
+      "name": "Banda Eli/Ely"
+    },
+    {
+      "id": "81.02.05.2006",
+      "name": "Watlaar (Watlar)"
+    },
+    {
+      "id": "81.02.05.2007",
+      "name": "Ohoifau"
+    },
+    {
+      "id": "81.02.05.2008",
+      "name": "Kilwair"
+    },
+    {
+      "id": "81.02.05.2009",
+      "name": "Renfan (Renfaan)"
+    },
+    {
+      "id": "81.02.05.2010",
+      "name": "Hollat Solair"
+    },
+    {
+      "id": "81.02.05.2011",
+      "name": "Hoko"
+    },
+    {
+      "id": "81.02.05.2012",
+      "name": "Hollay"
+    },
+    {
+      "id": "81.02.05.2013",
+      "name": "Soin"
+    },
+    {
+      "id": "81.02.05.2014",
+      "name": "Haar Ohoimur GPM"
+    },
+    {
+      "id": "81.02.05.2015",
+      "name": "Haar Ohoimur RK"
+    },
+    {
+      "id": "81.02.05.2016",
+      "name": "Haar Ohoiwait"
+    },
+    {
+      "id": "81.02.05.2017",
+      "name": "Haar Wassar"
+    },
+    {
+      "id": "81.02.05.2018",
+      "name": "Haar Renrahantel"
+    },
+    {
+      "id": "81.02.05.2019",
+      "name": "Ur"
+    },
+    {
+      "id": "81.02.05.2020",
+      "name": "Ohoimajang"
+    },
+    {
+      "id": "81.02.05.2021",
+      "name": "Banda Efruan"
+    },
+    {
+      "id": "81.02.05.2022",
+      "name": "Banda Suku Tigapuluh"
+    },
+    {
+      "id": "81.02.05.2023",
+      "name": "Tuburlay"
+    },
+    {
+      "id": "81.02.05.2024",
+      "name": "Ohoifaruan"
+    },
+    {
+      "id": "81.02.05.2025",
+      "name": "Ohoiwirin"
+    },
+    {
+      "id": "81.02.05.2026",
+      "name": "Tuburngil"
+    },
+    {
+      "id": "81.02.05.2027",
+      "name": "Yamtimur"
+    },
+    {
+      "id": "81.02.05.2028",
+      "name": "Renfaan Islam"
+    },
+    {
+      "id": "81.02.05.2029",
+      "name": "Renfaan GPM"
+    },
+    {
+      "id": "81.02.05.2030",
+      "name": "Fanwav"
+    },
+    {
+      "id": "81.02.13.2001",
+      "name": "Wain"
+    },
+    {
+      "id": "81.02.13.2002",
+      "name": "Rewav"
+    },
+    {
+      "id": "81.02.13.2003",
+      "name": "Rumaat"
+    },
+    {
+      "id": "81.02.13.2004",
+      "name": "Rat"
+    },
+    {
+      "id": "81.02.13.2005",
+      "name": "Abean"
+    },
+    {
+      "id": "81.02.13.2006",
+      "name": "Mastur"
+    },
+    {
+      "id": "81.02.13.2013",
+      "name": "Ohoinol"
+    },
+    {
+      "id": "81.02.13.2014",
+      "name": "Semawi"
+    },
+    {
+      "id": "81.02.13.2015",
+      "name": "Iso"
+    },
+    {
+      "id": "81.02.13.2016",
+      "name": "Disuk"
+    },
+    {
+      "id": "81.02.13.2017",
+      "name": "Wain Baru"
+    },
+    {
+      "id": "81.02.13.2018",
+      "name": "Marfun"
+    },
+    {
+      "id": "81.02.13.2019",
+      "name": "Watngon"
+    },
+    {
+      "id": "81.02.13.2020",
+      "name": "Yafavun"
+    },
+    {
+      "id": "81.02.13.2021",
+      "name": "Mastur Baru"
+    },
+    {
+      "id": "81.02.13.2022",
+      "name": "Ohoilus"
+    },
+    {
+      "id": "81.02.13.2023",
+      "name": "Tenbuk"
+    },
+    {
+      "id": "81.02.13.2024",
+      "name": "Denwet"
+    },
+    {
+      "id": "81.02.14.2001",
+      "name": "Ohoidertutu"
+    },
+    {
+      "id": "81.02.14.2002",
+      "name": "Matwair (Madwaer)"
+    },
+    {
+      "id": "81.02.14.2003",
+      "name": "Somlain"
+    },
+    {
+      "id": "81.02.14.2004",
+      "name": "Ohoiren"
+    },
+    {
+      "id": "81.02.14.2005",
+      "name": "Ohoira"
+    },
+    {
+      "id": "81.02.14.2006",
+      "name": "Warbal"
+    },
+    {
+      "id": "81.02.14.2007",
+      "name": "Ur Pulau"
+    },
+    {
+      "id": "81.02.14.2008",
+      "name": "Tanimbar Kei"
+    },
+    {
+      "id": "81.02.14.2009",
+      "name": "Ohoidertom"
+    },
+    {
+      "id": "81.02.14.2010",
+      "name": "Yatwav"
+    },
+    {
+      "id": "81.02.15.2001",
+      "name": "Rumadian"
+    },
+    {
+      "id": "81.02.15.2002",
+      "name": "Debut"
+    },
+    {
+      "id": "81.02.15.2003",
+      "name": "Namar"
+    },
+    {
+      "id": "81.02.15.2004",
+      "name": "Ngilngof"
+    },
+    {
+      "id": "81.02.15.2005",
+      "name": "Selayar"
+    },
+    {
+      "id": "81.02.15.2006",
+      "name": "Lairngangas"
+    },
+    {
+      "id": "81.02.15.2007",
+      "name": "Ohoiluk"
+    },
+    {
+      "id": "81.02.15.2008",
+      "name": "Ohoililir"
+    },
+    {
+      "id": "81.02.15.2009",
+      "name": "Ngayub"
+    },
+    {
+      "id": "81.02.16.2001",
+      "name": "Tetoat"
+    },
+    {
+      "id": "81.02.16.2002",
+      "name": "Dian Pulau"
+    },
+    {
+      "id": "81.02.16.2003",
+      "name": "Letwuan (Letvuan)"
+    },
+    {
+      "id": "81.02.16.2004",
+      "name": "Evu"
+    },
+    {
+      "id": "81.02.16.2005",
+      "name": "Warwut"
+    },
+    {
+      "id": "81.02.16.2006",
+      "name": "Wab"
+    },
+    {
+      "id": "81.02.16.2007",
+      "name": "Dian Darat"
+    },
+    {
+      "id": "81.02.16.2008",
+      "name": "Wirin"
+    },
+    {
+      "id": "81.02.16.2009",
+      "name": "Ngursit"
+    },
+    {
+      "id": "81.02.16.2010",
+      "name": "Madwat"
+    },
+    {
+      "id": "81.02.16.2011",
+      "name": "Ohoibadar"
+    },
+    {
+      "id": "81.02.16.2012",
+      "name": "Watngil"
+    },
+    {
+      "id": "81.02.16.2013",
+      "name": "Arso"
+    },
+    {
+      "id": "81.02.17.2001",
+      "name": "Weer Ohoinam"
+    },
+    {
+      "id": "81.02.17.2002",
+      "name": "Weer Ohoiker"
+    },
+    {
+      "id": "81.02.17.2003",
+      "name": "Weer Frawaf"
+    },
+    {
+      "id": "81.02.17.2004",
+      "name": "Faa"
+    },
+    {
+      "id": "81.02.17.2005",
+      "name": "Dangarat"
+    },
+    {
+      "id": "81.02.17.2006",
+      "name": "Ohoituf"
+    },
+    {
+      "id": "81.02.17.2007",
+      "name": "Hangur"
+    },
+    {
+      "id": "81.02.17.2008",
+      "name": "Ngurwalek"
+    },
+    {
+      "id": "81.02.17.2009",
+      "name": "Uwat"
+    },
+    {
+      "id": "81.02.17.2010",
+      "name": "Uwat Wear"
+    },
+    {
+      "id": "81.02.17.2011",
+      "name": "Uwat Reyaan"
+    },
+    {
+      "id": "81.02.17.2012",
+      "name": "Mun Ohoiir"
+    },
+    {
+      "id": "81.02.17.2013",
+      "name": "Mun Essoy"
+    },
+    {
+      "id": "81.02.17.2014",
+      "name": "Mun Kahar"
+    },
+    {
+      "id": "81.02.17.2015",
+      "name": "Mun Ngurditwain"
+    },
+    {
+      "id": "81.02.17.2016",
+      "name": "Mun Werfan"
+    },
+    {
+      "id": "81.02.17.2017",
+      "name": "Ad Ngurwul"
+    },
+    {
+      "id": "81.02.17.2018",
+      "name": "Ad Ohoiwaf"
+    },
+    {
+      "id": "81.02.17.2019",
+      "name": "Laar (Laar Perda)"
+    },
+    {
+      "id": "81.02.17.2020",
+      "name": "Hoor Islam"
+    },
+    {
+      "id": "81.02.17.2021",
+      "name": "Hoor Kristen"
+    },
+    {
+      "id": "81.02.17.2022",
+      "name": "Waer"
+    },
+    {
+      "id": "81.02.17.2023",
+      "name": "Waerat"
+    },
+    {
+      "id": "81.02.17.2024",
+      "name": "Mun Ohoitadiun (Mun Ohoitadium)"
+    },
+    {
+      "id": "81.02.17.2025",
+      "name": "Ad Wear Aur (Ad Wearaur)"
+    },
+    {
+      "id": "81.02.18.2001",
+      "name": "Hoat"
+    },
+    {
+      "id": "81.02.18.2002",
+      "name": "Ngafan"
+    },
+    {
+      "id": "81.02.18.2003",
+      "name": "Feer"
+    },
+    {
+      "id": "81.02.18.2004",
+      "name": "Rerean"
+    },
+    {
+      "id": "81.02.18.2005",
+      "name": "Ngurko"
+    },
+    {
+      "id": "81.02.18.2006",
+      "name": "Hoko"
+    },
+    {
+      "id": "81.02.18.2007",
+      "name": "Weduar Fer (Weduar Feer)"
+    },
+    {
+      "id": "81.02.18.2008",
+      "name": "Uat"
+    },
+    {
+      "id": "81.02.18.2009",
+      "name": "Ngan"
+    },
+    {
+      "id": "81.02.18.2010",
+      "name": "Watkidat"
+    },
+    {
+      "id": "81.02.18.2011",
+      "name": "Ohoilean"
+    },
+    {
+      "id": "81.02.18.2012",
+      "name": "Wafol"
+    },
+    {
+      "id": "81.02.18.2013",
+      "name": "Rahangiar"
+    },
+    {
+      "id": "81.02.19.2001",
+      "name": "Danar Ohoiseb"
+    },
+    {
+      "id": "81.02.19.2002",
+      "name": "Danar Ternate"
+    },
+    {
+      "id": "81.02.19.2003",
+      "name": "Danar Lumefar"
+    },
+    {
+      "id": "81.02.19.2004",
+      "name": "Elaar Ngursoin"
+    },
+    {
+      "id": "81.02.19.2005",
+      "name": "Elaar Lamagorang"
+    },
+    {
+      "id": "81.02.19.2006",
+      "name": "Elaar Let"
+    },
+    {
+      "id": "81.02.19.2007",
+      "name": "Sare"
+    },
+    {
+      "id": "81.02.19.2008",
+      "name": "Maar"
+    },
+    {
+      "id": "81.02.19.2009",
+      "name": "Uf"
+    },
+    {
+      "id": "81.02.19.2010",
+      "name": "Ngurwul"
+    },
+    {
+      "id": "81.02.19.2011",
+      "name": "Garara"
+    },
+    {
+      "id": "81.03.01.1001",
+      "name": "Saumlaki"
+    },
+    {
+      "id": "81.03.01.1002",
+      "name": "Saumlaki Utara"
+    },
+    {
+      "id": "81.03.01.2002",
+      "name": "Wowonda"
+    },
+    {
+      "id": "81.03.01.2003",
+      "name": "Ilngei"
+    },
+    {
+      "id": "81.03.01.2004",
+      "name": "Kabiarat (Kabiarat Raya)"
+    },
+    {
+      "id": "81.03.01.2005",
+      "name": "Lauran"
+    },
+    {
+      "id": "81.03.01.2006",
+      "name": "Sifnana"
+    },
+    {
+      "id": "81.03.01.2007",
+      "name": "Olilit Raya (Olilit)"
+    },
+    {
+      "id": "81.03.01.2008",
+      "name": "Lermatang"
+    },
+    {
+      "id": "81.03.01.2009",
+      "name": "Latdalam"
+    },
+    {
+      "id": "81.03.01.2010",
+      "name": "Bomaki"
+    },
+    {
+      "id": "81.03.01.2011",
+      "name": "Matakus"
+    },
+    {
+      "id": "81.03.02.2001",
+      "name": "Adaut"
+    },
+    {
+      "id": "81.03.02.2002",
+      "name": "Namtabung"
+    },
+    {
+      "id": "81.03.02.2003",
+      "name": "Kandar"
+    },
+    {
+      "id": "81.03.02.2004",
+      "name": "Lingat"
+    },
+    {
+      "id": "81.03.02.2005",
+      "name": "Fursuy (Fursui)"
+    },
+    {
+      "id": "81.03.02.2006",
+      "name": "Werain"
+    },
+    {
+      "id": "81.03.02.2007",
+      "name": "Eliasa"
+    },
+    {
+      "id": "81.03.03.2001",
+      "name": "Tumbur"
+    },
+    {
+      "id": "81.03.03.2002",
+      "name": "Lorulun"
+    },
+    {
+      "id": "81.03.03.2003",
+      "name": "Atubul Dol"
+    },
+    {
+      "id": "81.03.03.2004",
+      "name": "Amdasa"
+    },
+    {
+      "id": "81.03.03.2005",
+      "name": "Sangliat Krawain"
+    },
+    {
+      "id": "81.03.03.2006",
+      "name": "Arui Bab"
+    },
+    {
+      "id": "81.03.03.2007",
+      "name": "Arui Das"
+    },
+    {
+      "id": "81.03.03.2008",
+      "name": "Sangliat Dol"
+    },
+    {
+      "id": "81.03.03.2009",
+      "name": "Atubul Da"
+    },
+    {
+      "id": "81.03.04.2001",
+      "name": "Kamatubun"
+    },
+    {
+      "id": "81.03.04.2002",
+      "name": "Rumahsalut (Rumasalut)"
+    },
+    {
+      "id": "81.03.04.2003",
+      "name": "Welutu"
+    },
+    {
+      "id": "81.03.04.2004",
+      "name": "Themin"
+    },
+    {
+      "id": "81.03.04.2005",
+      "name": "Weratan"
+    },
+    {
+      "id": "81.03.04.2006",
+      "name": "Wermatang"
+    },
+    {
+      "id": "81.03.04.2007",
+      "name": "Batu Putih"
+    },
+    {
+      "id": "81.03.04.2008",
+      "name": "Makatian (Makatiang)"
+    },
+    {
+      "id": "81.03.04.2009",
+      "name": "Marantutul"
+    },
+    {
+      "id": "81.03.05.2001",
+      "name": "Lelingluan"
+    },
+    {
+      "id": "81.03.05.2002",
+      "name": "Ritabel"
+    },
+    {
+      "id": "81.03.05.2003",
+      "name": "Ridool"
+    },
+    {
+      "id": "81.03.05.2004",
+      "name": "Watidal"
+    },
+    {
+      "id": "81.03.05.2005",
+      "name": "Kilobar (Keliober)"
+    },
+    {
+      "id": "81.03.05.2006",
+      "name": "Kelaan"
+    },
+    {
+      "id": "81.03.05.2007",
+      "name": "Lamdesar Barat"
+    },
+    {
+      "id": "81.03.05.2008",
+      "name": "Lamdesar Timur"
+    },
+    {
+      "id": "81.03.06.2001",
+      "name": "Romean"
+    },
+    {
+      "id": "81.03.06.2002",
+      "name": "Rumngeur"
+    },
+    {
+      "id": "81.03.06.2003",
+      "name": "Awear"
+    },
+    {
+      "id": "81.03.06.2004",
+      "name": "Sofyanin"
+    },
+    {
+      "id": "81.03.06.2005",
+      "name": "Walerang"
+    },
+    {
+      "id": "81.03.06.2006",
+      "name": "Adodo Fordata"
+    },
+    {
+      "id": "81.03.07.2001",
+      "name": "Abat"
+    },
+    {
+      "id": "81.03.07.2002",
+      "name": "Labobar"
+    },
+    {
+      "id": "81.03.07.2008",
+      "name": "Watmasa"
+    },
+    {
+      "id": "81.03.07.2009",
+      "name": "Awear Rumngeur"
+    },
+    {
+      "id": "81.03.07.2010",
+      "name": "Karatat"
+    },
+    {
+      "id": "81.03.07.2011",
+      "name": "Wunlah"
+    },
+    {
+      "id": "81.03.07.2012",
+      "name": "Kiloon"
+    },
+    {
+      "id": "81.03.07.2013",
+      "name": "Lingada"
+    },
+    {
+      "id": "81.03.07.2014",
+      "name": "Teineman"
+    },
+    {
+      "id": "81.03.07.2015",
+      "name": "Wabar"
+    },
+    {
+      "id": "81.03.07.2016",
+      "name": "Romnus"
+    },
+    {
+      "id": "81.03.08.2001",
+      "name": "Lumasebu"
+    },
+    {
+      "id": "81.03.08.2002",
+      "name": "Kilmasa"
+    },
+    {
+      "id": "81.03.08.2003",
+      "name": "Meyano Bab"
+    },
+    {
+      "id": "81.03.08.2004",
+      "name": "Alusi Krawain"
+    },
+    {
+      "id": "81.03.08.2005",
+      "name": "Alusi Kelaan"
+    },
+    {
+      "id": "81.03.08.2006",
+      "name": "Alusi Bukjalim"
+    },
+    {
+      "id": "81.03.08.2007",
+      "name": "Alusi Tamrian"
+    },
+    {
+      "id": "81.03.08.2008",
+      "name": "Alusi Batjasi"
+    },
+    {
+      "id": "81.03.08.2009",
+      "name": "Lorwembun"
+    },
+    {
+      "id": "81.03.08.2010",
+      "name": "Meyano Das"
+    },
+    {
+      "id": "81.03.09.2001",
+      "name": "Arma"
+    },
+    {
+      "id": "81.03.09.2002",
+      "name": "Watmuri"
+    },
+    {
+      "id": "81.03.09.2003",
+      "name": "Manglusi"
+    },
+    {
+      "id": "81.03.09.2004",
+      "name": "Tutukembong"
+    },
+    {
+      "id": "81.03.09.2005",
+      "name": "Waturu"
+    },
+    {
+      "id": "81.03.18.2001",
+      "name": "Wadankou (Wadankau)"
+    },
+    {
+      "id": "81.03.18.2002",
+      "name": "Adodo Molu (Adodo Molo)"
+    },
+    {
+      "id": "81.03.18.2003",
+      "name": "Wulmasa"
+    },
+    {
+      "id": "81.03.18.2004",
+      "name": "Tutunametal"
+    },
+    {
+      "id": "81.03.18.2005",
+      "name": "Nurkat"
+    },
+    {
+      "id": "81.04.01.2001",
+      "name": "Namlea"
+    },
+    {
+      "id": "81.04.01.2002",
+      "name": "Lala"
+    },
+    {
+      "id": "81.04.01.2003",
+      "name": "Karang Jaya"
+    },
+    {
+      "id": "81.04.01.2009",
+      "name": "Siahoni"
+    },
+    {
+      "id": "81.04.01.2010",
+      "name": "Jamilu"
+    },
+    {
+      "id": "81.04.01.2011",
+      "name": "Sanleko"
+    },
+    {
+      "id": "81.04.01.2012",
+      "name": "Batu Boy"
+    },
+    {
+      "id": "81.04.02.2004",
+      "name": "Waipure (Waepure)"
+    },
+    {
+      "id": "81.04.02.2005",
+      "name": "Waimangit (Waemangit)"
+    },
+    {
+      "id": "81.04.02.2006",
+      "name": "Air Buaya"
+    },
+    {
+      "id": "81.04.02.2007",
+      "name": "Tanjung Karang"
+    },
+    {
+      "id": "81.04.02.2008",
+      "name": "Bara"
+    },
+    {
+      "id": "81.04.02.2014",
+      "name": "Selwadu"
+    },
+    {
+      "id": "81.04.02.2018",
+      "name": "Wasbaka"
+    },
+    {
+      "id": "81.04.02.2019",
+      "name": "Kampung Baru"
+    },
+    {
+      "id": "81.04.02.2020",
+      "name": "Batlale"
+    },
+    {
+      "id": "81.04.02.2023",
+      "name": "Awilinan"
+    },
+    {
+      "id": "81.04.03.2001",
+      "name": "Savana Jaya"
+    },
+    {
+      "id": "81.04.03.2002",
+      "name": "Waetele"
+    },
+    {
+      "id": "81.04.03.2003",
+      "name": "Waekasar"
+    },
+    {
+      "id": "81.04.03.2004",
+      "name": "Waenetat"
+    },
+    {
+      "id": "81.04.03.2016",
+      "name": "Waekerta"
+    },
+    {
+      "id": "81.04.03.2019",
+      "name": "Wanareja"
+    },
+    {
+      "id": "81.04.03.2027",
+      "name": "Gogorea"
+    },
+    {
+      "id": "81.04.06.2001",
+      "name": "Lamahang"
+    },
+    {
+      "id": "81.04.06.2002",
+      "name": "Waplau"
+    },
+    {
+      "id": "81.04.06.2003",
+      "name": "Waeura"
+    },
+    {
+      "id": "81.04.06.2004",
+      "name": "Samalagi"
+    },
+    {
+      "id": "81.04.06.2005",
+      "name": "Namsina"
+    },
+    {
+      "id": "81.04.06.2006",
+      "name": "Hatawano"
+    },
+    {
+      "id": "81.04.06.2007",
+      "name": "Wailihang (Waelihang)"
+    },
+    {
+      "id": "81.04.06.2008",
+      "name": "Waprea"
+    },
+    {
+      "id": "81.04.06.2009",
+      "name": "Waepotih"
+    },
+    {
+      "id": "81.04.06.2010",
+      "name": "Skikilale"
+    },
+    {
+      "id": "81.04.10.2001",
+      "name": "Ilath"
+    },
+    {
+      "id": "81.04.10.2002",
+      "name": "Batu Jungku"
+    },
+    {
+      "id": "81.04.10.2003",
+      "name": "Pela"
+    },
+    {
+      "id": "81.04.10.2004",
+      "name": "Waemorat"
+    },
+    {
+      "id": "81.04.10.2006",
+      "name": "Namlea Ilath"
+    },
+    {
+      "id": "81.04.11.2001",
+      "name": "Kubalahin"
+    },
+    {
+      "id": "81.04.11.2002",
+      "name": "Waegeren"
+    },
+    {
+      "id": "81.04.11.2003",
+      "name": "Grandeng"
+    },
+    {
+      "id": "81.04.11.2004",
+      "name": "Lele"
+    },
+    {
+      "id": "81.04.11.2005",
+      "name": "Wanakarta"
+    },
+    {
+      "id": "81.04.11.2006",
+      "name": "Wabloy"
+    },
+    {
+      "id": "81.04.11.2007",
+      "name": "Ohilahin"
+    },
+    {
+      "id": "81.04.11.2008",
+      "name": "Tifu"
+    },
+    {
+      "id": "81.04.11.2009",
+      "name": "Wapsalit"
+    },
+    {
+      "id": "81.04.11.2010",
+      "name": "Nafrua"
+    },
+    {
+      "id": "81.04.12.2001",
+      "name": "Waelo"
+    },
+    {
+      "id": "81.04.12.2002",
+      "name": "Deboway / Debowae"
+    },
+    {
+      "id": "81.04.12.2003",
+      "name": "Parbulu"
+    },
+    {
+      "id": "81.04.12.2004",
+      "name": "Waetina"
+    },
+    {
+      "id": "81.04.12.2005",
+      "name": "Waeleman"
+    },
+    {
+      "id": "81.04.12.2006",
+      "name": "Basalale"
+    },
+    {
+      "id": "81.04.12.2007",
+      "name": "Waflan"
+    },
+    {
+      "id": "81.04.12.2008",
+      "name": "Dava"
+    },
+    {
+      "id": "81.04.12.2009",
+      "name": "Waehata"
+    },
+    {
+      "id": "81.04.12.2010",
+      "name": "Widit"
+    },
+    {
+      "id": "81.04.13.2001",
+      "name": "Wamlana"
+    },
+    {
+      "id": "81.04.13.2002",
+      "name": "Balbalu"
+    },
+    {
+      "id": "81.04.13.2003",
+      "name": "Waspait"
+    },
+    {
+      "id": "81.04.13.2004",
+      "name": "Waedanga"
+    },
+    {
+      "id": "81.04.13.2005",
+      "name": "Lemanpoli"
+    },
+    {
+      "id": "81.04.13.2006",
+      "name": "Waelana-lana"
+    },
+    {
+      "id": "81.04.13.2007",
+      "name": "Waereman"
+    },
+    {
+      "id": "81.04.13.2008",
+      "name": "Waemite"
+    },
+    {
+      "id": "81.04.13.2009",
+      "name": "Wasi"
+    },
+    {
+      "id": "81.04.13.2010",
+      "name": "Waekose"
+    },
+    {
+      "id": "81.04.13.2011",
+      "name": "Wamana Baru"
+    },
+    {
+      "id": "81.04.13.2012",
+      "name": "Raheriat"
+    },
+    {
+      "id": "81.04.13.2013",
+      "name": "Wainibe (Waenibe)"
+    },
+    {
+      "id": "81.04.14.2001",
+      "name": "Kaiely (Kayeli)"
+    },
+    {
+      "id": "81.04.14.2002",
+      "name": "Masarete"
+    },
+    {
+      "id": "81.04.14.2003",
+      "name": "Waelapia"
+    },
+    {
+      "id": "81.04.14.2004",
+      "name": "Kaki Air"
+    },
+    {
+      "id": "81.04.14.2005",
+      "name": "Seith"
+    },
+    {
+      "id": "81.04.15.2001",
+      "name": "Ubung"
+    },
+    {
+      "id": "81.04.15.2002",
+      "name": "Jikumarasa (Jikumerasa)"
+    },
+    {
+      "id": "81.04.15.2003",
+      "name": "Waimiting (Waemiting)"
+    },
+    {
+      "id": "81.04.15.2004",
+      "name": "Sawa"
+    },
+    {
+      "id": "81.04.15.2005",
+      "name": "Waeperang"
+    },
+    {
+      "id": "81.05.01.2003",
+      "name": "Bula"
+    },
+    {
+      "id": "81.05.01.2004",
+      "name": "Salas"
+    },
+    {
+      "id": "81.05.01.2010",
+      "name": "Englas"
+    },
+    {
+      "id": "81.05.01.2011",
+      "name": "Bula Air Fatolo"
+    },
+    {
+      "id": "81.05.01.2012",
+      "name": "Sesar"
+    },
+    {
+      "id": "81.05.01.2022",
+      "name": "Tansi Ambon"
+    },
+    {
+      "id": "81.05.01.2023",
+      "name": "Kampung Wailola"
+    },
+    {
+      "id": "81.05.01.2024",
+      "name": "Kampung Gorom"
+    },
+    {
+      "id": "81.05.01.2025",
+      "name": "Limumir"
+    },
+    {
+      "id": "81.05.01.2026",
+      "name": "Fattolo"
+    },
+    {
+      "id": "81.05.02.2001",
+      "name": "Geser"
+    },
+    {
+      "id": "81.05.02.2002",
+      "name": "Kiltay"
+    },
+    {
+      "id": "81.05.02.2003",
+      "name": "Kilwaru"
+    },
+    {
+      "id": "81.05.02.2004",
+      "name": "Kellu"
+    },
+    {
+      "id": "81.05.02.2005",
+      "name": "Keffing"
+    },
+    {
+      "id": "81.05.02.2006",
+      "name": "Urung"
+    },
+    {
+      "id": "81.05.02.2028",
+      "name": "Kilfura"
+    },
+    {
+      "id": "81.05.02.2046",
+      "name": "Kwawor Kecil Mata Ata"
+    },
+    {
+      "id": "81.05.02.2047",
+      "name": "Kwawor Kecil Mata Wawa"
+    },
+    {
+      "id": "81.05.02.2048",
+      "name": "Kwawor Besar Ena"
+    },
+    {
+      "id": "81.05.02.2049",
+      "name": "Kwawor Besar Witau"
+    },
+    {
+      "id": "81.05.02.2050",
+      "name": "Guli-Guli"
+    },
+    {
+      "id": "81.05.02.2051",
+      "name": "Manggis"
+    },
+    {
+      "id": "81.05.02.2052",
+      "name": "Ainena"
+    },
+    {
+      "id": "81.05.02.2053",
+      "name": "Mugusinis"
+    },
+    {
+      "id": "81.05.02.2054",
+      "name": "Akatfadedo"
+    },
+    {
+      "id": "81.05.03.2001",
+      "name": "Batuasa"
+    },
+    {
+      "id": "81.05.03.2002",
+      "name": "Hatuimeten"
+    },
+    {
+      "id": "81.05.03.2003",
+      "name": "Werinama"
+    },
+    {
+      "id": "81.05.03.2004",
+      "name": "Bemo"
+    },
+    {
+      "id": "81.05.03.2015",
+      "name": "Tum"
+    },
+    {
+      "id": "81.05.03.2016",
+      "name": "Gusalaut"
+    },
+    {
+      "id": "81.05.03.2017",
+      "name": "Osong"
+    },
+    {
+      "id": "81.05.03.2018",
+      "name": "Tobo"
+    },
+    {
+      "id": "81.05.03.2021",
+      "name": "Bemo Perak"
+    },
+    {
+      "id": "81.05.03.2022",
+      "name": "Funa Naibaya"
+    },
+    {
+      "id": "81.05.04.2001",
+      "name": "Kataloka"
+    },
+    {
+      "id": "81.05.04.2003",
+      "name": "Amarsekaru"
+    },
+    {
+      "id": "81.05.04.2004",
+      "name": "Ondor"
+    },
+    {
+      "id": "81.05.04.2005",
+      "name": "Day"
+    },
+    {
+      "id": "81.05.04.2006",
+      "name": "Mida"
+    },
+    {
+      "id": "81.05.04.2021",
+      "name": "Loko"
+    },
+    {
+      "id": "81.05.04.2022",
+      "name": "Sera"
+    },
+    {
+      "id": "81.05.04.2023",
+      "name": "Kulugowa"
+    },
+    {
+      "id": "81.05.04.2024",
+      "name": "Rumeon"
+    },
+    {
+      "id": "81.05.04.2031",
+      "name": "Kelibingan"
+    },
+    {
+      "id": "81.05.04.2032",
+      "name": "Ilili"
+    },
+    {
+      "id": "81.05.04.2042",
+      "name": "Namalean"
+    },
+    {
+      "id": "81.05.04.2043",
+      "name": "Dulak"
+    },
+    {
+      "id": "81.05.04.2044",
+      "name": "Kilalir Kilwouw"
+    },
+    {
+      "id": "81.05.04.2045",
+      "name": "Kilotak"
+    },
+    {
+      "id": "81.05.04.2046",
+      "name": "Kilean"
+    },
+    {
+      "id": "81.05.04.2047",
+      "name": "Kaforing"
+    },
+    {
+      "id": "81.05.04.2048",
+      "name": "Arewang"
+    },
+    {
+      "id": "81.05.04.2049",
+      "name": "Usun Kataloka"
+    },
+    {
+      "id": "81.05.04.2050",
+      "name": "Buan Kataloka"
+    },
+    {
+      "id": "81.05.04.2051",
+      "name": "Rumanama Kotawouw Kataloka"
+    },
+    {
+      "id": "81.05.04.2052",
+      "name": "Sikaro Kataloka"
+    },
+    {
+      "id": "81.05.04.2053",
+      "name": "Aroa Kataloka"
+    },
+    {
+      "id": "81.05.04.2054",
+      "name": "Dada Kataloka"
+    },
+    {
+      "id": "81.05.05.2001",
+      "name": "Ilili"
+    },
+    {
+      "id": "81.05.05.2002",
+      "name": "Effa"
+    },
+    {
+      "id": "81.05.05.2003",
+      "name": "Lahema"
+    },
+    {
+      "id": "81.05.05.2004",
+      "name": "Utta"
+    },
+    {
+      "id": "81.05.05.2005",
+      "name": "Kelangan"
+    },
+    {
+      "id": "81.05.05.2006",
+      "name": "Amarlaut"
+    },
+    {
+      "id": "81.05.05.2007",
+      "name": "Tamher Warat"
+    },
+    {
+      "id": "81.05.05.2008",
+      "name": "Tamher Timur"
+    },
+    {
+      "id": "81.05.05.2010",
+      "name": "Wunin Eldedora"
+    },
+    {
+      "id": "81.05.05.2011",
+      "name": "Keldor"
+    },
+    {
+      "id": "81.05.05.2021",
+      "name": "Tanah Baru"
+    },
+    {
+      "id": "81.05.05.2022",
+      "name": "Guliar"
+    },
+    {
+      "id": "81.05.05.2023",
+      "name": "Karlomin"
+    },
+    {
+      "id": "81.05.05.2024",
+      "name": "Otademan"
+    },
+    {
+      "id": "81.05.05.2025",
+      "name": "Kurwara"
+    },
+    {
+      "id": "81.05.05.2026",
+      "name": "Kilbutak"
+    },
+    {
+      "id": "81.05.05.2027",
+      "name": "Ruma Durun"
+    },
+    {
+      "id": "81.05.05.2028",
+      "name": "Tana Soa"
+    },
+    {
+      "id": "81.05.06.2001",
+      "name": "Danama"
+    },
+    {
+      "id": "81.05.06.2002",
+      "name": "Kilmoy"
+    },
+    {
+      "id": "81.05.06.2003",
+      "name": "Kilbat"
+    },
+    {
+      "id": "81.05.06.2004",
+      "name": "Sesar"
+    },
+    {
+      "id": "81.05.06.2005",
+      "name": "Airkasar"
+    },
+    {
+      "id": "81.05.06.2006",
+      "name": "Waras-Waras"
+    },
+    {
+      "id": "81.05.06.2007",
+      "name": "Gah"
+    },
+    {
+      "id": "81.05.06.2008",
+      "name": "Walang Tenga"
+    },
+    {
+      "id": "81.05.06.2009",
+      "name": "Bati Kilwouw"
+    },
+    {
+      "id": "81.05.06.2010",
+      "name": "Taruy"
+    },
+    {
+      "id": "81.05.06.2011",
+      "name": "Kufar"
+    },
+    {
+      "id": "81.05.07.2001",
+      "name": "Dihil"
+    },
+    {
+      "id": "81.05.07.2002",
+      "name": "Liliama"
+    },
+    {
+      "id": "81.05.07.2003",
+      "name": "Naiwel Ahinulin"
+    },
+    {
+      "id": "81.05.07.2004",
+      "name": "Polin"
+    },
+    {
+      "id": "81.05.07.2005",
+      "name": "Tunsai"
+    },
+    {
+      "id": "81.05.07.2006",
+      "name": "Lapela"
+    },
+    {
+      "id": "81.05.07.2007",
+      "name": "Nayet"
+    },
+    {
+      "id": "81.05.07.2008",
+      "name": "Elnusa"
+    },
+    {
+      "id": "81.05.07.2009",
+      "name": "Atiahu"
+    },
+    {
+      "id": "81.05.07.2010",
+      "name": "Sabuai"
+    },
+    {
+      "id": "81.05.07.2011",
+      "name": "Abulate"
+    },
+    {
+      "id": "81.05.07.2012",
+      "name": "Adabai"
+    },
+    {
+      "id": "81.05.08.2001",
+      "name": "Selor"
+    },
+    {
+      "id": "81.05.08.2002",
+      "name": "Nekan"
+    },
+    {
+      "id": "81.05.08.2003",
+      "name": "Afang Kota"
+    },
+    {
+      "id": "81.05.08.2004",
+      "name": "Afang Defol"
+    },
+    {
+      "id": "81.05.08.2005",
+      "name": "Kumelang"
+    },
+    {
+      "id": "81.05.08.2006",
+      "name": "Undur"
+    },
+    {
+      "id": "81.05.08.2007",
+      "name": "Kamar"
+    },
+    {
+      "id": "81.05.08.2008",
+      "name": "Gunak"
+    },
+    {
+      "id": "81.05.08.2009",
+      "name": "Sumbawa"
+    },
+    {
+      "id": "81.05.08.2010",
+      "name": "Kilmury"
+    },
+    {
+      "id": "81.05.08.2011",
+      "name": "Kilbon Kway"
+    },
+    {
+      "id": "81.05.08.2012",
+      "name": "Mising"
+    },
+    {
+      "id": "81.05.08.2013",
+      "name": "Bitorik"
+    },
+    {
+      "id": "81.05.08.2014",
+      "name": "Taa"
+    },
+    {
+      "id": "81.05.09.2001",
+      "name": "Pulau Panjang"
+    },
+    {
+      "id": "81.05.09.2002",
+      "name": "Argam"
+    },
+    {
+      "id": "81.05.09.2003",
+      "name": "Lalasa"
+    },
+    {
+      "id": "81.05.09.2004",
+      "name": "Magat"
+    },
+    {
+      "id": "81.05.09.2005",
+      "name": "Ruku Ruku"
+    },
+    {
+      "id": "81.05.09.2006",
+      "name": "Perik Basaranggi"
+    },
+    {
+      "id": "81.05.10.2001",
+      "name": "Teor"
+    },
+    {
+      "id": "81.05.10.2002",
+      "name": "Kartutin Kartenga"
+    },
+    {
+      "id": "81.05.10.2003",
+      "name": "Ker Ker"
+    },
+    {
+      "id": "81.05.10.2004",
+      "name": "Duryar Rumoy"
+    },
+    {
+      "id": "81.05.10.2005",
+      "name": "Lapang Kampung Jawa"
+    },
+    {
+      "id": "81.05.10.2006",
+      "name": "Kampung Tengah Wermaf"
+    },
+    {
+      "id": "81.05.10.2007",
+      "name": "Kampung Baru"
+    },
+    {
+      "id": "81.05.10.2008",
+      "name": "Mamur"
+    },
+    {
+      "id": "81.05.10.2009",
+      "name": "Kiliwouw"
+    },
+    {
+      "id": "81.05.10.2010",
+      "name": "Karlokin"
+    },
+    {
+      "id": "81.05.11.2001",
+      "name": "Kilkoda"
+    },
+    {
+      "id": "81.05.11.2002",
+      "name": "Miran"
+    },
+    {
+      "id": "81.05.11.2003",
+      "name": "Kota Sirih"
+    },
+    {
+      "id": "81.05.11.2004",
+      "name": "Amarwatu"
+    },
+    {
+      "id": "81.05.11.2005",
+      "name": "Aran"
+    },
+    {
+      "id": "81.05.11.2006",
+      "name": "Tuha"
+    },
+    {
+      "id": "81.05.11.2007",
+      "name": "Bas"
+    },
+    {
+      "id": "81.05.11.2008",
+      "name": "Tunas Ilur"
+    },
+    {
+      "id": "81.05.11.2009",
+      "name": "Sagey"
+    },
+    {
+      "id": "81.05.11.2010",
+      "name": "Armada"
+    },
+    {
+      "id": "81.05.11.2011",
+      "name": "Waisalan"
+    },
+    {
+      "id": "81.05.11.2012",
+      "name": "Basarin"
+    },
+    {
+      "id": "81.05.11.2013",
+      "name": "Goha"
+    },
+    {
+      "id": "81.05.11.2014",
+      "name": "Rarat"
+    },
+    {
+      "id": "81.05.11.2015",
+      "name": "Miran Gota"
+    },
+    {
+      "id": "81.05.11.2016",
+      "name": "Adar"
+    },
+    {
+      "id": "81.05.11.2017",
+      "name": "Tinarin"
+    },
+    {
+      "id": "81.05.11.2018",
+      "name": "Etaralu"
+    },
+    {
+      "id": "81.05.11.2019",
+      "name": "Kiltufa"
+    },
+    {
+      "id": "81.05.11.2020",
+      "name": "Miran Kilian"
+    },
+    {
+      "id": "81.05.11.2021",
+      "name": "Miran Keledar"
+    },
+    {
+      "id": "81.05.11.2022",
+      "name": "Miran Manaban"
+    },
+    {
+      "id": "81.05.11.2023",
+      "name": "Miran Rumuar"
+    },
+    {
+      "id": "81.05.12.2001",
+      "name": "Hote"
+    },
+    {
+      "id": "81.05.12.2002",
+      "name": "Banggoi"
+    },
+    {
+      "id": "81.05.12.2003",
+      "name": "Waematakabo"
+    },
+    {
+      "id": "81.05.12.2004",
+      "name": "Waiketam Baru"
+    },
+    {
+      "id": "81.05.12.2005",
+      "name": "Waisamet"
+    },
+    {
+      "id": "81.05.12.2006",
+      "name": "Aki Jaya"
+    },
+    {
+      "id": "81.05.12.2007",
+      "name": "Jakarta Baru"
+    },
+    {
+      "id": "81.05.12.2008",
+      "name": "Silohan"
+    },
+    {
+      "id": "81.05.12.2009",
+      "name": "Sumber Agung"
+    },
+    {
+      "id": "81.05.12.2010",
+      "name": "Rukun Jaya"
+    },
+    {
+      "id": "81.05.12.2011",
+      "name": "Jembatan Basah"
+    },
+    {
+      "id": "81.05.12.2012",
+      "name": "Dreamland Hills"
+    },
+    {
+      "id": "81.05.12.2013",
+      "name": "Banggoi Pancorang"
+    },
+    {
+      "id": "81.05.13.2001",
+      "name": "Kian Darat"
+    },
+    {
+      "id": "81.05.13.2002",
+      "name": "Artafela"
+    },
+    {
+      "id": "81.05.13.2003",
+      "name": "Angar"
+    },
+    {
+      "id": "81.05.13.2004",
+      "name": "Watu Watu"
+    },
+    {
+      "id": "81.05.13.2005",
+      "name": "Kelaba"
+    },
+    {
+      "id": "81.05.13.2006",
+      "name": "Kilga Kilwouw"
+    },
+    {
+      "id": "81.05.13.2007",
+      "name": "Kilga Watubau"
+    },
+    {
+      "id": "81.05.13.2008",
+      "name": "Rumfakar"
+    },
+    {
+      "id": "81.05.13.2009",
+      "name": "Kileser"
+    },
+    {
+      "id": "81.05.13.2010",
+      "name": "Rumoga"
+    },
+    {
+      "id": "81.05.14.2001",
+      "name": "Kian Laut"
+    },
+    {
+      "id": "81.05.14.2002",
+      "name": "Kwaos (Kuwaos)"
+    },
+    {
+      "id": "81.05.14.2003",
+      "name": "Salagor Air"
+    },
+    {
+      "id": "81.05.14.2004",
+      "name": "Salagor Kota"
+    },
+    {
+      "id": "81.05.14.2005",
+      "name": "Aruan Gaur"
+    },
+    {
+      "id": "81.05.14.2006",
+      "name": "Keta Rumadan"
+    },
+    {
+      "id": "81.05.14.2007",
+      "name": "Lian Tasik"
+    },
+    {
+      "id": "81.05.14.2008",
+      "name": "Keta"
+    },
+    {
+      "id": "81.05.14.2009",
+      "name": "Air Nanang"
+    },
+    {
+      "id": "81.05.14.2010",
+      "name": "Suru"
+    },
+    {
+      "id": "81.05.15.2001",
+      "name": "Waru"
+    },
+    {
+      "id": "81.05.15.2002",
+      "name": "Bellis"
+    },
+    {
+      "id": "81.05.15.2003",
+      "name": "Dawang"
+    },
+    {
+      "id": "81.05.15.2004",
+      "name": "Solang"
+    },
+    {
+      "id": "81.05.15.2005",
+      "name": "Karay"
+    },
+    {
+      "id": "81.05.15.2006",
+      "name": "Nama Lena"
+    },
+    {
+      "id": "81.05.15.2007",
+      "name": "Nama Andan"
+    },
+    {
+      "id": "81.05.15.2008",
+      "name": "Tubir Wasiwang"
+    },
+    {
+      "id": "81.05.15.2009",
+      "name": "Kampung Baru"
+    },
+    {
+      "id": "81.05.15.2010",
+      "name": "Boinfia"
+    },
+    {
+      "id": "81.05.15.2011",
+      "name": "Madak"
+    },
+    {
+      "id": "81.06.01.2008",
+      "name": "Kamarian"
+    },
+    {
+      "id": "81.06.01.2009",
+      "name": "Seruawan"
+    },
+    {
+      "id": "81.06.01.2010",
+      "name": "Kairatu"
+    },
+    {
+      "id": "81.06.01.2011",
+      "name": "Waimital"
+    },
+    {
+      "id": "81.06.01.2012",
+      "name": "Hatusua"
+    },
+    {
+      "id": "81.06.01.2014",
+      "name": "Waipirit"
+    },
+    {
+      "id": "81.06.01.2015",
+      "name": "Uraur"
+    },
+    {
+      "id": "81.06.02.2002",
+      "name": "Kawa"
+    },
+    {
+      "id": "81.06.02.2003",
+      "name": "Piru"
+    },
+    {
+      "id": "81.06.02.2004",
+      "name": "Neniari / Niniari"
+    },
+    {
+      "id": "81.06.02.2005",
+      "name": "Morekau"
+    },
+    {
+      "id": "81.06.02.2006",
+      "name": "Lumoly (Lumoli)"
+    },
+    {
+      "id": "81.06.02.2007",
+      "name": "Eti / Ety"
+    },
+    {
+      "id": "81.06.02.2008",
+      "name": "Kaibobo (Kaibobu)"
+    },
+    {
+      "id": "81.06.03.2001",
+      "name": "Murnaten / Mornaten"
+    },
+    {
+      "id": "81.06.03.2002",
+      "name": "Nikulukan"
+    },
+    {
+      "id": "81.06.03.2003",
+      "name": "Niwelehu"
+    },
+    {
+      "id": "81.06.03.2004",
+      "name": "Nuniali"
+    },
+    {
+      "id": "81.06.03.2005",
+      "name": "Lisabata (Lisabata Barat)"
+    },
+    {
+      "id": "81.06.03.2006",
+      "name": "Wakolo"
+    },
+    {
+      "id": "81.06.03.2007",
+      "name": "Patahuwe"
+    },
+    {
+      "id": "81.06.03.2008",
+      "name": "Taniwel"
+    },
+    {
+      "id": "81.06.03.2009",
+      "name": "Hulung"
+    },
+    {
+      "id": "81.06.03.2010",
+      "name": "Kasieh"
+    },
+    {
+      "id": "81.06.03.2011",
+      "name": "Nukuhai"
+    },
+    {
+      "id": "81.06.03.2012",
+      "name": "Pasinalo"
+    },
+    {
+      "id": "81.06.03.2028",
+      "name": "Uweth / Uweh"
+    },
+    {
+      "id": "81.06.03.2029",
+      "name": "Laturake"
+    },
+    {
+      "id": "81.06.03.2030",
+      "name": "Buria"
+    },
+    {
+      "id": "81.06.03.2031",
+      "name": "Riring"
+    },
+    {
+      "id": "81.06.03.2032",
+      "name": "Rumahsoal"
+    },
+    {
+      "id": "81.06.03.2033",
+      "name": "Lohiasapalewa (Lohia Sapalewa)"
+    },
+    {
+      "id": "81.06.03.2034",
+      "name": "Niniari"
+    },
+    {
+      "id": "81.06.04.2001",
+      "name": "Waesala"
+    },
+    {
+      "id": "81.06.04.2002",
+      "name": "Allang Asaude"
+    },
+    {
+      "id": "81.06.04.2003",
+      "name": "Sole"
+    },
+    {
+      "id": "81.06.04.2004",
+      "name": "Tonu Jaya"
+    },
+    {
+      "id": "81.06.04.2005",
+      "name": "Tahalupu"
+    },
+    {
+      "id": "81.06.04.2006",
+      "name": "Buano Utara (Boano Utara)"
+    },
+    {
+      "id": "81.06.04.2007",
+      "name": "Buano Selatan (Boano Selatan)"
+    },
+    {
+      "id": "81.06.05.2001",
+      "name": "Tihulale"
+    },
+    {
+      "id": "81.06.05.2002",
+      "name": "Rumahkay"
+    },
+    {
+      "id": "81.06.05.2003",
+      "name": "Latu"
+    },
+    {
+      "id": "81.06.05.2004",
+      "name": "Tomalehu"
+    },
+    {
+      "id": "81.06.05.2005",
+      "name": "Hualoy"
+    },
+    {
+      "id": "81.06.05.2006",
+      "name": "Seriholo"
+    },
+    {
+      "id": "81.06.05.2007",
+      "name": "Tala"
+    },
+    {
+      "id": "81.06.06.2001",
+      "name": "Manusa"
+    },
+    {
+      "id": "81.06.06.2002",
+      "name": "Rambatu"
+    },
+    {
+      "id": "81.06.06.2003",
+      "name": "Rumberu"
+    },
+    {
+      "id": "81.06.06.2004",
+      "name": "Honitetu (Hunitetu)"
+    },
+    {
+      "id": "81.06.06.2005",
+      "name": "Hukuanakota (Huku Anakota)"
+    },
+    {
+      "id": "81.06.07.2001",
+      "name": "Waihatu"
+    },
+    {
+      "id": "81.06.07.2002",
+      "name": "Lohiatala"
+    },
+    {
+      "id": "81.06.07.2003",
+      "name": "Waesamu (Waisamu)"
+    },
+    {
+      "id": "81.06.07.2004",
+      "name": "Nuruwe (Nurue)"
+    },
+    {
+      "id": "81.06.07.2005",
+      "name": "Kamal"
+    },
+    {
+      "id": "81.06.07.2006",
+      "name": "Waisarisa"
+    },
+    {
+      "id": "81.06.08.2001",
+      "name": "Ariate"
+    },
+    {
+      "id": "81.06.08.2002",
+      "name": "Lokki"
+    },
+    {
+      "id": "81.06.08.2003",
+      "name": "Luhu"
+    },
+    {
+      "id": "81.06.08.2004",
+      "name": "Iha"
+    },
+    {
+      "id": "81.06.08.2005",
+      "name": "Kulur"
+    },
+    {
+      "id": "81.06.09.2001",
+      "name": "Luhutuban"
+    },
+    {
+      "id": "81.06.09.2002",
+      "name": "Masawoy (Masawoi)"
+    },
+    {
+      "id": "81.06.09.2003",
+      "name": "Tuniwara"
+    },
+    {
+      "id": "81.06.09.2004",
+      "name": "Kelang Asaude"
+    },
+    {
+      "id": "81.06.09.2005",
+      "name": "Tomalehu Barat (Tumalehu Barat)"
+    },
+    {
+      "id": "81.06.09.2006",
+      "name": "Tomalehu Timur (Tumalehu Timur)"
+    },
+    {
+      "id": "81.06.09.2007",
+      "name": "Buano Hatuputih"
+    },
+    {
+      "id": "81.06.10.2001",
+      "name": "Sohuwe"
+    },
+    {
+      "id": "81.06.10.2002",
+      "name": "Maloang"
+    },
+    {
+      "id": "81.06.10.2003",
+      "name": "Lumahlatal (Lumalatal)"
+    },
+    {
+      "id": "81.06.10.2004",
+      "name": "Matapa"
+    },
+    {
+      "id": "81.06.10.2005",
+      "name": "Seakasale (Soakasale)"
+    },
+    {
+      "id": "81.06.10.2006",
+      "name": "Makububui"
+    },
+    {
+      "id": "81.06.10.2007",
+      "name": "Sukaraja"
+    },
+    {
+      "id": "81.06.10.2008",
+      "name": "Uwen Pantai"
+    },
+    {
+      "id": "81.06.10.2009",
+      "name": "Tounusa"
+    },
+    {
+      "id": "81.06.10.2010",
+      "name": "Masihuwey (Musihbuway)"
+    },
+    {
+      "id": "81.06.10.2011",
+      "name": "Solea"
+    },
+    {
+      "id": "81.06.10.2012",
+      "name": "Waraloin"
+    },
+    {
+      "id": "81.06.10.2013",
+      "name": "Walakone"
+    },
+    {
+      "id": "81.06.10.2014",
+      "name": "Hatunuru"
+    },
+    {
+      "id": "81.06.10.2015",
+      "name": "Lumahpelu (Lumapelu)"
+    },
+    {
+      "id": "81.06.11.2002",
+      "name": "Sanahu"
+    },
+    {
+      "id": "81.06.11.2003",
+      "name": "Wasia (Waisa)"
+    },
+    {
+      "id": "81.06.11.2004",
+      "name": "Sumeith/Sameith Pasinaro"
+    },
+    {
+      "id": "81.06.11.2005",
+      "name": "Watuy (Watui)"
+    },
+    {
+      "id": "81.06.11.2006",
+      "name": "Abio Ahiolo"
+    },
+    {
+      "id": "81.06.11.2007",
+      "name": "Huku Kecil"
+    },
+    {
+      "id": "81.06.11.2008",
+      "name": "Elpaputih"
+    },
+    {
+      "id": "81.07.01.1012",
+      "name": "Galai Dubu"
+    },
+    {
+      "id": "81.07.01.1013",
+      "name": "Siwa Lima (Siwalima)"
+    },
+    {
+      "id": "81.07.01.2001",
+      "name": "Ujir"
+    },
+    {
+      "id": "81.07.01.2002",
+      "name": "Nafar (Napar)"
+    },
+    {
+      "id": "81.07.01.2003",
+      "name": "Kobraur"
+    },
+    {
+      "id": "81.07.01.2004",
+      "name": "Lau-Lau"
+    },
+    {
+      "id": "81.07.01.2005",
+      "name": "Gorar"
+    },
+    {
+      "id": "81.07.01.2006",
+      "name": "Tungu"
+    },
+    {
+      "id": "81.07.01.2007",
+      "name": "Tunguwatu"
+    },
+    {
+      "id": "81.07.01.2008",
+      "name": "Jabulenga"
+    },
+    {
+      "id": "81.07.01.2009",
+      "name": "Wokam"
+    },
+    {
+      "id": "81.07.01.2010",
+      "name": "Karangguli"
+    },
+    {
+      "id": "81.07.01.2011",
+      "name": "Durjela"
+    },
+    {
+      "id": "81.07.01.2014",
+      "name": "Wangel"
+    },
+    {
+      "id": "81.07.01.2015",
+      "name": "Samang"
+    },
+    {
+      "id": "81.07.02.2001",
+      "name": "Jerol"
+    },
+    {
+      "id": "81.07.02.2002",
+      "name": "Marfenfen (Marafenfen)"
+    },
+    {
+      "id": "81.07.02.2003",
+      "name": "Kabalukin"
+    },
+    {
+      "id": "81.07.02.2004",
+      "name": "Kalar-Kalar"
+    },
+    {
+      "id": "81.07.02.2005",
+      "name": "Feruni"
+    },
+    {
+      "id": "81.07.02.2006",
+      "name": "Ngaiguli"
+    },
+    {
+      "id": "81.07.02.2007",
+      "name": "Fatural"
+    },
+    {
+      "id": "81.07.02.2008",
+      "name": "Ngaibor"
+    },
+    {
+      "id": "81.07.02.2010",
+      "name": "Popjetur"
+    },
+    {
+      "id": "81.07.02.2026",
+      "name": "Lor-lor"
+    },
+    {
+      "id": "81.07.02.2027",
+      "name": "Gaimar"
+    },
+    {
+      "id": "81.07.02.2028",
+      "name": "Laininir"
+    },
+    {
+      "id": "81.07.02.2029",
+      "name": "Doka Barat"
+    },
+    {
+      "id": "81.07.02.2030",
+      "name": "Doka Timur"
+    },
+    {
+      "id": "81.07.02.2031",
+      "name": "Jelia"
+    },
+    {
+      "id": "81.07.03.2001",
+      "name": "Benjina"
+    },
+    {
+      "id": "81.07.03.2003",
+      "name": "Gardakau"
+    },
+    {
+      "id": "81.07.03.2004",
+      "name": "Irloy"
+    },
+    {
+      "id": "81.07.03.2005",
+      "name": "Algadang"
+    },
+    {
+      "id": "81.07.03.2006",
+      "name": "Lorang"
+    },
+    {
+      "id": "81.07.03.2007",
+      "name": "Murai"
+    },
+    {
+      "id": "81.07.03.2008",
+      "name": "Manjau"
+    },
+    {
+      "id": "81.07.03.2009",
+      "name": "Kwarbola"
+    },
+    {
+      "id": "81.07.03.2028",
+      "name": "Kobadangar"
+    },
+    {
+      "id": "81.07.03.2029",
+      "name": "Kobasel Fara"
+    },
+    {
+      "id": "81.07.03.2030",
+      "name": "Kobasel Timur"
+    },
+    {
+      "id": "81.07.03.2031",
+      "name": "Fatlabata"
+    },
+    {
+      "id": "81.07.03.2033",
+      "name": "Wakua"
+    },
+    {
+      "id": "81.07.03.2034",
+      "name": "Jirlay"
+    },
+    {
+      "id": "81.07.03.2035",
+      "name": "Maririmar"
+    },
+    {
+      "id": "81.07.03.2036",
+      "name": "Papakula"
+    },
+    {
+      "id": "81.07.03.2037",
+      "name": "Tanah Miring"
+    },
+    {
+      "id": "81.07.03.2038",
+      "name": "Gulili"
+    },
+    {
+      "id": "81.07.03.2039",
+      "name": "Namara"
+    },
+    {
+      "id": "81.07.03.2040",
+      "name": "Selilau"
+    },
+    {
+      "id": "81.07.03.2043",
+      "name": "Maijuring"
+    },
+    {
+      "id": "81.07.03.2045",
+      "name": "Selibata-Bata"
+    },
+    {
+      "id": "81.07.04.2001",
+      "name": "Marlasi"
+    },
+    {
+      "id": "81.07.04.2002",
+      "name": "Kolamar"
+    },
+    {
+      "id": "81.07.04.2003",
+      "name": "Kabufin"
+    },
+    {
+      "id": "81.07.04.2004",
+      "name": "Tasinwaha (Tasin Waha)"
+    },
+    {
+      "id": "81.07.04.2005",
+      "name": "Foket"
+    },
+    {
+      "id": "81.07.04.2006",
+      "name": "Kaibolafin"
+    },
+    {
+      "id": "81.07.04.2007",
+      "name": "Wahangula-Ngula (Wahangulangula)"
+    },
+    {
+      "id": "81.07.04.2008",
+      "name": "Wahayum / Wahayun"
+    },
+    {
+      "id": "81.07.04.2009",
+      "name": "Warialau"
+    },
+    {
+      "id": "81.07.04.2010",
+      "name": "Jerwatu"
+    },
+    {
+      "id": "81.07.04.2013",
+      "name": "Selmona"
+    },
+    {
+      "id": "81.07.04.2014",
+      "name": "Mesidang"
+    },
+    {
+      "id": "81.07.05.2001",
+      "name": "Kabalsiang"
+    },
+    {
+      "id": "81.07.05.2002",
+      "name": "Benjuring"
+    },
+    {
+      "id": "81.07.05.2003",
+      "name": "Batulei (Batuley)"
+    },
+    {
+      "id": "81.07.05.2004",
+      "name": "Kumul"
+    },
+    {
+      "id": "81.07.05.2005",
+      "name": "Waria"
+    },
+    {
+      "id": "81.07.05.2006",
+      "name": "Sewer"
+    },
+    {
+      "id": "81.07.05.2007",
+      "name": "Jursiang"
+    },
+    {
+      "id": "81.07.05.2008",
+      "name": "Kompane"
+    },
+    {
+      "id": "81.07.05.2009",
+      "name": "Kobamar"
+    },
+    {
+      "id": "81.07.06.2002",
+      "name": "Waiful (Waifual)"
+    },
+    {
+      "id": "81.07.06.2003",
+      "name": "Wafan"
+    },
+    {
+      "id": "81.07.06.2004",
+      "name": "Langhalau"
+    },
+    {
+      "id": "81.07.06.2005",
+      "name": "Gomsey"
+    },
+    {
+      "id": "81.07.06.2006",
+      "name": "Leiting"
+    },
+    {
+      "id": "81.07.06.2007",
+      "name": "Bardefan (Berdefan)"
+    },
+    {
+      "id": "81.07.06.2008",
+      "name": "Mohongsel"
+    },
+    {
+      "id": "81.07.06.2009",
+      "name": "Kolaha"
+    },
+    {
+      "id": "81.07.06.2010",
+      "name": "Goda Goda"
+    },
+    {
+      "id": "81.07.07.2001",
+      "name": "Koijabi"
+    },
+    {
+      "id": "81.07.07.2002",
+      "name": "Balatan"
+    },
+    {
+      "id": "81.07.07.2003",
+      "name": "Warloy"
+    },
+    {
+      "id": "81.07.07.2004",
+      "name": "Warjukur"
+    },
+    {
+      "id": "81.07.07.2005",
+      "name": "Kobror"
+    },
+    {
+      "id": "81.07.07.2006",
+      "name": "Basada"
+    },
+    {
+      "id": "81.07.07.2007",
+      "name": "Wailay"
+    },
+    {
+      "id": "81.07.07.2008",
+      "name": "Kaiwabar"
+    },
+    {
+      "id": "81.07.07.2009",
+      "name": "Ponom"
+    },
+    {
+      "id": "81.07.07.2010",
+      "name": "Lola"
+    },
+    {
+      "id": "81.07.07.2011",
+      "name": "Mariri"
+    },
+    {
+      "id": "81.07.07.2012",
+      "name": "Dosinamalau"
+    },
+    {
+      "id": "81.07.07.2013",
+      "name": "Karawai (Karawain)"
+    },
+    {
+      "id": "81.07.08.2001",
+      "name": "Longgar"
+    },
+    {
+      "id": "81.07.08.2002",
+      "name": "Apara"
+    },
+    {
+      "id": "81.07.08.2003",
+      "name": "Bemun"
+    },
+    {
+      "id": "81.07.08.2004",
+      "name": "Mesiang"
+    },
+    {
+      "id": "81.07.08.2005",
+      "name": "Gomo Gomo"
+    },
+    {
+      "id": "81.07.08.2006",
+      "name": "Jambu Air"
+    },
+    {
+      "id": "81.07.08.2007",
+      "name": "Warabal"
+    },
+    {
+      "id": "81.07.09.2001",
+      "name": "Meror"
+    },
+    {
+      "id": "81.07.09.2002",
+      "name": "Dosimar"
+    },
+    {
+      "id": "81.07.09.2003",
+      "name": "Batugoyang"
+    },
+    {
+      "id": "81.07.09.2004",
+      "name": "Salarem"
+    },
+    {
+      "id": "81.07.09.2005",
+      "name": "Siya"
+    },
+    {
+      "id": "81.07.09.2006",
+      "name": "Beltubur"
+    },
+    {
+      "id": "81.07.09.2007",
+      "name": "Karey"
+    },
+    {
+      "id": "81.07.09.2008",
+      "name": "Jorang"
+    },
+    {
+      "id": "81.07.09.2009",
+      "name": "Gomar Sungai (Gomarsungai)"
+    },
+    {
+      "id": "81.07.09.2010",
+      "name": "Gomar Meti (Gomarmeti)"
+    },
+    {
+      "id": "81.07.10.2001",
+      "name": "Tabarfane"
+    },
+    {
+      "id": "81.07.10.2002",
+      "name": "Rebi"
+    },
+    {
+      "id": "81.07.10.2003",
+      "name": "Lutur"
+    },
+    {
+      "id": "81.07.10.2004",
+      "name": "Hokmar"
+    },
+    {
+      "id": "81.07.10.2005",
+      "name": "Juring"
+    },
+    {
+      "id": "81.07.10.2006",
+      "name": "Erersin"
+    },
+    {
+      "id": "81.07.10.2007",
+      "name": "Maekor"
+    },
+    {
+      "id": "81.08.01.1001",
+      "name": "Tiakur"
+    },
+    {
+      "id": "81.08.01.2001",
+      "name": "Klis"
+    },
+    {
+      "id": "81.08.01.2002",
+      "name": "Patti"
+    },
+    {
+      "id": "81.08.01.2003",
+      "name": "Wakarleli"
+    },
+    {
+      "id": "81.08.01.2004",
+      "name": "Kaiwatu"
+    },
+    {
+      "id": "81.08.01.2005",
+      "name": "Werwaru"
+    },
+    {
+      "id": "81.08.01.2006",
+      "name": "Tounwawan"
+    },
+    {
+      "id": "81.08.01.2007",
+      "name": "Moain"
+    },
+    {
+      "id": "81.08.02.2001",
+      "name": "Wulur"
+    },
+    {
+      "id": "81.08.02.2002",
+      "name": "Batu Merah (Batumerah)"
+    },
+    {
+      "id": "81.08.02.2003",
+      "name": "Kuaimelu (Kuay Melu)"
+    },
+    {
+      "id": "81.08.02.2004",
+      "name": "Kumur"
+    },
+    {
+      "id": "81.08.02.2005",
+      "name": "Bebar Timur"
+    },
+    {
+      "id": "81.08.02.2006",
+      "name": "Ilih"
+    },
+    {
+      "id": "81.08.02.2007",
+      "name": "Kehli"
+    },
+    {
+      "id": "81.08.03.2001",
+      "name": "Luang Barat"
+    },
+    {
+      "id": "81.08.03.2002",
+      "name": "Luang Timur"
+    },
+    {
+      "id": "81.08.03.2003",
+      "name": "Elo"
+    },
+    {
+      "id": "81.08.03.2004",
+      "name": "Rumkisar (Romkisar)"
+    },
+    {
+      "id": "81.08.03.2005",
+      "name": "Lelang"
+    },
+    {
+      "id": "81.08.03.2006",
+      "name": "Mahaleta"
+    },
+    {
+      "id": "81.08.03.2007",
+      "name": "Romdara"
+    },
+    {
+      "id": "81.08.03.2008",
+      "name": "Rotnama"
+    },
+    {
+      "id": "81.08.03.2009",
+      "name": "Batugajah (Batu Gajah)"
+    },
+    {
+      "id": "81.08.03.2010",
+      "name": "Pupliora (Pupioliora)"
+    },
+    {
+      "id": "81.08.03.2011",
+      "name": "Regoha"
+    },
+    {
+      "id": "81.08.04.2001",
+      "name": "Tepa"
+    },
+    {
+      "id": "81.08.04.2002",
+      "name": "Imroing"
+    },
+    {
+      "id": "81.08.04.2003",
+      "name": "Tela"
+    },
+    {
+      "id": "81.08.04.2004",
+      "name": "Yaltubung"
+    },
+    {
+      "id": "81.08.04.2005",
+      "name": "Wanuwui (Manuwui)"
+    },
+    {
+      "id": "81.08.04.2006",
+      "name": "Letsiara"
+    },
+    {
+      "id": "81.08.04.2015",
+      "name": "Lewah"
+    },
+    {
+      "id": "81.08.04.2016",
+      "name": "Hertuti"
+    },
+    {
+      "id": "81.08.04.2017",
+      "name": "Sinairusi"
+    },
+    {
+      "id": "81.08.05.2001",
+      "name": "Letwurung"
+    },
+    {
+      "id": "81.08.05.2002",
+      "name": "Yatoke"
+    },
+    {
+      "id": "81.08.05.2003",
+      "name": "Kroing"
+    },
+    {
+      "id": "81.08.05.2004",
+      "name": "Nakarhamto"
+    },
+    {
+      "id": "81.08.05.2005",
+      "name": "Emplawas (Empalwas)"
+    },
+    {
+      "id": "81.08.05.2006",
+      "name": "Kokwari"
+    },
+    {
+      "id": "81.08.05.2007",
+      "name": "Ahanari"
+    },
+    {
+      "id": "81.08.05.2008",
+      "name": "Wakpapapi"
+    },
+    {
+      "id": "81.08.05.2009",
+      "name": "Analutur"
+    },
+    {
+      "id": "81.08.05.2010",
+      "name": "Manuweri (Manuari)"
+    },
+    {
+      "id": "81.08.05.2011",
+      "name": "Tutuwawang"
+    },
+    {
+      "id": "81.08.06.2001",
+      "name": "Ilwaki"
+    },
+    {
+      "id": "81.08.06.2002",
+      "name": "Ilputih"
+    },
+    {
+      "id": "81.08.06.2003",
+      "name": "Mahuan"
+    },
+    {
+      "id": "81.08.06.2004",
+      "name": "Masapun"
+    },
+    {
+      "id": "81.08.06.2021",
+      "name": "Amau"
+    },
+    {
+      "id": "81.08.06.2023",
+      "name": "Hiay"
+    },
+    {
+      "id": "81.08.07.2001",
+      "name": "Wonreli"
+    },
+    {
+      "id": "81.08.07.2002",
+      "name": "Lekloor"
+    },
+    {
+      "id": "81.08.07.2003",
+      "name": "Kota Lama"
+    },
+    {
+      "id": "81.08.07.2004",
+      "name": "Abusur"
+    },
+    {
+      "id": "81.08.07.2005",
+      "name": "Oirata Timur"
+    },
+    {
+      "id": "81.08.07.2006",
+      "name": "Oirata Barat"
+    },
+    {
+      "id": "81.08.08.2001",
+      "name": "Laitutun"
+    },
+    {
+      "id": "81.08.08.2002",
+      "name": "Batumiau"
+    },
+    {
+      "id": "81.08.08.2003",
+      "name": "Tutukey"
+    },
+    {
+      "id": "81.08.08.2004",
+      "name": "Tomra"
+    },
+    {
+      "id": "81.08.08.2005",
+      "name": "Nuwewang"
+    },
+    {
+      "id": "81.08.08.2006",
+      "name": "Tutuwaru"
+    },
+    {
+      "id": "81.08.08.2007",
+      "name": "Luhuely (Luhulely / Luhuleli)"
+    },
+    {
+      "id": "81.08.09.2001",
+      "name": "Latalola Besar"
+    },
+    {
+      "id": "81.08.09.2002",
+      "name": "Serili"
+    },
+    {
+      "id": "81.08.09.2003",
+      "name": "Latalola Kecil"
+    },
+    {
+      "id": "81.08.09.2004",
+      "name": "Telalora - Letoda"
+    },
+    {
+      "id": "81.08.09.2005",
+      "name": "Marsela"
+    },
+    {
+      "id": "81.08.09.2006",
+      "name": "Babyotang (Babiotang)"
+    },
+    {
+      "id": "81.08.09.2007",
+      "name": "Iblatmuntah"
+    },
+    {
+      "id": "81.08.09.2008",
+      "name": "Ilbutung"
+    },
+    {
+      "id": "81.08.09.2009",
+      "name": "Lawawang"
+    },
+    {
+      "id": "81.08.09.2010",
+      "name": "Nura"
+    },
+    {
+      "id": "81.08.09.2011",
+      "name": "Bululora"
+    },
+    {
+      "id": "81.08.10.2001",
+      "name": "Watuwey (Watuwei)"
+    },
+    {
+      "id": "81.08.10.2002",
+      "name": "Ilmarang"
+    },
+    {
+      "id": "81.08.10.2003",
+      "name": "Letmasa"
+    },
+    {
+      "id": "81.08.10.2004",
+      "name": "Welora"
+    },
+    {
+      "id": "81.08.10.2005",
+      "name": "Wairatan (Wiratan/Wiratang)"
+    },
+    {
+      "id": "81.08.10.2006",
+      "name": "Nurnyaman"
+    },
+    {
+      "id": "81.08.11.2001",
+      "name": "Herley (Herley Hoka)"
+    },
+    {
+      "id": "81.08.11.2002",
+      "name": "Upuhupun (Upuhupu)"
+    },
+    {
+      "id": "81.08.11.2003",
+      "name": "Pota Besar"
+    },
+    {
+      "id": "81.08.11.2004",
+      "name": "Pota Kecil"
+    },
+    {
+      "id": "81.08.11.2005",
+      "name": "Wasarili"
+    },
+    {
+      "id": "81.08.11.2006",
+      "name": "Rumalewang Kecil (Rumahlewang Kecil)"
+    },
+    {
+      "id": "81.08.11.2007",
+      "name": "Rumalewang Besar (Rumahlewang Besar)"
+    },
+    {
+      "id": "81.08.11.2008",
+      "name": "Nusiata"
+    },
+    {
+      "id": "81.08.12.2001",
+      "name": "Kety (Ketty)"
+    },
+    {
+      "id": "81.08.12.2002",
+      "name": "Letoda"
+    },
+    {
+      "id": "81.08.12.2003",
+      "name": "Sera"
+    },
+    {
+      "id": "81.08.12.2004",
+      "name": "Yamluli"
+    },
+    {
+      "id": "81.08.12.2005",
+      "name": "Lolotwara (Lolotuara)"
+    },
+    {
+      "id": "81.08.13.2001",
+      "name": "Nabar"
+    },
+    {
+      "id": "81.08.13.2002",
+      "name": "Elsulith"
+    },
+    {
+      "id": "81.08.13.2003",
+      "name": "Naumatang"
+    },
+    {
+      "id": "81.08.13.2004",
+      "name": "Lurang"
+    },
+    {
+      "id": "81.08.13.2005",
+      "name": "Uhak"
+    },
+    {
+      "id": "81.08.13.2006",
+      "name": "Eray"
+    },
+    {
+      "id": "81.08.14.2001",
+      "name": "Telemar"
+    },
+    {
+      "id": "81.08.14.2002",
+      "name": "Karbubu"
+    },
+    {
+      "id": "81.08.14.2003",
+      "name": "Ustutun"
+    },
+    {
+      "id": "81.08.14.2004",
+      "name": "Klishatu"
+    },
+    {
+      "id": "81.08.14.2005",
+      "name": "Ilmamau"
+    },
+    {
+      "id": "81.08.15.2001",
+      "name": "Moning"
+    },
+    {
+      "id": "81.08.15.2002",
+      "name": "Arwala"
+    },
+    {
+      "id": "81.08.15.2003",
+      "name": "Ilway"
+    },
+    {
+      "id": "81.08.15.2004",
+      "name": "Kahilin"
+    },
+    {
+      "id": "81.08.15.2005",
+      "name": "Ilpokil"
+    },
+    {
+      "id": "81.08.15.2006",
+      "name": "Tomliapat"
+    },
+    {
+      "id": "81.08.16.2001",
+      "name": "Hila"
+    },
+    {
+      "id": "81.08.16.2002",
+      "name": "Jerusu"
+    },
+    {
+      "id": "81.08.16.2003",
+      "name": "Solath"
+    },
+    {
+      "id": "81.08.17.2001",
+      "name": "Purpura (Pur-Pura)"
+    },
+    {
+      "id": "81.08.17.2002",
+      "name": "Nomaha"
+    },
+    {
+      "id": "81.08.17.2003",
+      "name": "Labelau (Lebelau)"
+    },
+    {
+      "id": "81.09.01.2001",
+      "name": "Wamkana"
+    },
+    {
+      "id": "81.09.01.2002",
+      "name": "Waenalut"
+    },
+    {
+      "id": "81.09.01.2003",
+      "name": "Lektama"
+    },
+    {
+      "id": "81.09.01.2004",
+      "name": "Fatmite"
+    },
+    {
+      "id": "81.09.01.2005",
+      "name": "Elfule"
+    },
+    {
+      "id": "81.09.01.2006",
+      "name": "Leku"
+    },
+    {
+      "id": "81.09.01.2007",
+      "name": "Oki Baru"
+    },
+    {
+      "id": "81.09.01.2008",
+      "name": "Oki Lama"
+    },
+    {
+      "id": "81.09.01.2009",
+      "name": "Labuang"
+    },
+    {
+      "id": "81.09.01.2010",
+      "name": "Wali"
+    },
+    {
+      "id": "81.09.01.2011",
+      "name": "Tikbary"
+    },
+    {
+      "id": "81.09.01.2012",
+      "name": "Masnana"
+    },
+    {
+      "id": "81.09.01.2013",
+      "name": "Kamlanglale"
+    },
+    {
+      "id": "81.09.01.2014",
+      "name": "Waenono"
+    },
+    {
+      "id": "81.09.01.2015",
+      "name": "Namrinat"
+    },
+    {
+      "id": "81.09.01.2016",
+      "name": "Waefusi"
+    },
+    {
+      "id": "81.09.01.2017",
+      "name": "Batu Tulis"
+    },
+    {
+      "id": "81.09.02.2001",
+      "name": "Waetawa"
+    },
+    {
+      "id": "81.09.02.2002",
+      "name": "Waesili"
+    },
+    {
+      "id": "81.09.02.2003",
+      "name": "Lena"
+    },
+    {
+      "id": "81.09.02.2004",
+      "name": "Simi"
+    },
+    {
+      "id": "81.09.02.2005",
+      "name": "Waelikut"
+    },
+    {
+      "id": "81.09.02.2006",
+      "name": "Wamsisi"
+    },
+    {
+      "id": "81.09.02.2007",
+      "name": "Pohon Batu"
+    },
+    {
+      "id": "81.09.02.2008",
+      "name": "Waeteba (Waetaba)"
+    },
+    {
+      "id": "81.09.02.2009",
+      "name": "Hote"
+    },
+    {
+      "id": "81.09.02.2010",
+      "name": "Waemasing"
+    },
+    {
+      "id": "81.09.02.2011",
+      "name": "Batu Kasa"
+    },
+    {
+      "id": "81.09.03.2001",
+      "name": "Lumoy"
+    },
+    {
+      "id": "81.09.03.2002",
+      "name": "Masawoy"
+    },
+    {
+      "id": "81.09.03.2003",
+      "name": "Ulima"
+    },
+    {
+      "id": "81.09.03.2004",
+      "name": "Kampung Baru"
+    },
+    {
+      "id": "81.09.03.2005",
+      "name": "Siwar"
+    },
+    {
+      "id": "81.09.03.2006",
+      "name": "Selasi"
+    },
+    {
+      "id": "81.09.03.2007",
+      "name": "Elara"
+    },
+    {
+      "id": "81.09.04.2001",
+      "name": "Balpetu"
+    },
+    {
+      "id": "81.09.04.2002",
+      "name": "Waekeka"
+    },
+    {
+      "id": "81.09.04.2003",
+      "name": "Biloro"
+    },
+    {
+      "id": "81.09.04.2004",
+      "name": "Nanali"
+    },
+    {
+      "id": "81.09.04.2005",
+      "name": "Pasir Putih"
+    },
+    {
+      "id": "81.09.04.2006",
+      "name": "Fogi"
+    },
+    {
+      "id": "81.09.04.2007",
+      "name": "Waepandan"
+    },
+    {
+      "id": "81.09.04.2008",
+      "name": "Walbele"
+    },
+    {
+      "id": "81.09.04.2009",
+      "name": "Air Ternate"
+    },
+    {
+      "id": "81.09.04.2010",
+      "name": "Sekat"
+    },
+    {
+      "id": "81.09.04.2011",
+      "name": "Waeha"
+    },
+    {
+      "id": "81.09.04.2012",
+      "name": "Bala-bala"
+    },
+    {
+      "id": "81.09.04.2013",
+      "name": "Batu Layar"
+    },
+    {
+      "id": "81.09.04.2014",
+      "name": "Siopot"
+    },
+    {
+      "id": "81.09.04.2015",
+      "name": "Emguhen (Emhugen)"
+    },
+    {
+      "id": "81.09.04.2016",
+      "name": "Waehotong"
+    },
+    {
+      "id": "81.09.05.2001",
+      "name": "Waemulang"
+    },
+    {
+      "id": "81.09.05.2002",
+      "name": "Waeturen"
+    },
+    {
+      "id": "81.09.05.2003",
+      "name": "Waehaka"
+    },
+    {
+      "id": "81.09.05.2004",
+      "name": "Waemala"
+    },
+    {
+      "id": "81.09.05.2005",
+      "name": "Erwiri (Ewiri)"
+    },
+    {
+      "id": "81.09.05.2006",
+      "name": "Tifu"
+    },
+    {
+      "id": "81.09.05.2007",
+      "name": "Mepa"
+    },
+    {
+      "id": "81.09.05.2008",
+      "name": "Leksula"
+    },
+    {
+      "id": "81.09.05.2009",
+      "name": "Nalbessy"
+    },
+    {
+      "id": "81.09.05.2010",
+      "name": "Kase"
+    },
+    {
+      "id": "81.09.05.2015",
+      "name": "Neath"
+    },
+    {
+      "id": "81.09.05.2016",
+      "name": "Liang"
+    },
+    {
+      "id": "81.09.05.2018",
+      "name": "Slealale"
+    },
+    {
+      "id": "81.09.05.2023",
+      "name": "Walunhelat (Walunghelat)"
+    },
+    {
+      "id": "81.09.05.2024",
+      "name": "Wahaolon"
+    },
+    {
+      "id": "81.09.05.2025",
+      "name": "Waewali (Wewali)"
+    },
+    {
+      "id": "81.09.05.2026",
+      "name": "Waenamaolon"
+    },
+    {
+      "id": "81.09.05.2029",
+      "name": "Grahwaen"
+    },
+    {
+      "id": "81.09.05.2030",
+      "name": "Terkuri"
+    },
+    {
+      "id": "81.09.06.2001",
+      "name": "Nusarua"
+    },
+    {
+      "id": "81.09.06.2002",
+      "name": "Mangeswaen"
+    },
+    {
+      "id": "81.09.06.2003",
+      "name": "Waekatin"
+    },
+    {
+      "id": "81.09.06.2004",
+      "name": "Fakal"
+    },
+    {
+      "id": "81.09.06.2005",
+      "name": "Uneth"
+    },
+    {
+      "id": "81.09.06.2006",
+      "name": "Waeraman (Waereman)"
+    },
+    {
+      "id": "81.09.06.2007",
+      "name": "Waelo"
+    },
+    {
+      "id": "81.09.06.2008",
+      "name": "Siwatlahin"
+    },
+    {
+      "id": "81.09.06.2009",
+      "name": "Trukat"
+    },
+    {
+      "id": "81.09.06.2010",
+      "name": "Waeken"
+    },
+    {
+      "id": "81.09.06.2011",
+      "name": "Batu Karang"
+    },
+    {
+      "id": "81.71.01.1006",
+      "name": "Nusaniwe (Kelurahan Nusaniwe)"
+    },
+    {
+      "id": "81.71.01.1007",
+      "name": "Wainitu (Wainatu)"
+    },
+    {
+      "id": "81.71.01.1008",
+      "name": "Benteng"
+    },
+    {
+      "id": "81.71.01.1009",
+      "name": "Kudamati"
+    },
+    {
+      "id": "81.71.01.1010",
+      "name": "Mangga Dua"
+    },
+    {
+      "id": "81.71.01.1011",
+      "name": "Urimessing (Urimesing) Desa"
+    },
+    {
+      "id": "81.71.01.1012",
+      "name": "Waihaong"
+    },
+    {
+      "id": "81.71.01.1013",
+      "name": "Silale"
+    },
+    {
+      "id": "81.71.01.2001",
+      "name": "Latuhalat"
+    },
+    {
+      "id": "81.71.01.2002",
+      "name": "Seilale"
+    },
+    {
+      "id": "81.71.01.2003",
+      "name": "Nusaniwe"
+    },
+    {
+      "id": "81.71.01.2004",
+      "name": "Amahusu"
+    },
+    {
+      "id": "81.71.01.2005",
+      "name": "Urimessing (Urimesing) Kelurahan"
+    },
+    {
+      "id": "81.71.02.1010",
+      "name": "Pandan Kasturi"
+    },
+    {
+      "id": "81.71.02.1011",
+      "name": "Rijali"
+    },
+    {
+      "id": "81.71.02.1012",
+      "name": "Amantelu"
+    },
+    {
+      "id": "81.71.02.1013",
+      "name": "Karang Panjang"
+    },
+    {
+      "id": "81.71.02.1014",
+      "name": "Waihoka"
+    },
+    {
+      "id": "81.71.02.1015",
+      "name": "Batu Meja"
+    },
+    {
+      "id": "81.71.02.1016",
+      "name": "Batu Gajah (Batu Gaja / Batugajah)"
+    },
+    {
+      "id": "81.71.02.1017",
+      "name": "Uritetu"
+    },
+    {
+      "id": "81.71.02.1018",
+      "name": "Honipopu"
+    },
+    {
+      "id": "81.71.02.1019",
+      "name": "Ahusen"
+    },
+    {
+      "id": "81.71.02.2001",
+      "name": "Hative Kecil"
+    },
+    {
+      "id": "81.71.02.2002",
+      "name": "Galala"
+    },
+    {
+      "id": "81.71.02.2003",
+      "name": "Batu Merah"
+    },
+    {
+      "id": "81.71.02.2009",
+      "name": "Soya"
+    },
+    {
+      "id": "81.71.03.1018",
+      "name": "Lateri"
+    },
+    {
+      "id": "81.71.03.2001",
+      "name": "Passo"
+    },
+    {
+      "id": "81.71.03.2002",
+      "name": "Halong"
+    },
+    {
+      "id": "81.71.03.2003",
+      "name": "Latta"
+    },
+    {
+      "id": "81.71.03.2004",
+      "name": "Negeri Lama"
+    },
+    {
+      "id": "81.71.03.2005",
+      "name": "Nania"
+    },
+    {
+      "id": "81.71.03.2006",
+      "name": "Waiheru"
+    },
+    {
+      "id": "81.71.04.1008",
+      "name": "Tihu"
+    },
+    {
+      "id": "81.71.04.2001",
+      "name": "Hunuth (Durian Patah)"
+    },
+    {
+      "id": "81.71.04.2002",
+      "name": "Poka"
+    },
+    {
+      "id": "81.71.04.2003",
+      "name": "Rumah Tiga"
+    },
+    {
+      "id": "81.71.04.2004",
+      "name": "Wayame"
+    },
+    {
+      "id": "81.71.04.2005",
+      "name": "Tawiri"
+    },
+    {
+      "id": "81.71.04.2006",
+      "name": "Hative Besar"
+    },
+    {
+      "id": "81.71.04.2007",
+      "name": "Laha"
+    },
+    {
+      "id": "81.71.05.2001",
+      "name": "Hukurila"
+    },
+    {
+      "id": "81.71.05.2002",
+      "name": "Ema"
+    },
+    {
+      "id": "81.71.05.2003",
+      "name": "Kilang"
+    },
+    {
+      "id": "81.71.05.2004",
+      "name": "Naku"
+    },
+    {
+      "id": "81.71.05.2005",
+      "name": "Hatalai"
+    },
+    {
+      "id": "81.71.05.2006",
+      "name": "Hutumury (Hutumuri)"
+    },
+    {
+      "id": "81.71.05.2007",
+      "name": "Rutong"
+    },
+    {
+      "id": "81.71.05.2008",
+      "name": "Leahari"
+    },
+    {
+      "id": "81.72.01.2001",
+      "name": "Fiditan"
+    },
+    {
+      "id": "81.72.01.2002",
+      "name": "Ngadi"
+    },
+    {
+      "id": "81.72.01.2003",
+      "name": "Dullah (Darat)"
+    },
+    {
+      "id": "81.72.01.2004",
+      "name": "Labetawi"
+    },
+    {
+      "id": "81.72.01.2005",
+      "name": "Tamedan"
+    },
+    {
+      "id": "81.72.01.2006",
+      "name": "Ohoitahit"
+    },
+    {
+      "id": "81.72.01.2007",
+      "name": "Ohoitel"
+    },
+    {
+      "id": "81.72.01.2008",
+      "name": "Dullah Laut"
+    },
+    {
+      "id": "81.72.02.1003",
+      "name": "Ketsoblak"
+    },
+    {
+      "id": "81.72.02.1004",
+      "name": "Masrum"
+    },
+    {
+      "id": "81.72.02.1005",
+      "name": "Lodar El (Lodar Ell)"
+    },
+    {
+      "id": "81.72.02.2001",
+      "name": "Tual"
+    },
+    {
+      "id": "81.72.02.2002",
+      "name": "Taar"
+    },
+    {
+      "id": "81.72.03.2001",
+      "name": "Tam Ngurhir"
+    },
+    {
+      "id": "81.72.03.2002",
+      "name": "Tayando Langgiar"
+    },
+    {
+      "id": "81.72.03.2003",
+      "name": "Tayando Yamtel"
+    },
+    {
+      "id": "81.72.03.2004",
+      "name": "Tayando Ohoiel"
+    },
+    {
+      "id": "81.72.03.2005",
+      "name": "Tayando Yamru"
+    },
+    {
+      "id": "81.72.04.2001",
+      "name": "Tubyal"
+    },
+    {
+      "id": "81.72.04.2002",
+      "name": "Kaimear"
+    },
+    {
+      "id": "81.72.04.2004",
+      "name": "Lokwirin"
+    },
+    {
+      "id": "81.72.04.2005",
+      "name": "Finualen"
+    },
+    {
+      "id": "81.72.04.2012",
+      "name": "Sermaf"
+    },
+    {
+      "id": "81.72.05.2001",
+      "name": "Kanara"
+    },
+    {
+      "id": "81.72.05.2002",
+      "name": "Warkar"
+    },
+    {
+      "id": "81.72.05.2003",
+      "name": "Yapas"
+    },
+    {
+      "id": "81.72.05.2004",
+      "name": "Rumoin (Romoin)"
+    },
+    {
+      "id": "81.72.05.2005",
+      "name": "Hirit"
+    },
+    {
+      "id": "81.72.05.2006",
+      "name": "Tiflen (Tiflean)"
+    },
+    {
+      "id": "81.72.05.2007",
+      "name": "Niela (Mangur Niela)"
+    }
+  ]
+}
