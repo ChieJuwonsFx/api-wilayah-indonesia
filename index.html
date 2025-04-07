@@ -25,14 +25,15 @@
   <select id="desa" disabled><option value="">Pilih Desa</option></select>
 
   <script>
-    const BASE_URL = 'https://github.com/ChieJuwonsFx/api-wilayah-indonesia'; // ganti dengan URL API kamu
+    const BASE_URL = 'https://chiejuwonsfx.github.io/api-wilayah-indonesia/json';
 
     const provinsiSelect = document.getElementById('provinsi');
     const kabupatenSelect = document.getElementById('kabupaten');
     const kecamatanSelect = document.getElementById('kecamatan');
     const desaSelect = document.getElementById('desa');
 
-    // Helper: Set options
+    let provinsiData = {}; // cache data json provinsi
+
     const populateSelect = (selectElem, items, placeholder) => {
       selectElem.innerHTML = `<option value="">${placeholder}</option>`;
       items.forEach(item => {
@@ -44,45 +45,43 @@
       selectElem.disabled = false;
     };
 
-    // Load provinsi on page load
-    fetch(`${BASE_URL}/provinces`)
+    fetch(`${BASE_URL}/provinces.json`)
       .then(res => res.json())
       .then(data => populateSelect(provinsiSelect, data, 'Pilih Provinsi'));
 
-    // Event Provinsi → Kabupaten
     provinsiSelect.addEventListener('change', function () {
       const provId = this.value;
+      if (!provId) return;
+
       kabupatenSelect.disabled = true;
       kecamatanSelect.disabled = true;
       desaSelect.disabled = true;
 
-      if (!provId) return;
-      fetch(`${BASE_URL}/cities?prov_id=${provId}`)
+      fetch(`${BASE_URL}/provinces/${provId}.json`)
         .then(res => res.json())
-        .then(data => populateSelect(kabupatenSelect, data, 'Pilih Kabupaten/Kota'));
+        .then(data => {
+          provinsiData = data;
+          populateSelect(kabupatenSelect, data.cities, 'Pilih Kabupaten/Kota');
+        });
     });
 
-    // Event Kabupaten → Kecamatan
     kabupatenSelect.addEventListener('change', function () {
       const kabId = this.value;
-      kecamatanSelect.disabled = true;
-      desaSelect.disabled = true;
-
       if (!kabId) return;
-      fetch(`${BASE_URL}/districts?kab_id=${kabId}`)
-        .then(res => res.json())
-        .then(data => populateSelect(kecamatanSelect, data, 'Pilih Kecamatan'));
+
+      const filteredDistricts = provinsiData.districts.filter(d => d.id_kab === kabId);
+      kecamatanSelect.disabled = false;
+      desaSelect.disabled = true;
+      populateSelect(kecamatanSelect, filteredDistricts, 'Pilih Kecamatan');
     });
 
-    // Event Kecamatan → Desa
     kecamatanSelect.addEventListener('change', function () {
       const kecId = this.value;
-      desaSelect.disabled = true;
-
       if (!kecId) return;
-      fetch(`${BASE_URL}/villages?kec_id=${kecId}`)
-        .then(res => res.json())
-        .then(data => populateSelect(desaSelect, data, 'Pilih Desa'));
+
+      const filteredVillages = provinsiData.villages.filter(v => v.id_kec === kecId);
+      desaSelect.disabled = false;
+      populateSelect(desaSelect, filteredVillages, 'Pilih Desa');
     });
   </script>
 
