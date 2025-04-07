@@ -2,27 +2,171 @@
 <html lang="id">
 <head>
   <meta charset="UTF-8">
-  <title>Form Alamat</title>
+  <title>Pilih Alamat Indonesia</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
-    body { font-family: sans-serif; padding: 2rem; }
-    select { margin-bottom: 1rem; padding: 0.5rem; width: 100%; }
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #f0f4f8;
+      margin: 0;
+      padding: 2rem;
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: flex-start;
+      gap: 2rem;
+      min-height: 100vh;
+      background-color: #e7ecf5;
+    }
+
+    .doc-section {
+      max-width: 480px;
+      background: #1E376A;
+      color: white;
+      border-radius: 12px;
+      padding: 2rem;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+      animation: fadeIn 0.4s ease-in-out;
+      min-height: 529px; 
+    }
+
+    .doc-section h3 {
+      margin-top: 0;
+      font-size: 1.5rem;
+      margin-bottom: 1rem;
+    }
+
+    .doc-section p {
+      font-size: 0.95rem;
+      line-height: 1.6;
+    }
+
+    .doc-section ul {
+      padding-left: 1.2rem;
+      margin: 0;
+    }
+
+    .doc-section li {
+      margin-bottom: 0.75rem;
+      line-height: 1.6;
+      font-size: 0.95rem;
+    }
+
+    .doc-section li strong {
+      color: #facc15;
+    }
+
+    .form-card {
+      background: white;
+      border-radius: 12px;
+      padding: 2rem;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+      width: 100%;
+      max-width: 480px;
+      animation: fadeIn 0.4s ease-in-out;
+    }
+
+    h2 {
+      margin-top: 0;
+      margin-bottom: 1.5rem;
+      font-size: 1.5rem;
+      text-align: center;
+      color: #1E376A;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 0.5rem;
+      color: #334155;
+      font-weight: 600;
+    }
+
+    select {
+      width: 100%;
+      padding: 0.7rem 1rem;
+      margin-bottom: 1.2rem;
+      border-radius: 8px;
+      border: 1px solid #cbd5e1;
+      background-color: #f8fafc;
+      transition: border-color 0.3s;
+    }
+
+    select:focus {
+      border-color: #1E376A;
+      outline: none;
+      background-color: #ffffff;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    footer {
+      margin-top: 1rem;
+      font-size: 0.85rem;
+      text-align: center;
+      color: #3b4655;
+    }
+
+    footer a {
+      color: #1E376A;
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      text-decoration: underline;
+    }
+
+    @media (max-width: 768px) {
+      body {
+        flex-direction: column;
+        align-items: stretch;
+        padding: 1rem;
+      }
+    }
   </style>
 </head>
 <body>
 
-  <h2>Pilih Alamat Lengkap</h2>
+  <div class="doc-section">
+    <h3>📘 Deskripsi API</h3>
+    <ul>
+      <li>📦 Data alamat diambil dari <strong>API Wilayah Indonesia</strong> yang memiliki struktur relasional.</li>
+      <li>🧭 Terdapat <strong>38 Provinsi</strong> sesuai pembagian administratif terbaru Indonesia.</li>
+      <li>🔗 Dropdown bersifat <strong>dinamis</strong> berdasarkan pilihan sebelumnya (Provinsi → Kabupaten → Kecamatan → Desa).</li>
+      <li>🌐 Pastikan <strong>terhubung ke internet</strong> agar data bisa dimuat dari API.</li>
+      <li>⚙️ Cocok digunakan untuk: <br>
+        • Formulir pendaftaran <br>
+        • Sistem pelaporan <br>
+        • Pengisian biodata digital</li>
+    </ul>
+  </div>
 
-  <label for="provinsi">Provinsi:</label>
-  <select id="provinsi"><option value="">Pilih Provinsi</option></select>
+  <div class="form-card">
+    <h2>Form Demo API Wilayah Indonesia</h2>
 
-  <label for="kabupaten">Kabupaten/Kota:</label>
-  <select id="kabupaten" disabled><option value="">Pilih Kabupaten</option></select>
+    <label for="provinsi">Provinsi</label>
+    <select id="provinsi"><option value="">Pilih Provinsi</option></select>
 
-  <label for="kecamatan">Kecamatan:</label>
-  <select id="kecamatan" disabled><option value="">Pilih Kecamatan</option></select>
+    <label for="kabupaten">Kabupaten/Kota</label>
+    <select id="kabupaten" disabled><option value="">Pilih Kabupaten</option></select>
 
-  <label for="desa">Desa:</label>
-  <select id="desa" disabled><option value="">Pilih Desa</option></select>
+    <label for="kecamatan">Kecamatan</label>
+    <select id="kecamatan" disabled><option value="">Pilih Kecamatan</option></select>
+
+    <label for="desa">Desa</label>
+    <select id="desa" disabled><option value="">Pilih Desa</option></select>
+
+    <footer>
+      © 2025 - <a href="https://www.instagram.com/rchieee__" style="font-weight: 500;" target="_blank">Richie Olajuwon Santoso</a><br>
+      API ini dapat diakses melalui <a href="https://github.com/ChieJuwonsFx/api-wilayah-indonesia" style="font-weight: 500;" target="_blank">API Wilayah Indonesia</a>
+    </footer>
+  </div>
 
   <script>
     const BASE_URL = 'https://chiejuwonsfx.github.io/api-wilayah-indonesia/json';
@@ -32,7 +176,7 @@
     const kecamatanSelect = document.getElementById('kecamatan');
     const desaSelect = document.getElementById('desa');
 
-    let provinsiData = {}; 
+    let provinsiData = {};
 
     const populateSelect = (selectElem, items, placeholder) => {
       selectElem.innerHTML = `<option value="">${placeholder}</option>`;
