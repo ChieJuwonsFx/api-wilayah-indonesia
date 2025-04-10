@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1805062001",
+    "nama": "Aji Jaya KNPI",
+    "id_kec": "180506"
+  },
+  {
+    "id": "1805062002",
+    "nama": "Kecubung Jaya",
+    "id_kec": "180506"
+  },
+  {
+    "id": "1805062008",
+    "nama": "Kecubung Mulya",
+    "id_kec": "180506"
+  },
+  {
+    "id": "1805062015",
+    "nama": "Gedung Aji",
+    "id_kec": "180506"
+  },
+  {
+    "id": "1805062016",
+    "nama": "Penawar",
+    "id_kec": "180506"
+  },
+  {
+    "id": "1805062022",
+    "nama": "Penawar Baru",
+    "id_kec": "180506"
+  },
+  {
+    "id": "1805062023",
+    "nama": "Aji Murni Jaya",
+    "id_kec": "180506"
+  },
+  {
+    "id": "1805062024",
+    "nama": "Aji Mesir",
+    "id_kec": "180506"
+  },
+  {
+    "id": "1805062025",
+    "nama": "Aji Permai Talang Buah",
+    "id_kec": "180506"
+  },
+  {
+    "id": "1805062026",
+    "nama": "Bandar Aji Jaya",
+    "id_kec": "180506"
+  }
+]

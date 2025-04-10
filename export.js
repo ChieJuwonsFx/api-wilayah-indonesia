@@ -62,3 +62,4 @@ const readCSV = (filename) => {
     console.error('❌ Terjadi kesalahan saat generate:', err);
   }
 })();
+

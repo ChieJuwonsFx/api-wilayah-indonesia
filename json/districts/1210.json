@@ -1,0 +1,47 @@
+[
+  {
+    "id": "121001",
+    "nama": "Rantau Utara",
+    "id_kab": "1210"
+  },
+  {
+    "id": "121002",
+    "nama": "Rantau Selatan",
+    "id_kab": "1210"
+  },
+  {
+    "id": "121007",
+    "nama": "Bilah Barat",
+    "id_kab": "1210"
+  },
+  {
+    "id": "121008",
+    "nama": "Bilah Hilir",
+    "id_kab": "1210"
+  },
+  {
+    "id": "121009",
+    "nama": "Bilah Hulu",
+    "id_kab": "1210"
+  },
+  {
+    "id": "121014",
+    "nama": "Pangkatan",
+    "id_kab": "1210"
+  },
+  {
+    "id": "121018",
+    "nama": "Panai Tengah",
+    "id_kab": "1210"
+  },
+  {
+    "id": "121019",
+    "nama": "Panai Hilir",
+    "id_kab": "1210"
+  },
+  {
+    "id": "121020",
+    "nama": "Panai Hulu",
+    "id_kab": "1210"
+  }
+]

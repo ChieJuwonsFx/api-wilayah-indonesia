@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1505102001",
+    "nama": "Bukit Subur",
+    "id_kec": "150510"
+  },
+  {
+    "id": "1505102002",
+    "nama": "Tri Jaya (Trijaya)",
+    "id_kec": "150510"
+  },
+  {
+    "id": "1505102003",
+    "nama": "Mekar Jaya",
+    "id_kec": "150510"
+  },
+  {
+    "id": "1505102004",
+    "nama": "Ujung Tanjung",
+    "id_kec": "150510"
+  },
+  {
+    "id": "1505102005",
+    "nama": "Tanjung Baru",
+    "id_kec": "150510"
+  },
+  {
+    "id": "1505102006",
+    "nama": "Tanjung Mulia (Tanjungmulya)",
+    "id_kec": "150510"
+  },
+  {
+    "id": "1505102007",
+    "nama": "Adipura Kencana",
+    "id_kec": "150510"
+  },
+  {
+    "id": "1505102008",
+    "nama": "Bukit Jaya",
+    "id_kec": "150510"
+  },
+  {
+    "id": "1505102009",
+    "nama": "Tanjung Sari",
+    "id_kec": "150510"
+  },
+  {
+    "id": "1505102010",
+    "nama": "Tanjung Lebar",
+    "id_kec": "150510"
+  }
+]

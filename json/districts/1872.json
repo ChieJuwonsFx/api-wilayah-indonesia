@@ -1,0 +1,27 @@
+[
+  {
+    "id": "187201",
+    "nama": "Metro Pusat",
+    "id_kab": "1872"
+  },
+  {
+    "id": "187202",
+    "nama": "Metro Utara",
+    "id_kab": "1872"
+  },
+  {
+    "id": "187203",
+    "nama": "Metro Barat",
+    "id_kab": "1872"
+  },
+  {
+    "id": "187204",
+    "nama": "Metro Timur",
+    "id_kab": "1872"
+  },
+  {
+    "id": "187205",
+    "nama": "Metro Selatan",
+    "id_kab": "1872"
+  }
+]

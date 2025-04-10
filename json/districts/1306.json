@@ -1,0 +1,82 @@
+[
+  {
+    "id": "130601",
+    "nama": "Tanjung Mutiara",
+    "id_kab": "1306"
+  },
+  {
+    "id": "130602",
+    "nama": "Lubuk Basung",
+    "id_kab": "1306"
+  },
+  {
+    "id": "130603",
+    "nama": "Tanjung Raya",
+    "id_kab": "1306"
+  },
+  {
+    "id": "130604",
+    "nama": "Matur",
+    "id_kab": "1306"
+  },
+  {
+    "id": "130605",
+    "nama": "IV Koto (Ampek Koto)",
+    "id_kab": "1306"
+  },
+  {
+    "id": "130606",
+    "nama": "Banuhampu",
+    "id_kab": "1306"
+  },
+  {
+    "id": "130607",
+    "nama": "Ampek Angkek (IV Angkat Candung)",
+    "id_kab": "1306"
+  },
+  {
+    "id": "130608",
+    "nama": "Baso",
+    "id_kab": "1306"
+  },
+  {
+    "id": "130609",
+    "nama": "Tilatang Kamang",
+    "id_kab": "1306"
+  },
+  {
+    "id": "130610",
+    "nama": "Palupuh",
+    "id_kab": "1306"
+  },
+  {
+    "id": "130611",
+    "nama": "Palembayan (Pelembayan)",
+    "id_kab": "1306"
+  },
+  {
+    "id": "130612",
+    "nama": "Sungai Pua (Puar)",
+    "id_kab": "1306"
+  },
+  {
+    "id": "130613",
+    "nama": "Ampek Nagari (IV Nagari )",
+    "id_kab": "1306"
+  },
+  {
+    "id": "130614",
+    "nama": "Candung",
+    "id_kab": "1306"
+  },
+  {
+    "id": "130615",
+    "nama": "Kamang Magek",
+    "id_kab": "1306"
+  },
+  {
+    "id": "130616",
+    "nama": "Malalak (Malakak)",
+    "id_kab": "1306"
+  }
+]

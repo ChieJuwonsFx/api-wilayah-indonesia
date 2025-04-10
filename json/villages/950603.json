@@ -1,0 +1,542 @@
+[
+  {
+    "id": "9506032001",
+    "nama": "Abenaho",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032002",
+    "nama": "Wambalfak",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032003",
+    "nama": "Landikma",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032004",
+    "nama": "Dombomi",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032005",
+    "nama": "Dosumo",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032006",
+    "nama": "Wambo",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032007",
+    "nama": "Sombule",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032008",
+    "nama": "Hubliki",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032009",
+    "nama": "Hulikma",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032010",
+    "nama": "Sebi",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032011",
+    "nama": "Suminaikma",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032012",
+    "nama": "Ulun",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032013",
+    "nama": "Fuahe",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032014",
+    "nama": "Wutlarin",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032015",
+    "nama": "Kolaima",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032016",
+    "nama": "Wanggibo",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032017",
+    "nama": "Walagima",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032018",
+    "nama": "Tagabaga",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032019",
+    "nama": "Bohum",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032020",
+    "nama": "Jinggiwi",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032021",
+    "nama": "Hurualma",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032022",
+    "nama": "Humalma",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032023",
+    "nama": "Yahatma",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032024",
+    "nama": "Sohombunu",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032025",
+    "nama": "Bumbum",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032026",
+    "nama": "Burim",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032027",
+    "nama": "Dahonaikma",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032028",
+    "nama": "Musanahikma",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032029",
+    "nama": "Abagima",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032030",
+    "nama": "Waghasilimo",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032031",
+    "nama": "Wileroma",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032032",
+    "nama": "Obabin",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032033",
+    "nama": "Babin",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032034",
+    "nama": "Elesim",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032035",
+    "nama": "Wanwal (Wanmal)",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032036",
+    "nama": "Sabilironggo",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032037",
+    "nama": "Yanamik",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032038",
+    "nama": "Lakongkong (Langongkok)",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032039",
+    "nama": "Helaksili",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032040",
+    "nama": "Bukurik",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032041",
+    "nama": "Kewi",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032042",
+    "nama": "Yambaikma",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032043",
+    "nama": "Hubualma (Hobualma)",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032044",
+    "nama": "Yuktanggo (Yutanggo)",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032045",
+    "nama": "Wambal",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032046",
+    "nama": "Lilimuhuk (Lilinmuhuk)",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032047",
+    "nama": "Hulhule",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032048",
+    "nama": "Mahiyal (Mahial)",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032049",
+    "nama": "Alugi",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032050",
+    "nama": "Sahikma",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032051",
+    "nama": "Bonahik",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032052",
+    "nama": "Eliyekma (Eliekma)",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032053",
+    "nama": "Yabusup",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032054",
+    "nama": "Arikbalek",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032055",
+    "nama": "Yawan",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032056",
+    "nama": "Fuim",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032057",
+    "nama": "Witlanggo (Wiltlanggo)",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032058",
+    "nama": "Worowi (Worol)",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032059",
+    "nama": "Bonggi",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032060",
+    "nama": "Wilak",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032061",
+    "nama": "Wanggun (Wangkun)",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032062",
+    "nama": "Hombanma (Hombanman)",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032063",
+    "nama": "Yama",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032064",
+    "nama": "Halifur",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032065",
+    "nama": "Beim",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032066",
+    "nama": "Ulusi",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032067",
+    "nama": "Salo",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032068",
+    "nama": "Moban",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032069",
+    "nama": "Mulip",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032070",
+    "nama": "Ulukhumi",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032071",
+    "nama": "Halisek",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032072",
+    "nama": "Lohomabel",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032073",
+    "nama": "Kule",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032074",
+    "nama": "Kandibung",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032075",
+    "nama": "Gefido (Gefindo)",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032076",
+    "nama": "Sapiwarek",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032077",
+    "nama": "Fialem",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032078",
+    "nama": "Horakia",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032079",
+    "nama": "Suahe",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032080",
+    "nama": "Uluhufuk",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032081",
+    "nama": "Waroham",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032082",
+    "nama": "Sohi",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032083",
+    "nama": "Akris",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032084",
+    "nama": "Pirikalem",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032085",
+    "nama": "Sumbul",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032086",
+    "nama": "Hundilip",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032087",
+    "nama": "Amuki",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032088",
+    "nama": "Wamhor",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032089",
+    "nama": "Kesuwi",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032090",
+    "nama": "Pamumu",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032091",
+    "nama": "Wafuhuk",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032092",
+    "nama": "Lilluikma (Lilukikma)",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032093",
+    "nama": "Noholuok",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032094",
+    "nama": "Wanam",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032095",
+    "nama": "Nenomani",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032096",
+    "nama": "Wilofing",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032097",
+    "nama": "Salohe",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032098",
+    "nama": "Dama",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032099",
+    "nama": "Kelesu (Klesu)",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032100",
+    "nama": "Kaboholik (Kawokholik)",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032101",
+    "nama": "Horenikma",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032102",
+    "nama": "Lasikma",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032103",
+    "nama": "Suele",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032104",
+    "nama": "Heahobak",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032105",
+    "nama": "Maleo",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032106",
+    "nama": "Usabiye",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032107",
+    "nama": "Wiwulik",
+    "id_kec": "950603"
+  },
+  {
+    "id": "9506032108",
+    "nama": "Somohi",
+    "id_kec": "950603"
+  }
+]

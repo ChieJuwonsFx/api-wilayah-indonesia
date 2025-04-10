@@ -1,0 +1,287 @@
+[
+  {
+    "id": "1108012001",
+    "nama": "Keude Alue Ie Puteh",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012002",
+    "nama": "Meunasah Alue Ie Puteh (Mnsh Alue I Puteh)",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012003",
+    "nama": "Pucok Alue",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012004",
+    "nama": "Alue Anoe Timu (Alue Anou Timu)",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012005",
+    "nama": "Alue Anoe Barat (Alue Anou Barat)",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012006",
+    "nama": "Pulo Seukee (Pulo Seuke)",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012007",
+    "nama": "Alue Serdang",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012008",
+    "nama": "Cot Mane",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012009",
+    "nama": "Cot Kumbang",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012010",
+    "nama": "Matang Kumbang",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012011",
+    "nama": "Matang Kareung",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012012",
+    "nama": "Cot Ulaya",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012013",
+    "nama": "Alue Geudong",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012014",
+    "nama": "Tanjong Glumpang",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012015",
+    "nama": "Matang Raya Timu",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012016",
+    "nama": "Matang Raya Barat",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012017",
+    "nama": "Matang Kelayu",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012018",
+    "nama": "Alue Buya",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012019",
+    "nama": "Matang Cut",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012020",
+    "nama": "Keude Panteu Breuh (Keude Panteu Brueh)",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012021",
+    "nama": "Meudang Ara",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012022",
+    "nama": "Meunasah Bujok",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012023",
+    "nama": "Alue Dama",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012024",
+    "nama": "Cot Ara",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012025",
+    "nama": "Rambong Dalam",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012026",
+    "nama": "Meunasah Geudong",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012027",
+    "nama": "Alue Keutapang",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012028",
+    "nama": "Krueng Lingka Barat",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012029",
+    "nama": "Krueng Lingka Timu",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012030",
+    "nama": "Alue Jamok (Alue Jambok)",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012031",
+    "nama": "Alue Bili Geulumpang",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012032",
+    "nama": "Lhok Seutuy",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012033",
+    "nama": "Alue Bili Rayeuk",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012034",
+    "nama": "Keude Menjee IV (Keude Menyee IV)",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012035",
+    "nama": "Glumpang Bungkok (Geulumpang Bungkok)",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012036",
+    "nama": "Matang Rawa",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012037",
+    "nama": "Glumpang Samlakoe",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012038",
+    "nama": "Arongan Lise",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012039",
+    "nama": "Matang Reudeup (Matang Reudep)",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012040",
+    "nama": "Matang Manyam",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012041",
+    "nama": "Matang Ulim",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012042",
+    "nama": "Matang Beuringen (Matang Beringin)",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012043",
+    "nama": "Cot Manyang",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012044",
+    "nama": "Alue Ie Tarek",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012045",
+    "nama": "Alue Rambong",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012046",
+    "nama": "Matang Linya",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012047",
+    "nama": "Matang Lawang",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012048",
+    "nama": "Glumpang payong",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012049",
+    "nama": "Mon Sukon",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012050",
+    "nama": "Lueng Bata",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012051",
+    "nama": "Ceumpeudak",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012052",
+    "nama": "Buket Dara Baro",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012053",
+    "nama": "Matang Pineung",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012054",
+    "nama": "Matang Baro",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012055",
+    "nama": "Ujong Dama",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012056",
+    "nama": "Babussalam",
+    "id_kec": "110801"
+  },
+  {
+    "id": "1108012057",
+    "nama": "Cinta Makmur",
+    "id_kec": "110801"
+  }
+]

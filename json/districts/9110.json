@@ -1,0 +1,52 @@
+[
+  {
+    "id": "911001",
+    "nama": "Sarmi",
+    "id_kab": "9110"
+  },
+  {
+    "id": "911002",
+    "nama": "Tor Atas",
+    "id_kab": "9110"
+  },
+  {
+    "id": "911003",
+    "nama": "Pantai Barat",
+    "id_kab": "9110"
+  },
+  {
+    "id": "911004",
+    "nama": "Pantai Timur",
+    "id_kab": "9110"
+  },
+  {
+    "id": "911005",
+    "nama": "Bonggo",
+    "id_kab": "9110"
+  },
+  {
+    "id": "911009",
+    "nama": "Apawer Hulu",
+    "id_kab": "9110"
+  },
+  {
+    "id": "911012",
+    "nama": "Sarmi Selatan",
+    "id_kab": "9110"
+  },
+  {
+    "id": "911013",
+    "nama": "Sarmi Timur",
+    "id_kab": "9110"
+  },
+  {
+    "id": "911014",
+    "nama": "Pantai Timur Bagian Barat",
+    "id_kab": "9110"
+  },
+  {
+    "id": "911015",
+    "nama": "Bonggo Timur",
+    "id_kab": "9110"
+  }
+]

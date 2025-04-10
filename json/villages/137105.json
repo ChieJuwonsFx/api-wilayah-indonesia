@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1371051001",
+    "nama": "Bungus Timur",
+    "id_kec": "137105"
+  },
+  {
+    "id": "1371051002",
+    "nama": "Bungus Barat",
+    "id_kec": "137105"
+  },
+  {
+    "id": "1371051003",
+    "nama": "Bungus Selatan",
+    "id_kec": "137105"
+  },
+  {
+    "id": "1371051004",
+    "nama": "Teluk Kabung Utara",
+    "id_kec": "137105"
+  },
+  {
+    "id": "1371051005",
+    "nama": "Teluk Kabung Tengah",
+    "id_kec": "137105"
+  },
+  {
+    "id": "1371051006",
+    "nama": "Teluk Kabung Selatan",
+    "id_kec": "137105"
+  }
+]
