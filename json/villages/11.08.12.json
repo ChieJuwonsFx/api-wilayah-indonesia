@@ -1,0 +1,287 @@
+[
+  {
+    "id": "11.08.12.2001",
+    "nama": "Pulo Blang",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2002",
+    "nama": "Matang Ben",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2003",
+    "nama": "Matang Ceubrek (Cibrek)",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2004",
+    "nama": "Deng (Gampong Deng)",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2005",
+    "nama": "Rawa",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2006",
+    "nama": "Punti Pulo Agam",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2007",
+    "nama": "Alue Pangkat",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2008",
+    "nama": "Teungoh Pulo Agam (Teungoh Pulo Agam)",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2009",
+    "nama": "Hueng",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2010",
+    "nama": "Pulo U",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2011",
+    "nama": "Alue Keujruen",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2012",
+    "nama": "Paya Beurandang",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2013",
+    "nama": "Manyang Tunong",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2014",
+    "nama": "Tutong (Meunasah Tutong)",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2015",
+    "nama": "Ampeh (Gampong Ampeh)",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2016",
+    "nama": "Alue (Gampong Alue)",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2017",
+    "nama": "Teungku Dibalee (Teungku Dibale)",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2018",
+    "nama": "Keude Blang Jruen",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2019",
+    "nama": "Blang Jruen",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2020",
+    "nama": "Ujong Baroh Berghang",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2021",
+    "nama": "Jeumpa Berghang",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2022",
+    "nama": "Teungoh Berghang (Gampong Teungoh Berghang)",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2023",
+    "nama": "Pante Berghang",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2024",
+    "nama": "Serba Jaman (Gampong Serba Jaman)",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2025",
+    "nama": "Rayeuk Naleung",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2026",
+    "nama": "Rangkaya",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2027",
+    "nama": "Paya (Gampong Paya)",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2028",
+    "nama": "Blang Bidok",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2029",
+    "nama": "Rayeuk Kuta",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2030",
+    "nama": "Rayeuk Munye (Rayeuk Meunye)",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2031",
+    "nama": "Ujong Baroh Sb",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2032",
+    "nama": "Trieng",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2033",
+    "nama": "Manyang SB",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2034",
+    "nama": "Ceubrek (Cibrek)",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2035",
+    "nama": "Keutapang",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2036",
+    "nama": "Matang Mane",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2037",
+    "nama": "Alue Gampong",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2038",
+    "nama": "Bayi",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2039",
+    "nama": "Tumpok Aceh",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2040",
+    "nama": "Ulee Buket",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2041",
+    "nama": "Cot Dam/Dah",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2042",
+    "nama": "Leupon Siren",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2043",
+    "nama": "Blang Trieng (Gampong Blang Trieng)",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2044",
+    "nama": "Alue Sijuek",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2045",
+    "nama": "Hagu",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2046",
+    "nama": "Teupin Mee (Gampong Teupin Me)",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2047",
+    "nama": "Plu Pakam",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2048",
+    "nama": "Blang Pie",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2049",
+    "nama": "Punti Seuleumak Barat",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2050",
+    "nama": "Serba Jaman Tunong",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2051",
+    "nama": "Leuhong (Leu Hong)",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2052",
+    "nama": "Blang",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2053",
+    "nama": "Tanjong Mesjid",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2054",
+    "nama": "Serba Jaman Baroh",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2055",
+    "nama": "Cot Barat",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2056",
+    "nama": "Matang Baloy",
+    "id_kec": "11.08.12"
+  },
+  {
+    "id": "11.08.12.2057",
+    "nama": "Buket Makarti (Bukit Makarti)",
+    "id_kec": "11.08.12"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "75.03.01",
+    "nama": "Tapa",
+    "id_kab": "75.03"
+  },
+  {
+    "id": "75.03.02",
+    "nama": "Kabila",
+    "id_kab": "75.03"
+  },
+  {
+    "id": "75.03.03",
+    "nama": "Suwawa",
+    "id_kab": "75.03"
+  },
+  {
+    "id": "75.03.04",
+    "nama": "Bonepantai",
+    "id_kab": "75.03"
+  },
+  {
+    "id": "75.03.05",
+    "nama": "Bulango Utara",
+    "id_kab": "75.03"
+  },
+  {
+    "id": "75.03.06",
+    "nama": "Tilongkabila",
+    "id_kab": "75.03"
+  },
+  {
+    "id": "75.03.07",
+    "nama": "Botupingge (Botu Pingge)",
+    "id_kab": "75.03"
+  },
+  {
+    "id": "75.03.08",
+    "nama": "Kabila Bone",
+    "id_kab": "75.03"
+  },
+  {
+    "id": "75.03.09",
+    "nama": "Bone",
+    "id_kab": "75.03"
+  },
+  {
+    "id": "75.03.10",
+    "nama": "Bone Raya",
+    "id_kab": "75.03"
+  },
+  {
+    "id": "75.03.11",
+    "nama": "Suwawa Timur",
+    "id_kab": "75.03"
+  },
+  {
+    "id": "75.03.12",
+    "nama": "Suwawa Selatan",
+    "id_kab": "75.03"
+  },
+  {
+    "id": "75.03.13",
+    "nama": "Suwawa Tengah",
+    "id_kab": "75.03"
+  },
+  {
+    "id": "75.03.14",
+    "nama": "Bulango Ulu",
+    "id_kab": "75.03"
+  },
+  {
+    "id": "75.03.15",
+    "nama": "Bulango Selatan",
+    "id_kab": "75.03"
+  },
+  {
+    "id": "75.03.16",
+    "nama": "Bulango Timur",
+    "id_kab": "75.03"
+  },
+  {
+    "id": "75.03.17",
+    "nama": "Bulawa",
+    "id_kab": "75.03"
+  },
+  {
+    "id": "75.03.18",
+    "nama": "Pinogu",
+    "id_kab": "75.03"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "12.12.05.2001",
+    "nama": "Meranti Utara",
+    "id_kec": "12.12.05"
+  },
+  {
+    "id": "12.12.05.2002",
+    "nama": "Meranti Timur",
+    "id_kec": "12.12.05"
+  },
+  {
+    "id": "12.12.05.2003",
+    "nama": "Meranti Tengah",
+    "id_kec": "12.12.05"
+  },
+  {
+    "id": "12.12.05.2007",
+    "nama": "Pintu Pohan",
+    "id_kec": "12.12.05"
+  },
+  {
+    "id": "12.12.05.2008",
+    "nama": "Ambar Halim",
+    "id_kec": "12.12.05"
+  },
+  {
+    "id": "12.12.05.2009",
+    "nama": "Pintu Pohan Dolok",
+    "id_kec": "12.12.05"
+  },
+  {
+    "id": "12.12.05.2010",
+    "nama": "Halado",
+    "id_kec": "12.12.05"
+  }
+]

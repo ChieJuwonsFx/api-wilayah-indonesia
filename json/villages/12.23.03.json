@@ -1,0 +1,37 @@
+[
+  {
+    "id": "12.23.03.1001",
+    "nama": "Kampung Mesjid",
+    "id_kec": "12.23.03"
+  },
+  {
+    "id": "12.23.03.2002",
+    "nama": "Kuala Bangka",
+    "id_kec": "12.23.03"
+  },
+  {
+    "id": "12.23.03.2003",
+    "nama": "Sei/Sungai Sentang",
+    "id_kec": "12.23.03"
+  },
+  {
+    "id": "12.23.03.2004",
+    "nama": "Teluk Piai",
+    "id_kec": "12.23.03"
+  },
+  {
+    "id": "12.23.03.2005",
+    "nama": "Tanjung Mangedar",
+    "id_kec": "12.23.03"
+  },
+  {
+    "id": "12.23.03.2006",
+    "nama": "Teluk Binjai",
+    "id_kec": "12.23.03"
+  },
+  {
+    "id": "12.23.03.2007",
+    "nama": "Sei/Sungai Apung",
+    "id_kec": "12.23.03"
+  }
+]

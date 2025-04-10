@@ -1,0 +1,47 @@
+[
+  {
+    "id": "65.01.05.1001",
+    "nama": "Tanjung Selor Ulu/Hulu",
+    "id_kec": "65.01.05"
+  },
+  {
+    "id": "65.01.05.1002",
+    "nama": "Tanjung Selor Ilir/Hilir",
+    "id_kec": "65.01.05"
+  },
+  {
+    "id": "65.01.05.1008",
+    "nama": "Tanjung Selor Timur",
+    "id_kec": "65.01.05"
+  },
+  {
+    "id": "65.01.05.2003",
+    "nama": "Jelarai Selor",
+    "id_kec": "65.01.05"
+  },
+  {
+    "id": "65.01.05.2004",
+    "nama": "Gunung Seriang",
+    "id_kec": "65.01.05"
+  },
+  {
+    "id": "65.01.05.2005",
+    "nama": "Bumi Rahayu",
+    "id_kec": "65.01.05"
+  },
+  {
+    "id": "65.01.05.2006",
+    "nama": "Gunung Sari",
+    "id_kec": "65.01.05"
+  },
+  {
+    "id": "65.01.05.2007",
+    "nama": "Apung",
+    "id_kec": "65.01.05"
+  },
+  {
+    "id": "65.01.05.2009",
+    "nama": "Tengkapak",
+    "id_kec": "65.01.05"
+  }
+]

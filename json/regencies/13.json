@@ -1,0 +1,97 @@
+[
+  {
+    "id": "13.01",
+    "nama": "Pesisir Selatan",
+    "id_prov": "13"
+  },
+  {
+    "id": "13.02",
+    "nama": "Solok",
+    "id_prov": "13"
+  },
+  {
+    "id": "13.03",
+    "nama": "Sijunjung",
+    "id_prov": "13"
+  },
+  {
+    "id": "13.04",
+    "nama": "Tanah Datar",
+    "id_prov": "13"
+  },
+  {
+    "id": "13.05",
+    "nama": "Padang Pariaman",
+    "id_prov": "13"
+  },
+  {
+    "id": "13.06",
+    "nama": "Agam",
+    "id_prov": "13"
+  },
+  {
+    "id": "13.07",
+    "nama": "Lima Puluh Kota",
+    "id_prov": "13"
+  },
+  {
+    "id": "13.08",
+    "nama": "Pasaman",
+    "id_prov": "13"
+  },
+  {
+    "id": "13.09",
+    "nama": "Kepulauan Mentawai",
+    "id_prov": "13"
+  },
+  {
+    "id": "13.10",
+    "nama": "Dharmasraya",
+    "id_prov": "13"
+  },
+  {
+    "id": "13.11",
+    "nama": "Solok Selatan",
+    "id_prov": "13"
+  },
+  {
+    "id": "13.12",
+    "nama": "Pasaman Barat",
+    "id_prov": "13"
+  },
+  {
+    "id": "13.71",
+    "nama": "Kota Padang",
+    "id_prov": "13"
+  },
+  {
+    "id": "13.72",
+    "nama": "Kota Solok",
+    "id_prov": "13"
+  },
+  {
+    "id": "13.73",
+    "nama": "Kota Sawahlunto",
+    "id_prov": "13"
+  },
+  {
+    "id": "13.74",
+    "nama": "Kota Padang Panjang",
+    "id_prov": "13"
+  },
+  {
+    "id": "13.75",
+    "nama": "Kota Bukittinggi",
+    "id_prov": "13"
+  },
+  {
+    "id": "13.76",
+    "nama": "Kota Payakumbuh",
+    "id_prov": "13"
+  },
+  {
+    "id": "13.77",
+    "nama": "Kota Pariaman",
+    "id_prov": "13"
+  }
+]

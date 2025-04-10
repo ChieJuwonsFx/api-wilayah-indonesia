@@ -1,0 +1,37 @@
+[
+  {
+    "id": "21.01",
+    "nama": "Bintan",
+    "id_prov": "21"
+  },
+  {
+    "id": "21.02",
+    "nama": "Karimun",
+    "id_prov": "21"
+  },
+  {
+    "id": "21.03",
+    "nama": "Natuna",
+    "id_prov": "21"
+  },
+  {
+    "id": "21.04",
+    "nama": "Lingga",
+    "id_prov": "21"
+  },
+  {
+    "id": "21.05",
+    "nama": "Kepulauan Anambas",
+    "id_prov": "21"
+  },
+  {
+    "id": "21.71",
+    "nama": "Kota Batam",
+    "id_prov": "21"
+  },
+  {
+    "id": "21.72",
+    "nama": "Kota Tanjung Pinang",
+    "id_prov": "21"
+  }
+]

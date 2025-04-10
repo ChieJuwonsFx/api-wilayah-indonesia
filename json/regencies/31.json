@@ -1,0 +1,32 @@
+[
+  {
+    "id": "31.01",
+    "nama": "Kepulauan Seribu",
+    "id_prov": "31"
+  },
+  {
+    "id": "31.71",
+    "nama": "Kota Jakarta Pusat",
+    "id_prov": "31"
+  },
+  {
+    "id": "31.72",
+    "nama": "Kota Jakarta Utara",
+    "id_prov": "31"
+  },
+  {
+    "id": "31.73",
+    "nama": "Kota Jakarta Barat",
+    "id_prov": "31"
+  },
+  {
+    "id": "31.74",
+    "nama": "Kota Jakarta Selatan",
+    "id_prov": "31"
+  },
+  {
+    "id": "31.75",
+    "nama": "Kota Jakarta Timur",
+    "id_prov": "31"
+  }
+]

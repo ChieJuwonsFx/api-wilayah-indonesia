@@ -1,0 +1,82 @@
+[
+  {
+    "id": "19.02.01.1001",
+    "nama": "Kota",
+    "id_kec": "19.02.01"
+  },
+  {
+    "id": "19.02.01.1002",
+    "nama": "Parit",
+    "id_kec": "19.02.01"
+  },
+  {
+    "id": "19.02.01.1005",
+    "nama": "Lesung Batang",
+    "id_kec": "19.02.01"
+  },
+  {
+    "id": "19.02.01.1006",
+    "nama": "Pangkallalang",
+    "id_kec": "19.02.01"
+  },
+  {
+    "id": "19.02.01.1009",
+    "nama": "Tanjungpendam",
+    "id_kec": "19.02.01"
+  },
+  {
+    "id": "19.02.01.1011",
+    "nama": "Paal Satu",
+    "id_kec": "19.02.01"
+  },
+  {
+    "id": "19.02.01.1016",
+    "nama": "Kampong Damai",
+    "id_kec": "19.02.01"
+  },
+  {
+    "id": "19.02.01.2003",
+    "nama": "Buluh Tumbang",
+    "id_kec": "19.02.01"
+  },
+  {
+    "id": "19.02.01.2004",
+    "nama": "Perawas",
+    "id_kec": "19.02.01"
+  },
+  {
+    "id": "19.02.01.2007",
+    "nama": "Dukong",
+    "id_kec": "19.02.01"
+  },
+  {
+    "id": "19.02.01.2008",
+    "nama": "Juru Seberang",
+    "id_kec": "19.02.01"
+  },
+  {
+    "id": "19.02.01.2010",
+    "nama": "Air Saga",
+    "id_kec": "19.02.01"
+  },
+  {
+    "id": "19.02.01.2012",
+    "nama": "Air Merbau",
+    "id_kec": "19.02.01"
+  },
+  {
+    "id": "19.02.01.2013",
+    "nama": "Aik Pelempang Jaya (Aik Palempang Jaya)",
+    "id_kec": "19.02.01"
+  },
+  {
+    "id": "19.02.01.2014",
+    "nama": "Aik Ketekok",
+    "id_kec": "19.02.01"
+  },
+  {
+    "id": "19.02.01.2015",
+    "nama": "Aik Rayak",
+    "id_kec": "19.02.01"
+  }
+]

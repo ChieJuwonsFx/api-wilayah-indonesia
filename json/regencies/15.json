@@ -1,0 +1,57 @@
+[
+  {
+    "id": "15.01",
+    "nama": "Kerinci",
+    "id_prov": "15"
+  },
+  {
+    "id": "15.02",
+    "nama": "Merangin",
+    "id_prov": "15"
+  },
+  {
+    "id": "15.03",
+    "nama": "Sarolangun",
+    "id_prov": "15"
+  },
+  {
+    "id": "15.04",
+    "nama": "Batanghari",
+    "id_prov": "15"
+  },
+  {
+    "id": "15.05",
+    "nama": "Muaro Jambi",
+    "id_prov": "15"
+  },
+  {
+    "id": "15.06",
+    "nama": "Tanjung Jabung Barat",
+    "id_prov": "15"
+  },
+  {
+    "id": "15.07",
+    "nama": "Tanjung Jabung Timur",
+    "id_prov": "15"
+  },
+  {
+    "id": "15.08",
+    "nama": "Bungo",
+    "id_prov": "15"
+  },
+  {
+    "id": "15.09",
+    "nama": "Tebo",
+    "id_prov": "15"
+  },
+  {
+    "id": "15.71",
+    "nama": "Kota Jambi",
+    "id_prov": "15"
+  },
+  {
+    "id": "15.72",
+    "nama": "Kota Sungai Penuh",
+    "id_prov": "15"
+  }
+]

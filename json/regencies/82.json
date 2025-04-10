@@ -1,0 +1,52 @@
+[
+  {
+    "id": "82.01",
+    "nama": "Halmahera Barat",
+    "id_prov": "82"
+  },
+  {
+    "id": "82.02",
+    "nama": "Halmahera Tengah",
+    "id_prov": "82"
+  },
+  {
+    "id": "82.03",
+    "nama": "Halmahera Utara",
+    "id_prov": "82"
+  },
+  {
+    "id": "82.04",
+    "nama": "Halmahera Selatan",
+    "id_prov": "82"
+  },
+  {
+    "id": "82.05",
+    "nama": "Kepulauan Sula",
+    "id_prov": "82"
+  },
+  {
+    "id": "82.06",
+    "nama": "Halmahera Timur",
+    "id_prov": "82"
+  },
+  {
+    "id": "82.07",
+    "nama": "Pulau Morotai",
+    "id_prov": "82"
+  },
+  {
+    "id": "82.08",
+    "nama": "Pulau Taliabu",
+    "id_prov": "82"
+  },
+  {
+    "id": "82.71",
+    "nama": "Kota Ternate",
+    "id_prov": "82"
+  },
+  {
+    "id": "82.72",
+    "nama": "Kota Tidore Kepulauan",
+    "id_prov": "82"
+  }
+]

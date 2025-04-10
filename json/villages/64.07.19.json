@@ -1,0 +1,77 @@
+[
+  {
+    "id": "64.07.19.2001",
+    "nama": "Tering Baru",
+    "id_kec": "64.07.19"
+  },
+  {
+    "id": "64.07.19.2002",
+    "nama": "Tering Lama",
+    "id_kec": "64.07.19"
+  },
+  {
+    "id": "64.07.19.2003",
+    "nama": "Linggang Tering Seberang (Tering Seberang)",
+    "id_kec": "64.07.19"
+  },
+  {
+    "id": "64.07.19.2004",
+    "nama": "Tukul",
+    "id_kec": "64.07.19"
+  },
+  {
+    "id": "64.07.19.2005",
+    "nama": "Linggang Kelubaq (Kelubaq)",
+    "id_kec": "64.07.19"
+  },
+  {
+    "id": "64.07.19.2006",
+    "nama": "Linggang Purworejo (Purworejo)",
+    "id_kec": "64.07.19"
+  },
+  {
+    "id": "64.07.19.2007",
+    "nama": "Linggang Jelemuq (Jelemuq)",
+    "id_kec": "64.07.19"
+  },
+  {
+    "id": "64.07.19.2008",
+    "nama": "Kelian Dalam",
+    "id_kec": "64.07.19"
+  },
+  {
+    "id": "64.07.19.2009",
+    "nama": "Linggang Muara Mujan (Muara Mujan)",
+    "id_kec": "64.07.19"
+  },
+  {
+    "id": "64.07.19.2010",
+    "nama": "Muyub Ulu",
+    "id_kec": "64.07.19"
+  },
+  {
+    "id": "64.07.19.2011",
+    "nama": "Muyub Aket",
+    "id_kec": "64.07.19"
+  },
+  {
+    "id": "64.07.19.2013",
+    "nama": "Linggang Muyub Ilir (Muyub Ilir)",
+    "id_kec": "64.07.19"
+  },
+  {
+    "id": "64.07.19.2014",
+    "nama": "Gabung Baru",
+    "id_kec": "64.07.19"
+  },
+  {
+    "id": "64.07.19.2015",
+    "nama": "Linggang Banjarejo (Banjarejo)",
+    "id_kec": "64.07.19"
+  },
+  {
+    "id": "64.07.19.2016",
+    "nama": "Tering Lama Ulu",
+    "id_kec": "64.07.19"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "14.10.01.1001",
+    "nama": "Selatpanjang Kota",
+    "id_kec": "14.10.01"
+  },
+  {
+    "id": "14.10.01.1002",
+    "nama": "Selatpanjang Barat",
+    "id_kec": "14.10.01"
+  },
+  {
+    "id": "14.10.01.1003",
+    "nama": "Selatpanjang Selatan",
+    "id_kec": "14.10.01"
+  },
+  {
+    "id": "14.10.01.1004",
+    "nama": "Selatpanjang Timur",
+    "id_kec": "14.10.01"
+  },
+  {
+    "id": "14.10.01.2005",
+    "nama": "Banglas",
+    "id_kec": "14.10.01"
+  },
+  {
+    "id": "14.10.01.2006",
+    "nama": "Alah Air",
+    "id_kec": "14.10.01"
+  },
+  {
+    "id": "14.10.01.2007",
+    "nama": "Alah Air Timur",
+    "id_kec": "14.10.01"
+  },
+  {
+    "id": "14.10.01.2008",
+    "nama": "Sesap",
+    "id_kec": "14.10.01"
+  },
+  {
+    "id": "14.10.01.2016",
+    "nama": "Banglas Barat",
+    "id_kec": "14.10.01"
+  }
+]

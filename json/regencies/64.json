@@ -1,0 +1,52 @@
+[
+  {
+    "id": "64.01",
+    "nama": "Paser",
+    "id_prov": "64"
+  },
+  {
+    "id": "64.02",
+    "nama": "Kutai Kartanegara",
+    "id_prov": "64"
+  },
+  {
+    "id": "64.03",
+    "nama": "Berau",
+    "id_prov": "64"
+  },
+  {
+    "id": "64.07",
+    "nama": "Kutai Barat",
+    "id_prov": "64"
+  },
+  {
+    "id": "64.08",
+    "nama": "Kutai Timur",
+    "id_prov": "64"
+  },
+  {
+    "id": "64.09",
+    "nama": "Penajam Paser Utara",
+    "id_prov": "64"
+  },
+  {
+    "id": "64.11",
+    "nama": "Mahakam Ulu",
+    "id_prov": "64"
+  },
+  {
+    "id": "64.71",
+    "nama": "Kota Balikpapan",
+    "id_prov": "64"
+  },
+  {
+    "id": "64.72",
+    "nama": "Kota Samarinda",
+    "id_prov": "64"
+  },
+  {
+    "id": "64.74",
+    "nama": "Kota Bontang",
+    "id_prov": "64"
+  }
+]

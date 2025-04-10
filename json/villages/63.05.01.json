@@ -1,0 +1,57 @@
+[
+  {
+    "id": "63.05.01.1001",
+    "nama": "Binuang",
+    "id_kec": "63.05.01"
+  },
+  {
+    "id": "63.05.01.1017",
+    "nama": "Karang Putih",
+    "id_kec": "63.05.01"
+  },
+  {
+    "id": "63.05.01.1018",
+    "nama": "Raya Belanti",
+    "id_kec": "63.05.01"
+  },
+  {
+    "id": "63.05.01.2003",
+    "nama": "Tungkap",
+    "id_kec": "63.05.01"
+  },
+  {
+    "id": "63.05.01.2006",
+    "nama": "A Yani Pura",
+    "id_kec": "63.05.01"
+  },
+  {
+    "id": "63.05.01.2007",
+    "nama": "Pulaupinang (Pulau Pinang)",
+    "id_kec": "63.05.01"
+  },
+  {
+    "id": "63.05.01.2008",
+    "nama": "Pualam Sari",
+    "id_kec": "63.05.01"
+  },
+  {
+    "id": "63.05.01.2009",
+    "nama": "Gunungbatu (Gunung Batu)",
+    "id_kec": "63.05.01"
+  },
+  {
+    "id": "63.05.01.2012",
+    "nama": "Pulaupinang Utara (Pulau Pinang Utara)",
+    "id_kec": "63.05.01"
+  },
+  {
+    "id": "63.05.01.2016",
+    "nama": "Padang Sari",
+    "id_kec": "63.05.01"
+  },
+  {
+    "id": "63.05.01.2019",
+    "nama": "Mekarsari",
+    "id_kec": "63.05.01"
+  }
+]

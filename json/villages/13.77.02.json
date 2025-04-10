@@ -1,0 +1,87 @@
+[
+  {
+    "id": "13.77.02.2005",
+    "nama": "Ampalu",
+    "id_kec": "13.77.02"
+  },
+  {
+    "id": "13.77.02.2006",
+    "nama": "Apar",
+    "id_kec": "13.77.02"
+  },
+  {
+    "id": "13.77.02.2007",
+    "nama": "Tanjung Sabar (Tanjuang Sabar)",
+    "id_kec": "13.77.02"
+  },
+  {
+    "id": "13.77.02.2008",
+    "nama": "Cubadak Air Selatan (Cubadak Aia Selatan)",
+    "id_kec": "13.77.02"
+  },
+  {
+    "id": "13.77.02.2009",
+    "nama": "Sikapak Barat",
+    "id_kec": "13.77.02"
+  },
+  {
+    "id": "13.77.02.2010",
+    "nama": "Sikapak Timur",
+    "id_kec": "13.77.02"
+  },
+  {
+    "id": "13.77.02.2011",
+    "nama": "Manggung (Mangguang)",
+    "id_kec": "13.77.02"
+  },
+  {
+    "id": "13.77.02.2012",
+    "nama": "Cubadak Air Utara (Cubadak Aia Utara)",
+    "id_kec": "13.77.02"
+  },
+  {
+    "id": "13.77.02.2013",
+    "nama": "Tungkal Selatan (Tungka Selatan)",
+    "id_kec": "13.77.02"
+  },
+  {
+    "id": "13.77.02.2014",
+    "nama": "Naras Hilir (Nareh Hilia)",
+    "id_kec": "13.77.02"
+  },
+  {
+    "id": "13.77.02.2015",
+    "nama": "Naras I (Nareh I)",
+    "id_kec": "13.77.02"
+  },
+  {
+    "id": "13.77.02.2016",
+    "nama": "Balai Naras/Nareh",
+    "id_kec": "13.77.02"
+  },
+  {
+    "id": "13.77.02.2017",
+    "nama": "Padang Birik-Birik (Biriak-Biriak)",
+    "id_kec": "13.77.02"
+  },
+  {
+    "id": "13.77.02.2018",
+    "nama": "Sintuk (Sintuak)",
+    "id_kec": "13.77.02"
+  },
+  {
+    "id": "13.77.02.2019",
+    "nama": "Sungai Rambai",
+    "id_kec": "13.77.02"
+  },
+  {
+    "id": "13.77.02.2020",
+    "nama": "Tungkal Utara (Tungka Utara)",
+    "id_kec": "13.77.02"
+  },
+  {
+    "id": "13.77.02.2021",
+    "nama": "Cubadak Air/Aia",
+    "id_kec": "13.77.02"
+  }
+]

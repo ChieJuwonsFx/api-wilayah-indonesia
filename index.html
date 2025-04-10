@@ -4,6 +4,8 @@
   <meta charset="UTF-8">
   <title>Pilih Alamat Indonesia</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
   <style>
     * {
       box-sizing: border-box;
@@ -169,64 +171,131 @@
   </div>
 
   <script>
-    const BASE_URL = 'https://chiejuwonsfx.github.io/api-wilayah-indonesia/json';
+    $(document).ready(function() {
+      const BASE_URL = 'https://chiejuwonsfx.github.io/api-wilayah-indonesia/json';
+      let provinsiData = {};
 
-    const provinsiSelect = document.getElementById('provinsi');
-    const kabupatenSelect = document.getElementById('kabupaten');
-    const kecamatanSelect = document.getElementById('kecamatan');
-    const desaSelect = document.getElementById('desa');
-
-    let provinsiData = {};
-
-    const populateSelect = (selectElem, items, placeholder) => {
-      selectElem.innerHTML = `<option value="">${placeholder}</option>`;
-      items.forEach(item => {
-        const opt = document.createElement('option');
-        opt.value = item.id;
-        opt.textContent = item.nama;
-        selectElem.appendChild(opt);
-      });
-      selectElem.disabled = false;
-    };
-
-    fetch(`${BASE_URL}/provinces.json`)
-      .then(res => res.json())
-      .then(data => populateSelect(provinsiSelect, data, 'Pilih Provinsi'));
-
-    provinsiSelect.addEventListener('change', function () {
-      const provId = this.value;
-      if (!provId) return;
-
-      kabupatenSelect.disabled = true;
-      kecamatanSelect.disabled = true;
-      desaSelect.disabled = true;
-
-      fetch(`${BASE_URL}/provinces/${provId}.json`)
-        .then(res => res.json())
-        .then(data => {
-          provinsiData = data;
-          populateSelect(kabupatenSelect, data.cities, 'Pilih Kabupaten/Kota');
+      const populateSelect = (selectElem, items, placeholder) => {
+        let options = `<option value="">${placeholder}</option>`;
+        
+        $.each(items, function(index, item) {
+          options += `<option value="${item.id}">${item.nama}</option>`;
         });
+        
+        selectElem.html(options).prop('disabled', false);
+      };
+
+      $.getJSON(`${BASE_URL}/provinces.json`, function(data) {
+        populateSelect($('#provinsi'), data, 'Pilih Provinsi');
+      }).fail(function() {
+        alert('Gagal memuat data provinsi. Pastikan Anda terhubung ke internet.');
+      });
+
+      $('#provinsi').on('change', function() {
+        const provId = $(this).val();
+        if (!provId) {
+          $('#kabupaten').html('<option value="">Pilih Kabupaten</option>').prop('disabled', true);
+          $('#kecamatan, #desa').html('<option value="">Pilih Kecamatan</option>').prop('disabled', true);
+          $('#desa').html('<option value="">Pilih Desa</option>').prop('disabled', true);
+          return;
+        }
+
+        $.getJSON(`${BASE_URL}/provinces/${provId}.json`, function(data) {
+          provinsiData = data;
+          populateSelect($('#kabupaten'), data.cities, 'Pilih Kabupaten/Kota');
+        }).fail(function() {
+          alert('Gagal memuat data kabupaten. Silakan coba lagi.');
+          $('#kabupaten').html('<option value="">Gagal memuat</option>');
+        });
+      });
+
+      $('#kabupaten').on('change', function() {
+        const kabId = $(this).val();
+        if (!kabId) {
+          $('#kecamatan, #desa').html('<option value="">Pilih Kecamatan</option>').prop('disabled', true);
+          $('#desa').html('<option value="">Pilih Desa</option>').prop('disabled', true);
+          return;
+        }
+
+        const filteredDistricts = provinsiData.districts.filter(function(d) {
+          return d.id_kab === kabId;
+        });
+        
+        populateSelect($('#kecamatan'), filteredDistricts, 'Pilih Kecamatan');
+      });
+
+      $('#kecamatan').on('change', function() {
+        const kecId = $(this).val();
+        if (!kecId) {
+          $('#desa').html('<option value="">Pilih Desa</option>').prop('disabled', true);
+          return;
+        }
+
+        const filteredVillages = provinsiData.villages.filter(function(v) {
+          return v.id_kec === kecId;
+        });
+        
+        populateSelect($('#desa'), filteredVillages, 'Pilih Desa');
+      });
     });
+    // const BASE_URL = 'https://chiejuwonsfx.github.io/api-wilayah-indonesia/json';
 
-    kabupatenSelect.addEventListener('change', function () {
-      const kabId = this.value;
-      if (!kabId) return;
+    // const provinsiSelect = document.getElementById('provinsi');
+    // const kabupatenSelect = document.getElementById('kabupaten');
+    // const kecamatanSelect = document.getElementById('kecamatan');
+    // const desaSelect = document.getElementById('desa');
 
-      const filteredDistricts = provinsiData.districts.filter(d => d.id_kab === kabId);
-      kecamatanSelect.disabled = false;
-      desaSelect.disabled = true;
-      populateSelect(kecamatanSelect, filteredDistricts, 'Pilih Kecamatan');
-    });
+    // let provinsiData = {};
 
-    kecamatanSelect.addEventListener('change', function () {
-      const kecId = this.value;
-      if (!kecId) return;
+    // const populateSelect = (selectElem, items, placeholder) => {
+    //   selectElem.innerHTML = `<option value="">${placeholder}</option>`;
+    //   items.forEach(item => {
+    //     const opt = document.createElement('option');
+    //     opt.value = item.id;
+    //     opt.textContent = item.nama;
+    //     selectElem.appendChild(opt);
+    //   });
+    //   selectElem.disabled = false;
+    // };
 
-      const filteredVillages = provinsiData.villages.filter(v => v.id_kec === kecId);
-      desaSelect.disabled = false;
-      populateSelect(desaSelect, filteredVillages, 'Pilih Desa');
-    });
+    // fetch(`${BASE_URL}/provinces.json`)
+    //   .then(res => res.json())
+    //   .then(data => populateSelect(provinsiSelect, data, 'Pilih Provinsi'));
+
+    // provinsiSelect.addEventListener('change', function () {
+    //   const provId = this.value;
+    //   if (!provId) return;
+
+    //   kabupatenSelect.disabled = true;
+    //   kecamatanSelect.disabled = true;
+    //   desaSelect.disabled = true;
+
+    //   fetch(`${BASE_URL}/provinces/${provId}.json`)
+    //     .then(res => res.json())
+    //     .then(data => {
+    //       provinsiData = data;
+    //       populateSelect(kabupatenSelect, data.cities, 'Pilih Kabupaten/Kota');
+    //     });
+    // });
+
+    // kabupatenSelect.addEventListener('change', function () {
+    //   const kabId = this.value;
+    //   if (!kabId) return;
+
+    //   const filteredDistricts = provinsiData.districts.filter(d => d.id_kab === kabId);
+    //   kecamatanSelect.disabled = false;
+    //   desaSelect.disabled = true;
+    //   populateSelect(kecamatanSelect, filteredDistricts, 'Pilih Kecamatan');
+    // });
+
+    // kecamatanSelect.addEventListener('change', function () {
+    //   const kecId = this.value;
+    //   if (!kecId) return;
+
+    //   const filteredVillages = provinsiData.villages.filter(v => v.id_kec === kecId);
+    //   desaSelect.disabled = false;
+    //   populateSelect(desaSelect, filteredVillages, 'Pilih Desa');
+    // });
   </script>
 
 </body>

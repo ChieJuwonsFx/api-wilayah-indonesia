@@ -1,0 +1,27 @@
+[
+  {
+    "id": "72.10.10.2001",
+    "nama": "Lambara",
+    "id_kec": "72.10.10"
+  },
+  {
+    "id": "72.10.10.2002",
+    "nama": "Sibalaya Selatan",
+    "id_kec": "72.10.10"
+  },
+  {
+    "id": "72.10.10.2003",
+    "nama": "Sibalaya Utara",
+    "id_kec": "72.10.10"
+  },
+  {
+    "id": "72.10.10.2004",
+    "nama": "Sibowi",
+    "id_kec": "72.10.10"
+  },
+  {
+    "id": "72.10.10.2005",
+    "nama": "Sibalaya Barat",
+    "id_kec": "72.10.10"
+  }
+]

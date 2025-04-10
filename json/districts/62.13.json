@@ -1,0 +1,52 @@
+[
+  {
+    "id": "62.13.01",
+    "nama": "Dusun Timur",
+    "id_kab": "62.13"
+  },
+  {
+    "id": "62.13.02",
+    "nama": "Banua Lima",
+    "id_kab": "62.13"
+  },
+  {
+    "id": "62.13.03",
+    "nama": "Patangkep Tutui",
+    "id_kab": "62.13"
+  },
+  {
+    "id": "62.13.04",
+    "nama": "Awang",
+    "id_kab": "62.13"
+  },
+  {
+    "id": "62.13.05",
+    "nama": "Dusun Tengah",
+    "id_kab": "62.13"
+  },
+  {
+    "id": "62.13.06",
+    "nama": "Pematang Karau",
+    "id_kab": "62.13"
+  },
+  {
+    "id": "62.13.07",
+    "nama": "Paju Epat",
+    "id_kab": "62.13"
+  },
+  {
+    "id": "62.13.08",
+    "nama": "Raren Batuah",
+    "id_kab": "62.13"
+  },
+  {
+    "id": "62.13.09",
+    "nama": "Paku",
+    "id_kab": "62.13"
+  },
+  {
+    "id": "62.13.10",
+    "nama": "Karusen Janang",
+    "id_kab": "62.13"
+  }
+]

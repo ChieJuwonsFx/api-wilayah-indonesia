@@ -1,0 +1,287 @@
+[
+  {
+    "id": "11.08.01.2001",
+    "nama": "Keude Alue Ie Puteh",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2002",
+    "nama": "Meunasah Alue Ie Puteh (Mnsh Alue I Puteh)",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2003",
+    "nama": "Pucok Alue",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2004",
+    "nama": "Alue Anoe Timu (Alue Anou Timu)",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2005",
+    "nama": "Alue Anoe Barat (Alue Anou Barat)",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2006",
+    "nama": "Pulo Seukee (Pulo Seuke)",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2007",
+    "nama": "Alue Serdang",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2008",
+    "nama": "Cot Mane",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2009",
+    "nama": "Cot Kumbang",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2010",
+    "nama": "Matang Kumbang",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2011",
+    "nama": "Matang Kareung",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2012",
+    "nama": "Cot Ulaya",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2013",
+    "nama": "Alue Geudong",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2014",
+    "nama": "Tanjong Glumpang",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2015",
+    "nama": "Matang Raya Timu",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2016",
+    "nama": "Matang Raya Barat",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2017",
+    "nama": "Matang Kelayu",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2018",
+    "nama": "Alue Buya",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2019",
+    "nama": "Matang Cut",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2020",
+    "nama": "Keude Panteu Breuh (Keude Panteu Brueh)",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2021",
+    "nama": "Meudang Ara",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2022",
+    "nama": "Meunasah Bujok",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2023",
+    "nama": "Alue Dama",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2024",
+    "nama": "Cot Ara",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2025",
+    "nama": "Rambong Dalam",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2026",
+    "nama": "Meunasah Geudong",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2027",
+    "nama": "Alue Keutapang",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2028",
+    "nama": "Krueng Lingka Barat",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2029",
+    "nama": "Krueng Lingka Timu",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2030",
+    "nama": "Alue Jamok (Alue Jambok)",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2031",
+    "nama": "Alue Bili Geulumpang",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2032",
+    "nama": "Lhok Seutuy",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2033",
+    "nama": "Alue Bili Rayeuk",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2034",
+    "nama": "Keude Menjee IV (Keude Menyee IV)",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2035",
+    "nama": "Glumpang Bungkok (Geulumpang Bungkok)",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2036",
+    "nama": "Matang Rawa",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2037",
+    "nama": "Glumpang Samlakoe",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2038",
+    "nama": "Arongan Lise",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2039",
+    "nama": "Matang Reudeup (Matang Reudep)",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2040",
+    "nama": "Matang Manyam",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2041",
+    "nama": "Matang Ulim",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2042",
+    "nama": "Matang Beuringen (Matang Beringin)",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2043",
+    "nama": "Cot Manyang",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2044",
+    "nama": "Alue Ie Tarek",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2045",
+    "nama": "Alue Rambong",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2046",
+    "nama": "Matang Linya",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2047",
+    "nama": "Matang Lawang",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2048",
+    "nama": "Glumpang payong",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2049",
+    "nama": "Mon Sukon",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2050",
+    "nama": "Lueng Bata",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2051",
+    "nama": "Ceumpeudak",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2052",
+    "nama": "Buket Dara Baro",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2053",
+    "nama": "Matang Pineung",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2054",
+    "nama": "Matang Baro",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2055",
+    "nama": "Ujong Dama",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2056",
+    "nama": "Babussalam",
+    "id_kec": "11.08.01"
+  },
+  {
+    "id": "11.08.01.2057",
+    "nama": "Cinta Makmur",
+    "id_kec": "11.08.01"
+  }
+]

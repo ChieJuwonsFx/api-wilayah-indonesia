@@ -1,0 +1,47 @@
+[
+  {
+    "id": "13.01.03.2001",
+    "nama": "Kambang",
+    "id_kec": "13.01.03"
+  },
+  {
+    "id": "13.01.03.2002",
+    "nama": "Lakitan",
+    "id_kec": "13.01.03"
+  },
+  {
+    "id": "13.01.03.2003",
+    "nama": "Kambang Utara",
+    "id_kec": "13.01.03"
+  },
+  {
+    "id": "13.01.03.2004",
+    "nama": "Kambang Timur",
+    "id_kec": "13.01.03"
+  },
+  {
+    "id": "13.01.03.2005",
+    "nama": "Kambang Barat",
+    "id_kec": "13.01.03"
+  },
+  {
+    "id": "13.01.03.2006",
+    "nama": "Lakitan Utara",
+    "id_kec": "13.01.03"
+  },
+  {
+    "id": "13.01.03.2007",
+    "nama": "Lakitan Selatan",
+    "id_kec": "13.01.03"
+  },
+  {
+    "id": "13.01.03.2008",
+    "nama": "Lakitan Timur",
+    "id_kec": "13.01.03"
+  },
+  {
+    "id": "13.01.03.2009",
+    "nama": "Lakitan Tengah",
+    "id_kec": "13.01.03"
+  }
+]

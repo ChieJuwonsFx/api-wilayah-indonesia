@@ -1,0 +1,32 @@
+[
+  {
+    "id": "21.02.03.1001",
+    "nama": "Tanjung Balai",
+    "id_kec": "21.02.03"
+  },
+  {
+    "id": "21.02.03.1002",
+    "nama": "Teluk Air (Telukair)",
+    "id_kec": "21.02.03"
+  },
+  {
+    "id": "21.02.03.1003",
+    "nama": "Sungai Lakam Timur (Sungailakam Timur)",
+    "id_kec": "21.02.03"
+  },
+  {
+    "id": "21.02.03.1006",
+    "nama": "Lubuk Semut",
+    "id_kec": "21.02.03"
+  },
+  {
+    "id": "21.02.03.1007",
+    "nama": "Tanjung Balai Kota",
+    "id_kec": "21.02.03"
+  },
+  {
+    "id": "21.02.03.1008",
+    "nama": "Sungai Lakam Barat (Sungailakam Barat)",
+    "id_kec": "21.02.03"
+  }
+]

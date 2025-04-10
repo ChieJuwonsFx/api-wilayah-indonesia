@@ -1,0 +1,137 @@
+[
+  {
+    "id": "32.01",
+    "nama": "Bogor",
+    "id_prov": "32"
+  },
+  {
+    "id": "32.02",
+    "nama": "Sukabumi",
+    "id_prov": "32"
+  },
+  {
+    "id": "32.03",
+    "nama": "Cianjur",
+    "id_prov": "32"
+  },
+  {
+    "id": "32.04",
+    "nama": "Bandung",
+    "id_prov": "32"
+  },
+  {
+    "id": "32.05",
+    "nama": "Garut",
+    "id_prov": "32"
+  },
+  {
+    "id": "32.06",
+    "nama": "Tasikmalaya",
+    "id_prov": "32"
+  },
+  {
+    "id": "32.07",
+    "nama": "Ciamis",
+    "id_prov": "32"
+  },
+  {
+    "id": "32.08",
+    "nama": "Kuningan",
+    "id_prov": "32"
+  },
+  {
+    "id": "32.09",
+    "nama": "Cirebon",
+    "id_prov": "32"
+  },
+  {
+    "id": "32.10",
+    "nama": "Majalengka",
+    "id_prov": "32"
+  },
+  {
+    "id": "32.11",
+    "nama": "Sumedang",
+    "id_prov": "32"
+  },
+  {
+    "id": "32.12",
+    "nama": "Indramayu",
+    "id_prov": "32"
+  },
+  {
+    "id": "32.13",
+    "nama": "Subang",
+    "id_prov": "32"
+  },
+  {
+    "id": "32.14",
+    "nama": "Purwakarta",
+    "id_prov": "32"
+  },
+  {
+    "id": "32.15",
+    "nama": "Karawang",
+    "id_prov": "32"
+  },
+  {
+    "id": "32.16",
+    "nama": "Bekasi",
+    "id_prov": "32"
+  },
+  {
+    "id": "32.17",
+    "nama": "Bandung Barat",
+    "id_prov": "32"
+  },
+  {
+    "id": "32.18",
+    "nama": "Pangandaran",
+    "id_prov": "32"
+  },
+  {
+    "id": "32.71",
+    "nama": "Kota Bogor",
+    "id_prov": "32"
+  },
+  {
+    "id": "32.72",
+    "nama": "Kota Sukabumi",
+    "id_prov": "32"
+  },
+  {
+    "id": "32.73",
+    "nama": "Kota Bandung",
+    "id_prov": "32"
+  },
+  {
+    "id": "32.74",
+    "nama": "Kota Cirebon",
+    "id_prov": "32"
+  },
+  {
+    "id": "32.75",
+    "nama": "Kota Bekasi",
+    "id_prov": "32"
+  },
+  {
+    "id": "32.76",
+    "nama": "Kota Depok",
+    "id_prov": "32"
+  },
+  {
+    "id": "32.77",
+    "nama": "Kota Cimahi",
+    "id_prov": "32"
+  },
+  {
+    "id": "32.78",
+    "nama": "Kota Tasikmalaya",
+    "id_prov": "32"
+  },
+  {
+    "id": "32.79",
+    "nama": "Kota Banjar",
+    "id_prov": "32"
+  }
+]

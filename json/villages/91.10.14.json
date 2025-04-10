@@ -1,0 +1,57 @@
+[
+  {
+    "id": "91.10.14.2001",
+    "nama": "Arare",
+    "id_kec": "91.10.14"
+  },
+  {
+    "id": "91.10.14.2002",
+    "nama": "Wakde",
+    "id_kec": "91.10.14"
+  },
+  {
+    "id": "91.10.14.2003",
+    "nama": "Timron/Keder",
+    "id_kec": "91.10.14"
+  },
+  {
+    "id": "91.10.14.2004",
+    "nama": "Dabe",
+    "id_kec": "91.10.14"
+  },
+  {
+    "id": "91.10.14.2005",
+    "nama": "Nengke",
+    "id_kec": "91.10.14"
+  },
+  {
+    "id": "91.10.14.2006",
+    "nama": "Finyabor (Vinyabor)",
+    "id_kec": "91.10.14"
+  },
+  {
+    "id": "91.10.14.2012",
+    "nama": "Tambrawar (Tabrawar)",
+    "id_kec": "91.10.14"
+  },
+  {
+    "id": "91.10.14.2013",
+    "nama": "Keder Lama",
+    "id_kec": "91.10.14"
+  },
+  {
+    "id": "91.10.14.2014",
+    "nama": "Finyabor Dua",
+    "id_kec": "91.10.14"
+  },
+  {
+    "id": "91.10.14.2015",
+    "nama": "Dabe Dua (Dabe II)",
+    "id_kec": "91.10.14"
+  },
+  {
+    "id": "91.10.14.2016",
+    "nama": "Nengke Dua (Nengke II / Nengke Baru)",
+    "id_kec": "91.10.14"
+  }
+]

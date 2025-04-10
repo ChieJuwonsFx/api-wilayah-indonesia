@@ -1,0 +1,52 @@
+[
+  {
+    "id": "82.02.01",
+    "nama": "Weda",
+    "id_kab": "82.02"
+  },
+  {
+    "id": "82.02.02",
+    "nama": "Patani",
+    "id_kab": "82.02"
+  },
+  {
+    "id": "82.02.03",
+    "nama": "Pulau Gebe",
+    "id_kab": "82.02"
+  },
+  {
+    "id": "82.02.04",
+    "nama": "Weda Utara",
+    "id_kab": "82.02"
+  },
+  {
+    "id": "82.02.05",
+    "nama": "Weda Selatan",
+    "id_kab": "82.02"
+  },
+  {
+    "id": "82.02.06",
+    "nama": "Patani Utara",
+    "id_kab": "82.02"
+  },
+  {
+    "id": "82.02.07",
+    "nama": "Weda Tengah",
+    "id_kab": "82.02"
+  },
+  {
+    "id": "82.02.08",
+    "nama": "Patani Barat",
+    "id_kab": "82.02"
+  },
+  {
+    "id": "82.02.09",
+    "nama": "Weda Timur",
+    "id_kab": "82.02"
+  },
+  {
+    "id": "82.02.10",
+    "nama": "Patani Timur",
+    "id_kab": "82.02"
+  }
+]

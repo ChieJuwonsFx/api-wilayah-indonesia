@@ -1,0 +1,102 @@
+[
+  {
+    "id": "14.01.07.1027",
+    "nama": "Lipat Kain",
+    "id_kec": "14.01.07"
+  },
+  {
+    "id": "14.01.07.2003",
+    "nama": "Kuntu",
+    "id_kec": "14.01.07"
+  },
+  {
+    "id": "14.01.07.2004",
+    "nama": "Padang Sawah",
+    "id_kec": "14.01.07"
+  },
+  {
+    "id": "14.01.07.2005",
+    "nama": "Domo",
+    "id_kec": "14.01.07"
+  },
+  {
+    "id": "14.01.07.2006",
+    "nama": "IV Koto Setingkai",
+    "id_kec": "14.01.07"
+  },
+  {
+    "id": "14.01.07.2008",
+    "nama": "Teluk Paman",
+    "id_kec": "14.01.07"
+  },
+  {
+    "id": "14.01.07.2013",
+    "nama": "Sungai Geringging",
+    "id_kec": "14.01.07"
+  },
+  {
+    "id": "14.01.07.2016",
+    "nama": "Sungai Paku",
+    "id_kec": "14.01.07"
+  },
+  {
+    "id": "14.01.07.2019",
+    "nama": "Muara Selayah (Muara Selaya)",
+    "id_kec": "14.01.07"
+  },
+  {
+    "id": "14.01.07.2020",
+    "nama": "Sungai Rambai",
+    "id_kec": "14.01.07"
+  },
+  {
+    "id": "14.01.07.2021",
+    "nama": "Tanjung Harapan",
+    "id_kec": "14.01.07"
+  },
+  {
+    "id": "14.01.07.2023",
+    "nama": "Sungai Raja",
+    "id_kec": "14.01.07"
+  },
+  {
+    "id": "14.01.07.2026",
+    "nama": "Sungai Sarik",
+    "id_kec": "14.01.07"
+  },
+  {
+    "id": "14.01.07.2028",
+    "nama": "Lipat Kain Utara",
+    "id_kec": "14.01.07"
+  },
+  {
+    "id": "14.01.07.2029",
+    "nama": "Lipat Kain Selatan",
+    "id_kec": "14.01.07"
+  },
+  {
+    "id": "14.01.07.2030",
+    "nama": "Kuntu Darussalam",
+    "id_kec": "14.01.07"
+  },
+  {
+    "id": "14.01.07.2031",
+    "nama": "Tanjungmas (Tanjung Mas)",
+    "id_kec": "14.01.07"
+  },
+  {
+    "id": "14.01.07.2032",
+    "nama": "Sungai Harapan",
+    "id_kec": "14.01.07"
+  },
+  {
+    "id": "14.01.07.2033",
+    "nama": "Sungailiti (Sungai Liti)",
+    "id_kec": "14.01.07"
+  },
+  {
+    "id": "14.01.07.2034",
+    "nama": "Telukpaman Timur (Teluk Paman Timur)",
+    "id_kec": "14.01.07"
+  }
+]

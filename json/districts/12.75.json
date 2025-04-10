@@ -1,0 +1,27 @@
+[
+  {
+    "id": "12.75.01",
+    "nama": "Binjai Utara",
+    "id_kab": "12.75"
+  },
+  {
+    "id": "12.75.02",
+    "nama": "Binjai Kota",
+    "id_kab": "12.75"
+  },
+  {
+    "id": "12.75.03",
+    "nama": "Binjai Barat",
+    "id_kab": "12.75"
+  },
+  {
+    "id": "12.75.04",
+    "nama": "Binjai Timur",
+    "id_kab": "12.75"
+  },
+  {
+    "id": "12.75.05",
+    "nama": "Binjai Selatan",
+    "id_kab": "12.75"
+  }
+]

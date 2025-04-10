@@ -1,0 +1,432 @@
+[
+  {
+    "id": "12.20.02.2001",
+    "nama": "Siguga",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2002",
+    "nama": "Singanyal",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2003",
+    "nama": "Binanga Panasahan",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2004",
+    "nama": "Aek Haruaya",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2005",
+    "nama": "Tanjung Baru B",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2006",
+    "nama": "Pasar Sipiongot",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2007",
+    "nama": "Bintais Julu",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2008",
+    "nama": "Bunut",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2009",
+    "nama": "Paya Ombik",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2010",
+    "nama": "Aek Suhat Jae",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2011",
+    "nama": "Huta Baru Sil",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2012",
+    "nama": "Sijorang",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2013",
+    "nama": "Simaninggir Sip",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2014",
+    "nama": "Pangaran Julu I",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2015",
+    "nama": "Mompang Lombang",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2016",
+    "nama": "Janji Manahan Sil",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2017",
+    "nama": "Baringin Sip",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2018",
+    "nama": "Gunung Maria",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2019",
+    "nama": "Mompang Dolok",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2020",
+    "nama": "Aek Rao TN",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2021",
+    "nama": "Sijantung Julu",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2022",
+    "nama": "Batu Runding",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2023",
+    "nama": "Lubuk Godang",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2024",
+    "nama": "Bahap",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2025",
+    "nama": "Aek Ilung",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2026",
+    "nama": "Tarutung Bolak",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2027",
+    "nama": "Sungai Pining",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2028",
+    "nama": "Siloung",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2029",
+    "nama": "Hutaimbaru Gul",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2030",
+    "nama": "Sipiongot",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2031",
+    "nama": "Gumbot",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2032",
+    "nama": "Gunung Selamat",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2033",
+    "nama": "Silogo Logo",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2034",
+    "nama": "Lubuk Kundur",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2035",
+    "nama": "Jambur Batu",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2036",
+    "nama": "Simatorkis",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2037",
+    "nama": "Rancaran",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2038",
+    "nama": "Naga Saribu",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2039",
+    "nama": "Simataniari Jae",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2040",
+    "nama": "Janji Manahan Gul",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2041",
+    "nama": "Simataniari",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2042",
+    "nama": "Parmeraan",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2043",
+    "nama": "Panca",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2044",
+    "nama": "Dalihan Natolu",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2045",
+    "nama": "Sungai Datar",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2046",
+    "nama": "Lubuk Lanjang",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2047",
+    "nama": "Arse",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2048",
+    "nama": "Simangambat Tua",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2049",
+    "nama": "Sigala Gala",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2050",
+    "nama": "Sibayo Jae",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2051",
+    "nama": "Dolok Sanggul",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2052",
+    "nama": "Silangge",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2053",
+    "nama": "Pijor Koling",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2054",
+    "nama": "Pagaran Julu II",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2055",
+    "nama": "Siala Gundi",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2056",
+    "nama": "Siraga HP",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2057",
+    "nama": "Aek Sundur",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2058",
+    "nama": "Baringin Sil",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2059",
+    "nama": "Hula Baringin",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2060",
+    "nama": "Nabonggal",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2061",
+    "nama": "Purba Tua",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2062",
+    "nama": "Tanjung Longat",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2063",
+    "nama": "Sibio Bio",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2064",
+    "nama": "Situmbaga",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2065",
+    "nama": "Sijara Jara",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2066",
+    "nama": "Huta Baru Sip",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2067",
+    "nama": "Pagaran Siregar",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2068",
+    "nama": "Parigi",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2069",
+    "nama": "Napasundali",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2070",
+    "nama": "Aek Suhat TR",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2071",
+    "nama": "Gumaruntar",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2072",
+    "nama": "Sijantung Jae",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2073",
+    "nama": "Janji Matogu",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2074",
+    "nama": "Sialang Dolok",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2075",
+    "nama": "Binanga Gumbot",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2076",
+    "nama": "Simanosor",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2077",
+    "nama": "Bukit Tinggi",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2078",
+    "nama": "Simambal",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2079",
+    "nama": "Bandar Nauli",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2080",
+    "nama": "Sibayo",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2081",
+    "nama": "Sinabongan",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2082",
+    "nama": "Siranap",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2083",
+    "nama": "Aek Tangga",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2084",
+    "nama": "Rongkare",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2085",
+    "nama": "Siburbur",
+    "id_kec": "12.20.02"
+  },
+  {
+    "id": "12.20.02.2086",
+    "nama": "Pintu Padang Merdeka",
+    "id_kec": "12.20.02"
+  }
+]

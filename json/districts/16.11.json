@@ -1,0 +1,52 @@
+[
+  {
+    "id": "16.11.01",
+    "nama": "Muara Pinang",
+    "id_kab": "16.11"
+  },
+  {
+    "id": "16.11.02",
+    "nama": "Pendopo",
+    "id_kab": "16.11"
+  },
+  {
+    "id": "16.11.03",
+    "nama": "Ulu Musi",
+    "id_kab": "16.11"
+  },
+  {
+    "id": "16.11.04",
+    "nama": "Tebing Tinggi",
+    "id_kab": "16.11"
+  },
+  {
+    "id": "16.11.05",
+    "nama": "Lintang Kanan",
+    "id_kab": "16.11"
+  },
+  {
+    "id": "16.11.06",
+    "nama": "Talang Padang",
+    "id_kab": "16.11"
+  },
+  {
+    "id": "16.11.07",
+    "nama": "Pasemah Air Keruh",
+    "id_kab": "16.11"
+  },
+  {
+    "id": "16.11.08",
+    "nama": "Sikap Dalam",
+    "id_kab": "16.11"
+  },
+  {
+    "id": "16.11.09",
+    "nama": "Saling",
+    "id_kab": "16.11"
+  },
+  {
+    "id": "16.11.10",
+    "nama": "Pendopo Barat",
+    "id_kab": "16.11"
+  }
+]

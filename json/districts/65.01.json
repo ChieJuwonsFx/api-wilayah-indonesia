@@ -1,0 +1,52 @@
+[
+  {
+    "id": "65.01.01",
+    "nama": "Tanjung Palas",
+    "id_kab": "65.01"
+  },
+  {
+    "id": "65.01.02",
+    "nama": "Tanjung Palas Barat",
+    "id_kab": "65.01"
+  },
+  {
+    "id": "65.01.03",
+    "nama": "Tanjung Palas Utara",
+    "id_kab": "65.01"
+  },
+  {
+    "id": "65.01.04",
+    "nama": "Tanjung Palas Timur",
+    "id_kab": "65.01"
+  },
+  {
+    "id": "65.01.05",
+    "nama": "Tanjung Selor",
+    "id_kab": "65.01"
+  },
+  {
+    "id": "65.01.06",
+    "nama": "Tanjung Palas Tengah",
+    "id_kab": "65.01"
+  },
+  {
+    "id": "65.01.07",
+    "nama": "Peso",
+    "id_kab": "65.01"
+  },
+  {
+    "id": "65.01.08",
+    "nama": "Peso Hilir (Ilir)",
+    "id_kab": "65.01"
+  },
+  {
+    "id": "65.01.09",
+    "nama": "Sekatak",
+    "id_kab": "65.01"
+  },
+  {
+    "id": "65.01.10",
+    "nama": "Bunyu (Pulau Bunyu)",
+    "id_kab": "65.01"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "52.01",
+    "nama": "Lombok Barat",
+    "id_prov": "52"
+  },
+  {
+    "id": "52.02",
+    "nama": "Lombok Tengah",
+    "id_prov": "52"
+  },
+  {
+    "id": "52.03",
+    "nama": "Lombok Timur",
+    "id_prov": "52"
+  },
+  {
+    "id": "52.04",
+    "nama": "Sumbawa",
+    "id_prov": "52"
+  },
+  {
+    "id": "52.05",
+    "nama": "Dompu",
+    "id_prov": "52"
+  },
+  {
+    "id": "52.06",
+    "nama": "Bima",
+    "id_prov": "52"
+  },
+  {
+    "id": "52.07",
+    "nama": "Sumbawa Barat",
+    "id_prov": "52"
+  },
+  {
+    "id": "52.08",
+    "nama": "Lombok Utara",
+    "id_prov": "52"
+  },
+  {
+    "id": "52.71",
+    "nama": "Kota Mataram",
+    "id_prov": "52"
+  },
+  {
+    "id": "52.72",
+    "nama": "Kota Bima",
+    "id_prov": "52"
+  }
+]

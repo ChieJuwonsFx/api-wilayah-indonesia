@@ -1,0 +1,37 @@
+[
+  {
+    "id": "19.01",
+    "nama": "Bangka",
+    "id_prov": "19"
+  },
+  {
+    "id": "19.02",
+    "nama": "Belitung",
+    "id_prov": "19"
+  },
+  {
+    "id": "19.03",
+    "nama": "Bangka Selatan",
+    "id_prov": "19"
+  },
+  {
+    "id": "19.04",
+    "nama": "Bangka Tengah",
+    "id_prov": "19"
+  },
+  {
+    "id": "19.05",
+    "nama": "Bangka Barat",
+    "id_prov": "19"
+  },
+  {
+    "id": "19.06",
+    "nama": "Belitung Timur",
+    "id_prov": "19"
+  },
+  {
+    "id": "19.71",
+    "nama": "Kota Pangkal Pinang",
+    "id_prov": "19"
+  }
+]

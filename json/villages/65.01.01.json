@@ -1,0 +1,47 @@
+[
+  {
+    "id": "65.01.01.1001",
+    "nama": "Tanjung Palas Ulu/Hulu",
+    "id_kec": "65.01.01"
+  },
+  {
+    "id": "65.01.01.1002",
+    "nama": "Tanjung Palas Tengah",
+    "id_kec": "65.01.01"
+  },
+  {
+    "id": "65.01.01.1003",
+    "nama": "Tanjung Palas Ilir/Hilir",
+    "id_kec": "65.01.01"
+  },
+  {
+    "id": "65.01.01.1004",
+    "nama": "Karang Anyar",
+    "id_kec": "65.01.01"
+  },
+  {
+    "id": "65.01.01.2005",
+    "nama": "Gunung Putih",
+    "id_kec": "65.01.01"
+  },
+  {
+    "id": "65.01.01.2006",
+    "nama": "Pejalin",
+    "id_kec": "65.01.01"
+  },
+  {
+    "id": "65.01.01.2007",
+    "nama": "Antutan",
+    "id_kec": "65.01.01"
+  },
+  {
+    "id": "65.01.01.2008",
+    "nama": "Teras Baru",
+    "id_kec": "65.01.01"
+  },
+  {
+    "id": "65.01.01.2009",
+    "nama": "Teras Nawang",
+    "id_kec": "65.01.01"
+  }
+]

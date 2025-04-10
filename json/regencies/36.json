@@ -1,0 +1,42 @@
+[
+  {
+    "id": "36.01",
+    "nama": "Pandeglang",
+    "id_prov": "36"
+  },
+  {
+    "id": "36.02",
+    "nama": "Lebak",
+    "id_prov": "36"
+  },
+  {
+    "id": "36.03",
+    "nama": "Tangerang",
+    "id_prov": "36"
+  },
+  {
+    "id": "36.04",
+    "nama": "Serang",
+    "id_prov": "36"
+  },
+  {
+    "id": "36.71",
+    "nama": "Kota Tangerang",
+    "id_prov": "36"
+  },
+  {
+    "id": "36.72",
+    "nama": "Kota Cilegon",
+    "id_prov": "36"
+  },
+  {
+    "id": "36.73",
+    "nama": "Kota Serang",
+    "id_prov": "36"
+  },
+  {
+    "id": "36.74",
+    "nama": "Kota Tangerang Selatan",
+    "id_prov": "36"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "82.06.01",
+    "nama": "Wasile",
+    "id_kab": "82.06"
+  },
+  {
+    "id": "82.06.02",
+    "nama": "Maba",
+    "id_kab": "82.06"
+  },
+  {
+    "id": "82.06.03",
+    "nama": "Maba Selatan",
+    "id_kab": "82.06"
+  },
+  {
+    "id": "82.06.04",
+    "nama": "Wasile Selatan",
+    "id_kab": "82.06"
+  },
+  {
+    "id": "82.06.05",
+    "nama": "Wasile Tengah",
+    "id_kab": "82.06"
+  },
+  {
+    "id": "82.06.06",
+    "nama": "Wasile Utara",
+    "id_kab": "82.06"
+  },
+  {
+    "id": "82.06.07",
+    "nama": "Wasile Timur",
+    "id_kab": "82.06"
+  },
+  {
+    "id": "82.06.08",
+    "nama": "Maba Tengah",
+    "id_kab": "82.06"
+  },
+  {
+    "id": "82.06.09",
+    "nama": "Maba Utara",
+    "id_kab": "82.06"
+  },
+  {
+    "id": "82.06.10",
+    "nama": "Kota Maba",
+    "id_kab": "82.06"
+  }
+]
